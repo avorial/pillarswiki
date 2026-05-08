@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 200,
+  "processedCount": 250,
   "processed": [
     {
       "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Loviatar-Tzmisce-NPC-San-Diego.json",
@@ -1202,6 +1202,1266 @@
         "Morality & Derangments",
         "History",
         "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Characters-in-Limbo/Limbo-Beatrix-Gardu-Toreador-Jenna-Papke.json",
+      "folderPath": [
+        "Characters in Limbo"
+      ],
+      "sourceTitle": "Limbo - Beatrix Gardu (Toreador) Jenna Papke",
+      "characterName": "Beretrude Gardu",
+      "playerName": "Jenna Papke",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Characters-in-Limbo/Limbo-Edward-Caplette-Joel-Ainsworth-Toreador.json",
+      "folderPath": [
+        "Characters in Limbo"
+      ],
+      "sourceTitle": "Limbo - Edward Caplette - Joel Ainsworth (Toreador)",
+      "characterName": "Edward Caplette",
+      "playerName": "Joel Ainsworth",
+      "clan": "Toreador",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Personal Plot  Notes",
+        "Coding",
+        "Merit Table"
+      ]
+    },
+    {
+      "path": "characters/Characters-in-Limbo/Limbo-Sarah-Tomlinson-Toreador-Keely-3.5.1.json",
+      "folderPath": [
+        "Characters in Limbo"
+      ],
+      "sourceTitle": "Limbo - Sarah Tomlinson (Toreador) Keely 3.5.1",
+      "characterName": "Sarah Tomlinson",
+      "playerName": "Keely Thompson",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Characters-in-Limbo/Limbo-Travis-MacBeth-Toreador-Chris-Dassaro-3.5.1.json",
+      "folderPath": [
+        "Characters in Limbo"
+      ],
+      "sourceTitle": "Limbo - Travis MacBeth (Toreador) Chris Dassaro (3.5.1)",
+      "characterName": "Travis MacBeth",
+      "playerName": "Chris Dasaro",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Adam-Anne-Morrell-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Adam-Anne Morrell - Sheet V.3.5.4",
+      "characterName": "Adam/Anne Morell",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Adam-Pushe-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Adam Pushe- Sheet V.3.5.4",
+      "characterName": "Adam Pushe",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Adrianne-Lenfant-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Adrianne L'enfant - Sheet V.3.5.4",
+      "characterName": "Adrianne L'enfant",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Anna-Petrovna-Ventrue-Charlotte-Svolos-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Anna Petrovna (Ventrue) Charlotte Svolos V.3.5.4",
+      "characterName": "Anna Petrovna",
+      "playerName": "Charlotte Svolos",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Growth Plan",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Archimandrite-Sviatoslav-of-Vilnius-La-Petite-Lunar-Karl-Tars-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Archimandrite Sviatoslav of Vilnius (La Petite Lunar) Karl Tars V.3.5.4",
+      "characterName": "Archimandrite Sviatoslav of Vilnius",
+      "playerName": "Karl Tars",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Beatrice-dEste-Angeli-della-Notti-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Beatrice d'Este (Angeli della Notti)  V.3.5.4",
+      "characterName": "Beatrice d'Este",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Beatrice-dEste-Angeli-della-Notti-Vanessa-Kam-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Beatrice d'Este (Angeli della Notti) Vanessa Kam V.3.5.4",
+      "characterName": "Beatrice d'Este",
+      "playerName": "Vanessa Kam",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Beckett-Gangrel-Mark-Rein-Hagen-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Beckett (Gangrel) Mark Rein-Hagen (V.3.5.4)",
+      "characterName": "Beckett",
+      "playerName": "Mark Rein*Hagen",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Brenda-Brendan-Stewart-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Brenda-Brendan Stewart - Sheet V.3.5.4",
+      "characterName": "Brenda/Brendan Steart",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Brother-Thomas-Worthington-La-Petite-Lunar-Hugo-Guzman-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Brother Thomas Worthington (La Petite Lunar) Hugo Guzman V.3.5.4",
+      "characterName": "Brother Thomas Worthington",
+      "playerName": "Hugo Guzman",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Clark-Kelly-Doherty-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Clark-Kelly Doherty- Sheet V.3.5.4",
+      "characterName": "Clark/Kelly Doherty",
+      "playerName": "",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Copy-of-Copy-of-Current-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Copy of Copy of Current - Sheet V.3.5.4",
+      "characterName": "",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Copy-of-Current-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Copy of Current - Sheet V.3.5.4",
+      "characterName": "",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Dante-Sandoval-Tremere-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Dante Sandoval (Tremere) (V.3.5.4)",
+      "characterName": "Dante Sandoval",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Dawn-Alabastor-Labrys-Rune-Lucy-R-V.3.5.4-duplicate.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Dawn Alabastor (Labrys Rune) Lucy R - V.3.5.4 duplicate",
+      "characterName": "Dawn Alabastor",
+      "playerName": "Lucy R",
+      "clan": "Ventrue \"Crusader\" - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Dawn-Alabastor-Labrys-Rune-Lucy-R-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Dawn Alabastor (Labrys Rune) Lucy R - V.3.5.4",
+      "characterName": "Dawn Alabastor",
+      "playerName": "Lucy R",
+      "clan": "Ventrue \"Crusader\" - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Donnivan-Bruel-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Donnivan Bruel - Sheet V.3.5.4",
+      "characterName": "Donnivan Bruel",
+      "playerName": "",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Erow-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Erow - Sheet V.3.5.4",
+      "characterName": "Erow",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Friar-Gerard-Borgo-La-Petite-Lunar-Kevin-Hill-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Friar Gerard Borgo (La Petite Lunar) Kevin Hill V.3.5.4",
+      "characterName": "Friar Gerard Borgo",
+      "playerName": "Kevin Hill",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Grace-LeFevre-Nicole-Amber-Lin-Malkavian-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Grace LeFevre (Nicole Amber Lin) Malkavian (V.3.5.4)",
+      "characterName": "Grace LeFevre",
+      "playerName": "Nicole Amber Lin",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Hazel-January-Tremere-Lucy-Roze-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Hazel January (Tremere) Lucy Roze (V.3.5.4)",
+      "characterName": "Hazel January",
+      "playerName": "Lucy Roze",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Ibrahim-Al-Yahud-Nosferatu-Kevin-Hill-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Ibrahim Al-Yahud (Nosferatu) Kevin Hill V.3.5.4",
+      "characterName": "Ibrahim Al-Yahud",
+      "playerName": "",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Isabel-Izzy-Turnbull-Spiral-Sign-Heather-Johnson-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Isabel Izzy Turnbull (Spiral Sign) Heather Johnson V.3.5.4",
+      "characterName": "Isabel \"Izzy\" Turnbull",
+      "playerName": "Heather Johnson",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Jasper-Bloom-Starlit-Blood-Cy-T.-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Jasper Bloom (Starlit Blood) Cy T. - Sheet V.3.5.4",
+      "characterName": "Jasper Bloom",
+      "playerName": "Cy T.",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Mark-Feast-Thanos-Spiral-Sign-Brodie-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Mark Feast Thanos (Spiral Sign) Brodie V.3.5.4",
+      "characterName": "Mark Thanos",
+      "playerName": "Brodie",
+      "clan": "Gangrel \"Coyote\" - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Nicholas-Flamel-Schwarze-Sonne-Mike-Jackson-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Nicholas Flamel (Schwarze Sonne) Mike Jackson V.3.5.4",
+      "characterName": "Nicholas Flamel",
+      "playerName": "",
+      "clan": "Assamite \"Sorcerer\" - Magical Aura",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Nikos-Taparis-Spear-of-Enoch-Dan-Pipoly-V.3.5.4-duplicate.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Nikos Taparis (Spear of Enoch) Dan Pipoly V.3.5.4 duplicate",
+      "characterName": "Nikos Taparis",
+      "playerName": "Dan Pipoly",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Nikos-Taparis-Spear-of-Enoch-Dan-Pipoly-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Nikos Taparis (Spear of Enoch) Dan Pipoly V.3.5.4",
+      "characterName": "Nikos Taparis",
+      "playerName": "Dan Pipoly",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Norris-Michaud-Toreador-Cy-Terrin-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Norris Michaud (Toreador) Cy Terrin (V.3.5.4)",
+      "characterName": "Norris Michaud",
+      "playerName": "Cy Terrin",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Old-Gede-Ge-Rouge-Serpent-of-the-Light-JT-Auger-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Old Gede Ge-Rouge (Serpent of the Light) JT Auger V.3.5.4",
+      "characterName": "Gede Ge-Rouge",
+      "playerName": "JT Auger",
+      "clan": "Followers of Set \"Serpents of the Light\" - Light Sensitivity & Spirit Offerings",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Phoebe-Dupond-Tremere-Laura-Bee-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Phoebe Dupond (Tremere) Laura Bee - Sheet V.3.5.4",
+      "characterName": "Phoebe Dupond",
+      "playerName": "Laura Bee",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Pietro-di-Fiorentino-Packless-Kyle-Purkiss-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Pietro di Fiorentino (Packless) Kyle Purkiss (V.3.5.4)",
+      "characterName": "Pietro di Fiorentino",
+      "playerName": "Kyle Purkiss",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Richard-Foster-Spiral-Sign-LASOMBRA-DOOR-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Richard Foster (Spiral Sign) LASOMBRA DOOR V.3.5.4",
+      "characterName": "Richard Foster",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Rina-Angeli-della-Notti-Jennifer-Wolfe-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Rina (Angeli della Notti) Jennifer Wolfe V.3.5.4",
+      "characterName": "Rina",
+      "playerName": "Jenn Wolf",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Roadkill-Packless-Michele-Shannon-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Roadkill (Packless) Michele Shannon (V.3.5.4)",
+      "characterName": "Roadkill",
+      "playerName": "Michele Shannon",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Robert-Graves-Spear-of-Enoch-Charles-Stanton-V.3.5.4-duplicate.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Robert Graves (Spear of Enoch) Charles Stanton V.3.5.4 duplicate",
+      "characterName": "Robert / Bobby Graves",
+      "playerName": "Charles Stanton",
+      "clan": "Cappadocians - \"Harbingers of Skulls\" Ghastly Pallor",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Robert-Graves-Spear-of-Enoch-Charles-Stanton-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Robert Graves (Spear of Enoch) Charles Stanton V.3.5.4",
+      "characterName": "Robert / Bobby Graves",
+      "playerName": "Charles Stanton",
+      "clan": "Cappadocians - \"Harbingers of Skulls\" Ghastly Pallor",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Ruby-Darling-NDC-Rachel-Judd-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Ruby Darling (NDC) Rachel Judd (V.3.5.4)",
+      "characterName": "Ruby Darling",
+      "playerName": "Rachel Judd",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Scar-Spiral-Sign-Cy-Terrin-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Scar (Spiral Sign) Cy Terrin (V.3.5.4)",
+      "characterName": "Scar",
+      "playerName": "Cy Terrin",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Shepherd-Sheet-V.3.5.4-duplicate.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Shepherd - Sheet V.3.5.4 duplicate",
+      "characterName": "Shepherd",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Shepherd-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Shepherd - Sheet V.3.5.4",
+      "characterName": "Shepherd",
+      "playerName": "",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Sister-Montpellier-La-Petite-Lunar-Maire-Bourke-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Sister Montpellier (La Petite Lunar) Maire Bourke V.3.5.4",
+      "characterName": "Sister Montpellier",
+      "playerName": "Maire Bourke",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Titus-Tatiana-ORoruke-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Titus-Tatiana O'Roruke - Sheet V.3.5.4",
+      "characterName": "Titus/Tatiana O'Roruke",
+      "playerName": "",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Vatiali-Kuzio-Spear-of-Enoch-Joseph-Butts-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Vatiali Kuzio (Spear of Enoch) Joseph Butts V.3.5.4",
+      "characterName": "Vatiali Kuzio",
+      "playerName": "Joseph Butts",
+      "clan": "Tzimisce \"Koldun\" - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Drive-V.3.5.4-Search/Zahn-Spiral-Sign-Kevin-Fennel-V.3.5.4.json",
+      "folderPath": [
+        "Drive V.3.5.4 Search"
+      ],
+      "sourceTitle": "Copy of Zahn (Spiral Sign) Kevin Fennel (V.3.5.4)",
+      "characterName": "Zahn",
+      "playerName": "Kevin Fennel",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
@@ -3098,6 +4358,32 @@
       ],
       "sourceTitle": "Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired",
       "characterName": "Nakai Tsosi/Jose Morales",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Retired-Characters-Players-MIA/Apostle-Nosferatu-WotB-Hans-V.5.json",
+      "folderPath": [
+        "Retired Characters Players MIA"
+      ],
+      "sourceTitle": "Apostle - Nosferatu - WotB - Hans - V.5",
+      "characterName": "Apostle",
       "playerName": "",
       "clan": "",
       "tabs": [
