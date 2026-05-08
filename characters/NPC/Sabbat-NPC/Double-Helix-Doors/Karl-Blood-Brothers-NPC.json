@@ -1,0 +1,6244 @@
+{
+  "source": {
+    "title": "Karl-Blood-Brothers-NPC",
+    "fileName": "Karl-Blood-Brothers-NPC.xlsx",
+    "localPath": "source-sheets\\NPC\\Sabbat NPC\\Double Helix (Doors)\\Karl-Blood-Brothers-NPC.xlsx"
+  },
+  "folderPath": [
+    "NPC",
+    "Sabbat NPC",
+    "Double Helix (Doors)"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER ~ PILLARS OF SALT",
+    "characterName": "Karl",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Sabbat",
+    "archetype": "Unflappable",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla 9",
+    "clan": "Blood Brothers"
+  },
+  "attributes": {
+    "physcial": 5,
+    "social": 7,
+    "mental": 9,
+    "academics": 1,
+    "brawl": 2,
+    "crafts": 2,
+    "starting_xp": 0,
+    "spent_xp": 0
+  },
+  "backgrounds": {
+    "generation": 2,
+    "herd": 1,
+    "influnce_underworld": 3
+  },
+  "currentPools": {},
+  "abilities": {
+    "academics": 1,
+    "occult": 1,
+    "firearms": 3,
+    "science": 1,
+    "investigation": 2,
+    "brawl": 2,
+    "linguistics": 3,
+    "crafts": 2,
+    "lore": 4,
+    "performance": 1,
+    "starting_xp": 0,
+    "unspent_xp": 0,
+    "spent_xp": 0
+  },
+  "status": [],
+  "meritsAndFlaws": [
+    "Path of Death & the Soul -1",
+    "Loremaster -1",
+    "Keeper of a Sacred Text -1"
+  ],
+  "disciplines": [
+    {
+      "name": "2.0",
+      "value": null
+    },
+    {
+      "name": "1.0",
+      "value": null
+    },
+    {
+      "name": "1.0",
+      "value": null
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Languages: French / Spanish",
+    "Latin",
+    "Lore: Noddist, Disiplines,",
+    "Mages, Werewolves, Camarilla",
+    "Black Hand, New Promise"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "Karl",
+        "MINDS EYE THEATER ~ PILLARS OF SALT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Karl",
+        "",
+        "",
+        "",
+        "Sabbat",
+        "",
+        "",
+        "Generation",
+        "2.0",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "Current Blood Points * Per Turn",
+        "12*2"
+      ],
+      [
+        "",
+        "Unflappable",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternitive Identity",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archtype",
+        "",
+        "Title / Politcal Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Ancilla 9",
+        "",
+        "Blood Brothers",
+        "",
+        "Faulty Creation:",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "Influnce Underworld: Corrupt Cops, White Supremists Gangs, Drug Runners"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "Clan Flaw",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "CLAN STATUS",
+        "",
+        "",
+        "Herd",
+        "1.0"
+      ],
+      [
+        "",
+        "Physcial",
+        "5.0",
+        "Strength",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "Manipulation",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Underworld\"",
+        "3.0"
+      ],
+      [
+        "",
+        "Mental",
+        "9.0",
+        "Intelligence",
+        "",
+        "",
+        "",
+        "",
+        "Resources"
+      ],
+      [
+        "",
+        "Titles / Abiding / Innate Status",
+        "",
+        "Fleeting Status",
+        "",
+        "Negative Status",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "Accepted (Special)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Path of Death & the Soul -1",
+        "",
+        "",
+        "Fortitude",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Loremaster -1",
+        "",
+        "",
+        "Potence",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Keeper of a Sacred Text -1",
+        "",
+        "",
+        "Sanguinus",
+        "1.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Medium -1",
+        "",
+        "",
+        "Vicissitude",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Empathy",
+        "",
+        "Occult",
+        "1.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "3.0",
+        "Science",
+        "1.0"
+      ],
+      [
+        "",
+        "Atheltics",
+        "",
+        "Intimidation",
+        "",
+        "Security",
+        "",
+        "",
+        "Grip of the Damned +2"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Investigation",
+        "2.0",
+        "Stealth",
+        "",
+        "",
+        "Bound to the Earth +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "2.0",
+        "Leadership",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "RITUALS & OTHER POWERS"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Linguistics",
+        "3.0",
+        "Subterfuge",
+        "",
+        "",
+        "Languages: French / Spanish"
+      ],
+      [
+        "",
+        "Crafts",
+        "2.0",
+        "Lore",
+        "4.0",
+        "Survival",
+        "",
+        "",
+        "Latin"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Medicine",
+        "",
+        "Performance",
+        "1.0",
+        "",
+        "Lore: Noddist, Disiplines,"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Mages, Werewolves, Camarilla"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Black Hand, New Promise"
+      ],
+      [
+        "",
+        "EXPERIENCE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bloodlines, Quotes of Cain"
+      ],
+      [
+        "",
+        "Starting XP",
+        "0",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.2"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Disipline:  Viscissitude 1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Disipline:  Viscissitude 2",
+          "Pre Game",
+          "-8.0"
+        ],
+        [
+          "Merit: Keeper of a Sacred Text -1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Merit: Loremaster -1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Merit: Path of Death and Soul -1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Flaw: Grip of the Dammed",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Flaw: Bound to the Earth +2",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Mentals x6",
+          "Pre Game",
+          "-18.0"
+        ],
+        [
+          "Merit: Medium",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "Game Earned XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Disipline:  Viscissitude 1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Disipline:  Viscissitude 2",
+          "date": "Pre Game",
+          "all_costs": -8
+        },
+        {
+          "what_was_bought": "Merit: Keeper of a Sacred Text -1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Merit: Loremaster -1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Merit: Path of Death and Soul -1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Flaw: Grip of the Dammed",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Flaw: Bound to the Earth +2",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Mentals x6",
+          "date": "Pre Game",
+          "all_costs": -18
+        },
+        {
+          "what_was_bought": "Merit: Medium",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "Children of the Night",
+          "Created By:",
+          "POT"
+        ],
+        [],
+        [
+          "Sire:",
+          "None",
+          "Embrace Date:",
+          "1872.0",
+          "Embrace Location:"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "Sire:",
+          "children_of_the_night": "None",
+          "created_by": "Embrace Date:",
+          "pot": 1872,
+          "column_5": "Embrace Location:"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "children_of_the_night": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "children_of_the_night": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    },
+    "Coding": {
+      "rows": [
+        [
+          "Clans",
+          "Flaws",
+          "Title / Rank",
+          "",
+          "Abilites",
+          "Artist",
+          "1.0",
+          "-1.0",
+          "Acknowledged",
+          "",
+          "Mortal",
+          "",
+          "Animalism",
+          "",
+          "Email",
+          "",
+          "10*1",
+          "",
+          "Camarilla ~ LA",
+          "",
+          "Thaumaturgy"
+        ],
+        [
+          "Assamite \"Warrior\"",
+          "Addicted To Vite",
+          "Neonate",
+          "",
+          "Animal Ken",
+          "Bully",
+          "2.0",
+          "-2.0",
+          "Authority (abiding)",
+          "",
+          "Ghoul",
+          "",
+          "Auspex",
+          "",
+          "Form",
+          "",
+          "12*2",
+          "",
+          "Camarilla ~ SD",
+          "",
+          "Blood Mastery - 1"
+        ],
+        [
+          "Assamite \"Sorcerer\"",
+          "",
+          "Ancillae",
+          "",
+          "Academics",
+          "Cultured",
+          "3.0",
+          "-3.0",
+          "Commander (abiding)",
+          "",
+          "Thin Blood *14",
+          "",
+          "Celerity",
+          "",
+          "Facebook Chat",
+          "",
+          "15*3",
+          "",
+          "Sabbat",
+          "",
+          "Bind the Accusing Tongue - 1"
+        ],
+        [
+          "Assamite \"Vizier\"",
+          "(Obessed) Knowlage",
+          "Elder",
+          "",
+          "Awareness",
+          "Curious",
+          "4.0",
+          "-4.0",
+          "Enforcer (abiding)",
+          "",
+          "Neonate *13",
+          "",
+          "Chimerstry",
+          "",
+          "Vocial",
+          "",
+          "20*4",
+          "",
+          "New Promise",
+          "",
+          "Communicate with Kindred Sire - 1"
+        ],
+        [
+          "Baali",
+          "Faith Sensitivity",
+          "",
+          "",
+          "Athletics",
+          "Curmudgeon",
+          "5.0",
+          "-5.0",
+          "Established (abiding)",
+          "",
+          "Neonate *12",
+          "",
+          "Daimoinon",
+          "",
+          "",
+          "",
+          "30*5",
+          "",
+          "Speciality Game",
+          "",
+          "Defense of the Sacred Haven - 1"
+        ],
+        [
+          "Baali \"Angeles Ater\"",
+          "Faith Sensitivity / No Refection",
+          "",
+          "",
+          "Brawl",
+          "Enigma",
+          "6.0",
+          "-6.0",
+          "Prominent (abiding)",
+          "",
+          "Neonate 11",
+          "",
+          "Dementation",
+          "",
+          "",
+          "",
+          "40*8",
+          "",
+          "",
+          "",
+          "Deflection of Wooden Doom - 1"
+        ],
+        [
+          "Baali \"Apostate\"",
+          "",
+          "Prince",
+          "",
+          "Computers",
+          "Fanatic",
+          "7.0",
+          "-7.0",
+          "Courteous (fleeting)",
+          "",
+          "Ancilla *10",
+          "",
+          "Dominate",
+          "",
+          "",
+          "",
+          "50*10",
+          "",
+          "",
+          "",
+          "Engaging the Vessel of Transference - 1"
+        ],
+        [
+          "Brujah",
+          "Stronger Beast",
+          "Seneschal",
+          "",
+          "Crafts",
+          "Fighter",
+          "8.0",
+          "1.0",
+          "Courageous (fleeting)",
+          "",
+          "Ancilla 9",
+          "",
+          "Fortitude",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Illuminate the Trail of Prey -1"
+        ],
+        [
+          "Brujah \"True Brujah\"",
+          "Emotionally Absent",
+          "Primogen",
+          "",
+          "Dodge",
+          "Freak",
+          "9.0",
+          "2.0",
+          "Defender (fleeting)",
+          "",
+          "Pretender Elder 8",
+          "",
+          "Melpominee",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Principal Focus of Vitae Infusion -1"
+        ],
+        [
+          "Caitiff",
+          "Weak Blood",
+          "Whip",
+          "",
+          "Drive",
+          "Free Spirit",
+          "10.0",
+          "3.0",
+          "Favored (fleeting)",
+          "",
+          "Master Elder 7",
+          "",
+          "Mytherceria",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Rite of Introduction - 1"
+        ],
+        [
+          "Caitiff \"New Bloodline\"",
+          "",
+          "Harpy",
+          "",
+          "Empathy",
+          "Introvert",
+          "11.0",
+          "4.0",
+          "Honorable (fleeting)",
+          "",
+          "Luminary Elder 6",
+          "",
+          "Obeah",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Warding Circle - 1"
+        ],
+        [
+          "Cappadocians",
+          "Gastly Pallor",
+          "Keeper of Elysium",
+          "",
+          "Firearms",
+          "Judge",
+          "12.0",
+          "5.0",
+          "Loyal (fleeting)",
+          "",
+          "Methuselah 5",
+          "",
+          "Obfuscate",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Banish Big Brother -2"
+        ],
+        [
+          "Cappadocians \"Lamia\"",
+          "Seed of Lilith",
+          "Sheriff",
+          "",
+          "Intimidation",
+          "Know-It-All",
+          "13.0",
+          "6.0",
+          "Praised (fleeting)",
+          "",
+          "Master Methuselah 4",
+          "",
+          "Obtenebration",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Burning Blade - 2"
+        ],
+        [
+          "Cappadocians \"Samedi\"",
+          "Putrid Form",
+          "Scourge",
+          "",
+          "Investigation",
+          "Leader",
+          "14.0",
+          "7.0",
+          "Triumphant (fleeting)",
+          "",
+          "",
+          "",
+          "Potence",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Craft Bloodstone -2"
+        ],
+        [
+          "Daughters of Cacophony",
+          "Distracting Song",
+          "Inner Circle *",
+          "",
+          "Leadership",
+          "Loner",
+          "15.0",
+          "",
+          "Victorious (fleeting)",
+          "",
+          "",
+          "",
+          "Presence",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Eyes of the Night Hawk -2"
+        ],
+        [
+          "Followers of Set",
+          "Light Sensitivity",
+          "Imperator *",
+          "",
+          "Linguistics",
+          "Loose Cannon",
+          "16.0",
+          "",
+          "-",
+          "",
+          "",
+          "",
+          "Protean",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Illusion of Peaceful Death -2"
+        ],
+        [
+          "Followers of Set \"Tlacique\"",
+          "",
+          "Justicar *",
+          "",
+          "Lore",
+          "Martyr",
+          "17.0",
+          "",
+          "Accepted (Special)",
+          "",
+          "",
+          "",
+          "Quietus",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Machine Blitz -2"
+        ],
+        [
+          "Followers of Set \"Vipers\"",
+          "",
+          "Archon",
+          "",
+          "Medicine",
+          "Mediator",
+          "18.0",
+          "",
+          "Ascendant (abiding)",
+          "",
+          "",
+          "",
+          "Sanguinus",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Recure of the Homeland -2"
+        ],
+        [
+          "Gangrel",
+          "Animalistic Beast",
+          "Alastor",
+          "",
+          "Melee",
+          "Mercenary",
+          "19.0",
+          "",
+          "Confirmed (abiding)",
+          "",
+          "",
+          "",
+          "Serpentis",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Detect the Hidden Observer -3"
+        ],
+        [
+          "Gangrel \"Ahrimanes\"",
+          "",
+          "Baron / Minister",
+          "",
+          "Occult",
+          "Monster",
+          "20.0",
+          "",
+          "Guardian (abiding)",
+          "",
+          "",
+          "",
+          "Temporis",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Flesh of Fiery Touch -3"
+        ],
+        [
+          "Gangrel \"Coyote\"",
+          "",
+          "Constable",
+          "",
+          "Performance",
+          "Penitent",
+          "21.0",
+          "",
+          "Noble (abiding)",
+          "",
+          "",
+          "",
+          "Thanatosis",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Incorporeal Passage -3"
+        ],
+        [
+          "Gangrel \"Noiad\"",
+          "",
+          "Architect",
+          "",
+          "Science",
+          "Protector",
+          "22.0",
+          "",
+          "Privileged (abiding)",
+          "",
+          "",
+          "",
+          "Valeren",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Mirror of Second Sight -3"
+        ],
+        [
+          "Gargoyles",
+          "Monstrous Slaves",
+          "Ambassador",
+          "",
+          "Science",
+          "Rationalist",
+          "23.0",
+          "",
+          "Sovereign (abiding)",
+          "",
+          "",
+          "",
+          "Vicissitude",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Pavis of the Foul Presence -3"
+        ],
+        [
+          "Giovanni",
+          "Painful Feeding",
+          "Regent *",
+          "",
+          "Security",
+          "Royalty",
+          "24.0",
+          "",
+          "Architect (innate)",
+          "",
+          "",
+          "",
+          "Visceratika",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Soul of the Homunculi -3"
+        ],
+        [
+          "Giovanni \"Premascine\"",
+          "Gastly Pallor",
+          "Cardinal *",
+          "",
+          "Stealth",
+          "Survivor",
+          "25.0",
+          "",
+          "Primus Inter Pares (innate)",
+          "",
+          "",
+          "",
+          "-",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Shaft of Belated Quiescence -3"
+        ],
+        [
+          "Lasombra",
+          "No Reflection",
+          "Prisci *",
+          "",
+          "Streetwise",
+          "Toady",
+          "26.0",
+          "",
+          "Acclaimed (fleeting)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Alchemy",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Innocence of the Child’s Heart -4"
+        ],
+        [
+          "Lasombra \"Kaisyd\"",
+          "Form of the Fae",
+          "Archbishop",
+          "",
+          "Subterfuge",
+          "Traditionalist",
+          "27.0",
+          "",
+          "Gallant (fleeting)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Biothaumaturgy",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Mirror Walk -4"
+        ],
+        [
+          "Malkavians",
+          "Permanent Derangement",
+          "Bishop",
+          "",
+          "Survival",
+          "Trickster",
+          "28.0",
+          "",
+          "Sanctioned (fleeting)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Elemental Mastery",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Severed Hand -4"
+        ],
+        [
+          "Malkavians \"Ananke\"",
+          "Gristly Trophies",
+          "Pack Leader",
+          "",
+          "",
+          "Troublemaker",
+          "29.0",
+          "",
+          "-",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Faux Path",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Scry - 4"
+        ],
+        [
+          "Malkavians \"Knights of the Moon\"",
+          "",
+          "Templar / Paladin",
+          "",
+          "",
+          "Type-A Personality",
+          "30.0",
+          "",
+          "Warned (negative)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Focused Mind",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Blood Contract -5"
+        ],
+        [
+          "Nosferatu",
+          "Replusive",
+          "Priest",
+          "",
+          "",
+          "Unflappable",
+          "0.0",
+          "",
+          "Disgraced (negative)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Gift of Morpheus",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Cobra’s Favor -5"
+        ],
+        [
+          "Ravnos",
+          "Compultions",
+          "Abbot",
+          "",
+          "",
+          "Untrustworthy",
+          "",
+          "",
+          "Forsaken (negative)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Green Path",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Paper Flesh -5"
+        ],
+        [
+          "Ravnos \"Brahman\"",
+          "",
+          "Black Hand",
+          "",
+          "",
+          "Architect",
+          "",
+          "",
+          "Vulgar (negative)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Hands of Destruction",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Stone of the True Form -5"
+        ],
+        [
+          "Salubri",
+          "Violent Feeding",
+          "Inquistion",
+          "",
+          "",
+          "Caregiver",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Hearth Path"
+        ],
+        [
+          "Salubri \"Healer\"",
+          "Peaceful Feeding",
+          "",
+          "",
+          "",
+          "Child",
+          "",
+          "",
+          "Enforcer (Fleeding)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Lure of Flames",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Sabbat Ritae"
+        ],
+        [
+          "Toreador",
+          "Entranced by Art",
+          "Clan Titles",
+          "",
+          "",
+          "Competitor",
+          "",
+          "",
+          "Loyal (Innate)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Mastery of the Mortal Shell",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "The Binding, the Blood Bath, the Blood Feast, the Creation Rites, the Fire Dance, Games of Instinct, the High Holidays, the Monomacy, the Rite of Contrition, the Sermons of Caine, the Vaulderie, the War Party, and the Wild Hunt."
+        ],
+        [
+          "Toreador \"Ishtarri\"",
+          "Presence Sensitivity",
+          "Tremere",
+          "",
+          "",
+          "Con Artist",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Movement of the Mind"
+        ],
+        [
+          "Toreador \"Volgirre\"",
+          "",
+          "Apprentice 1",
+          "",
+          "",
+          "Conformist",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Neptune's Might"
+        ],
+        [
+          "Tremere",
+          "Easily Bound",
+          "Apprentice 2",
+          "",
+          "",
+          "Teacher",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Oneiromancy"
+        ],
+        [
+          "Tremere \"Telyav\"",
+          "",
+          "Apprentice 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Blood"
+        ],
+        [
+          "Tzimisce",
+          "Bound to the Earth",
+          "Apprentice 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of the Blood's Curse"
+        ],
+        [
+          "Tzimisce \"Carpathian\"",
+          "",
+          "Apprentice 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Conjuring"
+        ],
+        [
+          "Tzimisce \"Koldun\"",
+          "",
+          "Apprentice 6",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Corruption"
+        ],
+        [
+          "Ventrue",
+          "Feeding Preferance",
+          "Apprentice 7",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Curses"
+        ],
+        [
+          "Ventrue \"Crusader\"",
+          "",
+          "Regent 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of the Father's Vengeance"
+        ],
+        [
+          "",
+          "",
+          "Regent 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of the Levinbolt"
+        ],
+        [
+          "Blood Brothers *",
+          "",
+          "Regent 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Mars"
+        ],
+        [
+          "Nosferatu \"Hajj\"",
+          "",
+          "Regent 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Shadowcrafting"
+        ],
+        [
+          "Children of Osiris *",
+          "",
+          "Regent 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Technomancy"
+        ],
+        [
+          "Nagaraja *",
+          "Flesh Eaters",
+          "Regent 6",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Transmutation"
+        ],
+        [
+          "Other*",
+          "",
+          "Regent 7",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Spirit Manipulation"
+        ],
+        [
+          "",
+          "",
+          "Lord 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Transitus Velociter"
+        ],
+        [
+          "",
+          "",
+          "Lord 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Vine Of Dionysus"
+        ],
+        [
+          "",
+          "",
+          "Lord 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Weather Control"
+        ],
+        [
+          "",
+          "",
+          "Lord 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Mercury (Path Of Praapti)"
+        ],
+        [
+          "",
+          "",
+          "Lord 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "-"
+        ],
+        [
+          "",
+          "",
+          "Lord 6",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Sepulchre Path"
+        ],
+        [
+          "",
+          "",
+          "Lord 7",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Ash Path"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Bone Path"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Mortuus Path"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Vitreous Path"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 4"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 5"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 6"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 7"
+        ],
+        [],
+        [
+          "",
+          "",
+          "Ventrue"
+        ],
+        [
+          "",
+          "",
+          "Gerousia"
+        ],
+        [
+          "",
+          "",
+          "Praetor"
+        ],
+        [
+          "",
+          "",
+          "Aediles"
+        ],
+        [
+          "",
+          "",
+          "Questors"
+        ],
+        [
+          "",
+          "",
+          "Eiren"
+        ],
+        [],
+        [
+          "",
+          "",
+          "Losambra"
+        ],
+        [
+          "",
+          "",
+          "les amies noires"
+        ]
+      ],
+      "records": [
+        {
+          "clans": "Assamite \"Warrior\"",
+          "flaws": "Addicted To Vite",
+          "title_rank": "Neonate",
+          "abilites": "Animal Ken",
+          "artist": "Bully",
+          "1_0": -2,
+          "acknowledged": "Authority (abiding)",
+          "mortal": "Ghoul",
+          "animalism": "Auspex",
+          "email": "Form",
+          "10_1": "12*2",
+          "camarilla_la": "Camarilla ~ SD",
+          "thaumaturgy": "Blood Mastery - 1"
+        },
+        {
+          "clans": "Assamite \"Sorcerer\"",
+          "title_rank": "Ancillae",
+          "abilites": "Academics",
+          "artist": "Cultured",
+          "1_0": -3,
+          "acknowledged": "Commander (abiding)",
+          "mortal": "Thin Blood *14",
+          "animalism": "Celerity",
+          "email": "Facebook Chat",
+          "10_1": "15*3",
+          "camarilla_la": "Sabbat",
+          "thaumaturgy": "Bind the Accusing Tongue - 1"
+        },
+        {
+          "clans": "Assamite \"Vizier\"",
+          "flaws": "(Obessed) Knowlage",
+          "title_rank": "Elder",
+          "abilites": "Awareness",
+          "artist": "Curious",
+          "1_0": -4,
+          "acknowledged": "Enforcer (abiding)",
+          "mortal": "Neonate *13",
+          "animalism": "Chimerstry",
+          "email": "Vocial",
+          "10_1": "20*4",
+          "camarilla_la": "New Promise",
+          "thaumaturgy": "Communicate with Kindred Sire - 1"
+        },
+        {
+          "clans": "Baali",
+          "flaws": "Faith Sensitivity",
+          "abilites": "Athletics",
+          "artist": "Curmudgeon",
+          "1_0": -5,
+          "acknowledged": "Established (abiding)",
+          "mortal": "Neonate *12",
+          "animalism": "Daimoinon",
+          "10_1": "30*5",
+          "camarilla_la": "Speciality Game",
+          "thaumaturgy": "Defense of the Sacred Haven - 1"
+        },
+        {
+          "clans": "Baali \"Angeles Ater\"",
+          "flaws": "Faith Sensitivity / No Refection",
+          "abilites": "Brawl",
+          "artist": "Enigma",
+          "1_0": -6,
+          "acknowledged": "Prominent (abiding)",
+          "mortal": "Neonate 11",
+          "animalism": "Dementation",
+          "10_1": "40*8",
+          "thaumaturgy": "Deflection of Wooden Doom - 1"
+        },
+        {
+          "clans": "Baali \"Apostate\"",
+          "title_rank": "Prince",
+          "abilites": "Computers",
+          "artist": "Fanatic",
+          "1_0": -7,
+          "acknowledged": "Courteous (fleeting)",
+          "mortal": "Ancilla *10",
+          "animalism": "Dominate",
+          "10_1": "50*10",
+          "thaumaturgy": "Engaging the Vessel of Transference - 1"
+        },
+        {
+          "clans": "Brujah",
+          "flaws": "Stronger Beast",
+          "title_rank": "Seneschal",
+          "abilites": "Crafts",
+          "artist": "Fighter",
+          "1_0": 1,
+          "acknowledged": "Courageous (fleeting)",
+          "mortal": "Ancilla 9",
+          "animalism": "Fortitude",
+          "thaumaturgy": "Illuminate the Trail of Prey -1"
+        },
+        {
+          "clans": "Brujah \"True Brujah\"",
+          "flaws": "Emotionally Absent",
+          "title_rank": "Primogen",
+          "abilites": "Dodge",
+          "artist": "Freak",
+          "1_0": 2,
+          "acknowledged": "Defender (fleeting)",
+          "mortal": "Pretender Elder 8",
+          "animalism": "Melpominee",
+          "thaumaturgy": "Principal Focus of Vitae Infusion -1"
+        },
+        {
+          "clans": "Caitiff",
+          "flaws": "Weak Blood",
+          "title_rank": "Whip",
+          "abilites": "Drive",
+          "artist": "Free Spirit",
+          "1_0": 3,
+          "acknowledged": "Favored (fleeting)",
+          "mortal": "Master Elder 7",
+          "animalism": "Mytherceria",
+          "thaumaturgy": "Rite of Introduction - 1"
+        },
+        {
+          "clans": "Caitiff \"New Bloodline\"",
+          "title_rank": "Harpy",
+          "abilites": "Empathy",
+          "artist": "Introvert",
+          "1_0": 4,
+          "acknowledged": "Honorable (fleeting)",
+          "mortal": "Luminary Elder 6",
+          "animalism": "Obeah",
+          "thaumaturgy": "Warding Circle - 1"
+        },
+        {
+          "clans": "Cappadocians",
+          "flaws": "Gastly Pallor",
+          "title_rank": "Keeper of Elysium",
+          "abilites": "Firearms",
+          "artist": "Judge",
+          "1_0": 5,
+          "acknowledged": "Loyal (fleeting)",
+          "mortal": "Methuselah 5",
+          "animalism": "Obfuscate",
+          "thaumaturgy": "Banish Big Brother -2"
+        },
+        {
+          "clans": "Cappadocians \"Lamia\"",
+          "flaws": "Seed of Lilith",
+          "title_rank": "Sheriff",
+          "abilites": "Intimidation",
+          "artist": "Know-It-All",
+          "1_0": 6,
+          "acknowledged": "Praised (fleeting)",
+          "mortal": "Master Methuselah 4",
+          "animalism": "Obtenebration",
+          "thaumaturgy": "Burning Blade - 2"
+        },
+        {
+          "clans": "Cappadocians \"Samedi\"",
+          "flaws": "Putrid Form",
+          "title_rank": "Scourge",
+          "abilites": "Investigation",
+          "artist": "Leader",
+          "1_0": 7,
+          "acknowledged": "Triumphant (fleeting)",
+          "animalism": "Potence",
+          "thaumaturgy": "Craft Bloodstone -2"
+        },
+        {
+          "clans": "Daughters of Cacophony",
+          "flaws": "Distracting Song",
+          "title_rank": "Inner Circle *",
+          "abilites": "Leadership",
+          "artist": "Loner",
+          "1_0": 15,
+          "acknowledged": "Victorious (fleeting)",
+          "animalism": "Presence",
+          "thaumaturgy": "Eyes of the Night Hawk -2"
+        },
+        {
+          "clans": "Followers of Set",
+          "flaws": "Light Sensitivity",
+          "title_rank": "Imperator *",
+          "abilites": "Linguistics",
+          "artist": "Loose Cannon",
+          "1_0": 16,
+          "acknowledged": "-",
+          "animalism": "Protean",
+          "thaumaturgy": "Illusion of Peaceful Death -2"
+        },
+        {
+          "clans": "Followers of Set \"Tlacique\"",
+          "title_rank": "Justicar *",
+          "abilites": "Lore",
+          "artist": "Martyr",
+          "1_0": 17,
+          "acknowledged": "Accepted (Special)",
+          "animalism": "Quietus",
+          "thaumaturgy": "Machine Blitz -2"
+        },
+        {
+          "clans": "Followers of Set \"Vipers\"",
+          "title_rank": "Archon",
+          "abilites": "Medicine",
+          "artist": "Mediator",
+          "1_0": 18,
+          "acknowledged": "Ascendant (abiding)",
+          "animalism": "Sanguinus",
+          "thaumaturgy": "Recure of the Homeland -2"
+        },
+        {
+          "clans": "Gangrel",
+          "flaws": "Animalistic Beast",
+          "title_rank": "Alastor",
+          "abilites": "Melee",
+          "artist": "Mercenary",
+          "1_0": 19,
+          "acknowledged": "Confirmed (abiding)",
+          "animalism": "Serpentis",
+          "thaumaturgy": "Detect the Hidden Observer -3"
+        },
+        {
+          "clans": "Gangrel \"Ahrimanes\"",
+          "title_rank": "Baron / Minister",
+          "abilites": "Occult",
+          "artist": "Monster",
+          "1_0": 20,
+          "acknowledged": "Guardian (abiding)",
+          "animalism": "Temporis",
+          "thaumaturgy": "Flesh of Fiery Touch -3"
+        },
+        {
+          "clans": "Gangrel \"Coyote\"",
+          "title_rank": "Constable",
+          "abilites": "Performance",
+          "artist": "Penitent",
+          "1_0": 21,
+          "acknowledged": "Noble (abiding)",
+          "animalism": "Thanatosis",
+          "thaumaturgy": "Incorporeal Passage -3"
+        },
+        {
+          "clans": "Gangrel \"Noiad\"",
+          "title_rank": "Architect",
+          "abilites": "Science",
+          "artist": "Protector",
+          "1_0": 22,
+          "acknowledged": "Privileged (abiding)",
+          "animalism": "Valeren",
+          "thaumaturgy": "Mirror of Second Sight -3"
+        },
+        {
+          "clans": "Gargoyles",
+          "flaws": "Monstrous Slaves",
+          "title_rank": "Ambassador",
+          "abilites": "Science",
+          "artist": "Rationalist",
+          "1_0": 23,
+          "acknowledged": "Sovereign (abiding)",
+          "animalism": "Vicissitude",
+          "thaumaturgy": "Pavis of the Foul Presence -3"
+        },
+        {
+          "clans": "Giovanni",
+          "flaws": "Painful Feeding",
+          "title_rank": "Regent *",
+          "abilites": "Security",
+          "artist": "Royalty",
+          "1_0": 24,
+          "acknowledged": "Architect (innate)",
+          "animalism": "Visceratika",
+          "thaumaturgy": "Soul of the Homunculi -3"
+        },
+        {
+          "clans": "Giovanni \"Premascine\"",
+          "flaws": "Gastly Pallor",
+          "title_rank": "Cardinal *",
+          "abilites": "Stealth",
+          "artist": "Survivor",
+          "1_0": 25,
+          "acknowledged": "Primus Inter Pares (innate)",
+          "animalism": "-",
+          "thaumaturgy": "Shaft of Belated Quiescence -3"
+        },
+        {
+          "clans": "Lasombra",
+          "flaws": "No Reflection",
+          "title_rank": "Prisci *",
+          "abilites": "Streetwise",
+          "artist": "Toady",
+          "1_0": 26,
+          "acknowledged": "Acclaimed (fleeting)",
+          "animalism": "Thaumaturgy: Alchemy",
+          "thaumaturgy": "Innocence of the Child’s Heart -4"
+        },
+        {
+          "clans": "Lasombra \"Kaisyd\"",
+          "flaws": "Form of the Fae",
+          "title_rank": "Archbishop",
+          "abilites": "Subterfuge",
+          "artist": "Traditionalist",
+          "1_0": 27,
+          "acknowledged": "Gallant (fleeting)",
+          "animalism": "Thaumaturgy: Biothaumaturgy",
+          "thaumaturgy": "Mirror Walk -4"
+        },
+        {
+          "clans": "Malkavians",
+          "flaws": "Permanent Derangement",
+          "title_rank": "Bishop",
+          "abilites": "Survival",
+          "artist": "Trickster",
+          "1_0": 28,
+          "acknowledged": "Sanctioned (fleeting)",
+          "animalism": "Thaumaturgy: Elemental Mastery",
+          "thaumaturgy": "Severed Hand -4"
+        },
+        {
+          "clans": "Malkavians \"Ananke\"",
+          "flaws": "Gristly Trophies",
+          "title_rank": "Pack Leader",
+          "artist": "Troublemaker",
+          "1_0": 29,
+          "acknowledged": "-",
+          "animalism": "Thaumaturgy: The Faux Path",
+          "thaumaturgy": "Scry - 4"
+        },
+        {
+          "clans": "Malkavians \"Knights of the Moon\"",
+          "title_rank": "Templar / Paladin",
+          "artist": "Type-A Personality",
+          "1_0": 30,
+          "acknowledged": "Warned (negative)",
+          "animalism": "Thaumaturgy: The Focused Mind",
+          "thaumaturgy": "Blood Contract -5"
+        },
+        {
+          "clans": "Nosferatu",
+          "flaws": "Replusive",
+          "title_rank": "Priest",
+          "artist": "Unflappable",
+          "1_0": 0,
+          "acknowledged": "Disgraced (negative)",
+          "animalism": "Thaumaturgy: Gift of Morpheus",
+          "thaumaturgy": "Cobra’s Favor -5"
+        },
+        {
+          "clans": "Ravnos",
+          "flaws": "Compultions",
+          "title_rank": "Abbot",
+          "artist": "Untrustworthy",
+          "acknowledged": "Forsaken (negative)",
+          "animalism": "Thaumaturgy: The Green Path",
+          "thaumaturgy": "Paper Flesh -5"
+        },
+        {
+          "clans": "Ravnos \"Brahman\"",
+          "title_rank": "Black Hand",
+          "artist": "Architect",
+          "acknowledged": "Vulgar (negative)",
+          "animalism": "Thaumaturgy: Hands of Destruction",
+          "thaumaturgy": "Stone of the True Form -5"
+        },
+        {
+          "clans": "Salubri",
+          "flaws": "Violent Feeding",
+          "title_rank": "Inquistion",
+          "artist": "Caregiver",
+          "animalism": "Thaumaturgy: The Hearth Path"
+        },
+        {
+          "clans": "Salubri \"Healer\"",
+          "flaws": "Peaceful Feeding",
+          "artist": "Child",
+          "acknowledged": "Enforcer (Fleeding)",
+          "animalism": "Thaumaturgy: Lure of Flames",
+          "thaumaturgy": "Sabbat Ritae"
+        },
+        {
+          "clans": "Toreador",
+          "flaws": "Entranced by Art",
+          "title_rank": "Clan Titles",
+          "artist": "Competitor",
+          "acknowledged": "Loyal (Innate)",
+          "animalism": "Thaumaturgy: Mastery of the Mortal Shell",
+          "thaumaturgy": "The Binding, the Blood Bath, the Blood Feast, the Creation Rites, the Fire Dance, Games of Instinct, the High Holidays, the Monomacy, the Rite of Contrition, the Sermons of Caine, the Vaulderie, the War Party, and the Wild Hunt."
+        },
+        {
+          "clans": "Toreador \"Ishtarri\"",
+          "flaws": "Presence Sensitivity",
+          "title_rank": "Tremere",
+          "artist": "Con Artist",
+          "animalism": "Thaumaturgy: Movement of the Mind"
+        },
+        {
+          "clans": "Toreador \"Volgirre\"",
+          "title_rank": "Apprentice 1",
+          "artist": "Conformist",
+          "animalism": "Thaumaturgy: Neptune's Might"
+        },
+        {
+          "clans": "Tremere",
+          "flaws": "Easily Bound",
+          "title_rank": "Apprentice 2",
+          "artist": "Teacher",
+          "animalism": "Thaumaturgy: Oneiromancy"
+        },
+        {
+          "clans": "Tremere \"Telyav\"",
+          "title_rank": "Apprentice 3",
+          "animalism": "Thaumaturgy: Path of Blood"
+        },
+        {
+          "clans": "Tzimisce",
+          "flaws": "Bound to the Earth",
+          "title_rank": "Apprentice 4",
+          "animalism": "Thaumaturgy: Path of the Blood's Curse"
+        },
+        {
+          "clans": "Tzimisce \"Carpathian\"",
+          "title_rank": "Apprentice 5",
+          "animalism": "Thaumaturgy: Path of Conjuring"
+        },
+        {
+          "clans": "Tzimisce \"Koldun\"",
+          "title_rank": "Apprentice 6",
+          "animalism": "Thaumaturgy: Path of Corruption"
+        },
+        {
+          "clans": "Ventrue",
+          "flaws": "Feeding Preferance",
+          "title_rank": "Apprentice 7",
+          "animalism": "Thaumaturgy: Path of Curses"
+        },
+        {
+          "clans": "Ventrue \"Crusader\"",
+          "title_rank": "Regent 1",
+          "animalism": "Thaumaturgy: Path of the Father's Vengeance"
+        },
+        {
+          "title_rank": "Regent 2",
+          "animalism": "Thaumaturgy: Path of the Levinbolt"
+        },
+        {
+          "clans": "Blood Brothers *",
+          "title_rank": "Regent 3",
+          "animalism": "Thaumaturgy: Path of Mars"
+        },
+        {
+          "clans": "Nosferatu \"Hajj\"",
+          "title_rank": "Regent 4",
+          "animalism": "Thaumaturgy: Path of Shadowcrafting"
+        },
+        {
+          "clans": "Children of Osiris *",
+          "title_rank": "Regent 5",
+          "animalism": "Thaumaturgy: Path of Technomancy"
+        },
+        {
+          "clans": "Nagaraja *",
+          "flaws": "Flesh Eaters",
+          "title_rank": "Regent 6",
+          "animalism": "Thaumaturgy: Path of Transmutation"
+        },
+        {
+          "clans": "Other*",
+          "title_rank": "Regent 7",
+          "animalism": "Thaumaturgy: Spirit Manipulation"
+        },
+        {
+          "title_rank": "Lord 1",
+          "animalism": "Thaumaturgy: Transitus Velociter"
+        },
+        {
+          "title_rank": "Lord 2",
+          "animalism": "Thaumaturgy: The Vine Of Dionysus"
+        },
+        {
+          "title_rank": "Lord 3",
+          "animalism": "Thaumaturgy: Weather Control"
+        },
+        {
+          "title_rank": "Lord 4",
+          "animalism": "Thaumaturgy: Path of Mercury (Path Of Praapti)"
+        },
+        {
+          "title_rank": "Lord 5",
+          "animalism": "-"
+        },
+        {
+          "title_rank": "Lord 6",
+          "animalism": "Necromancy: The Sepulchre Path"
+        },
+        {
+          "title_rank": "Lord 7",
+          "animalism": "Necromancy: The Ash Path"
+        },
+        {
+          "title_rank": "Pontifex 1",
+          "animalism": "Necromancy: The Bone Path"
+        },
+        {
+          "title_rank": "Pontifex 2",
+          "animalism": "Necromancy: The Mortuus Path"
+        },
+        {
+          "title_rank": "Pontifex 3",
+          "animalism": "Necromancy: The Vitreous Path"
+        },
+        {
+          "title_rank": "Pontifex 4"
+        },
+        {
+          "title_rank": "Pontifex 5"
+        },
+        {
+          "title_rank": "Pontifex 6"
+        },
+        {
+          "title_rank": "Pontifex 7"
+        },
+        {
+          "title_rank": "Ventrue"
+        },
+        {
+          "title_rank": "Gerousia"
+        },
+        {
+          "title_rank": "Praetor"
+        },
+        {
+          "title_rank": "Aediles"
+        },
+        {
+          "title_rank": "Questors"
+        },
+        {
+          "title_rank": "Eiren"
+        },
+        {
+          "title_rank": "Losambra"
+        },
+        {
+          "title_rank": "les amies noires"
+        }
+      ]
+    },
+    "Merit Table": {
+      "rows": [
+        [],
+        [
+          "~ Rarity Merits ~"
+        ],
+        [
+          "Uncommon Clan -2"
+        ],
+        [
+          "Rare Clan -4"
+        ],
+        [
+          "Restricted Clan -6"
+        ],
+        [
+          "Restricted Clan (Bloodline) -6"
+        ],
+        [
+          "Bloodline: Base Clan -4"
+        ],
+        [
+          "Uncommon Sect -1"
+        ],
+        [
+          "Restricted Sect  -6"
+        ],
+        [
+          "Rare Sect -2"
+        ],
+        [],
+        [
+          "~ Clan Specific Merits ~"
+        ],
+        [
+          "Surprise Attack -1",
+          "",
+          "Assamite"
+        ],
+        [
+          "Bloodline: Vizier -2",
+          "",
+          "Assamite"
+        ],
+        [
+          "Awakening the Steel -3",
+          "",
+          "Assamite"
+        ],
+        [
+          "Bloodline: Sorcerer -4",
+          "",
+          "Assamite"
+        ],
+        [
+          "Marijava Contact or Kairouan Brotherhood Contact  -1",
+          "",
+          "Assamite"
+        ],
+        [
+          "Sectarian Ally -1",
+          "",
+          "Assamite"
+        ],
+        [
+          "Thousand Meter Killer -1",
+          "",
+          "Assamite"
+        ],
+        [
+          "Brotherhood -1",
+          "",
+          "Brujah"
+        ],
+        [
+          "Burning Wrath -2",
+          "",
+          "Brujah"
+        ],
+        [
+          "Scourge of Alecto -3",
+          "",
+          "Brujah"
+        ],
+        [
+          "Bloodline: True Brujah -4",
+          "",
+          "Brujah"
+        ],
+        [
+          "Compassionate -4",
+          "",
+          "Brujah"
+        ],
+        [
+          "Dynamic Personality -5",
+          "",
+          "Brujah"
+        ],
+        [
+          "Personal Cult -1",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Bloodline: Tlacique -2",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Bloodline: Vipers -2",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Addictive Blood -3",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Setite Sorcery -4",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Poisonous Bite -2",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Setite Initiate -5",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Protean Blood -1",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Bloodline: Coyote -2",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Bloodline: Noiad -2",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Shape of the Beast's Wrath -3",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Bloodline: Ahrimanes -4",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Ruse of the Wolf's Cloathing -3",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Hive-Minded -1",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Hive-Minded -2",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Skald -2",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Lesser Mark of the Beast -4",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Totemic Change -5",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Necromantic Expertise -1",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Mook -2",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Ghostly Retainer -3",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Bloodline: Premascine -4",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Consanguineous Resistance -1",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Mortuario -2",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Mortuario -4",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Angelic Visage -1",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Born in Shadow -2",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Walk the Abyss (Abyss Mysticism) -3",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Bloodline: Kiasyd -4",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Faint Reflection -2",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Strength of Shadows -4",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Court Favorite -3",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Eyes of Shadow -1",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Eyes of Shadow -2",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Eyes of Shadow -3",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Eyes of Shadow -4",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Bigger Boys Came -2",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Controllable Night Sight -2",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Expanded Conciousness -1",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Bloodline: Ananke -2",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Bloodline: Knights of the Moon -2",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Labyrinthine Mind -3",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Sophistry -4",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Immaculate Aura -1",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Benevolent Blood -1",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Deadend Nerves -2",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Sympathetic Bond -5",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Distracting Aura -2",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Prophetic Dreams -2",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Cold Read -3",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Paper Trail -2",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Unseeing Eye -1",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Hidden Advantage -2",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Pliable Blood -3",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Unnatural Adaptation -4",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Rugged Bad Looks -5",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Projectile Vomiting -2",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "False Reflection -3",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Foul Blood -3",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Master of the Sewers -2",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Seen the Unseeable -1",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Artist's Blessing -1",
+          "",
+          "Toreador"
+        ],
+        [
+          "Bloodline: Ishtarri -2",
+          "",
+          "Toreador"
+        ],
+        [
+          "Bloodline: Volgirre -2",
+          "",
+          "Toreador"
+        ],
+        [
+          "Absent Sway -3",
+          "",
+          "Toreador"
+        ],
+        [
+          "Dancer's Grace -4",
+          "",
+          "Toreador"
+        ],
+        [
+          "Controllable Thirst -1",
+          "",
+          "Toreador"
+        ],
+        [
+          "Eye for Beauty -1",
+          "",
+          "Toreador"
+        ],
+        [
+          "Indelible -1",
+          "",
+          "Toreador"
+        ],
+        [
+          "Indelible -2",
+          "",
+          "Toreador"
+        ],
+        [
+          "Mortal Double -2",
+          "",
+          "Toreador"
+        ],
+        [
+          "Refined -1",
+          "",
+          "Toreador"
+        ],
+        [
+          "Gifted -3",
+          "",
+          "Toreador"
+        ],
+        [
+          "Greater Colors -2",
+          "",
+          "Toreador"
+        ],
+        [
+          "Powerful Ghoul -5",
+          "",
+          "Toreador"
+        ],
+        [
+          "Thaumaturgic Expertise -1",
+          "",
+          "Tremere"
+        ],
+        [
+          "Bloodline: Telyav -1",
+          "",
+          "Tremere"
+        ],
+        [
+          "Talisman -3",
+          "",
+          "Tremere"
+        ],
+        [
+          "Countermagic -4",
+          "",
+          "Tremere"
+        ],
+        [
+          "Attuned Taste -2",
+          "",
+          "Tremere"
+        ],
+        [
+          "Embraced Without the Cup -1",
+          "",
+          "Tremere"
+        ],
+        [
+          "Gargoyle Slace -5",
+          "",
+          "Tremere"
+        ],
+        [
+          "Tremere Prodigy -1",
+          "",
+          "Tremere"
+        ],
+        [
+          "Natural Vicissitude -4",
+          "",
+          "Tremere"
+        ],
+        [
+          "Unmarked Antitribu -2",
+          "",
+          "Tremere"
+        ],
+        [
+          "Unmarked Antitribu -5",
+          "",
+          "Tremere"
+        ],
+        [
+          "Secret Society Member -1",
+          "",
+          "Tremere"
+        ],
+        [
+          "Blood of the Tzimisce -1",
+          "",
+          "Tzimisce"
+        ],
+        [
+          "Szlachta -2",
+          "",
+          "Tzimisce"
+        ],
+        [
+          "Bloodline: Carpathian -3",
+          "",
+          "Tzimisce"
+        ],
+        [
+          "Bloodline: Koldun -4",
+          "",
+          "Tzimisce"
+        ],
+        [
+          "Dracon's Temperament  -3",
+          "",
+          "Tzimisce"
+        ],
+        [
+          "Revenant Disciplines - 3",
+          "",
+          "Tzimisce"
+        ],
+        [
+          "Bioluminescence -1",
+          "",
+          "Tzimisce"
+        ],
+        [
+          "Promethean Clay -5",
+          "",
+          "Tzimisce"
+        ],
+        [
+          "Aura of Command -1",
+          "",
+          "Ventrue"
+        ],
+        [
+          "Bloodline: Crusader -2",
+          "",
+          "Ventrue"
+        ],
+        [
+          "Paragon -3",
+          "",
+          "Ventrue"
+        ],
+        [
+          "Regal Bearing -4",
+          "",
+          "Ventrue"
+        ],
+        [
+          "Allies of the Ghouls of Anushin-Rawan -2",
+          "",
+          "Ventrue"
+        ],
+        [
+          "Servant of the Ephorate -3",
+          "",
+          "Ventrue"
+        ],
+        [
+          "Connoisseur -2",
+          "",
+          "Ventrue"
+        ],
+        [
+          "Blessed by St. Gustav -4",
+          "",
+          "Ventrue Antitribu"
+        ],
+        [
+          "Auspicious -1",
+          "",
+          "Caitiff"
+        ],
+        [
+          "Eclipsed Blood -2",
+          "",
+          "Caitiff"
+        ],
+        [
+          "Vestiges of Greatness -3",
+          "",
+          "Caitiff"
+        ],
+        [
+          "Clan Masquerade -3",
+          "",
+          "Caitiff"
+        ],
+        [
+          "Infernal Heritage -1",
+          "",
+          "Baali"
+        ],
+        [
+          "Bloodline: Angellis Ater -3",
+          "",
+          "Baali"
+        ],
+        [
+          "Unholy Aura -7",
+          "",
+          "Baali"
+        ],
+        [
+          "Apostate -2",
+          "",
+          "Baali"
+        ],
+        [
+          "Necromantic Insight -1",
+          "",
+          "Cappadocians"
+        ],
+        [
+          "Prophetic Dreams aka Prescience  -2",
+          "",
+          "Cappadocians"
+        ],
+        [
+          "Bloodline: Samedi -2",
+          "",
+          "Cappadocians"
+        ],
+        [
+          "Pierced Shroud -3",
+          "",
+          "Cappadocians"
+        ],
+        [
+          "Bloodline: Lamia -4",
+          "",
+          "Cappadocians"
+        ],
+        [
+          "Waking Dream -1",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Bloodline: Brahman -2",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Escape Artist -3",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Antitoxin Blood -1",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Brahmin -1",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Kshatriya -1",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Legerdemain -1",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Vaishay -1",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Critters -2",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Heart of Needles -3",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Righteous Fury -1",
+          "",
+          "Salubri"
+        ],
+        [
+          "Spiritual Armor -2",
+          "",
+          "Salubri"
+        ],
+        [
+          "Bloodline: Healer -3",
+          "",
+          "Salubri"
+        ],
+        [
+          "Scent of the Other -1",
+          "",
+          "Salubri"
+        ],
+        [
+          "Sight Beyond Sight -5",
+          "",
+          "Salubri"
+        ],
+        [
+          "Supernatural Aria -1",
+          "",
+          "Daughters of Cacophony"
+        ],
+        [
+          "Soaring Octaves -3",
+          "",
+          "Daughters of Cacophony"
+        ],
+        [
+          "Flight -1",
+          "",
+          "Gargoyles"
+        ],
+        [
+          "Dark Statue -3",
+          "",
+          "Gargoyles"
+        ],
+        [
+          "Bloodline: Slave -5",
+          "",
+          "Gargoyles"
+        ],
+        [],
+        [
+          "~ General Merits ~"
+        ],
+        [
+          "Acute Sense -1"
+        ],
+        [
+          "Additional Common Discipline -4"
+        ],
+        [
+          "Additional Uncommon Discipline -5"
+        ],
+        [
+          "Ambidextrous -2"
+        ],
+        [
+          "Arcane -1"
+        ],
+        [
+          "Blasé -3"
+        ],
+        [
+          "Calm Heart -1"
+        ],
+        [
+          "Clear Sighted -3"
+        ],
+        [
+          "Code of Honor -2"
+        ],
+        [
+          "Daredevil -2"
+        ],
+        [
+          "Efficient Digestion -1"
+        ],
+        [
+          "Efficient Learner -2"
+        ],
+        [
+          "Golconda Seeker -5"
+        ],
+        [
+          "Infernal Power -3"
+        ],
+        [
+          "Intense Vitality -3"
+        ],
+        [
+          "Iron Will -3"
+        ],
+        [
+          "Light Sleeper -1"
+        ],
+        [
+          "Loremaster -1"
+        ],
+        [
+          "Lucky -2"
+        ],
+        [
+          "Magic Resistance -3"
+        ],
+        [
+          "Medium -1"
+        ],
+        [
+          "Natural Linguist -1"
+        ],
+        [
+          "Necromantic Training -5"
+        ],
+        [
+          "Oracular Ability -2"
+        ],
+        [
+          "Personal Masquerade -1"
+        ],
+        [
+          "Reputation -2"
+        ],
+        [
+          "Rugged -3"
+        ],
+        [
+          "Skill Aptitude -2"
+        ],
+        [
+          "Slippery Customer -2"
+        ],
+        [
+          "Thaumaturgic Training -4"
+        ],
+        [
+          "Unbondable -4"
+        ],
+        [
+          "Unyielding -4"
+        ],
+        [
+          "Versatile -3"
+        ],
+        [
+          "Whisper of Life -1"
+        ],
+        [],
+        [
+          "~ Morality Merits ~"
+        ],
+        [
+          "Path of Blood -3"
+        ],
+        [
+          "Path of Blood -2"
+        ],
+        [
+          "Path of Caine -3"
+        ],
+        [
+          "Path of Caine -1"
+        ],
+        [
+          "Path of Cathari -3"
+        ],
+        [
+          "Path of Cathari -1"
+        ],
+        [
+          "Path of Chivalry -3"
+        ],
+        [
+          "Path of Death & the Soul -1"
+        ],
+        [
+          "Path of Death & the Soul -2"
+        ],
+        [
+          "Path of Death & the Soul -3"
+        ],
+        [
+          "Path of Ecstasy -2"
+        ],
+        [
+          "Path of Ecstasy -3"
+        ],
+        [
+          "Path of Evil Revelations -3"
+        ],
+        [
+          "Path of the Feral Heart -1"
+        ],
+        [
+          "Path of the Feral Heart -3"
+        ],
+        [
+          "Path of Heaven -3"
+        ],
+        [
+          "Sharia El-Sama (PoH) -1"
+        ],
+        [
+          "Path of Harmony -3"
+        ],
+        [
+          "Path of Honorable Accord -3"
+        ],
+        [
+          "Path of Honorable Accord -1"
+        ],
+        [
+          "Path of Lilith -3"
+        ],
+        [
+          "Path of Lilith -2"
+        ],
+        [
+          "Path of Lilith -1"
+        ],
+        [
+          "Path of Metamorphosis -2"
+        ],
+        [
+          "Path of Metamorphosis -3"
+        ],
+        [
+          "Path of Night -2"
+        ],
+        [
+          "Path of Night -3"
+        ],
+        [
+          "Path of Orion -2"
+        ],
+        [
+          "Path of Orion -3"
+        ],
+        [
+          "Path of Paradox -2"
+        ],
+        [
+          "Path of Paradox -3"
+        ],
+        [
+          "Path of Power & the Inner Voice -1"
+        ],
+        [
+          "Path of Power & the Inner Voice -3"
+        ],
+        [
+          "Path of Scorched Heart -3"
+        ],
+        [
+          "Path of Scorched Heart -1"
+        ],
+        [
+          "Path of Typhon-Set -3"
+        ],
+        [
+          "Path of Typhon-Set -2"
+        ],
+        [
+          "Path of Self-Focus -4"
+        ],
+        [
+          "Path of Self-Focus -1"
+        ],
+        [
+          "Path of Entelechy -5"
+        ],
+        [
+          "Path of Entelechy -2"
+        ],
+        [
+          "Path of Nocturnal Redemption -1"
+        ],
+        [
+          "Path of Nocturnal Redemption -5"
+        ],
+        [
+          "Path of the Hive -1"
+        ],
+        [
+          "Path of the Hive -7"
+        ],
+        [
+          "Via Einherjar -7"
+        ],
+        [
+          "Via Einherjar -2"
+        ],
+        [
+          "Via Æsirgard -7"
+        ],
+        [
+          "Via Æsirgard -2"
+        ],
+        [],
+        [
+          "~ Setting Merits ~"
+        ],
+        [
+          "Antiquities -1",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Architect of the Tower -2",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Emissary to the Camarilla -1",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Machiavellian Prodigy -1",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Master of Puppets -2",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Monopoly -1",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Prestigious Sire -1",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Social Nobility -3",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Black Hand Membership -2",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Executioner -1",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Fanatic -2",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Inquisition Member -2",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Keeper of a Sacred Text -1",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Pack Player -3",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Revelator -3",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Sanctified -1",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Scholar of the Sword -1",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Volatile -1",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Zealot -1",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Dauntless -2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Dhampir -4",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Ear to the Ground -1",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Elder of the Revolution -2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Lion of the Cause -3",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Moniker -1",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Moral Compass -1",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Old Dog -1",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Sorcerous Dabbler -2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Tech Junkie -2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Wild One -1",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Fence Mended Wu -1",
+          "",
+          "New Promise Mandarinate"
+        ],
+        [
+          "Religious Mystic -3",
+          "",
+          "Ashirra"
+        ],
+        [
+          "Plantation Master -2",
+          "",
+          "Southern Lords"
+        ],
+        [
+          "Flase Hand Membership -1",
+          "",
+          "Tal'Mahe'Ra"
+        ],
+        [
+          "Rawis -2",
+          "",
+          "Tal'Mahe'Ra"
+        ],
+        [
+          "Haven in the Dark -2",
+          "",
+          "Tal'Mahe'Ra"
+        ],
+        [
+          "Monitor -2",
+          "",
+          "Inconnu"
+        ],
+        [],
+        [
+          "~ General Flaws ~"
+        ],
+        [
+          "Addiction +2"
+        ],
+        [
+          "Amnesia +1"
+        ],
+        [
+          "Archaic +2"
+        ],
+        [
+          "Awkward Movement +2"
+        ],
+        [
+          "Bad Sight +2"
+        ],
+        [
+          "Beacon of the Unholy +3"
+        ],
+        [
+          "Beast in the Mirror +2"
+        ],
+        [
+          "Bestial Instinct +2"
+        ],
+        [
+          "Blood Rot +5"
+        ],
+        [
+          "Bound to the Earth +2"
+        ],
+        [
+          "Blunted Fangs +2"
+        ],
+        [
+          "Cannot Cross Running Water +2"
+        ],
+        [
+          "Careless +1"
+        ],
+        [
+          "Childlike +4"
+        ],
+        [
+          "Conspicuous Consumption +3"
+        ],
+        [
+          "Curiousity +2"
+        ],
+        [
+          "Cursed +1"
+        ],
+        [
+          "Dark Fate +5"
+        ],
+        [
+          "Dark Secret +1"
+        ],
+        [
+          "Death Sight +2"
+        ],
+        [
+          "Deep Sleeper +2"
+        ],
+        [
+          "Disease Carrier +4"
+        ],
+        [
+          "Dull +2"
+        ],
+        [
+          "Eerie Presence +1"
+        ],
+        [
+          "Flesh of the Corpse +5"
+        ],
+        [
+          "Fragile Bones +4"
+        ],
+        [
+          "Gehenna Prophet +2"
+        ],
+        [
+          "Grip of the Damned +2"
+        ],
+        [
+          "Hard of Hearing +2"
+        ],
+        [
+          "Haunted +1"
+        ],
+        [
+          "Hunted +4"
+        ],
+        [
+          "Infamous Brood +3"
+        ],
+        [
+          "Illiterate +1"
+        ],
+        [
+          "Impatient +2"
+        ],
+        [
+          "Inept +3"
+        ],
+        [
+          "Intolerance +1"
+        ],
+        [
+          "Known to be Dead +1"
+        ],
+        [
+          "Lesser Generation 1 +1"
+        ],
+        [
+          "Lesser Generation 2 +2"
+        ],
+        [
+          "Low Pain Threshold +3"
+        ],
+        [
+          "Magic Susceptibility +2"
+        ],
+        [
+          "Methuselah's Thirst +4"
+        ],
+        [
+          "Nightmares +1"
+        ],
+        [
+          "Necrophile +1"
+        ],
+        [
+          "Notoriety +2"
+        ],
+        [
+          "Obvious Predator +2"
+        ],
+        [
+          "One Eye +3"
+        ],
+        [
+          "Overconfident +2"
+        ],
+        [
+          "Permanent Wound +3"
+        ],
+        [
+          "Poseidon's Call +3"
+        ],
+        [
+          "Pied Piper +1"
+        ],
+        [
+          "Prey Exclusion +1"
+        ],
+        [
+          "Repelled by Religion +3"
+        ],
+        [
+          "Short Attention Span +4"
+        ],
+        [
+          "Short Fuse +2"
+        ],
+        [
+          "Slow Healing +3"
+        ],
+        [
+          "Slow Reactions +3"
+        ],
+        [
+          "Stolen Potential +3"
+        ],
+        [
+          "Thin Blooded +3"
+        ],
+        [
+          "Thirst for Innocence +1"
+        ],
+        [
+          "Trouble Magnet +1"
+        ],
+        [
+          "Vulnerable to Silver +2"
+        ],
+        [
+          "Weak-Willed +3"
+        ],
+        [
+          "Weak Stomach +3"
+        ],
+        [],
+        [
+          "~ Derangement Flaws ~"
+        ],
+        [
+          "Derangement +2"
+        ],
+        [
+          "Derangement, Severe +3"
+        ],
+        [],
+        [
+          "Clan Flaws"
+        ],
+        [
+          "Magical Addict +3",
+          "",
+          "Assamite"
+        ],
+        [
+          "Magical Addict +5",
+          "",
+          "Assamite"
+        ],
+        [
+          "Unbroken +3",
+          "",
+          "Assamite"
+        ],
+        [
+          "Outcast of the Casts +2",
+          "",
+          "Assamite"
+        ],
+        [
+          "Broken Antitribu +3",
+          "",
+          "Assamite"
+        ],
+        [
+          "Multiple Curses +3",
+          "",
+          "Assamite"
+        ],
+        [
+          "Uncontrolable +5",
+          "",
+          "Brujah"
+        ],
+        [
+          "Scales +1",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Scales +2",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Scales +3",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Forked Tongue +2",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Heartless +4",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Aura of the Wyrm +5",
+          "",
+          "Followers of Set"
+        ],
+        [
+          "Member of the Pack +2",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Rat in a Cage +2",
+          "",
+          "Gangrel"
+        ],
+        [
+          "Inbred +1",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Inbred +2",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Inbred +3",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Inbred +4",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Inbred +5",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Shadowwalker +6",
+          "",
+          "Giovanni"
+        ],
+        [
+          "Enmity of Shadows +4",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Image Obession +1",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Image Obession +2",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Image Obession +3",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Image Obession +4",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Image Obession +5",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Death's Reflection +3",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Uncontrollable Night Sight  +2",
+          "",
+          "Lasombra"
+        ],
+        [
+          "Stigmata +2",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Stigmata +4",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Infectious +3",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Dead Inside +5",
+          "",
+          "Malkavian"
+        ],
+        [
+          "Stench +1",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Anosmia +1",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Parasitic Infestation +2",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Traitor of the Brood +4",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Incherent +5",
+          "",
+          "Nosferatu"
+        ],
+        [
+          "Tortured Artist +1",
+          "",
+          "Toreador"
+        ],
+        [
+          "Vulgar +1",
+          "",
+          "Toreador"
+        ],
+        [
+          "Bound to the Council +3",
+          "",
+          "Tremere"
+        ],
+        [
+          "Double Betrayer +3",
+          "",
+          "Tremere"
+        ],
+        [
+          "Thaumaturgically Inept +5",
+          "",
+          "Tremere"
+        ],
+        [
+          "Mage Blood +5",
+          "",
+          "Tremere"
+        ],
+        [
+          "Cloistered +2",
+          "",
+          "Tremere"
+        ],
+        [
+          "Ancestral Soil Dependence +2",
+          "",
+          "Tzimise"
+        ],
+        [
+          "Scarface +2",
+          "",
+          "Tzimise"
+        ],
+        [
+          "Scarface +3",
+          "",
+          "Tzimise"
+        ],
+        [
+          "Scarface +4",
+          "",
+          "Tzimise"
+        ],
+        [
+          "Revenant Weakness +3",
+          "",
+          "Tzimise"
+        ],
+        [
+          "Uncommon Vitae Preference +4",
+          "",
+          "Ventrue"
+        ],
+        [
+          "Clan Weakness +2",
+          "",
+          "Caitiff"
+        ],
+        [
+          "Carrion Comfort +3",
+          "",
+          "Baali"
+        ],
+        [
+          "Chandala +1",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Flawed Reality +2",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Oathbreaker +2",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Lost Svadharma +3",
+          "",
+          "Ravnos"
+        ],
+        [
+          "Odd Eye +1",
+          "",
+          "Salubri"
+        ],
+        [
+          "Odd Eye +2",
+          "",
+          "Salubri"
+        ],
+        [
+          "Unblodded +5",
+          "",
+          "Salubri"
+        ],
+        [
+          "Visible Eye +5",
+          "",
+          "Salubri"
+        ],
+        [],
+        [
+          "~ Setting Flaws ~"
+        ],
+        [
+          "Accused of Heresy +2",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Forgiven Diablerie +1",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Sectarian +2",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Tainted Embrace +2",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Untrained Combatant +3",
+          "",
+          "Camarilla"
+        ],
+        [
+          "Crisis of Faith +2",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Mistrusted +1",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Soul Shard +3",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Tenuous Loyalty +3",
+          "",
+          "Sabbat"
+        ],
+        [
+          "Bastard Childe +2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Black Sheep +2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Dubious Loyalties +2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Escaped Shovelhead +2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Once Enslaved +2",
+          "",
+          "Anarch Movement"
+        ],
+        [
+          "Tainted Chi +2",
+          "",
+          "New Promise Mandarinate"
+        ],
+        [
+          "Religious Prohipition +2",
+          "",
+          "Ashirra"
+        ],
+        [
+          "Religious Prohipition +4",
+          "",
+          "Ashirra"
+        ],
+        [
+          "Marked Rebel +2",
+          "",
+          "Southern Lords"
+        ],
+        [
+          "Souleater Tainted +2",
+          "",
+          "Tal'Mahe'Ra"
+        ]
+      ],
+      "records": [
+        {
+          "column_1": "~ Rarity Merits ~"
+        },
+        {
+          "column_1": "Uncommon Clan -2"
+        },
+        {
+          "column_1": "Rare Clan -4"
+        },
+        {
+          "column_1": "Restricted Clan -6"
+        },
+        {
+          "column_1": "Restricted Clan (Bloodline) -6"
+        },
+        {
+          "column_1": "Bloodline: Base Clan -4"
+        },
+        {
+          "column_1": "Uncommon Sect -1"
+        },
+        {
+          "column_1": "Restricted Sect  -6"
+        },
+        {
+          "column_1": "Rare Sect -2"
+        },
+        {
+          "column_1": "~ Clan Specific Merits ~"
+        },
+        {
+          "column_1": "Surprise Attack -1",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Bloodline: Vizier -2",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Awakening the Steel -3",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Bloodline: Sorcerer -4",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Marijava Contact or Kairouan Brotherhood Contact  -1",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Sectarian Ally -1",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Thousand Meter Killer -1",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Brotherhood -1",
+          "column_3": "Brujah"
+        },
+        {
+          "column_1": "Burning Wrath -2",
+          "column_3": "Brujah"
+        },
+        {
+          "column_1": "Scourge of Alecto -3",
+          "column_3": "Brujah"
+        },
+        {
+          "column_1": "Bloodline: True Brujah -4",
+          "column_3": "Brujah"
+        },
+        {
+          "column_1": "Compassionate -4",
+          "column_3": "Brujah"
+        },
+        {
+          "column_1": "Dynamic Personality -5",
+          "column_3": "Brujah"
+        },
+        {
+          "column_1": "Personal Cult -1",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Bloodline: Tlacique -2",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Bloodline: Vipers -2",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Addictive Blood -3",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Setite Sorcery -4",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Poisonous Bite -2",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Setite Initiate -5",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Protean Blood -1",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Bloodline: Coyote -2",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Bloodline: Noiad -2",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Shape of the Beast's Wrath -3",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Bloodline: Ahrimanes -4",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Ruse of the Wolf's Cloathing -3",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Hive-Minded -1",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Hive-Minded -2",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Skald -2",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Lesser Mark of the Beast -4",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Totemic Change -5",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Necromantic Expertise -1",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Mook -2",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Ghostly Retainer -3",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Bloodline: Premascine -4",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Consanguineous Resistance -1",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Mortuario -2",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Mortuario -4",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Angelic Visage -1",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Born in Shadow -2",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Walk the Abyss (Abyss Mysticism) -3",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Bloodline: Kiasyd -4",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Faint Reflection -2",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Strength of Shadows -4",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Court Favorite -3",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Eyes of Shadow -1",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Eyes of Shadow -2",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Eyes of Shadow -3",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Eyes of Shadow -4",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Bigger Boys Came -2",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Controllable Night Sight -2",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Expanded Conciousness -1",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Bloodline: Ananke -2",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Bloodline: Knights of the Moon -2",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Labyrinthine Mind -3",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Sophistry -4",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Immaculate Aura -1",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Benevolent Blood -1",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Deadend Nerves -2",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Sympathetic Bond -5",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Distracting Aura -2",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Prophetic Dreams -2",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Cold Read -3",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Paper Trail -2",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Unseeing Eye -1",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Hidden Advantage -2",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Pliable Blood -3",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Unnatural Adaptation -4",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Rugged Bad Looks -5",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Projectile Vomiting -2",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "False Reflection -3",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Foul Blood -3",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Master of the Sewers -2",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Seen the Unseeable -1",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Artist's Blessing -1",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Bloodline: Ishtarri -2",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Bloodline: Volgirre -2",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Absent Sway -3",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Dancer's Grace -4",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Controllable Thirst -1",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Eye for Beauty -1",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Indelible -1",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Indelible -2",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Mortal Double -2",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Refined -1",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Gifted -3",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Greater Colors -2",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Powerful Ghoul -5",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Thaumaturgic Expertise -1",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Bloodline: Telyav -1",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Talisman -3",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Countermagic -4",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Attuned Taste -2",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Embraced Without the Cup -1",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Gargoyle Slace -5",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Tremere Prodigy -1",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Natural Vicissitude -4",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Unmarked Antitribu -2",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Unmarked Antitribu -5",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Secret Society Member -1",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Blood of the Tzimisce -1",
+          "column_3": "Tzimisce"
+        },
+        {
+          "column_1": "Szlachta -2",
+          "column_3": "Tzimisce"
+        },
+        {
+          "column_1": "Bloodline: Carpathian -3",
+          "column_3": "Tzimisce"
+        },
+        {
+          "column_1": "Bloodline: Koldun -4",
+          "column_3": "Tzimisce"
+        },
+        {
+          "column_1": "Dracon's Temperament  -3",
+          "column_3": "Tzimisce"
+        },
+        {
+          "column_1": "Revenant Disciplines - 3",
+          "column_3": "Tzimisce"
+        },
+        {
+          "column_1": "Bioluminescence -1",
+          "column_3": "Tzimisce"
+        },
+        {
+          "column_1": "Promethean Clay -5",
+          "column_3": "Tzimisce"
+        },
+        {
+          "column_1": "Aura of Command -1",
+          "column_3": "Ventrue"
+        },
+        {
+          "column_1": "Bloodline: Crusader -2",
+          "column_3": "Ventrue"
+        },
+        {
+          "column_1": "Paragon -3",
+          "column_3": "Ventrue"
+        },
+        {
+          "column_1": "Regal Bearing -4",
+          "column_3": "Ventrue"
+        },
+        {
+          "column_1": "Allies of the Ghouls of Anushin-Rawan -2",
+          "column_3": "Ventrue"
+        },
+        {
+          "column_1": "Servant of the Ephorate -3",
+          "column_3": "Ventrue"
+        },
+        {
+          "column_1": "Connoisseur -2",
+          "column_3": "Ventrue"
+        },
+        {
+          "column_1": "Blessed by St. Gustav -4",
+          "column_3": "Ventrue Antitribu"
+        },
+        {
+          "column_1": "Auspicious -1",
+          "column_3": "Caitiff"
+        },
+        {
+          "column_1": "Eclipsed Blood -2",
+          "column_3": "Caitiff"
+        },
+        {
+          "column_1": "Vestiges of Greatness -3",
+          "column_3": "Caitiff"
+        },
+        {
+          "column_1": "Clan Masquerade -3",
+          "column_3": "Caitiff"
+        },
+        {
+          "column_1": "Infernal Heritage -1",
+          "column_3": "Baali"
+        },
+        {
+          "column_1": "Bloodline: Angellis Ater -3",
+          "column_3": "Baali"
+        },
+        {
+          "column_1": "Unholy Aura -7",
+          "column_3": "Baali"
+        },
+        {
+          "column_1": "Apostate -2",
+          "column_3": "Baali"
+        },
+        {
+          "column_1": "Necromantic Insight -1",
+          "column_3": "Cappadocians"
+        },
+        {
+          "column_1": "Prophetic Dreams aka Prescience  -2",
+          "column_3": "Cappadocians"
+        },
+        {
+          "column_1": "Bloodline: Samedi -2",
+          "column_3": "Cappadocians"
+        },
+        {
+          "column_1": "Pierced Shroud -3",
+          "column_3": "Cappadocians"
+        },
+        {
+          "column_1": "Bloodline: Lamia -4",
+          "column_3": "Cappadocians"
+        },
+        {
+          "column_1": "Waking Dream -1",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Bloodline: Brahman -2",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Escape Artist -3",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Antitoxin Blood -1",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Brahmin -1",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Kshatriya -1",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Legerdemain -1",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Vaishay -1",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Critters -2",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Heart of Needles -3",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Righteous Fury -1",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "Spiritual Armor -2",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "Bloodline: Healer -3",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "Scent of the Other -1",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "Sight Beyond Sight -5",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "Supernatural Aria -1",
+          "column_3": "Daughters of Cacophony"
+        },
+        {
+          "column_1": "Soaring Octaves -3",
+          "column_3": "Daughters of Cacophony"
+        },
+        {
+          "column_1": "Flight -1",
+          "column_3": "Gargoyles"
+        },
+        {
+          "column_1": "Dark Statue -3",
+          "column_3": "Gargoyles"
+        },
+        {
+          "column_1": "Bloodline: Slave -5",
+          "column_3": "Gargoyles"
+        },
+        {
+          "column_1": "~ General Merits ~"
+        },
+        {
+          "column_1": "Acute Sense -1"
+        },
+        {
+          "column_1": "Additional Common Discipline -4"
+        },
+        {
+          "column_1": "Additional Uncommon Discipline -5"
+        },
+        {
+          "column_1": "Ambidextrous -2"
+        },
+        {
+          "column_1": "Arcane -1"
+        },
+        {
+          "column_1": "Blasé -3"
+        },
+        {
+          "column_1": "Calm Heart -1"
+        },
+        {
+          "column_1": "Clear Sighted -3"
+        },
+        {
+          "column_1": "Code of Honor -2"
+        },
+        {
+          "column_1": "Daredevil -2"
+        },
+        {
+          "column_1": "Efficient Digestion -1"
+        },
+        {
+          "column_1": "Efficient Learner -2"
+        },
+        {
+          "column_1": "Golconda Seeker -5"
+        },
+        {
+          "column_1": "Infernal Power -3"
+        },
+        {
+          "column_1": "Intense Vitality -3"
+        },
+        {
+          "column_1": "Iron Will -3"
+        },
+        {
+          "column_1": "Light Sleeper -1"
+        },
+        {
+          "column_1": "Loremaster -1"
+        },
+        {
+          "column_1": "Lucky -2"
+        },
+        {
+          "column_1": "Magic Resistance -3"
+        },
+        {
+          "column_1": "Medium -1"
+        },
+        {
+          "column_1": "Natural Linguist -1"
+        },
+        {
+          "column_1": "Necromantic Training -5"
+        },
+        {
+          "column_1": "Oracular Ability -2"
+        },
+        {
+          "column_1": "Personal Masquerade -1"
+        },
+        {
+          "column_1": "Reputation -2"
+        },
+        {
+          "column_1": "Rugged -3"
+        },
+        {
+          "column_1": "Skill Aptitude -2"
+        },
+        {
+          "column_1": "Slippery Customer -2"
+        },
+        {
+          "column_1": "Thaumaturgic Training -4"
+        },
+        {
+          "column_1": "Unbondable -4"
+        },
+        {
+          "column_1": "Unyielding -4"
+        },
+        {
+          "column_1": "Versatile -3"
+        },
+        {
+          "column_1": "Whisper of Life -1"
+        },
+        {
+          "column_1": "~ Morality Merits ~"
+        },
+        {
+          "column_1": "Path of Blood -3"
+        },
+        {
+          "column_1": "Path of Blood -2"
+        },
+        {
+          "column_1": "Path of Caine -3"
+        },
+        {
+          "column_1": "Path of Caine -1"
+        },
+        {
+          "column_1": "Path of Cathari -3"
+        },
+        {
+          "column_1": "Path of Cathari -1"
+        },
+        {
+          "column_1": "Path of Chivalry -3"
+        },
+        {
+          "column_1": "Path of Death & the Soul -1"
+        },
+        {
+          "column_1": "Path of Death & the Soul -2"
+        },
+        {
+          "column_1": "Path of Death & the Soul -3"
+        },
+        {
+          "column_1": "Path of Ecstasy -2"
+        },
+        {
+          "column_1": "Path of Ecstasy -3"
+        },
+        {
+          "column_1": "Path of Evil Revelations -3"
+        },
+        {
+          "column_1": "Path of the Feral Heart -1"
+        },
+        {
+          "column_1": "Path of the Feral Heart -3"
+        },
+        {
+          "column_1": "Path of Heaven -3"
+        },
+        {
+          "column_1": "Sharia El-Sama (PoH) -1"
+        },
+        {
+          "column_1": "Path of Harmony -3"
+        },
+        {
+          "column_1": "Path of Honorable Accord -3"
+        },
+        {
+          "column_1": "Path of Honorable Accord -1"
+        },
+        {
+          "column_1": "Path of Lilith -3"
+        },
+        {
+          "column_1": "Path of Lilith -2"
+        },
+        {
+          "column_1": "Path of Lilith -1"
+        },
+        {
+          "column_1": "Path of Metamorphosis -2"
+        },
+        {
+          "column_1": "Path of Metamorphosis -3"
+        },
+        {
+          "column_1": "Path of Night -2"
+        },
+        {
+          "column_1": "Path of Night -3"
+        },
+        {
+          "column_1": "Path of Orion -2"
+        },
+        {
+          "column_1": "Path of Orion -3"
+        },
+        {
+          "column_1": "Path of Paradox -2"
+        },
+        {
+          "column_1": "Path of Paradox -3"
+        },
+        {
+          "column_1": "Path of Power & the Inner Voice -1"
+        },
+        {
+          "column_1": "Path of Power & the Inner Voice -3"
+        },
+        {
+          "column_1": "Path of Scorched Heart -3"
+        },
+        {
+          "column_1": "Path of Scorched Heart -1"
+        },
+        {
+          "column_1": "Path of Typhon-Set -3"
+        },
+        {
+          "column_1": "Path of Typhon-Set -2"
+        },
+        {
+          "column_1": "Path of Self-Focus -4"
+        },
+        {
+          "column_1": "Path of Self-Focus -1"
+        },
+        {
+          "column_1": "Path of Entelechy -5"
+        },
+        {
+          "column_1": "Path of Entelechy -2"
+        },
+        {
+          "column_1": "Path of Nocturnal Redemption -1"
+        },
+        {
+          "column_1": "Path of Nocturnal Redemption -5"
+        },
+        {
+          "column_1": "Path of the Hive -1"
+        },
+        {
+          "column_1": "Path of the Hive -7"
+        },
+        {
+          "column_1": "Via Einherjar -7"
+        },
+        {
+          "column_1": "Via Einherjar -2"
+        },
+        {
+          "column_1": "Via Æsirgard -7"
+        },
+        {
+          "column_1": "Via Æsirgard -2"
+        },
+        {
+          "column_1": "~ Setting Merits ~"
+        },
+        {
+          "column_1": "Antiquities -1",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Architect of the Tower -2",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Emissary to the Camarilla -1",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Machiavellian Prodigy -1",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Master of Puppets -2",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Monopoly -1",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Prestigious Sire -1",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Social Nobility -3",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Black Hand Membership -2",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Executioner -1",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Fanatic -2",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Inquisition Member -2",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Keeper of a Sacred Text -1",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Pack Player -3",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Revelator -3",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Sanctified -1",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Scholar of the Sword -1",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Volatile -1",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Zealot -1",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Dauntless -2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Dhampir -4",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Ear to the Ground -1",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Elder of the Revolution -2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Lion of the Cause -3",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Moniker -1",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Moral Compass -1",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Old Dog -1",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Sorcerous Dabbler -2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Tech Junkie -2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Wild One -1",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Fence Mended Wu -1",
+          "column_3": "New Promise Mandarinate"
+        },
+        {
+          "column_1": "Religious Mystic -3",
+          "column_3": "Ashirra"
+        },
+        {
+          "column_1": "Plantation Master -2",
+          "column_3": "Southern Lords"
+        },
+        {
+          "column_1": "Flase Hand Membership -1",
+          "column_3": "Tal'Mahe'Ra"
+        },
+        {
+          "column_1": "Rawis -2",
+          "column_3": "Tal'Mahe'Ra"
+        },
+        {
+          "column_1": "Haven in the Dark -2",
+          "column_3": "Tal'Mahe'Ra"
+        },
+        {
+          "column_1": "Monitor -2",
+          "column_3": "Inconnu"
+        },
+        {
+          "column_1": "~ General Flaws ~"
+        },
+        {
+          "column_1": "Addiction +2"
+        },
+        {
+          "column_1": "Amnesia +1"
+        },
+        {
+          "column_1": "Archaic +2"
+        },
+        {
+          "column_1": "Awkward Movement +2"
+        },
+        {
+          "column_1": "Bad Sight +2"
+        },
+        {
+          "column_1": "Beacon of the Unholy +3"
+        },
+        {
+          "column_1": "Beast in the Mirror +2"
+        },
+        {
+          "column_1": "Bestial Instinct +2"
+        },
+        {
+          "column_1": "Blood Rot +5"
+        },
+        {
+          "column_1": "Bound to the Earth +2"
+        },
+        {
+          "column_1": "Blunted Fangs +2"
+        },
+        {
+          "column_1": "Cannot Cross Running Water +2"
+        },
+        {
+          "column_1": "Careless +1"
+        },
+        {
+          "column_1": "Childlike +4"
+        },
+        {
+          "column_1": "Conspicuous Consumption +3"
+        },
+        {
+          "column_1": "Curiousity +2"
+        },
+        {
+          "column_1": "Cursed +1"
+        },
+        {
+          "column_1": "Dark Fate +5"
+        },
+        {
+          "column_1": "Dark Secret +1"
+        },
+        {
+          "column_1": "Death Sight +2"
+        },
+        {
+          "column_1": "Deep Sleeper +2"
+        },
+        {
+          "column_1": "Disease Carrier +4"
+        },
+        {
+          "column_1": "Dull +2"
+        },
+        {
+          "column_1": "Eerie Presence +1"
+        },
+        {
+          "column_1": "Flesh of the Corpse +5"
+        },
+        {
+          "column_1": "Fragile Bones +4"
+        },
+        {
+          "column_1": "Gehenna Prophet +2"
+        },
+        {
+          "column_1": "Grip of the Damned +2"
+        },
+        {
+          "column_1": "Hard of Hearing +2"
+        },
+        {
+          "column_1": "Haunted +1"
+        },
+        {
+          "column_1": "Hunted +4"
+        },
+        {
+          "column_1": "Infamous Brood +3"
+        },
+        {
+          "column_1": "Illiterate +1"
+        },
+        {
+          "column_1": "Impatient +2"
+        },
+        {
+          "column_1": "Inept +3"
+        },
+        {
+          "column_1": "Intolerance +1"
+        },
+        {
+          "column_1": "Known to be Dead +1"
+        },
+        {
+          "column_1": "Lesser Generation 1 +1"
+        },
+        {
+          "column_1": "Lesser Generation 2 +2"
+        },
+        {
+          "column_1": "Low Pain Threshold +3"
+        },
+        {
+          "column_1": "Magic Susceptibility +2"
+        },
+        {
+          "column_1": "Methuselah's Thirst +4"
+        },
+        {
+          "column_1": "Nightmares +1"
+        },
+        {
+          "column_1": "Necrophile +1"
+        },
+        {
+          "column_1": "Notoriety +2"
+        },
+        {
+          "column_1": "Obvious Predator +2"
+        },
+        {
+          "column_1": "One Eye +3"
+        },
+        {
+          "column_1": "Overconfident +2"
+        },
+        {
+          "column_1": "Permanent Wound +3"
+        },
+        {
+          "column_1": "Poseidon's Call +3"
+        },
+        {
+          "column_1": "Pied Piper +1"
+        },
+        {
+          "column_1": "Prey Exclusion +1"
+        },
+        {
+          "column_1": "Repelled by Religion +3"
+        },
+        {
+          "column_1": "Short Attention Span +4"
+        },
+        {
+          "column_1": "Short Fuse +2"
+        },
+        {
+          "column_1": "Slow Healing +3"
+        },
+        {
+          "column_1": "Slow Reactions +3"
+        },
+        {
+          "column_1": "Stolen Potential +3"
+        },
+        {
+          "column_1": "Thin Blooded +3"
+        },
+        {
+          "column_1": "Thirst for Innocence +1"
+        },
+        {
+          "column_1": "Trouble Magnet +1"
+        },
+        {
+          "column_1": "Vulnerable to Silver +2"
+        },
+        {
+          "column_1": "Weak-Willed +3"
+        },
+        {
+          "column_1": "Weak Stomach +3"
+        },
+        {
+          "column_1": "~ Derangement Flaws ~"
+        },
+        {
+          "column_1": "Derangement +2"
+        },
+        {
+          "column_1": "Derangement, Severe +3"
+        },
+        {
+          "column_1": "Clan Flaws"
+        },
+        {
+          "column_1": "Magical Addict +3",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Magical Addict +5",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Unbroken +3",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Outcast of the Casts +2",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Broken Antitribu +3",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Multiple Curses +3",
+          "column_3": "Assamite"
+        },
+        {
+          "column_1": "Uncontrolable +5",
+          "column_3": "Brujah"
+        },
+        {
+          "column_1": "Scales +1",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Scales +2",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Scales +3",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Forked Tongue +2",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Heartless +4",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Aura of the Wyrm +5",
+          "column_3": "Followers of Set"
+        },
+        {
+          "column_1": "Member of the Pack +2",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Rat in a Cage +2",
+          "column_3": "Gangrel"
+        },
+        {
+          "column_1": "Inbred +1",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Inbred +2",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Inbred +3",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Inbred +4",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Inbred +5",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Shadowwalker +6",
+          "column_3": "Giovanni"
+        },
+        {
+          "column_1": "Enmity of Shadows +4",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Image Obession +1",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Image Obession +2",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Image Obession +3",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Image Obession +4",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Image Obession +5",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Death's Reflection +3",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Uncontrollable Night Sight  +2",
+          "column_3": "Lasombra"
+        },
+        {
+          "column_1": "Stigmata +2",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Stigmata +4",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Infectious +3",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Dead Inside +5",
+          "column_3": "Malkavian"
+        },
+        {
+          "column_1": "Stench +1",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Anosmia +1",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Parasitic Infestation +2",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Traitor of the Brood +4",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Incherent +5",
+          "column_3": "Nosferatu"
+        },
+        {
+          "column_1": "Tortured Artist +1",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Vulgar +1",
+          "column_3": "Toreador"
+        },
+        {
+          "column_1": "Bound to the Council +3",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Double Betrayer +3",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Thaumaturgically Inept +5",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Mage Blood +5",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Cloistered +2",
+          "column_3": "Tremere"
+        },
+        {
+          "column_1": "Ancestral Soil Dependence +2",
+          "column_3": "Tzimise"
+        },
+        {
+          "column_1": "Scarface +2",
+          "column_3": "Tzimise"
+        },
+        {
+          "column_1": "Scarface +3",
+          "column_3": "Tzimise"
+        },
+        {
+          "column_1": "Scarface +4",
+          "column_3": "Tzimise"
+        },
+        {
+          "column_1": "Revenant Weakness +3",
+          "column_3": "Tzimise"
+        },
+        {
+          "column_1": "Uncommon Vitae Preference +4",
+          "column_3": "Ventrue"
+        },
+        {
+          "column_1": "Clan Weakness +2",
+          "column_3": "Caitiff"
+        },
+        {
+          "column_1": "Carrion Comfort +3",
+          "column_3": "Baali"
+        },
+        {
+          "column_1": "Chandala +1",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Flawed Reality +2",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Oathbreaker +2",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Lost Svadharma +3",
+          "column_3": "Ravnos"
+        },
+        {
+          "column_1": "Odd Eye +1",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "Odd Eye +2",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "Unblodded +5",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "Visible Eye +5",
+          "column_3": "Salubri"
+        },
+        {
+          "column_1": "~ Setting Flaws ~"
+        },
+        {
+          "column_1": "Accused of Heresy +2",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Forgiven Diablerie +1",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Sectarian +2",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Tainted Embrace +2",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Untrained Combatant +3",
+          "column_3": "Camarilla"
+        },
+        {
+          "column_1": "Crisis of Faith +2",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Mistrusted +1",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Soul Shard +3",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Tenuous Loyalty +3",
+          "column_3": "Sabbat"
+        },
+        {
+          "column_1": "Bastard Childe +2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Black Sheep +2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Dubious Loyalties +2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Escaped Shovelhead +2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Once Enslaved +2",
+          "column_3": "Anarch Movement"
+        },
+        {
+          "column_1": "Tainted Chi +2",
+          "column_3": "New Promise Mandarinate"
+        },
+        {
+          "column_1": "Religious Prohipition +2",
+          "column_3": "Ashirra"
+        },
+        {
+          "column_1": "Religious Prohipition +4",
+          "column_3": "Ashirra"
+        },
+        {
+          "column_1": "Marked Rebel +2",
+          "column_3": "Southern Lords"
+        },
+        {
+          "column_1": "Souleater Tainted +2",
+          "column_3": "Tal'Mahe'Ra"
+        }
+      ]
+    },
+    "Sheet Information": {
+      "rows": [
+        [
+          "V.2",
+          "2015-10-15 00:00:00",
+          "Spelling check"
+        ],
+        [
+          "V.3",
+          "2015-11-09 00:00:00",
+          "Cleaned up the XP Spends math, Generation / Blood spends, Clan Titles & Clan Flaws."
+        ],
+        [
+          "V.3.1",
+          "2016-01-18 00:00:00",
+          "Cleaned up Merits and Flaws so the math is in the listing. Added a Spot for clan status, Cleaned up acknowlaged status, added rituals, and broke up the disiplines area"
+        ],
+        [
+          "V.3.2",
+          "2016-02-17 00:00:00",
+          "Cleaned up Status, making 3 sections, put in the ritae background, color coded the feilds, added a part for blood boons Valudrie"
+        ],
+        [],
+        [
+          "Basic Rules for making characters"
+        ],
+        [
+          "#1.",
+          "All character creation math must be shown"
+        ],
+        [
+          "#2.",
+          "Make sure all the merits are added up and put in their merit cap list (THIS IS NOT AUTOMATED)"
+        ],
+        [
+          "#3.",
+          "Who they knows should be done, within a few days of a person getting a character"
+        ]
+      ],
+      "records": [
+        {
+          "v_2": "V.3",
+          "2015_10_15_00_00_00": "2015-11-09 00:00:00",
+          "spelling_check": "Cleaned up the XP Spends math, Generation / Blood spends, Clan Titles & Clan Flaws."
+        },
+        {
+          "v_2": "V.3.1",
+          "2015_10_15_00_00_00": "2016-01-18 00:00:00",
+          "spelling_check": "Cleaned up Merits and Flaws so the math is in the listing. Added a Spot for clan status, Cleaned up acknowlaged status, added rituals, and broke up the disiplines area"
+        },
+        {
+          "v_2": "V.3.2",
+          "2015_10_15_00_00_00": "2016-02-17 00:00:00",
+          "spelling_check": "Cleaned up Status, making 3 sections, put in the ritae background, color coded the feilds, added a part for blood boons Valudrie"
+        },
+        {
+          "v_2": "Basic Rules for making characters"
+        },
+        {
+          "v_2": "#1.",
+          "2015_10_15_00_00_00": "All character creation math must be shown"
+        },
+        {
+          "v_2": "#2.",
+          "2015_10_15_00_00_00": "Make sure all the merits are added up and put in their merit cap list (THIS IS NOT AUTOMATED)"
+        },
+        {
+          "v_2": "#3.",
+          "2015_10_15_00_00_00": "Who they knows should be done, within a few days of a person getting a character"
+        }
+      ]
+    }
+  }
+}

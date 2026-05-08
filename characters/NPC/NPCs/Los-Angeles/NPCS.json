@@ -1,0 +1,70 @@
+{
+  "source": {
+    "title": "NPCS",
+    "fileName": "NPCS.xlsx",
+    "localPath": "source-sheets\\NPC\\NPCs\\Los Angeles\\NPCS.xlsx"
+  },
+  "folderPath": [
+    "NPC",
+    "NPCs",
+    "Los Angeles"
+  ],
+  "coreSheet": "Sheet1",
+  "character": {
+    "chronicle": "Faction",
+    "characterName": "Grim Anacreon",
+    "playerName": "",
+    "gmailAccount": "Notes 2",
+    "clanCoordinator": "",
+    "archetype": "Oracles Guild",
+    "title": "Wants to make the world a better place",
+    "characterStartDate": "",
+    "generationLabel": "",
+    "clan": ""
+  },
+  "attributes": {},
+  "backgrounds": {},
+  "currentPools": {},
+  "abilities": {},
+  "status": [],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Sheet1": [
+      [
+        "Name",
+        "Faction",
+        "Notable Arcanoi",
+        "Notes",
+        "Notes 2"
+      ],
+      [
+        "\"The Colonel\"",
+        "Grim Anacreon"
+      ],
+      [
+        "Dominic Herrera",
+        "Skeletal Anacreon",
+        "Phantasm",
+        "Died in 1800s, Smallpox",
+        "Wants a supernatural creature for experimentation"
+      ],
+      [
+        "Autumn Moonchilde",
+        "Oracles Guild",
+        "Fatalism",
+        "Wants to make the world a better place",
+        "Owed 3 Acts of Love & Kindness from Andy Watkins"
+      ],
+      [
+        "Nine",
+        "Masquers Guild",
+        "Moliate",
+        "Anonymae with circle mates in San Diego. Willing to do any job for a profit.",
+        "Infiltrating NPM Court for Andy Watkins"
+      ]
+    ]
+  }
+}

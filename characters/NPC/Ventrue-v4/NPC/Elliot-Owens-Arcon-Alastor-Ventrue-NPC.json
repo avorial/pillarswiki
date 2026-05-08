@@ -1,0 +1,4851 @@
+{
+  "source": {
+    "title": "Elliot-Owens-Arcon-Alastor-Ventrue-NPC",
+    "fileName": "Elliot-Owens-Arcon-Alastor-Ventrue-NPC.xlsx",
+    "localPath": "source-sheets\\NPC\\Ventrue v4\\NPC\\Elliot-Owens-Arcon-Alastor-Ventrue-NPC.xlsx"
+  },
+  "folderPath": [
+    "NPC",
+    "Ventrue v4",
+    "NPC"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER",
+    "characterName": "Elliot Owens",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Pillars of Salt",
+    "archetype": "Mediator",
+    "title": "Alastor / Archon",
+    "characterStartDate": "",
+    "generationLabel": "Pretender Elder 8",
+    "clan": "Ventrue"
+  },
+  "attributes": {
+    "physcial": 8,
+    "social": 5,
+    "mental": 3
+  },
+  "backgrounds": {
+    "generation": 3,
+    "contacts": 1,
+    "resources": 2
+  },
+  "currentPools": {},
+  "abilities": {
+    "academics": 1,
+    "occult": 3,
+    "firearms": 2,
+    "security": 1,
+    "stealth": 1,
+    "brawl": 3,
+    "computer": 1,
+    "linguistics": 2,
+    "dodge": 4,
+    "melee": 2,
+    "starting_xp": 0,
+    "unspent_xp": 0,
+    "spent_xp": 0
+  },
+  "status": [],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Elliot Owens",
+        "",
+        "",
+        "",
+        "Pillars of Salt",
+        "",
+        "",
+        "Generation",
+        "3.0",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "Current Blood Points * Per Turn",
+        "15*3"
+      ],
+      [
+        "",
+        "Mediator",
+        "",
+        "Alastor / Archon",
+        "",
+        "",
+        "",
+        "",
+        "Alternitive Identity",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archtype",
+        "",
+        "Title",
+        "",
+        "Coterie/Faction",
+        "",
+        "",
+        "Contacts",
+        "1.0",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Pretender Elder 8",
+        "",
+        "Ventrue",
+        "",
+        "Feeding Preferance",
+        "",
+        "",
+        "Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "Clan Flaw",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Total",
+        "",
+        "Focus",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Physcial",
+        "8.0",
+        "",
+        "",
+        "Stamina",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "",
+        "",
+        "Apperance",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "Mental",
+        "3.0",
+        "",
+        "",
+        "Wits",
+        "",
+        "",
+        "Retainers",
+        "",
+        "",
+        "DISCIPLINES & RITUALS & OTHER POWERS"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERIT & FLAWS"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgic Training",
+        "",
+        "",
+        "Dominate",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "*Trophy*",
+        "",
+        "",
+        "Fortitude",
+        "4.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Servant of the Ephorate",
+        "",
+        "",
+        "Presence",
+        "1.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Lure of Flames",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Empathy",
+        "",
+        "Occult",
+        "3.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "2.0",
+        "Science"
+      ],
+      [
+        "",
+        "Atheltics",
+        "",
+        "Intimidation",
+        "",
+        "Security",
+        "1.0"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Investigation",
+        "",
+        "Stealth",
+        "1.0"
+      ],
+      [
+        "",
+        "Brawl",
+        "3.0",
+        "Leadership",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "ABILITES FOCUS"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Linguistics",
+        "2.0",
+        "Subterfuge"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "",
+        "Survival"
+      ],
+      [
+        "",
+        "Dodge",
+        "4.0",
+        "Medicine",
+        "",
+        "Performance"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee",
+        "2.0"
+      ],
+      [],
+      [],
+      [
+        "",
+        "EXPERINCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "0",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Total XP Left"
+        ],
+        [
+          "Starting XP (50) Point Character",
+          "Pre Game",
+          "50.0"
+        ],
+        [
+          "Thaumaturgy Lure of Flames 1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Thaumaturgy Lure of Flames 2",
+          "Pre Game",
+          "-8.0"
+        ],
+        [
+          "Fortitude 2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Thaumaturgical Training",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Servant of the Ephorate",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Ritual of Winds Passing (Archon's ritual/ immunne to range damage)",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Fortitude 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Fortitude 4",
+          "Pre Game",
+          "-12.0"
+        ],
+        [
+          "Physcial Trait",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "",
+          "0"
+        ],
+        [],
+        [],
+        [
+          "Game Earned XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (50) Point Character",
+          "date": "Pre Game",
+          "all_costs": 50
+        },
+        {
+          "what_was_bought": "Thaumaturgy Lure of Flames 1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Thaumaturgy Lure of Flames 2",
+          "date": "Pre Game",
+          "all_costs": -8
+        },
+        {
+          "what_was_bought": "Fortitude 2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Thaumaturgical Training",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Servant of the Ephorate",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Ritual of Winds Passing (Archon's ritual/ immunne to range damage)",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Fortitude 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Fortitude 4",
+          "date": "Pre Game",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Physcial Trait",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "all_costs": 0
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:",
+          "Patric Thomas"
+        ],
+        [],
+        [
+          "Sire:",
+          "Lois Focault",
+          "Embrace Date:",
+          "",
+          "Embrace Location:"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "Sire:",
+          "column_2": "Lois Focault",
+          "created_by": "Embrace Date:",
+          "column_5": "Embrace Location:"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    },
+    "Coding": {
+      "rows": [
+        [
+          "Clans",
+          "Flaws",
+          "Title / Rank",
+          "",
+          "Abilites",
+          "Artist",
+          "1.0",
+          "-1.0",
+          "Authority (abiding)",
+          "",
+          "Mortal",
+          "",
+          "Animalism",
+          "",
+          "Email",
+          "",
+          "10*1"
+        ],
+        [
+          "Assamite \"Warrior\"",
+          "Addicted To Vite",
+          "Neonate",
+          "",
+          "Animal Ken",
+          "Bully",
+          "2.0",
+          "-2.0",
+          "Commander (abiding)",
+          "",
+          "Ghoul",
+          "",
+          "Auspex",
+          "",
+          "Form",
+          "",
+          "12*2"
+        ],
+        [
+          "Assamite \"Sorcerer\"",
+          "",
+          "",
+          "",
+          "Academics",
+          "Cultured",
+          "3.0",
+          "-3.0",
+          "Enforcer (abiding)",
+          "",
+          "Thin Blood *14",
+          "",
+          "Celerity",
+          "",
+          "Facebook Chat",
+          "",
+          "15*3"
+        ],
+        [
+          "Assamite \"Vizier\"",
+          "(Obessed) Knowlage",
+          "Elder",
+          "",
+          "Awareness",
+          "Curious",
+          "4.0",
+          "-4.0",
+          "Established (abiding)",
+          "",
+          "Neonate *13",
+          "",
+          "Chimerstry",
+          "",
+          "Vocial",
+          "",
+          "20*4"
+        ],
+        [
+          "Baali",
+          "Faith Sensitivity",
+          "",
+          "",
+          "Athletics",
+          "Curmudgeon",
+          "5.0",
+          "-5.0",
+          "Prominent (abiding)",
+          "",
+          "Neonate *12",
+          "",
+          "Daimoinon",
+          "",
+          "",
+          "",
+          "30*5"
+        ],
+        [
+          "Baali \"Angeles Ater\"",
+          "Faith Sensitivity / No Refection",
+          "",
+          "",
+          "Brawl",
+          "Enigma",
+          "6.0",
+          "-6.0",
+          "Courteous (fleeting)",
+          "",
+          "Neonate 11",
+          "",
+          "Dementation",
+          "",
+          "",
+          "",
+          "40*8"
+        ],
+        [
+          "Baali \"Apostate\"",
+          "",
+          "Prince",
+          "",
+          "Computers",
+          "Fanatic",
+          "7.0",
+          "-7.0",
+          "Courageous (fleeting)",
+          "",
+          "Ancilla *10",
+          "",
+          "Dominate",
+          "",
+          "",
+          "",
+          "50*10"
+        ],
+        [
+          "Brujah",
+          "Stronger Beast",
+          "Seneschal",
+          "",
+          "Crafts",
+          "Fighter",
+          "8.0",
+          "1.0",
+          "Defender (fleeting)",
+          "",
+          "Ancilla 9",
+          "",
+          "Fortitude"
+        ],
+        [
+          "Brujah \"True Brujah\"",
+          "Emotionally Absent",
+          "Primogen",
+          "",
+          "Dodge",
+          "Freak",
+          "9.0",
+          "2.0",
+          "Favored (fleeting)",
+          "",
+          "Pretender Elder 8",
+          "",
+          "Melpominee"
+        ],
+        [
+          "Caitiff",
+          "Weak Blood",
+          "Whip",
+          "",
+          "Drive",
+          "Free Spirit",
+          "10.0",
+          "3.0",
+          "Honorable (fleeting)",
+          "",
+          "Master Elder 7",
+          "",
+          "Mytherceria"
+        ],
+        [
+          "Caitiff \"New Bloodline\"",
+          "",
+          "Harpy",
+          "",
+          "Empathy",
+          "Introvert",
+          "11.0",
+          "4.0",
+          "Loyal (fleeting)",
+          "",
+          "Luminary Elder 6",
+          "",
+          "Obeah"
+        ],
+        [
+          "Cappadocians",
+          "Gastly Pallor",
+          "Keeper of Elysium",
+          "",
+          "Firearms",
+          "Judge",
+          "12.0",
+          "5.0",
+          "Praised (fleeting)",
+          "",
+          "Methuselah 5",
+          "",
+          "Obfuscate"
+        ],
+        [
+          "Cappadocians \"Lamia\"",
+          "Seed of Lilith",
+          "Sheriff",
+          "",
+          "Intimidation",
+          "Know-It-All",
+          "13.0",
+          "6.0",
+          "Triumphant (fleeting)",
+          "",
+          "Master Methuselah 4",
+          "",
+          "Obtenebration"
+        ],
+        [
+          "Cappadocians \"Samedi\"",
+          "Putrid Form",
+          "Scourge",
+          "",
+          "Investigation",
+          "Leader",
+          "14.0",
+          "7.0",
+          "Victorious (fleeting)",
+          "",
+          "",
+          "",
+          "Potence"
+        ],
+        [
+          "Daughters of Cacophony",
+          "Distracting Song",
+          "Inner Circle *",
+          "",
+          "Leadership",
+          "Loner",
+          "15.0",
+          "",
+          "-",
+          "",
+          "",
+          "",
+          "Presence"
+        ],
+        [
+          "Followers of Set",
+          "Light Sensitivity",
+          "Imperator *",
+          "",
+          "Linguistics",
+          "Loose Cannon",
+          "16.0",
+          "",
+          "Accepted (Special)",
+          "",
+          "",
+          "",
+          "Protean"
+        ],
+        [
+          "Followers of Set \"Tlacique\"",
+          "",
+          "Justicar *",
+          "",
+          "Lore",
+          "Martyr",
+          "17.0",
+          "",
+          "Ascendant (abiding)",
+          "",
+          "",
+          "",
+          "Quietus"
+        ],
+        [
+          "Followers of Set \"Vipers\"",
+          "",
+          "Archon",
+          "",
+          "Medicine",
+          "Mediator",
+          "18.0",
+          "",
+          "Confirmed (abiding)",
+          "",
+          "",
+          "",
+          "Sanguinus"
+        ],
+        [
+          "Gangrel",
+          "Animalistic Beast",
+          "Alastor",
+          "",
+          "Melee",
+          "Mercenary",
+          "19.0",
+          "",
+          "Guardian (abiding)",
+          "",
+          "",
+          "",
+          "Serpentis"
+        ],
+        [
+          "Gangrel \"Ahrimanes\"",
+          "",
+          "Baron / Minister",
+          "",
+          "Occult",
+          "Monster",
+          "20.0",
+          "",
+          "Noble (abiding)",
+          "",
+          "",
+          "",
+          "Temporis"
+        ],
+        [
+          "Gangrel \"Coyote\"",
+          "",
+          "Constable",
+          "",
+          "Performance",
+          "Penitent",
+          "21.0",
+          "",
+          "Privileged (abiding)",
+          "",
+          "",
+          "",
+          "Thanatosis"
+        ],
+        [
+          "Gangrel \"Noiad\"",
+          "",
+          "Architect",
+          "",
+          "Science",
+          "Protector",
+          "22.0",
+          "",
+          "Sovereign (abiding)",
+          "",
+          "",
+          "",
+          "Valeren"
+        ],
+        [
+          "Gargoyles",
+          "Monstrous Slaves",
+          "Ambassador",
+          "",
+          "Science",
+          "Rationalist",
+          "23.0",
+          "",
+          "Architect (innate)",
+          "",
+          "",
+          "",
+          "Vicissitude"
+        ],
+        [
+          "Giovanni",
+          "Painful Feeding",
+          "Regent *",
+          "",
+          "Security",
+          "Royalty",
+          "24.0",
+          "",
+          "Primus Inter Pares (innate)",
+          "",
+          "",
+          "",
+          "Visceratika"
+        ],
+        [
+          "Giovanni \"Premascine\"",
+          "Gastly Pallor",
+          "Cardinal *",
+          "",
+          "Stealth",
+          "Survivor",
+          "25.0",
+          "",
+          "Acclaimed (fleeting)",
+          "",
+          "",
+          "",
+          "-"
+        ],
+        [
+          "Lasombra",
+          "No Reflection",
+          "Prisci *",
+          "",
+          "Streetwise",
+          "Toady",
+          "26.0",
+          "",
+          "Gallant (fleeting)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Alchemy"
+        ],
+        [
+          "Lasombra \"Kaisyd\"",
+          "Form of the Fae",
+          "Archbishop",
+          "",
+          "Subterfuge",
+          "Traditionalist",
+          "27.0",
+          "",
+          "Sanctioned (fleeting)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Biothaumaturgy"
+        ],
+        [
+          "Malkavians",
+          "Permanent Derangement",
+          "Bishop",
+          "",
+          "Survival",
+          "Trickster",
+          "28.0",
+          "",
+          "-",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Elemental Mastery"
+        ],
+        [
+          "Malkavians \"Ananke\"",
+          "Gristly Trophies",
+          "Pack Leader",
+          "",
+          "",
+          "Troublemaker",
+          "29.0",
+          "",
+          "Warned (negative)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Faux Path"
+        ],
+        [
+          "Malkavians \"Knights of the Moon\"",
+          "",
+          "Templar / Paladin",
+          "",
+          "",
+          "Type-A Personality",
+          "30.0",
+          "",
+          "Disgraced (negative)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Focused Mind"
+        ],
+        [
+          "Nosferatu",
+          "Replusive",
+          "Priest",
+          "",
+          "",
+          "Unflappable",
+          "0.0",
+          "",
+          "Forsaken (negative)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Gift of Morpheus"
+        ],
+        [
+          "Ravnos",
+          "Compultions",
+          "Abbot",
+          "",
+          "",
+          "Untrustworthy",
+          "",
+          "",
+          "Vulgar (negative)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Green Path"
+        ],
+        [
+          "Ravnos \"Brahman\"",
+          "",
+          "Black Hand",
+          "",
+          "",
+          "Architect",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Hands of Destruction"
+        ],
+        [
+          "Salubri",
+          "Violent Feeding",
+          "Inquistion",
+          "",
+          "",
+          "Caregiver",
+          "",
+          "",
+          "Enforcer (Fleeding)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Hearth Path"
+        ],
+        [
+          "Salubri \"Healer\"",
+          "Peaceful Feeding",
+          "",
+          "",
+          "",
+          "Child",
+          "",
+          "",
+          "Loyal (Innate)",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Lure of Flames"
+        ],
+        [
+          "Toreador",
+          "Entranced by Art",
+          "Clan Titles",
+          "",
+          "",
+          "Competitor",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Mastery of the Mortal Shell"
+        ],
+        [
+          "Toreador \"Ishtarri\"",
+          "Presence Sensitivity",
+          "Tremere",
+          "",
+          "",
+          "Con Artist",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Movement of the Mind"
+        ],
+        [
+          "Toreador \"Volgirre\"",
+          "",
+          "Apprentice 1",
+          "",
+          "",
+          "Conformist",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Neptune's Might"
+        ],
+        [
+          "Tremere",
+          "Easily Bound",
+          "Apprentice 2",
+          "",
+          "",
+          "Teacher",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Oneiromancy"
+        ],
+        [
+          "Tremere \"Telyav\"",
+          "",
+          "Apprentice 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Blood"
+        ],
+        [
+          "Tzimisce",
+          "Bound to the Earth",
+          "Apprentice 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of the Blood's Curse"
+        ],
+        [
+          "Tzimisce \"Carpathian\"",
+          "",
+          "Apprentice 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Conjuring"
+        ],
+        [
+          "Tzimisce \"Koldun\"",
+          "",
+          "Apprentice 6",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Corruption"
+        ],
+        [
+          "Ventrue",
+          "Feeding Preferance",
+          "Apprentice 7",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Curses"
+        ],
+        [
+          "Ventrue \"Crusader\"",
+          "",
+          "Regent 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of the Father's Vengeance"
+        ],
+        [
+          "",
+          "",
+          "Regent 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of the Levinbolt"
+        ],
+        [
+          "Blood Brothers *",
+          "",
+          "Regent 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Mars"
+        ],
+        [
+          "Nosferantu \"Hajj\"",
+          "",
+          "Regent 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Shadowcrafting"
+        ],
+        [
+          "Children of Osiris *",
+          "",
+          "Regent 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Technomancy"
+        ],
+        [
+          "Nagaraja *",
+          "Flesh Eaters",
+          "Regent 6",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Transmutation"
+        ],
+        [
+          "Other*",
+          "",
+          "Regent 7",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Spirit Manipulation"
+        ],
+        [
+          "",
+          "",
+          "Lord 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Transitus Velociter"
+        ],
+        [
+          "",
+          "",
+          "Lord 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: The Vine Of Dionysus"
+        ],
+        [
+          "",
+          "",
+          "Lord 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Weather Control"
+        ],
+        [
+          "",
+          "",
+          "Lord 4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Thaumaturgy: Path of Mercury (Path Of Praapti)"
+        ],
+        [
+          "",
+          "",
+          "Lord 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "-"
+        ],
+        [
+          "",
+          "",
+          "Lord 6",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Sepulchre Path"
+        ],
+        [
+          "",
+          "",
+          "Lord 7",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Ash Path"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Bone Path"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Mortuus Path"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Necromancy: The Vitreous Path"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 4"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 5"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 6"
+        ],
+        [
+          "",
+          "",
+          "Pontifex 7"
+        ],
+        [],
+        [
+          "",
+          "",
+          "Ventrue"
+        ],
+        [
+          "",
+          "",
+          "Gerousia"
+        ],
+        [
+          "",
+          "",
+          "Praetor"
+        ],
+        [
+          "",
+          "",
+          "Aediles"
+        ],
+        [
+          "",
+          "",
+          "Questors"
+        ],
+        [
+          "",
+          "",
+          "Eiren"
+        ],
+        [],
+        [
+          "",
+          "",
+          "Losambra"
+        ],
+        [
+          "",
+          "",
+          "les amies noires"
+        ]
+      ],
+      "records": [
+        {
+          "clans": "Assamite \"Warrior\"",
+          "flaws": "Addicted To Vite",
+          "title_rank": "Neonate",
+          "abilites": "Animal Ken",
+          "artist": "Bully",
+          "1_0": -2,
+          "authority_abiding": "Commander (abiding)",
+          "mortal": "Ghoul",
+          "animalism": "Auspex",
+          "email": "Form",
+          "10_1": "12*2"
+        },
+        {
+          "clans": "Assamite \"Sorcerer\"",
+          "abilites": "Academics",
+          "artist": "Cultured",
+          "1_0": -3,
+          "authority_abiding": "Enforcer (abiding)",
+          "mortal": "Thin Blood *14",
+          "animalism": "Celerity",
+          "email": "Facebook Chat",
+          "10_1": "15*3"
+        },
+        {
+          "clans": "Assamite \"Vizier\"",
+          "flaws": "(Obessed) Knowlage",
+          "title_rank": "Elder",
+          "abilites": "Awareness",
+          "artist": "Curious",
+          "1_0": -4,
+          "authority_abiding": "Established (abiding)",
+          "mortal": "Neonate *13",
+          "animalism": "Chimerstry",
+          "email": "Vocial",
+          "10_1": "20*4"
+        },
+        {
+          "clans": "Baali",
+          "flaws": "Faith Sensitivity",
+          "abilites": "Athletics",
+          "artist": "Curmudgeon",
+          "1_0": -5,
+          "authority_abiding": "Prominent (abiding)",
+          "mortal": "Neonate *12",
+          "animalism": "Daimoinon",
+          "10_1": "30*5"
+        },
+        {
+          "clans": "Baali \"Angeles Ater\"",
+          "flaws": "Faith Sensitivity / No Refection",
+          "abilites": "Brawl",
+          "artist": "Enigma",
+          "1_0": -6,
+          "authority_abiding": "Courteous (fleeting)",
+          "mortal": "Neonate 11",
+          "animalism": "Dementation",
+          "10_1": "40*8"
+        },
+        {
+          "clans": "Baali \"Apostate\"",
+          "title_rank": "Prince",
+          "abilites": "Computers",
+          "artist": "Fanatic",
+          "1_0": -7,
+          "authority_abiding": "Courageous (fleeting)",
+          "mortal": "Ancilla *10",
+          "animalism": "Dominate",
+          "10_1": "50*10"
+        },
+        {
+          "clans": "Brujah",
+          "flaws": "Stronger Beast",
+          "title_rank": "Seneschal",
+          "abilites": "Crafts",
+          "artist": "Fighter",
+          "1_0": 1,
+          "authority_abiding": "Defender (fleeting)",
+          "mortal": "Ancilla 9",
+          "animalism": "Fortitude"
+        },
+        {
+          "clans": "Brujah \"True Brujah\"",
+          "flaws": "Emotionally Absent",
+          "title_rank": "Primogen",
+          "abilites": "Dodge",
+          "artist": "Freak",
+          "1_0": 2,
+          "authority_abiding": "Favored (fleeting)",
+          "mortal": "Pretender Elder 8",
+          "animalism": "Melpominee"
+        },
+        {
+          "clans": "Caitiff",
+          "flaws": "Weak Blood",
+          "title_rank": "Whip",
+          "abilites": "Drive",
+          "artist": "Free Spirit",
+          "1_0": 3,
+          "authority_abiding": "Honorable (fleeting)",
+          "mortal": "Master Elder 7",
+          "animalism": "Mytherceria"
+        },
+        {
+          "clans": "Caitiff \"New Bloodline\"",
+          "title_rank": "Harpy",
+          "abilites": "Empathy",
+          "artist": "Introvert",
+          "1_0": 4,
+          "authority_abiding": "Loyal (fleeting)",
+          "mortal": "Luminary Elder 6",
+          "animalism": "Obeah"
+        },
+        {
+          "clans": "Cappadocians",
+          "flaws": "Gastly Pallor",
+          "title_rank": "Keeper of Elysium",
+          "abilites": "Firearms",
+          "artist": "Judge",
+          "1_0": 5,
+          "authority_abiding": "Praised (fleeting)",
+          "mortal": "Methuselah 5",
+          "animalism": "Obfuscate"
+        },
+        {
+          "clans": "Cappadocians \"Lamia\"",
+          "flaws": "Seed of Lilith",
+          "title_rank": "Sheriff",
+          "abilites": "Intimidation",
+          "artist": "Know-It-All",
+          "1_0": 6,
+          "authority_abiding": "Triumphant (fleeting)",
+          "mortal": "Master Methuselah 4",
+          "animalism": "Obtenebration"
+        },
+        {
+          "clans": "Cappadocians \"Samedi\"",
+          "flaws": "Putrid Form",
+          "title_rank": "Scourge",
+          "abilites": "Investigation",
+          "artist": "Leader",
+          "1_0": 7,
+          "authority_abiding": "Victorious (fleeting)",
+          "animalism": "Potence"
+        },
+        {
+          "clans": "Daughters of Cacophony",
+          "flaws": "Distracting Song",
+          "title_rank": "Inner Circle *",
+          "abilites": "Leadership",
+          "artist": "Loner",
+          "1_0": 15,
+          "authority_abiding": "-",
+          "animalism": "Presence"
+        },
+        {
+          "clans": "Followers of Set",
+          "flaws": "Light Sensitivity",
+          "title_rank": "Imperator *",
+          "abilites": "Linguistics",
+          "artist": "Loose Cannon",
+          "1_0": 16,
+          "authority_abiding": "Accepted (Special)",
+          "animalism": "Protean"
+        },
+        {
+          "clans": "Followers of Set \"Tlacique\"",
+          "title_rank": "Justicar *",
+          "abilites": "Lore",
+          "artist": "Martyr",
+          "1_0": 17,
+          "authority_abiding": "Ascendant (abiding)",
+          "animalism": "Quietus"
+        },
+        {
+          "clans": "Followers of Set \"Vipers\"",
+          "title_rank": "Archon",
+          "abilites": "Medicine",
+          "artist": "Mediator",
+          "1_0": 18,
+          "authority_abiding": "Confirmed (abiding)",
+          "animalism": "Sanguinus"
+        },
+        {
+          "clans": "Gangrel",
+          "flaws": "Animalistic Beast",
+          "title_rank": "Alastor",
+          "abilites": "Melee",
+          "artist": "Mercenary",
+          "1_0": 19,
+          "authority_abiding": "Guardian (abiding)",
+          "animalism": "Serpentis"
+        },
+        {
+          "clans": "Gangrel \"Ahrimanes\"",
+          "title_rank": "Baron / Minister",
+          "abilites": "Occult",
+          "artist": "Monster",
+          "1_0": 20,
+          "authority_abiding": "Noble (abiding)",
+          "animalism": "Temporis"
+        },
+        {
+          "clans": "Gangrel \"Coyote\"",
+          "title_rank": "Constable",
+          "abilites": "Performance",
+          "artist": "Penitent",
+          "1_0": 21,
+          "authority_abiding": "Privileged (abiding)",
+          "animalism": "Thanatosis"
+        },
+        {
+          "clans": "Gangrel \"Noiad\"",
+          "title_rank": "Architect",
+          "abilites": "Science",
+          "artist": "Protector",
+          "1_0": 22,
+          "authority_abiding": "Sovereign (abiding)",
+          "animalism": "Valeren"
+        },
+        {
+          "clans": "Gargoyles",
+          "flaws": "Monstrous Slaves",
+          "title_rank": "Ambassador",
+          "abilites": "Science",
+          "artist": "Rationalist",
+          "1_0": 23,
+          "authority_abiding": "Architect (innate)",
+          "animalism": "Vicissitude"
+        },
+        {
+          "clans": "Giovanni",
+          "flaws": "Painful Feeding",
+          "title_rank": "Regent *",
+          "abilites": "Security",
+          "artist": "Royalty",
+          "1_0": 24,
+          "authority_abiding": "Primus Inter Pares (innate)",
+          "animalism": "Visceratika"
+        },
+        {
+          "clans": "Giovanni \"Premascine\"",
+          "flaws": "Gastly Pallor",
+          "title_rank": "Cardinal *",
+          "abilites": "Stealth",
+          "artist": "Survivor",
+          "1_0": 25,
+          "authority_abiding": "Acclaimed (fleeting)",
+          "animalism": "-"
+        },
+        {
+          "clans": "Lasombra",
+          "flaws": "No Reflection",
+          "title_rank": "Prisci *",
+          "abilites": "Streetwise",
+          "artist": "Toady",
+          "1_0": 26,
+          "authority_abiding": "Gallant (fleeting)",
+          "animalism": "Thaumaturgy: Alchemy"
+        },
+        {
+          "clans": "Lasombra \"Kaisyd\"",
+          "flaws": "Form of the Fae",
+          "title_rank": "Archbishop",
+          "abilites": "Subterfuge",
+          "artist": "Traditionalist",
+          "1_0": 27,
+          "authority_abiding": "Sanctioned (fleeting)",
+          "animalism": "Thaumaturgy: Biothaumaturgy"
+        },
+        {
+          "clans": "Malkavians",
+          "flaws": "Permanent Derangement",
+          "title_rank": "Bishop",
+          "abilites": "Survival",
+          "artist": "Trickster",
+          "1_0": 28,
+          "authority_abiding": "-",
+          "animalism": "Thaumaturgy: Elemental Mastery"
+        },
+        {
+          "clans": "Malkavians \"Ananke\"",
+          "flaws": "Gristly Trophies",
+          "title_rank": "Pack Leader",
+          "artist": "Troublemaker",
+          "1_0": 29,
+          "authority_abiding": "Warned (negative)",
+          "animalism": "Thaumaturgy: The Faux Path"
+        },
+        {
+          "clans": "Malkavians \"Knights of the Moon\"",
+          "title_rank": "Templar / Paladin",
+          "artist": "Type-A Personality",
+          "1_0": 30,
+          "authority_abiding": "Disgraced (negative)",
+          "animalism": "Thaumaturgy: The Focused Mind"
+        },
+        {
+          "clans": "Nosferatu",
+          "flaws": "Replusive",
+          "title_rank": "Priest",
+          "artist": "Unflappable",
+          "1_0": 0,
+          "authority_abiding": "Forsaken (negative)",
+          "animalism": "Thaumaturgy: Gift of Morpheus"
+        },
+        {
+          "clans": "Ravnos",
+          "flaws": "Compultions",
+          "title_rank": "Abbot",
+          "artist": "Untrustworthy",
+          "authority_abiding": "Vulgar (negative)",
+          "animalism": "Thaumaturgy: The Green Path"
+        },
+        {
+          "clans": "Ravnos \"Brahman\"",
+          "title_rank": "Black Hand",
+          "artist": "Architect",
+          "animalism": "Thaumaturgy: Hands of Destruction"
+        },
+        {
+          "clans": "Salubri",
+          "flaws": "Violent Feeding",
+          "title_rank": "Inquistion",
+          "artist": "Caregiver",
+          "authority_abiding": "Enforcer (Fleeding)",
+          "animalism": "Thaumaturgy: The Hearth Path"
+        },
+        {
+          "clans": "Salubri \"Healer\"",
+          "flaws": "Peaceful Feeding",
+          "artist": "Child",
+          "authority_abiding": "Loyal (Innate)",
+          "animalism": "Thaumaturgy: Lure of Flames"
+        },
+        {
+          "clans": "Toreador",
+          "flaws": "Entranced by Art",
+          "title_rank": "Clan Titles",
+          "artist": "Competitor",
+          "animalism": "Thaumaturgy: Mastery of the Mortal Shell"
+        },
+        {
+          "clans": "Toreador \"Ishtarri\"",
+          "flaws": "Presence Sensitivity",
+          "title_rank": "Tremere",
+          "artist": "Con Artist",
+          "animalism": "Thaumaturgy: Movement of the Mind"
+        },
+        {
+          "clans": "Toreador \"Volgirre\"",
+          "title_rank": "Apprentice 1",
+          "artist": "Conformist",
+          "animalism": "Thaumaturgy: Neptune's Might"
+        },
+        {
+          "clans": "Tremere",
+          "flaws": "Easily Bound",
+          "title_rank": "Apprentice 2",
+          "artist": "Teacher",
+          "animalism": "Thaumaturgy: Oneiromancy"
+        },
+        {
+          "clans": "Tremere \"Telyav\"",
+          "title_rank": "Apprentice 3",
+          "animalism": "Thaumaturgy: Path of Blood"
+        },
+        {
+          "clans": "Tzimisce",
+          "flaws": "Bound to the Earth",
+          "title_rank": "Apprentice 4",
+          "animalism": "Thaumaturgy: Path of the Blood's Curse"
+        },
+        {
+          "clans": "Tzimisce \"Carpathian\"",
+          "title_rank": "Apprentice 5",
+          "animalism": "Thaumaturgy: Path of Conjuring"
+        },
+        {
+          "clans": "Tzimisce \"Koldun\"",
+          "title_rank": "Apprentice 6",
+          "animalism": "Thaumaturgy: Path of Corruption"
+        },
+        {
+          "clans": "Ventrue",
+          "flaws": "Feeding Preferance",
+          "title_rank": "Apprentice 7",
+          "animalism": "Thaumaturgy: Path of Curses"
+        },
+        {
+          "clans": "Ventrue \"Crusader\"",
+          "title_rank": "Regent 1",
+          "animalism": "Thaumaturgy: Path of the Father's Vengeance"
+        },
+        {
+          "title_rank": "Regent 2",
+          "animalism": "Thaumaturgy: Path of the Levinbolt"
+        },
+        {
+          "clans": "Blood Brothers *",
+          "title_rank": "Regent 3",
+          "animalism": "Thaumaturgy: Path of Mars"
+        },
+        {
+          "clans": "Nosferantu \"Hajj\"",
+          "title_rank": "Regent 4",
+          "animalism": "Thaumaturgy: Path of Shadowcrafting"
+        },
+        {
+          "clans": "Children of Osiris *",
+          "title_rank": "Regent 5",
+          "animalism": "Thaumaturgy: Path of Technomancy"
+        },
+        {
+          "clans": "Nagaraja *",
+          "flaws": "Flesh Eaters",
+          "title_rank": "Regent 6",
+          "animalism": "Thaumaturgy: Path of Transmutation"
+        },
+        {
+          "clans": "Other*",
+          "title_rank": "Regent 7",
+          "animalism": "Thaumaturgy: Spirit Manipulation"
+        },
+        {
+          "title_rank": "Lord 1",
+          "animalism": "Thaumaturgy: Transitus Velociter"
+        },
+        {
+          "title_rank": "Lord 2",
+          "animalism": "Thaumaturgy: The Vine Of Dionysus"
+        },
+        {
+          "title_rank": "Lord 3",
+          "animalism": "Thaumaturgy: Weather Control"
+        },
+        {
+          "title_rank": "Lord 4",
+          "animalism": "Thaumaturgy: Path of Mercury (Path Of Praapti)"
+        },
+        {
+          "title_rank": "Lord 5",
+          "animalism": "-"
+        },
+        {
+          "title_rank": "Lord 6",
+          "animalism": "Necromancy: The Sepulchre Path"
+        },
+        {
+          "title_rank": "Lord 7",
+          "animalism": "Necromancy: The Ash Path"
+        },
+        {
+          "title_rank": "Pontifex 1",
+          "animalism": "Necromancy: The Bone Path"
+        },
+        {
+          "title_rank": "Pontifex 2",
+          "animalism": "Necromancy: The Mortuus Path"
+        },
+        {
+          "title_rank": "Pontifex 3",
+          "animalism": "Necromancy: The Vitreous Path"
+        },
+        {
+          "title_rank": "Pontifex 4"
+        },
+        {
+          "title_rank": "Pontifex 5"
+        },
+        {
+          "title_rank": "Pontifex 6"
+        },
+        {
+          "title_rank": "Pontifex 7"
+        },
+        {
+          "title_rank": "Ventrue"
+        },
+        {
+          "title_rank": "Gerousia"
+        },
+        {
+          "title_rank": "Praetor"
+        },
+        {
+          "title_rank": "Aediles"
+        },
+        {
+          "title_rank": "Questors"
+        },
+        {
+          "title_rank": "Eiren"
+        },
+        {
+          "title_rank": "Losambra"
+        },
+        {
+          "title_rank": "les amies noires"
+        }
+      ]
+    },
+    "Merit Table": {
+      "rows": [
+        [],
+        [
+          "~ Rarity Merits ~",
+          "Point"
+        ],
+        [
+          "Uncommon Clan",
+          "2.0"
+        ],
+        [
+          "Rare Clan",
+          "4.0"
+        ],
+        [
+          "Restricted Clan",
+          "6.0"
+        ],
+        [
+          "Restricted Clan (Bloodline)",
+          "6.0"
+        ],
+        [
+          "Bloodline: Base Clan",
+          "4.0"
+        ],
+        [],
+        [
+          "~ Clan Specific Merits ~",
+          "Point"
+        ],
+        [
+          "Surprise Attack",
+          "1.0",
+          "Assamite",
+          "Assamite"
+        ],
+        [
+          "Bloodline: Vizier",
+          "2.0",
+          "Assamite",
+          "Assamite"
+        ],
+        [
+          "Awakening the Steel",
+          "3.0",
+          "Assamite",
+          "Assamite"
+        ],
+        [
+          "Bloodline: Sorcerer",
+          "4.0",
+          "Assamite",
+          "Assamite"
+        ],
+        [
+          "Brotherhood",
+          "1.0",
+          "Brujah",
+          "Brujah"
+        ],
+        [
+          "Burning Wrath",
+          "2.0",
+          "Brujah",
+          "Brujah"
+        ],
+        [
+          "Scourge of Alecto",
+          "3.0",
+          "Brujah",
+          "Brujah"
+        ],
+        [
+          "Bloodline: True Brujah",
+          "4.0",
+          "Brujah",
+          "Brujah"
+        ],
+        [
+          "Personal Cult",
+          "1.0",
+          "Followers of Set",
+          "Followers of Set"
+        ],
+        [
+          "Bloodline: Tlacique",
+          "2.0",
+          "Followers of Set",
+          "Followers of Set"
+        ],
+        [
+          "Bloodline: Vipers",
+          "2.0",
+          "Followers of Set",
+          "Followers of Set"
+        ],
+        [
+          "Addictive Blood",
+          "3.0",
+          "Followers of Set",
+          "Followers of Set"
+        ],
+        [
+          "Setite Sorcery",
+          "4.0",
+          "Followers of Set",
+          "Followers of Set"
+        ],
+        [
+          "Protean Blood",
+          "1.0",
+          "Gangrel",
+          "Gangrel"
+        ],
+        [
+          "Bloodline: Coyote",
+          "2.0",
+          "Gangrel",
+          "Gangrel"
+        ],
+        [
+          "Bloodline: Noiad",
+          "2.0",
+          "Gangrel",
+          "Gangrel"
+        ],
+        [
+          "Shape of the Beast's Wrath",
+          "3.0",
+          "Gangrel",
+          "Gangrel"
+        ],
+        [
+          "Bloodline: Ahrimanes",
+          "4.0",
+          "Gangrel",
+          "Gangrel"
+        ],
+        [
+          "Necromantic Expertise",
+          "1.0",
+          "Giovanni",
+          "Giovanni"
+        ],
+        [
+          "Mook",
+          "2.0",
+          "Giovanni",
+          "Giovanni"
+        ],
+        [
+          "Ghostly Retainer",
+          "3.0",
+          "Giovanni",
+          "Giovanni"
+        ],
+        [
+          "Bloodline: Premascine",
+          "4.0",
+          "Giovanni",
+          "Giovanni"
+        ],
+        [
+          "Angelic Visage",
+          "1.0",
+          "Lasombra",
+          "Lasombra"
+        ],
+        [
+          "Born in Shadow",
+          "2.0",
+          "Lasombra",
+          "Lasombra"
+        ],
+        [
+          "Walk the Abyss (Abyss Mysticism)",
+          "3.0",
+          "Lasombra",
+          "Lasombra"
+        ],
+        [
+          "Bloodline: Kiasyd",
+          "4.0",
+          "Lasombra",
+          "Lasombra"
+        ],
+        [
+          "Expanded Conciousness",
+          "1.0",
+          "Malkavian",
+          "Malkavian"
+        ],
+        [
+          "Bloodline: Ananke",
+          "2.0",
+          "Malkavian",
+          "Malkavian"
+        ],
+        [
+          "Bloodline: Knights of the Moon",
+          "2.0",
+          "Malkavian",
+          "Malkavian"
+        ],
+        [
+          "Labyrinthine Mind",
+          "3.0",
+          "Malkavian",
+          "Malkavian"
+        ],
+        [
+          "Sophistry",
+          "4.0",
+          "Malkavian",
+          "Malkavian"
+        ],
+        [
+          "Unseeing Eye",
+          "1.0",
+          "Nosferatu",
+          "Nosferatu"
+        ],
+        [
+          "Hidden Advantage",
+          "2.0",
+          "Nosferatu",
+          "Nosferatu"
+        ],
+        [
+          "Pliable Blood",
+          "3.0",
+          "Nosferatu",
+          "Nosferatu"
+        ],
+        [
+          "Unnatural Adaptation",
+          "4.0",
+          "Nosferatu",
+          "Nosferatu"
+        ],
+        [
+          "Artist's Blessing",
+          "1.0",
+          "Toreador",
+          "Toreador"
+        ],
+        [
+          "Bloodline: Ishtarri",
+          "2.0",
+          "Toreador",
+          "Toreador"
+        ],
+        [
+          "Bloodline: Volgirre",
+          "2.0",
+          "Toreador",
+          "Toreador"
+        ],
+        [
+          "Absent Sway",
+          "3.0",
+          "Toreador",
+          "Toreador"
+        ],
+        [
+          "Dancer's Grace",
+          "4.0",
+          "Toreador",
+          "Toreador"
+        ],
+        [
+          "Thaumaturgic Expertise",
+          "1.0",
+          "Tremere",
+          "Tremere"
+        ],
+        [
+          "Bloodline: Telyav",
+          "2.0",
+          "Tremere",
+          "Tremere"
+        ],
+        [
+          "Talisman",
+          "3.0",
+          "Tremere",
+          "Tremere"
+        ],
+        [
+          "Countermagic",
+          "4.0",
+          "Tremere",
+          "Tremere"
+        ],
+        [
+          "Blood of the Tzimisce",
+          "1.0",
+          "Tzimisce",
+          "Tzimisce"
+        ],
+        [
+          "Szlachta",
+          "2.0",
+          "Tzimisce",
+          "Tzimisce"
+        ],
+        [
+          "Bloodline: Carpathian",
+          "3.0",
+          "Tzimisce",
+          "Tzimisce"
+        ],
+        [
+          "Bloodline: Koldun",
+          "4.0",
+          "Tzimisce",
+          "Tzimisce"
+        ],
+        [
+          "Aura of Command",
+          "1.0",
+          "Ventrue",
+          "Ventrue"
+        ],
+        [
+          "Bloodline: Crusader",
+          "2.0",
+          "Ventrue",
+          "Ventrue"
+        ],
+        [
+          "Paragon",
+          "3.0",
+          "Ventrue",
+          "Ventrue"
+        ],
+        [
+          "Regal Bearing",
+          "4.0",
+          "Ventrue",
+          "Ventrue"
+        ],
+        [
+          "Auspicious",
+          "1.0",
+          "Caitiff",
+          "Caitiff"
+        ],
+        [
+          "Eclipsed Blood",
+          "2.0",
+          "Caitiff",
+          "Caitiff"
+        ],
+        [
+          "Vestiges of Greatness",
+          "3.0",
+          "Caitiff",
+          "Caitiff"
+        ],
+        [
+          "Infernal Heritage",
+          "1.0",
+          "Baali",
+          "Baali"
+        ],
+        [
+          "Bloodline: Angellis Ater",
+          "3.0",
+          "Baali",
+          "Baali"
+        ],
+        [
+          "Necromantic Insight",
+          "1.0",
+          "Cappadocians",
+          "Cappadocians"
+        ],
+        [
+          "Bloodline: Samedi",
+          "2.0",
+          "Cappadocians",
+          "Cappadocians"
+        ],
+        [
+          "Pierced Shroud",
+          "3.0",
+          "Cappadocians",
+          "Cappadocians"
+        ],
+        [
+          "Bloodline: Lamia",
+          "4.0",
+          "Cappadocians",
+          "Cappadocians"
+        ],
+        [
+          "Waking Dream",
+          "1.0",
+          "Ravnos",
+          "Ravnos"
+        ],
+        [
+          "Bloodline: Brahman",
+          "2.0",
+          "Ravnos",
+          "Ravnos"
+        ],
+        [
+          "Escape Artist",
+          "3.0",
+          "Ravnos",
+          "Ravnos"
+        ],
+        [
+          "Righteous Fury",
+          "1.0",
+          "Salubri",
+          "Salubri"
+        ],
+        [
+          "Spiritual Armor",
+          "2.0",
+          "Salubri",
+          "Salubri"
+        ],
+        [
+          "Bloodline: Healer",
+          "3.0",
+          "Salubri",
+          "Salubri"
+        ],
+        [
+          "Supernatural Aria",
+          "1.0",
+          "Daughters of Cacophony",
+          "Daughters of Cacophony"
+        ],
+        [
+          "Soaring Octaves",
+          "3.0",
+          "Daughters of Cacophony",
+          "Daughters of Cacophony"
+        ],
+        [
+          "Flight",
+          "1.0",
+          "Gargoyles",
+          "Gargoyles"
+        ],
+        [
+          "Dark Statue",
+          "3.0",
+          "Gargoyles",
+          "Gargoyles"
+        ],
+        [],
+        [
+          "~ General Merits ~",
+          "Point"
+        ],
+        [
+          "Acute Sense",
+          "1.0"
+        ],
+        [
+          "Additional Common Discipline",
+          "4.0"
+        ],
+        [
+          "Additional Uncommon Discipline",
+          "5.0"
+        ],
+        [
+          "Ambidextrous",
+          "2.0"
+        ],
+        [
+          "Arcane",
+          "1.0"
+        ],
+        [
+          "Blasé",
+          "3.0"
+        ],
+        [
+          "Calm Heart",
+          "1.0"
+        ],
+        [
+          "Clear Sighted",
+          "3.0"
+        ],
+        [
+          "Code of Honor",
+          "2.0"
+        ],
+        [
+          "Daredevil",
+          "2.0"
+        ],
+        [
+          "Efficient Digestion",
+          "1.0"
+        ],
+        [
+          "Efficient Learner",
+          "2.0"
+        ],
+        [
+          "Golconda Seeker",
+          "5.0"
+        ],
+        [
+          "Infernal Power",
+          "3.0"
+        ],
+        [
+          "Intense Vitality",
+          "2.0"
+        ],
+        [
+          "Iron Will",
+          "3.0"
+        ],
+        [
+          "Light Sleeper",
+          "1.0"
+        ],
+        [
+          "Loremaster",
+          "1.0"
+        ],
+        [
+          "Lucky",
+          "2.0"
+        ],
+        [
+          "Magic Resistance",
+          "3.0"
+        ],
+        [
+          "Medium",
+          "1.0"
+        ],
+        [
+          "Natural Linguist",
+          "1.0"
+        ],
+        [
+          "Necromantic Training",
+          "5.0"
+        ],
+        [
+          "Oracular Ability",
+          "2.0"
+        ],
+        [
+          "Personal Masquerade",
+          "1.0"
+        ],
+        [
+          "Reputation",
+          "2.0"
+        ],
+        [
+          "Rugged",
+          "3.0"
+        ],
+        [
+          "Skill Aptitude",
+          "2.0"
+        ],
+        [
+          "Slippery Customer",
+          "2.0"
+        ],
+        [
+          "Thaumaturgic Training",
+          "4.0"
+        ],
+        [
+          "Unbondable",
+          "4.0"
+        ],
+        [
+          "Unyielding",
+          "4.0"
+        ],
+        [
+          "Versatile",
+          "3.0"
+        ],
+        [
+          "Whisper of Life",
+          "1.0"
+        ],
+        [],
+        [
+          "~ Morality Merits ~",
+          "Point"
+        ],
+        [
+          "Path of Blood",
+          "3.0"
+        ],
+        [
+          "Path of Caine",
+          "3.0"
+        ],
+        [
+          "Path of Cathari",
+          "3.0"
+        ],
+        [
+          "Path of Chivalry",
+          "3.0"
+        ],
+        [
+          "Path of Death & the Soul",
+          "3.0"
+        ],
+        [
+          "Path of Ecstasy",
+          "3.0"
+        ],
+        [
+          "Path of Evil Revelations",
+          "3.0"
+        ],
+        [
+          "Path of the Feral Heart",
+          "3.0"
+        ],
+        [
+          "Path of Heaven",
+          "3.0"
+        ],
+        [
+          "Path of Harmony",
+          "3.0"
+        ],
+        [
+          "Path of Honorable Accord",
+          "3.0"
+        ],
+        [
+          "Path of Lilith",
+          "3.0"
+        ],
+        [
+          "Path of Metamorphosis",
+          "3.0"
+        ],
+        [
+          "Path of Night",
+          "3.0"
+        ],
+        [
+          "Path of Orion",
+          "3.0"
+        ],
+        [
+          "Path of Paradox",
+          "3.0"
+        ],
+        [
+          "Path of Power & the Inner Voice",
+          "3.0"
+        ],
+        [
+          "Path of Scorched Heart",
+          "3.0"
+        ],
+        [
+          "Path of Typhon-Set",
+          "3.0"
+        ],
+        [],
+        [
+          "~ Setting Merits ~",
+          "Point"
+        ],
+        [
+          "Antiquities",
+          "1.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Architect of the Tower",
+          "2.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Emissary to the Camarilla",
+          "1.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Machiavellian Prodigy",
+          "1.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Master of Puppets",
+          "2.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Monopoly",
+          "1.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Prestigious Sire",
+          "1.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Social Nobility",
+          "3.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Black Hand Membership",
+          "2.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Executioner",
+          "1.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Fanatic",
+          "2.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Inquisition Member",
+          "2.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Keeper of a Sacred Text",
+          "1.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Pack Player",
+          "3.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Revelator",
+          "3.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Sanctified",
+          "1.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Scholar of the Sword",
+          "1.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Volatile",
+          "1.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Zealot",
+          "1.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Dauntless",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Dhampir",
+          "4.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Ear to the Ground",
+          "1.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Elder of the Revolution",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Lion of the Cause",
+          "3.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Moniker",
+          "1.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Moral Compass",
+          "1.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Old Dog",
+          "1.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Sorcerous Dabbler",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Tech Junkie",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Wild One",
+          "1.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [],
+        [
+          "~ General Flaws ~",
+          "Point"
+        ],
+        [
+          "Addiction",
+          "2.0"
+        ],
+        [
+          "Amnesia",
+          "1.0"
+        ],
+        [
+          "Archaic",
+          "2.0"
+        ],
+        [
+          "Awkward Movement",
+          "2.0"
+        ],
+        [
+          "Bad Sight",
+          "2.0"
+        ],
+        [
+          "Beacon of the Unholy",
+          "3.0"
+        ],
+        [
+          "Beast in the Mirror",
+          "2.0"
+        ],
+        [
+          "Bestial Instinct",
+          "2.0"
+        ],
+        [
+          "Blood Rot",
+          "5.0"
+        ],
+        [
+          "Bound to the Earth",
+          "2.0"
+        ],
+        [
+          "Blunted Fangs",
+          "2.0"
+        ],
+        [
+          "Cannot Cross Running Water",
+          "2.0"
+        ],
+        [
+          "Careless",
+          "1.0"
+        ],
+        [
+          "Childlike",
+          "4.0"
+        ],
+        [
+          "Conspicuous Consumption",
+          "3.0"
+        ],
+        [
+          "Curiousity",
+          "2.0"
+        ],
+        [
+          "Cursed",
+          "1.0"
+        ],
+        [
+          "Dark Fate",
+          "5.0"
+        ],
+        [
+          "Dark Secret",
+          "1.0"
+        ],
+        [
+          "Death Sight",
+          "2.0"
+        ],
+        [
+          "Deep Sleeper",
+          "2.0"
+        ],
+        [
+          "Disease Carrier",
+          "4.0"
+        ],
+        [
+          "Dull",
+          "2.0"
+        ],
+        [
+          "Eerie Presence",
+          "1.0"
+        ],
+        [
+          "Flesh of the Corpse",
+          "5.0"
+        ],
+        [
+          "Fragile Bones",
+          "4.0"
+        ],
+        [
+          "Gehenna Prophet",
+          "2.0"
+        ],
+        [
+          "Grip of the Damned",
+          "2.0"
+        ],
+        [
+          "Hard of Hearing",
+          "2.0"
+        ],
+        [
+          "Haunted",
+          "1.0"
+        ],
+        [
+          "Hunted",
+          "4.0"
+        ],
+        [
+          "Infamous Brood",
+          "3.0"
+        ],
+        [
+          "Illiterate",
+          "1.0"
+        ],
+        [
+          "Impatient",
+          "2.0"
+        ],
+        [
+          "Inept",
+          "3.0"
+        ],
+        [
+          "Intolerance",
+          "1.0"
+        ],
+        [
+          "Known to be Dead",
+          "1.0"
+        ],
+        [
+          "Lesser Generation 1",
+          "1.0"
+        ],
+        [
+          "Lesser Generation 2",
+          "2.0"
+        ],
+        [
+          "Low Pain Threshold",
+          "3.0"
+        ],
+        [
+          "Magic Susceptibility",
+          "2.0"
+        ],
+        [
+          "Methuselah's Thirst",
+          "4.0"
+        ],
+        [
+          "Nightmares",
+          "1.0"
+        ],
+        [
+          "Necrophile",
+          "1.0"
+        ],
+        [
+          "Notoriety",
+          "2.0"
+        ],
+        [
+          "Obvious Predator",
+          "2.0"
+        ],
+        [
+          "One Eye",
+          "3.0"
+        ],
+        [
+          "Overconfident",
+          "2.0"
+        ],
+        [
+          "Permanent Wound",
+          "3.0"
+        ],
+        [
+          "Poseidon's Call",
+          "3.0"
+        ],
+        [
+          "Pied Piper",
+          "1.0"
+        ],
+        [
+          "Prey Exclusion",
+          "1.0"
+        ],
+        [
+          "Repelled by Religion",
+          "3.0"
+        ],
+        [
+          "Short Attention Span",
+          "4.0"
+        ],
+        [
+          "Short Fuse",
+          "2.0"
+        ],
+        [
+          "Slow Healing",
+          "3.0"
+        ],
+        [
+          "Slow Reactions",
+          "3.0"
+        ],
+        [
+          "Stolen Potential",
+          "3.0"
+        ],
+        [
+          "Thin Blooded",
+          "3.0"
+        ],
+        [
+          "Thirst for Innocence",
+          "1.0"
+        ],
+        [
+          "Trouble Magnet",
+          "1.0"
+        ],
+        [
+          "Vulnerable to Silver",
+          "2.0"
+        ],
+        [
+          "Weak-Willed",
+          "3.0"
+        ],
+        [
+          "Weak Stomach",
+          "3.0"
+        ],
+        [],
+        [
+          "~ Derangement Flaws ~",
+          "Point"
+        ],
+        [
+          "Derangement",
+          "2.0"
+        ],
+        [
+          "Derangement, Severe",
+          "3.0"
+        ],
+        [],
+        [
+          "~ Setting Flaws ~",
+          "Point"
+        ],
+        [
+          "Accused of Heresy",
+          "2.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Forgiven Diablerie",
+          "1.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Sectarian",
+          "2.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Tainted Embrace",
+          "2.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Untrained Combatant",
+          "3.0",
+          "Camarilla",
+          "Camarilla"
+        ],
+        [
+          "Crisis of Faith",
+          "2.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Mistrusted",
+          "1.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Soul Shard",
+          "3.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Tenuous Loyalty",
+          "3.0",
+          "Sabbat",
+          "Sabbat"
+        ],
+        [
+          "Bastard Childe",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Black Sheep",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Dubious Loyalties",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Escaped Shovelhead",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ],
+        [
+          "Once Enslaved",
+          "2.0",
+          "Anarch Movement",
+          "Anarch Movement"
+        ]
+      ],
+      "records": [
+        {
+          "rarity_merits": "Uncommon Clan",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Rare Clan",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Restricted Clan",
+          "point": 6
+        },
+        {
+          "rarity_merits": "Restricted Clan (Bloodline)",
+          "point": 6
+        },
+        {
+          "rarity_merits": "Bloodline: Base Clan",
+          "point": 4
+        },
+        {
+          "rarity_merits": "~ Clan Specific Merits ~",
+          "point": "Point"
+        },
+        {
+          "rarity_merits": "Surprise Attack",
+          "point": 1,
+          "column_3": "Assamite",
+          "column_4": "Assamite"
+        },
+        {
+          "rarity_merits": "Bloodline: Vizier",
+          "point": 2,
+          "column_3": "Assamite",
+          "column_4": "Assamite"
+        },
+        {
+          "rarity_merits": "Awakening the Steel",
+          "point": 3,
+          "column_3": "Assamite",
+          "column_4": "Assamite"
+        },
+        {
+          "rarity_merits": "Bloodline: Sorcerer",
+          "point": 4,
+          "column_3": "Assamite",
+          "column_4": "Assamite"
+        },
+        {
+          "rarity_merits": "Brotherhood",
+          "point": 1,
+          "column_3": "Brujah",
+          "column_4": "Brujah"
+        },
+        {
+          "rarity_merits": "Burning Wrath",
+          "point": 2,
+          "column_3": "Brujah",
+          "column_4": "Brujah"
+        },
+        {
+          "rarity_merits": "Scourge of Alecto",
+          "point": 3,
+          "column_3": "Brujah",
+          "column_4": "Brujah"
+        },
+        {
+          "rarity_merits": "Bloodline: True Brujah",
+          "point": 4,
+          "column_3": "Brujah",
+          "column_4": "Brujah"
+        },
+        {
+          "rarity_merits": "Personal Cult",
+          "point": 1,
+          "column_3": "Followers of Set",
+          "column_4": "Followers of Set"
+        },
+        {
+          "rarity_merits": "Bloodline: Tlacique",
+          "point": 2,
+          "column_3": "Followers of Set",
+          "column_4": "Followers of Set"
+        },
+        {
+          "rarity_merits": "Bloodline: Vipers",
+          "point": 2,
+          "column_3": "Followers of Set",
+          "column_4": "Followers of Set"
+        },
+        {
+          "rarity_merits": "Addictive Blood",
+          "point": 3,
+          "column_3": "Followers of Set",
+          "column_4": "Followers of Set"
+        },
+        {
+          "rarity_merits": "Setite Sorcery",
+          "point": 4,
+          "column_3": "Followers of Set",
+          "column_4": "Followers of Set"
+        },
+        {
+          "rarity_merits": "Protean Blood",
+          "point": 1,
+          "column_3": "Gangrel",
+          "column_4": "Gangrel"
+        },
+        {
+          "rarity_merits": "Bloodline: Coyote",
+          "point": 2,
+          "column_3": "Gangrel",
+          "column_4": "Gangrel"
+        },
+        {
+          "rarity_merits": "Bloodline: Noiad",
+          "point": 2,
+          "column_3": "Gangrel",
+          "column_4": "Gangrel"
+        },
+        {
+          "rarity_merits": "Shape of the Beast's Wrath",
+          "point": 3,
+          "column_3": "Gangrel",
+          "column_4": "Gangrel"
+        },
+        {
+          "rarity_merits": "Bloodline: Ahrimanes",
+          "point": 4,
+          "column_3": "Gangrel",
+          "column_4": "Gangrel"
+        },
+        {
+          "rarity_merits": "Necromantic Expertise",
+          "point": 1,
+          "column_3": "Giovanni",
+          "column_4": "Giovanni"
+        },
+        {
+          "rarity_merits": "Mook",
+          "point": 2,
+          "column_3": "Giovanni",
+          "column_4": "Giovanni"
+        },
+        {
+          "rarity_merits": "Ghostly Retainer",
+          "point": 3,
+          "column_3": "Giovanni",
+          "column_4": "Giovanni"
+        },
+        {
+          "rarity_merits": "Bloodline: Premascine",
+          "point": 4,
+          "column_3": "Giovanni",
+          "column_4": "Giovanni"
+        },
+        {
+          "rarity_merits": "Angelic Visage",
+          "point": 1,
+          "column_3": "Lasombra",
+          "column_4": "Lasombra"
+        },
+        {
+          "rarity_merits": "Born in Shadow",
+          "point": 2,
+          "column_3": "Lasombra",
+          "column_4": "Lasombra"
+        },
+        {
+          "rarity_merits": "Walk the Abyss (Abyss Mysticism)",
+          "point": 3,
+          "column_3": "Lasombra",
+          "column_4": "Lasombra"
+        },
+        {
+          "rarity_merits": "Bloodline: Kiasyd",
+          "point": 4,
+          "column_3": "Lasombra",
+          "column_4": "Lasombra"
+        },
+        {
+          "rarity_merits": "Expanded Conciousness",
+          "point": 1,
+          "column_3": "Malkavian",
+          "column_4": "Malkavian"
+        },
+        {
+          "rarity_merits": "Bloodline: Ananke",
+          "point": 2,
+          "column_3": "Malkavian",
+          "column_4": "Malkavian"
+        },
+        {
+          "rarity_merits": "Bloodline: Knights of the Moon",
+          "point": 2,
+          "column_3": "Malkavian",
+          "column_4": "Malkavian"
+        },
+        {
+          "rarity_merits": "Labyrinthine Mind",
+          "point": 3,
+          "column_3": "Malkavian",
+          "column_4": "Malkavian"
+        },
+        {
+          "rarity_merits": "Sophistry",
+          "point": 4,
+          "column_3": "Malkavian",
+          "column_4": "Malkavian"
+        },
+        {
+          "rarity_merits": "Unseeing Eye",
+          "point": 1,
+          "column_3": "Nosferatu",
+          "column_4": "Nosferatu"
+        },
+        {
+          "rarity_merits": "Hidden Advantage",
+          "point": 2,
+          "column_3": "Nosferatu",
+          "column_4": "Nosferatu"
+        },
+        {
+          "rarity_merits": "Pliable Blood",
+          "point": 3,
+          "column_3": "Nosferatu",
+          "column_4": "Nosferatu"
+        },
+        {
+          "rarity_merits": "Unnatural Adaptation",
+          "point": 4,
+          "column_3": "Nosferatu",
+          "column_4": "Nosferatu"
+        },
+        {
+          "rarity_merits": "Artist's Blessing",
+          "point": 1,
+          "column_3": "Toreador",
+          "column_4": "Toreador"
+        },
+        {
+          "rarity_merits": "Bloodline: Ishtarri",
+          "point": 2,
+          "column_3": "Toreador",
+          "column_4": "Toreador"
+        },
+        {
+          "rarity_merits": "Bloodline: Volgirre",
+          "point": 2,
+          "column_3": "Toreador",
+          "column_4": "Toreador"
+        },
+        {
+          "rarity_merits": "Absent Sway",
+          "point": 3,
+          "column_3": "Toreador",
+          "column_4": "Toreador"
+        },
+        {
+          "rarity_merits": "Dancer's Grace",
+          "point": 4,
+          "column_3": "Toreador",
+          "column_4": "Toreador"
+        },
+        {
+          "rarity_merits": "Thaumaturgic Expertise",
+          "point": 1,
+          "column_3": "Tremere",
+          "column_4": "Tremere"
+        },
+        {
+          "rarity_merits": "Bloodline: Telyav",
+          "point": 2,
+          "column_3": "Tremere",
+          "column_4": "Tremere"
+        },
+        {
+          "rarity_merits": "Talisman",
+          "point": 3,
+          "column_3": "Tremere",
+          "column_4": "Tremere"
+        },
+        {
+          "rarity_merits": "Countermagic",
+          "point": 4,
+          "column_3": "Tremere",
+          "column_4": "Tremere"
+        },
+        {
+          "rarity_merits": "Blood of the Tzimisce",
+          "point": 1,
+          "column_3": "Tzimisce",
+          "column_4": "Tzimisce"
+        },
+        {
+          "rarity_merits": "Szlachta",
+          "point": 2,
+          "column_3": "Tzimisce",
+          "column_4": "Tzimisce"
+        },
+        {
+          "rarity_merits": "Bloodline: Carpathian",
+          "point": 3,
+          "column_3": "Tzimisce",
+          "column_4": "Tzimisce"
+        },
+        {
+          "rarity_merits": "Bloodline: Koldun",
+          "point": 4,
+          "column_3": "Tzimisce",
+          "column_4": "Tzimisce"
+        },
+        {
+          "rarity_merits": "Aura of Command",
+          "point": 1,
+          "column_3": "Ventrue",
+          "column_4": "Ventrue"
+        },
+        {
+          "rarity_merits": "Bloodline: Crusader",
+          "point": 2,
+          "column_3": "Ventrue",
+          "column_4": "Ventrue"
+        },
+        {
+          "rarity_merits": "Paragon",
+          "point": 3,
+          "column_3": "Ventrue",
+          "column_4": "Ventrue"
+        },
+        {
+          "rarity_merits": "Regal Bearing",
+          "point": 4,
+          "column_3": "Ventrue",
+          "column_4": "Ventrue"
+        },
+        {
+          "rarity_merits": "Auspicious",
+          "point": 1,
+          "column_3": "Caitiff",
+          "column_4": "Caitiff"
+        },
+        {
+          "rarity_merits": "Eclipsed Blood",
+          "point": 2,
+          "column_3": "Caitiff",
+          "column_4": "Caitiff"
+        },
+        {
+          "rarity_merits": "Vestiges of Greatness",
+          "point": 3,
+          "column_3": "Caitiff",
+          "column_4": "Caitiff"
+        },
+        {
+          "rarity_merits": "Infernal Heritage",
+          "point": 1,
+          "column_3": "Baali",
+          "column_4": "Baali"
+        },
+        {
+          "rarity_merits": "Bloodline: Angellis Ater",
+          "point": 3,
+          "column_3": "Baali",
+          "column_4": "Baali"
+        },
+        {
+          "rarity_merits": "Necromantic Insight",
+          "point": 1,
+          "column_3": "Cappadocians",
+          "column_4": "Cappadocians"
+        },
+        {
+          "rarity_merits": "Bloodline: Samedi",
+          "point": 2,
+          "column_3": "Cappadocians",
+          "column_4": "Cappadocians"
+        },
+        {
+          "rarity_merits": "Pierced Shroud",
+          "point": 3,
+          "column_3": "Cappadocians",
+          "column_4": "Cappadocians"
+        },
+        {
+          "rarity_merits": "Bloodline: Lamia",
+          "point": 4,
+          "column_3": "Cappadocians",
+          "column_4": "Cappadocians"
+        },
+        {
+          "rarity_merits": "Waking Dream",
+          "point": 1,
+          "column_3": "Ravnos",
+          "column_4": "Ravnos"
+        },
+        {
+          "rarity_merits": "Bloodline: Brahman",
+          "point": 2,
+          "column_3": "Ravnos",
+          "column_4": "Ravnos"
+        },
+        {
+          "rarity_merits": "Escape Artist",
+          "point": 3,
+          "column_3": "Ravnos",
+          "column_4": "Ravnos"
+        },
+        {
+          "rarity_merits": "Righteous Fury",
+          "point": 1,
+          "column_3": "Salubri",
+          "column_4": "Salubri"
+        },
+        {
+          "rarity_merits": "Spiritual Armor",
+          "point": 2,
+          "column_3": "Salubri",
+          "column_4": "Salubri"
+        },
+        {
+          "rarity_merits": "Bloodline: Healer",
+          "point": 3,
+          "column_3": "Salubri",
+          "column_4": "Salubri"
+        },
+        {
+          "rarity_merits": "Supernatural Aria",
+          "point": 1,
+          "column_3": "Daughters of Cacophony",
+          "column_4": "Daughters of Cacophony"
+        },
+        {
+          "rarity_merits": "Soaring Octaves",
+          "point": 3,
+          "column_3": "Daughters of Cacophony",
+          "column_4": "Daughters of Cacophony"
+        },
+        {
+          "rarity_merits": "Flight",
+          "point": 1,
+          "column_3": "Gargoyles",
+          "column_4": "Gargoyles"
+        },
+        {
+          "rarity_merits": "Dark Statue",
+          "point": 3,
+          "column_3": "Gargoyles",
+          "column_4": "Gargoyles"
+        },
+        {
+          "rarity_merits": "~ General Merits ~",
+          "point": "Point"
+        },
+        {
+          "rarity_merits": "Acute Sense",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Additional Common Discipline",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Additional Uncommon Discipline",
+          "point": 5
+        },
+        {
+          "rarity_merits": "Ambidextrous",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Arcane",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Blasé",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Calm Heart",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Clear Sighted",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Code of Honor",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Daredevil",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Efficient Digestion",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Efficient Learner",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Golconda Seeker",
+          "point": 5
+        },
+        {
+          "rarity_merits": "Infernal Power",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Intense Vitality",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Iron Will",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Light Sleeper",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Loremaster",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Lucky",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Magic Resistance",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Medium",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Natural Linguist",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Necromantic Training",
+          "point": 5
+        },
+        {
+          "rarity_merits": "Oracular Ability",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Personal Masquerade",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Reputation",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Rugged",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Skill Aptitude",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Slippery Customer",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Thaumaturgic Training",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Unbondable",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Unyielding",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Versatile",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Whisper of Life",
+          "point": 1
+        },
+        {
+          "rarity_merits": "~ Morality Merits ~",
+          "point": "Point"
+        },
+        {
+          "rarity_merits": "Path of Blood",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Caine",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Cathari",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Chivalry",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Death & the Soul",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Ecstasy",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Evil Revelations",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of the Feral Heart",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Heaven",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Harmony",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Honorable Accord",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Lilith",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Metamorphosis",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Night",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Orion",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Paradox",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Power & the Inner Voice",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Scorched Heart",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Path of Typhon-Set",
+          "point": 3
+        },
+        {
+          "rarity_merits": "~ Setting Merits ~",
+          "point": "Point"
+        },
+        {
+          "rarity_merits": "Antiquities",
+          "point": 1,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Architect of the Tower",
+          "point": 2,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Emissary to the Camarilla",
+          "point": 1,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Machiavellian Prodigy",
+          "point": 1,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Master of Puppets",
+          "point": 2,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Monopoly",
+          "point": 1,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Prestigious Sire",
+          "point": 1,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Social Nobility",
+          "point": 3,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Black Hand Membership",
+          "point": 2,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Executioner",
+          "point": 1,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Fanatic",
+          "point": 2,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Inquisition Member",
+          "point": 2,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Keeper of a Sacred Text",
+          "point": 1,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Pack Player",
+          "point": 3,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Revelator",
+          "point": 3,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Sanctified",
+          "point": 1,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Scholar of the Sword",
+          "point": 1,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Volatile",
+          "point": 1,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Zealot",
+          "point": 1,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Dauntless",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Dhampir",
+          "point": 4,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Ear to the Ground",
+          "point": 1,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Elder of the Revolution",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Lion of the Cause",
+          "point": 3,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Moniker",
+          "point": 1,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Moral Compass",
+          "point": 1,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Old Dog",
+          "point": 1,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Sorcerous Dabbler",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Tech Junkie",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Wild One",
+          "point": 1,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "~ General Flaws ~",
+          "point": "Point"
+        },
+        {
+          "rarity_merits": "Addiction",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Amnesia",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Archaic",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Awkward Movement",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Bad Sight",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Beacon of the Unholy",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Beast in the Mirror",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Bestial Instinct",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Blood Rot",
+          "point": 5
+        },
+        {
+          "rarity_merits": "Bound to the Earth",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Blunted Fangs",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Cannot Cross Running Water",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Careless",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Childlike",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Conspicuous Consumption",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Curiousity",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Cursed",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Dark Fate",
+          "point": 5
+        },
+        {
+          "rarity_merits": "Dark Secret",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Death Sight",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Deep Sleeper",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Disease Carrier",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Dull",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Eerie Presence",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Flesh of the Corpse",
+          "point": 5
+        },
+        {
+          "rarity_merits": "Fragile Bones",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Gehenna Prophet",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Grip of the Damned",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Hard of Hearing",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Haunted",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Hunted",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Infamous Brood",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Illiterate",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Impatient",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Inept",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Intolerance",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Known to be Dead",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Lesser Generation 1",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Lesser Generation 2",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Low Pain Threshold",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Magic Susceptibility",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Methuselah's Thirst",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Nightmares",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Necrophile",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Notoriety",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Obvious Predator",
+          "point": 2
+        },
+        {
+          "rarity_merits": "One Eye",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Overconfident",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Permanent Wound",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Poseidon's Call",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Pied Piper",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Prey Exclusion",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Repelled by Religion",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Short Attention Span",
+          "point": 4
+        },
+        {
+          "rarity_merits": "Short Fuse",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Slow Healing",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Slow Reactions",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Stolen Potential",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Thin Blooded",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Thirst for Innocence",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Trouble Magnet",
+          "point": 1
+        },
+        {
+          "rarity_merits": "Vulnerable to Silver",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Weak-Willed",
+          "point": 3
+        },
+        {
+          "rarity_merits": "Weak Stomach",
+          "point": 3
+        },
+        {
+          "rarity_merits": "~ Derangement Flaws ~",
+          "point": "Point"
+        },
+        {
+          "rarity_merits": "Derangement",
+          "point": 2
+        },
+        {
+          "rarity_merits": "Derangement, Severe",
+          "point": 3
+        },
+        {
+          "rarity_merits": "~ Setting Flaws ~",
+          "point": "Point"
+        },
+        {
+          "rarity_merits": "Accused of Heresy",
+          "point": 2,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Forgiven Diablerie",
+          "point": 1,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Sectarian",
+          "point": 2,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Tainted Embrace",
+          "point": 2,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Untrained Combatant",
+          "point": 3,
+          "column_3": "Camarilla",
+          "column_4": "Camarilla"
+        },
+        {
+          "rarity_merits": "Crisis of Faith",
+          "point": 2,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Mistrusted",
+          "point": 1,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Soul Shard",
+          "point": 3,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Tenuous Loyalty",
+          "point": 3,
+          "column_3": "Sabbat",
+          "column_4": "Sabbat"
+        },
+        {
+          "rarity_merits": "Bastard Childe",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Black Sheep",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Dubious Loyalties",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Escaped Shovelhead",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        },
+        {
+          "rarity_merits": "Once Enslaved",
+          "point": 2,
+          "column_3": "Anarch Movement",
+          "column_4": "Anarch Movement"
+        }
+      ]
+    },
+    "Sheet Information": {
+      "rows": [
+        [
+          "V.2",
+          "2015-10-15 00:00:00",
+          "Spelling check"
+        ],
+        [
+          "V.3",
+          "2015-11-09 00:00:00",
+          "Cleaned up the XP Spends math, Generation / Blood spends, Clan Titles & Clan Flaws."
+        ],
+        [],
+        [],
+        [],
+        [
+          "Basic Rules for making characters"
+        ],
+        [
+          "#1.",
+          "All character creation math must be shown"
+        ],
+        [
+          "#2.",
+          "Make sure all the merits are added up and put in their merit cap list (THIS IS NOT AUTOMATED)"
+        ],
+        [
+          "#3.",
+          "Who they knows should be done, within a few days of a person getting a character"
+        ]
+      ],
+      "records": [
+        {
+          "v_2": "V.3",
+          "2015_10_15_00_00_00": "2015-11-09 00:00:00",
+          "spelling_check": "Cleaned up the XP Spends math, Generation / Blood spends, Clan Titles & Clan Flaws."
+        },
+        {
+          "v_2": "Basic Rules for making characters"
+        },
+        {
+          "v_2": "#1.",
+          "2015_10_15_00_00_00": "All character creation math must be shown"
+        },
+        {
+          "v_2": "#2.",
+          "2015_10_15_00_00_00": "Make sure all the merits are added up and put in their merit cap list (THIS IS NOT AUTOMATED)"
+        },
+        {
+          "v_2": "#3.",
+          "2015_10_15_00_00_00": "Who they knows should be done, within a few days of a person getting a character"
+        }
+      ]
+    }
+  }
+}
