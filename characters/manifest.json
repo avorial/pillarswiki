@@ -1,0 +1,135 @@
+{
+  "source": "Google Drive Characters folder",
+  "status": "in_progress",
+  "processedCount": 5,
+  "processed": [
+    {
+      "path": "characters/Tremere/Damien-Dierdre-Horst.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Damien-Dierdre-Horst",
+      "characterName": "Damien/Dierdre Horst",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Elizabeth-Jackson-V3-5-4.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Elizabeth-Jackson-V3-5-4",
+      "characterName": "Elizabeth Jackson",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/jody.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "jody",
+      "characterName": "Jody/John Higgam",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Kay-Gargoyle-V4.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Kay-Gargoyle-V4",
+      "characterName": "Kay",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Radana-Gregori.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Radana-Gregori",
+      "characterName": "Radana/Gregori",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    }
+  ]
+}
