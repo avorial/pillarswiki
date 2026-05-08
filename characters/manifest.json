@@ -1,8 +1,325 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 150,
+  "processedCount": 200,
   "processed": [
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Loviatar-Tzmisce-NPC-San-Diego.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "(Old) May 2016"
+      ],
+      "sourceTitle": "Copy-of-Loviatar-Tzmisce-NPC-San-Diego",
+      "characterName": "Loviatar",
+      "playerName": "NPC",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Slashy-Ribbons-Sabbat-War-Ghoul-NPC.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "(Old) May 2016"
+      ],
+      "sourceTitle": "Copy-of-Slashy-Ribbons-Sabbat-War-Ghoul-NPC",
+      "characterName": "Slashy Ribbons",
+      "playerName": "NPC",
+      "clan": "Ghoul",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Trece-Nicktuku-San-Diego-NPC.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "(Old) May 2016"
+      ],
+      "sourceTitle": "Copy-of-Trece-Nicktuku-San-Diego-NPC",
+      "characterName": "Trece",
+      "playerName": "NPC",
+      "clan": "Nicktuku - Strenth for beauty",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Cicatriz-NPC-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Cicatriz-NPC-V3-5-4",
+      "characterName": "Cicatriz",
+      "playerName": "Khaldoun Khelil",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Espada-Rapida-MB1/Mouse-abbot-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Espada Rapida (MB1)"
+      ],
+      "sourceTitle": "Mouse-abbot-Sheet-V3-5-4",
+      "characterName": "Mouse",
+      "playerName": "",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/La-Clandestinite-MB2/Chat-La-Clandestine-Garret-S-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "La Clandestinite (MB2)"
+      ],
+      "sourceTitle": "Chat-La-Clandestine-Garret-S-V3-5-4",
+      "characterName": "Chat",
+      "playerName": "Garret S",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Lailah-NPC-Aly-Rubino-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Lailah-NPC-Aly-Rubino-Sheet-V3-5-4",
+      "characterName": "Lailah",
+      "playerName": "Aly Rubino",
+      "clan": "Salubri \"Warrior\" - Violent Feeding",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Night-Dragons/Dabir-Alaswad-Tremere-Anti-NPC.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Night Dragons"
+      ],
+      "sourceTitle": "Dabir-Alaswad-Tremere-Anti-NPC",
+      "characterName": "Dabir Alaswad",
+      "playerName": "Khaldoun Kheli",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Ojos-del-Dio/Jane-John-Saveka-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Ojos del Dio"
+      ],
+      "sourceTitle": "Jane-John-Saveka-Sheet-V3-5-4",
+      "characterName": "Jane/John Saveka",
+      "playerName": "",
+      "clan": "Tzimisce \"Koldun\" - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/RETIRED-PACKS-DOORS-RECYCLABLE/Avenged/James-Linda-Noble-The-Avenged.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "RETIRED PACKS (DOORS RECYCLABLE)",
+        "Avenged"
+      ],
+      "sourceTitle": "James-Linda-Noble-The-Avenged",
+      "characterName": "James/Linda Noble",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/RETIRED-PACKS-DOORS-RECYCLABLE/Non-Propter-Se/Daniel-Ruth-Meyers-Priest-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "RETIRED PACKS (DOORS RECYCLABLE)",
+        "Non Propter Se"
+      ],
+      "sourceTitle": "Daniel-Ruth-Meyers-Priest-Sheet-V3-5-4",
+      "characterName": "Daniel/Ruth Meyers",
+      "playerName": "",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Sabbat-Venue/Packs/The-Answer/Montague-Phips-Answer-Patric-Thomas-3-5-4.json",
+      "folderPath": [
+        "AA Sabbat Venue",
+        "Packs",
+        "The Answer"
+      ],
+      "sourceTitle": "Montague-Phips-Answer-Patric-Thomas-3-5-4",
+      "characterName": "Montague Phips",
+      "playerName": "Patric Thomas",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
     {
       "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V-5.json",
       "folderPath": [
@@ -186,6 +503,32 @@
       ]
     },
     {
+      "path": "characters/Assamite/Khadija-Zubayda-Assamite-Sorcerer-Carla-Dickerson-Whispers-of-the-Blind-V5.json",
+      "folderPath": [
+        "Assamite"
+      ],
+      "sourceTitle": "Khadija-Zubayda-Assamite-Sorcerer-Carla-Dickerson-Whispers-of-the-Blind-V5",
+      "characterName": "Khadija Zubayda",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Assamite/Khadija-Zubayda-Assamite-Sorcerer-Carla-Dickerson-WotB-V-5.json",
       "folderPath": [
         "Assamite"
@@ -316,12 +659,146 @@
       ]
     },
     {
+      "path": "characters/Assamite/Omar-Assamite-WotB-V5.json",
+      "folderPath": [
+        "Assamite"
+      ],
+      "sourceTitle": "Omar-Assamite-WotB-V5",
+      "characterName": "Omar al'ilm",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Brujah/Alberto-Cabrales-Brujah-WotB-V-5.json",
       "folderPath": [
         "Brujah"
       ],
       "sourceTitle": "Alberto-Cabrales-Brujah-WotB-V-5",
       "characterName": "Alberto Cabrales",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Brujah/Chad-Chivon-Jefferies-Brujah-WotB-V5.json",
+      "folderPath": [
+        "Brujah"
+      ],
+      "sourceTitle": "Chad-Chivon-Jefferies-Brujah-WotB-V5",
+      "characterName": "Chad/Chivon Jefferies",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Brujah/PC/Alberto-Cabrales-Brujah-WotB-V5.json",
+      "folderPath": [
+        "Brujah",
+        "PC"
+      ],
+      "sourceTitle": "Alberto-Cabrales-Brujah-WotB-V5",
+      "characterName": "Alberto Cabrales",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Brujah/PC/retired/Ramman-Hawthorne-Brujah-Robert-Santner.json",
+      "folderPath": [
+        "Brujah",
+        "PC",
+        "retired"
+      ],
+      "sourceTitle": "Ramman-Hawthorne-Brujah-Robert-Santner",
+      "characterName": "Ramman Hawthorne",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Brujah/PC/Salvador-Garcia-Brujah-WotB-Sheet-V5.json",
+      "folderPath": [
+        "Brujah",
+        "PC"
+      ],
+      "sourceTitle": "Salvador-Garcia-Brujah-WotB-Sheet-V5",
+      "characterName": "Salvador Garcia",
       "playerName": "",
       "clan": "",
       "tabs": [
@@ -349,6 +826,32 @@
       ],
       "sourceTitle": "Ramman-Hawthorne-Brujah-Robert-Santner",
       "characterName": "Ramman Hawthorne",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Brujah/Reynard-Renarde-Gracen.json",
+      "folderPath": [
+        "Brujah"
+      ],
+      "sourceTitle": "Reynard-Renarde-Gracen",
+      "characterName": "Reynard/Renarde Gracen",
       "playerName": "",
       "clan": "",
       "tabs": [
@@ -711,6 +1214,32 @@
       ]
     },
     {
+      "path": "characters/Gangrel/Christopher-Bertrand-Gangrel-Keith-Goodwin-v5-WotB.json",
+      "folderPath": [
+        "Gangrel"
+      ],
+      "sourceTitle": "Christopher-Bertrand-Gangrel-Keith-Goodwin-v5-WotB",
+      "characterName": "Christopher Bertrand",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "Morality & Derangments",
+        "XP Spends",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Gangrel/ChristopherBertrand-Gangrel-Keith-Goodwin-v5-WotB.json",
       "folderPath": [
         "Gangrel"
@@ -767,6 +1296,32 @@
         "Gangrel"
       ],
       "sourceTitle": "Mara-Marc-Millar-Gangrel-WotB-V-5",
+      "characterName": "Mara/Marc Millar",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Gangrel/Mara-Marc-Millar-Gangrel-WotB-V5.json",
+      "folderPath": [
+        "Gangrel"
+      ],
+      "sourceTitle": "Mara-Marc-Millar-Gangrel-WotB-V5",
       "characterName": "Mara/Marc Millar",
       "playerName": "",
       "clan": "",
@@ -2524,6 +3079,718 @@
         "XP Spends",
         "Morality & Derangments",
         "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/NPCs/Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired.json",
+      "folderPath": [
+        "NPC's"
+      ],
+      "sourceTitle": "Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired",
+      "characterName": "Nakai Tsosi/Jose Morales",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Bird-Dog-Representative-of-Cicatrix-Theo.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Bird-Dog-Representative-of-Cicatrix-Theo",
+      "characterName": "Bird Dog",
+      "playerName": "Theo",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Disiplines Mechanic",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information",
+        "DisiplineBM Coding"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Brian-Lebowitz-Tijuana-Garrett.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Brian-Lebowitz-Tijuana-Garrett",
+      "characterName": "Brian Lebowitz",
+      "playerName": "Garrett",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Disiplines Mechanic",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information",
+        "DisiplineBM Coding"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Census-Taker-Yusuf-Caitiff-Josh-Bafunso.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Census-Taker-Yusuf-Caitiff-Josh-Bafunso",
+      "characterName": "Yusuf",
+      "playerName": "Josh Bafunso",
+      "clan": "Caitiff - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Clavin-Clipper-Johnson-NPC-Harry-Fox.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Clavin-Clipper-Johnson-NPC-Harry-Fox",
+      "characterName": "Clavin \"Clipper\" Johnson",
+      "playerName": "NPC - Harry Fox",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Don-Paul-Guzman-Lasombra-NPC.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Don-Paul-Guzman-Lasombra-NPC",
+      "characterName": "Don Paul Guzman",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information",
+        "DisiplineBM Coding"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Don-Pedro-de-Moreata-Archbishops-Templar-Garrett.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Don-Pedro-de-Moreata-Archbishops-Templar-Garrett",
+      "characterName": "Don Pedro de Moreata",
+      "playerName": "Garrett",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information",
+        "DisiplineBM Coding"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Bishop-Mark-Blood-Brother-Theo-V3-5-4.json",
+      "folderPath": [
+        "Sabbat NPC",
+        "Double Helix (Doors)"
+      ],
+      "sourceTitle": "Bishop-Mark-Blood-Brother-Theo-V3-5-4",
+      "characterName": "Mark",
+      "playerName": "Theo",
+      "clan": "Blood Brothers - Faulty Creation",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Jack-Blood-Brothers-NPC.json",
+      "folderPath": [
+        "Sabbat NPC",
+        "Double Helix (Doors)"
+      ],
+      "sourceTitle": "Jack-Blood-Brothers-NPC",
+      "characterName": "Jack",
+      "playerName": "",
+      "clan": "Blood Brothers",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Karl-Blood-Brothers-NPC.json",
+      "folderPath": [
+        "Sabbat NPC",
+        "Double Helix (Doors)"
+      ],
+      "sourceTitle": "Karl-Blood-Brothers-NPC",
+      "characterName": "Karl",
+      "playerName": "",
+      "clan": "Blood Brothers",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Llse-Blood-Brothers-NPC.json",
+      "folderPath": [
+        "Sabbat NPC",
+        "Double Helix (Doors)"
+      ],
+      "sourceTitle": "Llse-Blood-Brothers-NPC",
+      "characterName": "Lise",
+      "playerName": "",
+      "clan": "Blood Brothers",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Truman-Blood-Brothers-NPC.json",
+      "folderPath": [
+        "Sabbat NPC",
+        "Double Helix (Doors)"
+      ],
+      "sourceTitle": "Truman-Blood-Brothers-NPC",
+      "characterName": "Truman",
+      "playerName": "",
+      "clan": "Blood Brothers",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Ethan-Livingstone-Mnemosyne-Harry-Fox-NPC-Hand.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Ethan-Livingstone-Mnemosyne-Harry-Fox-NPC-Hand",
+      "characterName": "Ethan Livingstone",
+      "playerName": "Harry Fox",
+      "clan": "Malkavians \"Mnemosyne\" - Permanent Obession",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Geza-Szabo-TZIMISCE-NPC.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Geza-Szabo-TZIMISCE-NPC",
+      "characterName": "Geza Szabo",
+      "playerName": "Chris Briseno",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Harold-Archbishops-Templar-Ragin.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Harold-Archbishops-Templar-Ragin",
+      "characterName": "Harold",
+      "playerName": "Ragin",
+      "clan": "Gangrel \"Coyote\" - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Disiplines Mechanic",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information",
+        "DisiplineBM Coding"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Istvan-Zantosa-Sabbat.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Istvan-Zantosa-Sabbat",
+      "characterName": "Istvan",
+      "playerName": "Justin",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Knight-Inquisitor-Sven-Christensen-Brujah-Antitribu-Door.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Knight-Inquisitor-Sven-Christensen-Brujah-Antitribu-Door",
+      "characterName": "Sven Christensen",
+      "playerName": "Patric Thomas",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/La-Cuchilla-The-Cleaver-Hand-Patric.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "La-Cuchilla-The-Cleaver-Hand-Patric",
+      "characterName": "La Cuchilla \"The Cleaver\"",
+      "playerName": "Patric Thomas",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Morality & Derangments",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Leila-Monroe-NPC-Dressed-to-Kill.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Leila-Monroe-NPC-Dressed-to-Kill",
+      "characterName": "Leila Monroe",
+      "playerName": "NPC",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Mae-Cranston-Lasombra-Templar-Carla-Dickerson-3-5.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Mae-Cranston-Lasombra-Templar-Carla-Dickerson-3-5",
+      "characterName": "Mae Cranston",
+      "playerName": "Carla Dickerson",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information",
+        "DisiplineBM Coding"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Veronika-Jenikova-Malkavian-Antitribu-NPC-Laura-Bishop.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Veronika-Jenikova-Malkavian-Antitribu-NPC-Laura-Bishop",
+      "characterName": "Veronika Jenikova",
+      "playerName": "Laura Bishop",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Disiplines Mechanic",
+        "Morality & Derangments",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Sabbat-NPC/Vidar-Helgessen-inq-Investigator-Mike-Leader.json",
+      "folderPath": [
+        "Sabbat NPC"
+      ],
+      "sourceTitle": "Vidar-Helgessen-inq-Investigator-Mike-Leader",
+      "characterName": "",
+      "playerName": "",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/SPECIAL-CHARACTERS-Ask-before-handing-these-out/Alinna-Dawson-Thin-blood-WotB-Sheet-V5.json",
+      "folderPath": [
+        "SPECIAL CHARACTERS - Ask before handing these out."
+      ],
+      "sourceTitle": "Alinna-Dawson-Thin-blood-WotB-Sheet-V5",
+      "characterName": "Alinna Dawson",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/SPECIAL-CHARACTERS-Ask-before-handing-these-out/Anthony-de-Rossi-Lasombra-Anti-Michael-Steinbach-WotB-V5.json",
+      "folderPath": [
+        "SPECIAL CHARACTERS - Ask before handing these out."
+      ],
+      "sourceTitle": "Anthony-de-Rossi-Lasombra-Anti-Michael-Steinbach-WotB-V5",
+      "characterName": "Anthony de Rossi",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/SPECIAL-CHARACTERS-Ask-before-handing-these-out/Eleanore-Duquesne-Charlotte-Svolos-Sheet-V3-5-4.json",
+      "folderPath": [
+        "SPECIAL CHARACTERS - Ask before handing these out."
+      ],
+      "sourceTitle": "Eleanore-Duquesne-Charlotte-Svolos-Sheet-V3-5-4",
+      "characterName": "Eleanor Dusquene",
+      "playerName": "Charlotte Svolos",
+      "clan": "Followers of Set - Light Sensitivity",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Personal Plot  Objects",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/SPECIAL-CHARACTERS-Ask-before-handing-these-out/Kevin-Kensie-Oscar-Nour-Rayyan.json",
+      "folderPath": [
+        "SPECIAL CHARACTERS - Ask before handing these out."
+      ],
+      "sourceTitle": "Kevin-Kensie-Oscar-Nour-Rayyan",
+      "characterName": "\"Kevin/Kensie Oscar\" (Nour Rayyan)",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/SPECIAL-CHARACTERS-Ask-before-handing-these-out/Miles-Lords-Setite-Marcus-Chan-Sheet-V3-5-4.json",
+      "folderPath": [
+        "SPECIAL CHARACTERS - Ask before handing these out."
+      ],
+      "sourceTitle": "Miles-Lords-Setite-Marcus-Chan-Sheet-V3-5-4",
+      "characterName": "Miles Lord",
+      "playerName": "Marcus Chan",
+      "clan": "Followers of Set - Light Sensitivity",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Personal Plot  Objects",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/SPECIAL-CHARACTERS-Ask-before-handing-these-out/Solomon-Sarah-Young-Caitiff-Whispers-of-the-Blind-V5.json",
+      "folderPath": [
+        "SPECIAL CHARACTERS - Ask before handing these out."
+      ],
+      "sourceTitle": "Solomon-Sarah-Young-Caitiff-Whispers-of-the-Blind-V5",
+      "characterName": "Solomon/Sarah Young",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/SPECIAL-CHARACTERS-Ask-before-handing-these-out/Ventrue-Archon-NPC-3-5-1.json",
+      "folderPath": [
+        "SPECIAL CHARACTERS - Ask before handing these out."
+      ],
+      "sourceTitle": "Ventrue-Archon-NPC-3-5-1",
+      "characterName": "",
+      "playerName": "",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
         "History",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
