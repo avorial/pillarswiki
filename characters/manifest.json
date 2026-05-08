@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 104,
+  "processedCount": 116,
   "processed": [
     {
       "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V-5.json",
@@ -366,6 +366,32 @@
       ]
     },
     {
+      "path": "characters/Malkavian/Allen-Malk-Sheet-V-5.json",
+      "folderPath": [
+        "Malkavian"
+      ],
+      "sourceTitle": "Allen-Malk-Sheet-V-5",
+      "characterName": "Lauren/Hugh Gillian",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Malkavian/Breslan-Vitale-Malkavian-Alex-Arjad-3-5-1.json",
       "folderPath": [
         "Malkavian"
@@ -382,6 +408,279 @@
         "Disiplines Mechanic",
         "Personal Plot  Objects",
         "Blood Bonds  Valudrie",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/Jade-SD-Malkavian-Dee.json",
+      "folderPath": [
+        "Malkavian"
+      ],
+      "sourceTitle": "Jade-SD-Malkavian-Dee",
+      "characterName": "Jade",
+      "playerName": "Dee",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/Lucian-Lucia-Oakwood-Malk-cultist-Joel.json",
+      "folderPath": [
+        "Malkavian"
+      ],
+      "sourceTitle": "Lucian-Lucia-Oakwood-Malk-cultist-Joel",
+      "characterName": "Lucian/Lucia Oakwood",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/PC/Nanette-Desmond-Heidi-Cruz.json",
+      "folderPath": [
+        "Malkavian",
+        "PC"
+      ],
+      "sourceTitle": "Nanette-Desmond-Heidi-Cruz",
+      "characterName": "Nanette Desmond",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/PC/Not-Active/Lusia-Paege-Malkavian-WotB-V5-Joanna.json",
+      "folderPath": [
+        "Malkavian",
+        "PC",
+        "Not Active"
+      ],
+      "sourceTitle": "Lusia-Paege-Malkavian-WotB-V5-Joanna",
+      "characterName": "Lusia Paege",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/PC/Not-Active/Marla-Marlon-Hunt-Rebbeka.json",
+      "folderPath": [
+        "Malkavian",
+        "PC",
+        "Not Active"
+      ],
+      "sourceTitle": "Marla-Marlon-Hunt-Rebbeka",
+      "characterName": "Marla/Marlon Hunt",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/PC/Not-Active/Morgan-Webb-Malkavian-Logan-Boese-WotB-Malkavian.json",
+      "folderPath": [
+        "Malkavian",
+        "PC",
+        "Not Active"
+      ],
+      "sourceTitle": "Morgan-Webb-Malkavian-Logan-Boese-WotB-Malkavian",
+      "characterName": "Morgan Webb",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/PC/Not-Active/Olivia-Frank-Malkavian-WotB-V5-Necie.json",
+      "folderPath": [
+        "Malkavian",
+        "PC",
+        "Not Active"
+      ],
+      "sourceTitle": "Olivia-Frank-Malkavian-WotB-V5-Necie",
+      "characterName": "Olivia Frank",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/PC/Not-Active/RaymondTurner-Malkavian-v5-WotB-Bruce.json",
+      "folderPath": [
+        "Malkavian",
+        "PC",
+        "Not Active"
+      ],
+      "sourceTitle": "RaymondTurner-Malkavian-v5-WotB-Bruce",
+      "characterName": "Raymond Turner",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/PC/Not-Active/TinaLewis-Malkavian-v5-WotB-Merina.json",
+      "folderPath": [
+        "Malkavian",
+        "PC",
+        "Not Active"
+      ],
+      "sourceTitle": "TinaLewis-Malkavian-v5-WotB-Merina",
+      "characterName": "Tina Lewis",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Malkavian/Scott-Sally-Devire-Malkavian-WotB-Patrick-B.json",
+      "folderPath": [
+        "Malkavian"
+      ],
+      "sourceTitle": "Scott-Sally-Devire-Malkavian-WotB-Patrick-B",
+      "characterName": "Scott/Sally Devire",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
         "Downtimes",
         "Submissions",
         "Coding",
@@ -423,6 +722,33 @@
       ],
       "sourceTitle": "Michelle-Animus-nos-Aeon-WotB-V5",
       "characterName": "Michelle Animus",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Nosferatu/NPCs/Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired.json",
+      "folderPath": [
+        "Nosferatu",
+        "NPCs"
+      ],
+      "sourceTitle": "Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired",
+      "characterName": "Nakai Tsosi/Jose Morales",
       "playerName": "",
       "clan": "",
       "tabs": [
