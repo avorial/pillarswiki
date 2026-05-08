@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 132,
+  "processedCount": 133,
   "processed": [
     {
       "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V-5.json",
@@ -3210,6 +3210,32 @@
         "Ventrue"
       ],
       "sourceTitle": "Robert-Duke-Ventrue-WotB-Sheet-Vlad-V-5",
+      "characterName": "Robert Duke",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Ventrue/Robert-Duke-Ventrue-WotB-Sheet-Vlad-V5.json",
+      "folderPath": [
+        "Ventrue"
+      ],
+      "sourceTitle": "Robert-Duke-Ventrue-WotB-Sheet-Vlad-V5",
       "characterName": "Robert Duke",
       "playerName": "",
       "clan": "",
