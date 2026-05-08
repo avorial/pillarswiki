@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 116,
+  "processedCount": 128,
   "processed": [
     {
       "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V-5.json",
@@ -2193,6 +2193,32 @@
       ]
     },
     {
+      "path": "characters/Tremere/Chloe-Tremere-Sheet-V5.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Chloe-Tremere-Sheet-V5",
+      "characterName": "Brier Rose",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Tremere/Damien-Dierdre-Horst.json",
       "folderPath": [
         "Tremere"
@@ -2207,6 +2233,32 @@
         "Morality & Derangments",
         "Expanded Backgrounds",
         "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Dr-Mickel-Rustuf-Tremere-v5-WotB.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Dr-Mickel-Rustuf-Tremere-v5-WotB",
+      "characterName": "Dr. Mickel Rustuf",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
@@ -2283,6 +2335,32 @@
         "Morality & Derangments",
         "Expanded Backgrounds",
         "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Jana-Jacob-Sims-Samantha.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Jana-Jacob-Sims-Samantha",
+      "characterName": "Jana/Jacob Sims",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
@@ -2595,6 +2673,200 @@
       ]
     },
     {
+      "path": "characters/Tremere/PC/Franklin-Richards-Tremere-Joe-Butts-V4.json",
+      "folderPath": [
+        "Tremere",
+        "PC"
+      ],
+      "sourceTitle": "Franklin-Richards-Tremere-Joe-Butts-V4",
+      "characterName": "Franklin Richards",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/PC/Gercyon-Bellingham-Tremere-Ed-Murphy-V4.json",
+      "folderPath": [
+        "Tremere",
+        "PC"
+      ],
+      "sourceTitle": "Gercyon-Bellingham-Tremere-Ed-Murphy-V4",
+      "characterName": "Gercyon Bellingham",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/PC/retired/Giacomo-Tremere-WotB-v5-Zach.json",
+      "folderPath": [
+        "Tremere",
+        "PC",
+        "retired"
+      ],
+      "sourceTitle": "Giacomo-Tremere-WotB-v5-Zach",
+      "characterName": "Giacomo Octavie",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/PC/retired/Kira-Luxson-Tremere-Victoria-Ortiz-WotB-v5.json",
+      "folderPath": [
+        "Tremere",
+        "PC",
+        "retired"
+      ],
+      "sourceTitle": "Kira-Luxson-Tremere-Victoria-Ortiz-WotB-v5",
+      "characterName": "Kira Luxson",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/PC/retired/Natalie-Costello-Tremere-Ophelia.json",
+      "folderPath": [
+        "Tremere",
+        "PC",
+        "retired"
+      ],
+      "sourceTitle": "Natalie-Costello-Tremere-Ophelia",
+      "characterName": "Natalie Costello",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/PC/retired/Peter-Lin-Frank-P-Tremere-WotB-Sheet-V354.json",
+      "folderPath": [
+        "Tremere",
+        "PC",
+        "retired"
+      ],
+      "sourceTitle": "Peter-Lin-Frank-P-Tremere-WotB-Sheet-V354",
+      "characterName": "Peter/Pamela Lin",
+      "playerName": "Frank Perkins",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Personal Plot  Objects",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/PC/retired/Waylon-Allerton-Tremere-WotB-V5.json",
+      "folderPath": [
+        "Tremere",
+        "PC",
+        "retired"
+      ],
+      "sourceTitle": "Waylon-Allerton-Tremere-WotB-V5",
+      "characterName": "Robert Munro bani Tytalus",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Tremere/Radana-Gregori.json",
       "folderPath": [
         "Tremere"
@@ -2710,6 +2982,58 @@
         "XP Spends",
         "Morality & Derangments",
         "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Tony-Tori-Wallace-Tremere-WotB-Amanda-V5.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Tony-Tori-Wallace-Tremere-WotB-Amanda-V5",
+      "characterName": "Tony/Tori Wallace",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Wynne-Wrynn-Dox-Howell-Steve.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Wynne-Wrynn-Dox-Howell-Steve",
+      "characterName": "Wynne/Wrynn Dox Howell",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
