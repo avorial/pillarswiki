@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 5,
+  "processedCount": 8,
   "processed": [
     {
       "path": "characters/Tremere/Damien-Dierdre-Horst.json",
@@ -42,6 +42,58 @@
         "Print Sheet",
         "XP Spends",
         "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Hailey-Halverston.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Hailey-Halverston",
+      "characterName": "Hailey/Halverston",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Jana-James-Neschdle.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Jana-James-Neschdle",
+      "characterName": "Jana/James Neschdle",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
         "History",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
@@ -119,6 +171,31 @@
         "XP Spends",
         "Morality & Derangments",
         "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Tremere/Santiago-Nuevo.json",
+      "folderPath": [
+        "Tremere"
+      ],
+      "sourceTitle": "Santiago-Nuevo",
+      "characterName": "Santiago Neuvo",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
         "History",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
