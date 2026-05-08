@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 128,
+  "processedCount": 132,
   "processed": [
     {
       "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V-5.json",
@@ -2116,12 +2116,119 @@
       ]
     },
     {
+      "path": "characters/Toreador/Agatha-Edgars-Toreador-Emily-WotB-V4.json",
+      "folderPath": [
+        "Toreador"
+      ],
+      "sourceTitle": "Agatha-Edgars-Toreador-Emily-WotB-V4",
+      "characterName": "Agatha Edgars",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Toreador/Doug-Lindsay-Strider.json",
       "folderPath": [
         "Toreador"
       ],
       "sourceTitle": "Doug-Lindsay-Strider",
       "characterName": "Doug/Lindsay Strider",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Toreador/pc/Alexander-Alexandra-Carmine.json",
+      "folderPath": [
+        "Toreador",
+        "pc"
+      ],
+      "sourceTitle": "Alexander-Alexandra-Carmine",
+      "characterName": "Alexander/Alexandra Carmine",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Toreador/pc/Jan-Svendsen-Toreador-Patric-Thomas.json",
+      "folderPath": [
+        "Toreador",
+        "pc"
+      ],
+      "sourceTitle": "Jan-Svendsen-Toreador-Patric-Thomas",
+      "characterName": "Jan Svendsen",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Toreador/pc/Kin-Dread-Kin-Toreador-v5-WotB.json",
+      "folderPath": [
+        "Toreador",
+        "pc"
+      ],
+      "sourceTitle": "Kin-Dread-Kin-Toreador-v5-WotB",
+      "characterName": "Kindred",
       "playerName": "",
       "clan": "",
       "tabs": [
