@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 100,
+  "processedCount": 104,
   "processed": [
     {
       "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V-5.json",
@@ -382,6 +382,111 @@
         "Disiplines Mechanic",
         "Personal Plot  Objects",
         "Blood Bonds  Valudrie",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Nosferatu/Anderson.json",
+      "folderPath": [
+        "Nosferatu"
+      ],
+      "sourceTitle": "Anderson",
+      "characterName": "Anderson",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Nosferatu/Michelle-Animus-nos-Aeon-WotB-V5.json",
+      "folderPath": [
+        "Nosferatu"
+      ],
+      "sourceTitle": "Michelle-Animus-nos-Aeon-WotB-V5",
+      "characterName": "Michelle Animus",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Nosferatu/Pedro-Garces-Nosferatu-V-5-Character-Sheet.json",
+      "folderPath": [
+        "Nosferatu"
+      ],
+      "sourceTitle": "Pedro-Garces-Nosferatu-V-5-Character-Sheet",
+      "characterName": "Pedro Garces",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "MeritFlaw Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Nosferatu/Taylor-Kodi-Blake-Nos-Jacklyn.json",
+      "folderPath": [
+        "Nosferatu"
+      ],
+      "sourceTitle": "Taylor-Kodi-Blake-Nos-Jacklyn",
+      "characterName": "Taylor Kodi Blake",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
         "Downtimes",
         "Submissions",
         "Coding",
