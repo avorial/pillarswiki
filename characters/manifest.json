@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 144,
+  "processedCount": 150,
   "processed": [
     {
       "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V-5.json",
@@ -9,6 +9,32 @@
         "Assamite"
       ],
       "sourceTitle": "Adrian-Greyward-Assamite-WotB-V-5",
+      "characterName": "Adrian Greyward",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V5.json",
+      "folderPath": [
+        "Assamite"
+      ],
+      "sourceTitle": "Adrian-Greyward-Assamite-WotB-V5",
       "characterName": "Adrian Greyward",
       "playerName": "",
       "clan": "",
@@ -56,11 +82,89 @@
       ]
     },
     {
+      "path": "characters/Assamite/Anna-Alan-Isaak-Assamite-WotB-V5-April-Serrato.json",
+      "folderPath": [
+        "Assamite"
+      ],
+      "sourceTitle": "Anna-Alan-Isaak-Assamite-WotB-V5-April-Serrato",
+      "characterName": "Anna Isaak",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Assamite/Aydin-Khan-Assamite-Issac-WotB-V5.json",
+      "folderPath": [
+        "Assamite"
+      ],
+      "sourceTitle": "Aydin-Khan-Assamite-Issac-WotB-V5",
+      "characterName": "Aydin Khan/Ayshe Khanum",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Assamite/Fadi-bin-Sallah-Assamite-Neal-Fischer-WotB-V-5.json",
       "folderPath": [
         "Assamite"
       ],
       "sourceTitle": "Fadi-bin-Sallah-Assamite-Neal-Fischer-WotB-V-5",
+      "characterName": "Fadi bin Sallah",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Blood Bonds  Valudrie",
+        "Disiplines Mechanic",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Assamite/Fadi-bin-Sallah-Assamite-Neal-Fischer-WotB-V5.json",
+      "folderPath": [
+        "Assamite"
+      ],
+      "sourceTitle": "Fadi-bin-Sallah-Assamite-Neal-Fischer-WotB-V5",
       "characterName": "Fadi bin Sallah",
       "playerName": "",
       "clan": "",
@@ -114,6 +218,58 @@
       ],
       "sourceTitle": "Maha-Vizier-Medic-Assamite-Sheet-V-5",
       "characterName": "Maha bint Abi al-Qasim",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Assamite/Maha-Vizier-Medic-Assamite-Sheet-V5.json",
+      "folderPath": [
+        "Assamite"
+      ],
+      "sourceTitle": "Maha-Vizier-Medic-Assamite-Sheet-V5",
+      "characterName": "Maha bint Abi al-Qasim",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Assamite/Morgan-Assamite-Sheet-V5.json",
+      "folderPath": [
+        "Assamite"
+      ],
+      "sourceTitle": "Morgan-Assamite-Sheet-V5",
+      "characterName": "",
       "playerName": "",
       "clan": "",
       "tabs": [
