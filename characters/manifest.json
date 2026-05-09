@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 250,
+  "processedCount": 300,
   "processed": [
     {
       "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Loviatar-Tzmisce-NPC-San-Diego.json",
@@ -70,6 +70,340 @@
       ]
     },
     {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Agatheoclea-Agatheocles-Aurel-Aurelia-Roch-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Agatheoclea-Agatheocles-Aurel-Aurelia-Roch-Sheet-V3-5-4",
+      "characterName": "Agatheoclea/Agatheocles (Aurel/Aurelia Roch)",
+      "playerName": "",
+      "clan": "Followers of Set - Light Sensitivity",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Blood-Red-Dogs-AR-1/Abidemi-Contee-Blood-Red-Dogs-Lawrence-E.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Blood Red Dogs (AR 1)"
+      ],
+      "sourceTitle": "Abidemi-Contee-Blood-Red-Dogs-Lawrence-E",
+      "characterName": "Abidemi Contee",
+      "playerName": "Lawrence E",
+      "clan": "Tzimisce \"Koldun\" - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Blood-Red-Dogs-AR-1/Aresnio-Valera-Blood-Red-Dogs-Rueben.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Blood Red Dogs (AR 1)"
+      ],
+      "sourceTitle": "Aresnio-Valera-Blood-Red-Dogs-Rueben",
+      "characterName": "Arsenio Valera",
+      "playerName": "Rueben",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Blood-Red-Dogs-AR-1/Pietro-Pertingotti-Blood-Red-Dogs-Wes.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Blood Red Dogs (AR 1)"
+      ],
+      "sourceTitle": "Pietro-Pertingotti-Blood-Red-Dogs-Wes",
+      "characterName": "Pietro Pernigotti",
+      "playerName": "Wes",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Blood-Red-Dogs-AR-1/Thiago-Axel-Blood-Red-Dogs-Michael-S.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Blood Red Dogs (AR 1)"
+      ],
+      "sourceTitle": "Thiago-Axel-Blood-Red-Dogs-Michael-S",
+      "characterName": "Thiago Axel",
+      "playerName": "Michael S",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Bundle-MB3/Adelbert-Nagy-Bundle-Rob-S-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Bundle (MB3)"
+      ],
+      "sourceTitle": "Adelbert Nagy (Bundle) Rob S V.3.5.4",
+      "characterName": "Adelbert Nagy",
+      "playerName": "Rob S",
+      "clan": "Gangrel \"Coyote\" - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Bundle-MB3/Denis-Denise-Armand-abbot-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Bundle (MB3)"
+      ],
+      "sourceTitle": "Denis-Denise-Armand-abbot-Sheet-V3-5-4",
+      "characterName": "Denis/Denise Armand",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Cardine-Scorso-KK1/Angel-Cardine-Scorso-Charlotte-S.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Cardine Scorso (KK1)"
+      ],
+      "sourceTitle": "Angel-Cardine-Scorso-Charlotte-S",
+      "characterName": "Angel",
+      "playerName": "",
+      "clan": "Malkavians \"Ananke\" - Gristly Trophies",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Cardine-Scorso-KK1/Cyrus-Norton-Cardine-Scorso-TREMERE-DOOR.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Cardine Scorso (KK1)"
+      ],
+      "sourceTitle": "Cyrus-Norton-Cardine-Scorso-TREMERE-DOOR",
+      "characterName": "Cyrus Norton",
+      "playerName": "",
+      "clan": "Tremere \"Telyav\" - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Cardine-Scorso-KK1/Elvira-Fernandez-de-Cordoba-Cardine-Scorso-Rachel-Judd-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Cardine Scorso (KK1)"
+      ],
+      "sourceTitle": "Elvira-Fernandez-de-Cordoba-Cardine-Scorso-Rachel-Judd-Sheet-V.3.5.4",
+      "characterName": "Elvira Fernández de Córdoba",
+      "playerName": "Rachel Judd",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Cardine-Scorso-KK1/Stitches-Cardine-Scorso-NOSFERATU-DOOR.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Cardine Scorso (KK1)"
+      ],
+      "sourceTitle": "Stitches-Cardine-Scorso-NOSFERATU-DOOR",
+      "characterName": "Stitches",
+      "playerName": "",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Cicatriz-NPC-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Cicatriz (NPC) V.3.5.4",
+      "characterName": "Cicatriz",
+      "playerName": "Khaldoun Khelil",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Cicatriz-NPC-V3-5-4.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -79,6 +413,117 @@
       "characterName": "Cicatriz",
       "playerName": "Khaldoun Khelil",
       "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/City-Gangrel-Black-Hand.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "City-Gangrel-Black-Hand",
+      "characterName": "Mariachi",
+      "playerName": "",
+      "clan": "Gangrel \"Coyote\" - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Espada-Rapida-MB1/Anna-Densmore-Espada-Rapida-Monique-G-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Espada Rápida (MB1)"
+      ],
+      "sourceTitle": "Anna-Densmore-Espada-Rapida-Monique-G-Sheet-V3-5-4",
+      "characterName": "Anna Densmore",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Espada-Rapida-MB1/Moonraven-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Espada Rápida (MB1)"
+      ],
+      "sourceTitle": "Moonraven- Sheet V.3.5.4",
+      "characterName": "Moonraven",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Espada-Rapida-MB1/Mouse-abbot-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Espada Rápida (MB1)"
+      ],
+      "sourceTitle": "Mouse (abbot) - Sheet V.3.5.4",
+      "characterName": "Mouse",
+      "playerName": "",
+      "clan": "Tzimisce - Bound to the Earth",
       "tabs": [
         "Print Sheet",
         "XP Spends",
@@ -125,6 +570,114 @@
       ]
     },
     {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Johann-Kraft.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Johann-Kraft",
+      "characterName": "Johann Kraft",
+      "playerName": "Ray Lavoie",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/John-Bates-Leila-Monroes-Templar.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "John-Bates-Leila-Monroes-Templar",
+      "characterName": "John Bates (Juan Bautisa)",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Katherine-Ford-Malk-Door-Jennifer-W.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Katherine-Ford-Malk-Door-Jennifer-W",
+      "characterName": "Kathrine Ford",
+      "playerName": "Jennifer W",
+      "clan": "Malkavians \"Knights of the Moon\" - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Kinyado-Spirit-Saviors-SERPENT-Ray-Lavoie.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Kinyado-Spirit-Saviors-SERPENT-Ray-Lavoie",
+      "characterName": "Kinyado",
+      "playerName": "Ray Lavoie",
+      "clan": "Followers of Set \"Serpents of the Light\" - Light Sensitivity & Spirit Offerings",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/La-Clandestinite-MB2/Chat-La-Clandestine-Garret-S-V3-5-4.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -135,6 +688,90 @@
       "characterName": "Chat",
       "playerName": "Garret S",
       "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Labyrs-Rune-KK4/Abigail-Tillinghast-Labrys-Rune-Zarah-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Labyrs Rune (KK4)"
+      ],
+      "sourceTitle": "Abigail-Tillinghast-Labrys-Rune-Zarah-V3-5-4",
+      "characterName": "Abigail Tillinghast",
+      "playerName": "Zarah",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Labyrs-Rune-KK4/Felix-Currant-Labrys-Rune-Tzimisce-Door-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Labyrs Rune (KK4)"
+      ],
+      "sourceTitle": "Felix-Currant-Labrys-Rune-Tzimisce-Door-V3-5-4",
+      "characterName": "Felix Currant",
+      "playerName": "",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Labyrs-Rune-KK4/Rachel-Thorne-Labrys-Rune-Pander-Door-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Labyrs Rune (KK4)"
+      ],
+      "sourceTitle": "Rachel-Thorne-Labrys-Rune-Pander-Door-Sheet-V3-5-4",
+      "characterName": "Rachel Thorne",
+      "playerName": "",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
       "tabs": [
         "Print Sheet",
         "XP Spends",
@@ -207,6 +844,34 @@
       ]
     },
     {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Ojos-del-Dio/Bruce-De-Guy-Cardinal-of-the-West-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Ojos del Dio"
+      ],
+      "sourceTitle": "Bruce De Guy - Cardinal of the West- Sheet V.3.5.4",
+      "characterName": "Bruce De Guy - Cardinal West",
+      "playerName": "Theo",
+      "clan": "Ventrue \"Crusader\" - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Ojos-del-Dio/Jane-John-Saveka-Sheet-V3-5-4.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -217,6 +882,34 @@
       "characterName": "Jane/John Saveka",
       "playerName": "",
       "clan": "Tzimisce \"Koldun\" - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Ojos-del-Dio/Muerte-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Ojos del Dio"
+      ],
+      "sourceTitle": "Muerte - Sheet V.3.5.4",
+      "characterName": "Muerte",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
       "tabs": [
         "Print Sheet",
         "XP Spends",
@@ -264,6 +957,35 @@
       ]
     },
     {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/RETIRED-PACKS-DOORS-RECYCLABLE/Father_s-Love/Nicolas-de-Velasquez-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "RETIRED PACKS (DOORS RECYCLABLE)",
+        "Father_s Love"
+      ],
+      "sourceTitle": "Nicolas-de-Velasquez-Sheet-V3-5-4",
+      "characterName": "Nicolas de Velasquez",
+      "playerName": "",
+      "clan": "Ventrue \"Crusader\" - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/RETIRED-PACKS-DOORS-RECYCLABLE/Non-Propter-Se/Daniel-Ruth-Meyers-Priest-Sheet-V3-5-4.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -275,6 +997,680 @@
       "characterName": "Daniel/Ruth Meyers",
       "playerName": "",
       "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/RETIRED-PACKS-DOORS-RECYCLABLE/Non-Propter-Se/Dennis_Donna-Ingram-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "RETIRED PACKS (DOORS RECYCLABLE)",
+        "Non Propter Se"
+      ],
+      "sourceTitle": "Dennis_Donna-Ingram-Sheet-V.3.5.4",
+      "characterName": "Dennis/Donna Ingram",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/RETIRED-PACKS-DOORS-RECYCLABLE/Non-Propter-Se/Stig-Amanda-Hope-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "RETIRED PACKS (DOORS RECYCLABLE)",
+        "Non Propter Se"
+      ],
+      "sourceTitle": "Stig-Amanda-Hope-Sheet-V3-5-4",
+      "characterName": "Stig/ Amanda Hope",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/RETIRED-PACKS-DOORS-RECYCLABLE/Theta-Heta/Lisandro-Lorea-Gonzalez-Ductus-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "RETIRED PACKS (DOORS RECYCLABLE)",
+        "Theta Heta"
+      ],
+      "sourceTitle": "Lisandro-Lorea-Gonzalez-Ductus-Sheet-V3-5-4",
+      "characterName": "Lisandro/Lorea Gonzalez",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/RETIRED-PACKS-DOORS-RECYCLABLE/Theta-Heta/Matt-Tamar-OKeefe-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "RETIRED PACKS (DOORS RECYCLABLE)",
+        "Theta Heta"
+      ],
+      "sourceTitle": "Matt-Tamar-OKeefe-Sheet-V3-5-4",
+      "characterName": "Matt/Tamar O'Keefe",
+      "playerName": "",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Rising-Tide/Ariel-Rosenberg-Rising-Tide-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Rising Tide"
+      ],
+      "sourceTitle": "Ariel Rosenberg (Rising Tide) V.3.5.4",
+      "characterName": "Ariel Rosenberg",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Rising-Tide/Germ-Rising-Tide-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Rising Tide"
+      ],
+      "sourceTitle": "Germ (Rising Tide) (V.3.5.4)",
+      "characterName": "Germ",
+      "playerName": "",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Rising-Tide/Javier-Jennifer-Morales-Rising-Tide-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Rising Tide"
+      ],
+      "sourceTitle": "Javier-Jennifer-Morales-Rising-Tide-V3-5-4",
+      "characterName": "Javier/Jennifer Morales",
+      "playerName": "",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Rising-Tide/Michael_Michaela-LeFevre-Rising-Tide-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Rising Tide"
+      ],
+      "sourceTitle": "Michael_Michaela LeFevre (Rising Tide) (V.3.5.4)",
+      "characterName": "Michael/Michaela LeFevre",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Rising-Tide/Phoenix-Roman-Rising-Tide-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Rising Tide"
+      ],
+      "sourceTitle": "Phoenix Roman (Rising Tide) Sheet V.3.5.4",
+      "characterName": "Phoenix Roman",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Sarah_Samuel-Rothschild-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Sarah_Samuel Rothschild (V.3.5.4)",
+      "characterName": "Samuel/Sarah Rothschild",
+      "playerName": "",
+      "clan": "Giovanni - Painful Feeding",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Starlit-Blood-KK3/Jasper-Bloom-Starlit-Blood-Cy-T-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Starlit Blood (KK3)"
+      ],
+      "sourceTitle": "Jasper-Bloom-Starlit-Blood-Cy-T-Sheet-V3-5-4",
+      "characterName": "Jasper Bloom",
+      "playerName": "Cy T.",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Aristocrats-AR-1/Clarence-Reverdin-The-Aristocrats-Scott.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Aristocrats (AR 1)"
+      ],
+      "sourceTitle": "Clarence-Reverdin-The-Aristocrats-Scott",
+      "characterName": "Clarence Reverdin",
+      "playerName": "Scott",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Aristocrats-AR-1/Siena-Bryne-The-Aristocrats-Chloe-Urbano.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Aristocrats (AR 1)"
+      ],
+      "sourceTitle": "Siena-Bryne-The-Aristocrats-Chloe-Urbano",
+      "characterName": "Siena Bryne",
+      "playerName": "Chloe Urbano",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Aristocrats-AR-1/Solomon-Reid-The-Aristocrats-Hugo-G.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Aristocrats (AR 1)"
+      ],
+      "sourceTitle": "Solomon-Reid-The-Aristocrats-Hugo-G",
+      "characterName": "Solomon Reid",
+      "playerName": "Hugo G",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Aristocrats-AR-1/Vicente-Raiola-The-Aristocrats-Jimmy-K.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Aristocrats (AR 1)"
+      ],
+      "sourceTitle": "Vicente-Raiola-The-Aristocrats-Jimmy-K",
+      "characterName": "Vicente Raiola",
+      "playerName": "Jimmy K",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Fifth-Ward/Charles-Turley-The-Fifth-Ward-Gerard-Gully-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Fifth Ward"
+      ],
+      "sourceTitle": "Charles-Turley-The-Fifth-Ward-Gerard-Gully-Sheet-V3-5-4",
+      "characterName": "Charles Turley",
+      "playerName": "Gerard Gully",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Fifth-Ward/Haseya-F-Sicheii-M-The-Fifth-Ward-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Fifth Ward"
+      ],
+      "sourceTitle": "Haseya-F-Sicheii-M-The-Fifth-Ward-V3-5-4",
+      "characterName": "Haseya (F)/Sicheii (M)",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Fifth-Ward/Hyrum-Emerald-Jessop-The-Fifth-Ward-Sheet-V3-5-4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Fifth Ward"
+      ],
+      "sourceTitle": "Hyrum-Emerald-Jessop-The-Fifth-Ward-Sheet-V3-5-4",
+      "characterName": "Hyrum/Emerald Jessop",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Yasmin-the-Black-La-Maison-du-Sanguinare-Maire-Bourke.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat"
+      ],
+      "sourceTitle": "Yasmin-the-Black-La-Maison-du-Sanguinare-Maire-Bourke",
+      "characterName": "Yasmin the Black",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Sabbat-Venue/Packs/Aleph-Null/Rafael-Lorenzana-Santa-Ines-de-Lara-Aleph-Null-Justin-Wynn-Benti-V.3.5.4.json",
+      "folderPath": [
+        "AA Sabbat Venue",
+        "Packs",
+        "Aleph Null"
+      ],
+      "sourceTitle": "Rafael Lorenzana Santa Inés de Lara (Aleph Null) Justin Wynn Benti V.3.5.4",
+      "characterName": "Rafael Lorenzana Santa Inés de Lara",
+      "playerName": "Justin Wynn Benti",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Sabbat-Venue/Packs/Angeli-della-Notti/Beatrice-d_Este-Angeli-della-Notti-Vanessa-Kam-V.3.5.4.json",
+      "folderPath": [
+        "AA Sabbat Venue",
+        "Packs",
+        "Angeli della Notti"
+      ],
+      "sourceTitle": "Beatrice d_Este (Angeli della Notti) Vanessa Kam V.3.5.4",
+      "characterName": "Beatrice d'Este",
+      "playerName": "Vanessa Kam",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Sabbat-Venue/Packs/Never-Ending-Disaster-Clique/Isaiah-NDC-Mat-Segal-V.3.5.4.json",
+      "folderPath": [
+        "AA Sabbat Venue",
+        "Packs",
+        "Never Ending Disaster Clique"
+      ],
+      "sourceTitle": "Isaiah-NDC-Mat-Segal-V.3.5.4",
+      "characterName": "Isaiah",
+      "playerName": "Mat Segal",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Sabbat-Venue/Packs/Spear-of-Enoch/Robert-Graves-Spear-of-Enoch-Charles-Stanton-V.3.5.4.json",
+      "folderPath": [
+        "AA Sabbat Venue",
+        "Packs",
+        "Spear of Enoch"
+      ],
+      "sourceTitle": "Robert Graves (Spear of Enoch) Charles Stanton V.3.5.4",
+      "characterName": "Robert / Bobby Graves",
+      "playerName": "Charles Stanton",
+      "clan": "Cappadocians - \"Harbingers of Skulls\" Ghastly Pallor",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Sabbat-Venue/Packs/Spear-of-Enoch/Vatiali-Kuzio-Spear-of-Enoch-Joseph-Butts-V.3.5.4.json",
+      "folderPath": [
+        "AA Sabbat Venue",
+        "Packs",
+        "Spear of Enoch"
+      ],
+      "sourceTitle": "Vatiali Kuzio (Spear of Enoch) Joseph Butts V.3.5.4",
+      "characterName": "Vatiali Kuzio",
+      "playerName": "Joseph Butts",
+      "clan": "Tzimisce \"Koldun\" - Bound to the Earth",
       "tabs": [
         "Print Sheet",
         "XP Spends",
