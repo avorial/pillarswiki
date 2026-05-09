@@ -1,90 +1,84 @@
 {
   "source": {
-    "title": "Dabir-Alaswad-Tremere-Anti-NPC",
-    "fileName": "Dabir-Alaswad-Tremere-Anti-NPC.xlsx",
-    "localPath": "source-sheets\\AA-Convention-San-Diego-Venue\\SD-Sabbat\\Night-Dragons\\Dabir-Alaswad-Tremere-Anti-NPC.xlsx"
+    "title": "Charley-Connor-Toreador",
+    "fileName": "Charley-Connor-Toreador.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Toreador\\Charley-Connor-Toreador.xlsx"
   },
   "folderPath": [
-    "AA Convention (San Diego) Venue",
-    "SD Sabbat",
-    "Night Dragons"
+    "Z Door Characters",
+    "Characters",
+    "Toreador"
   ],
   "coreSheet": "Print Sheet",
   "character": {
-    "chronicle": "SABBAT: LA",
-    "characterName": "Dabir Alaswad",
-    "playerName": "Khaldoun Kheli",
+    "chronicle": "CHRONICLE",
+    "characterName": "Charley Connor",
+    "playerName": "",
     "gmailAccount": "",
-    "clanCoordinator": "NPC",
-    "archetype": "Manipulator",
+    "clanCoordinator": "Laura Bishop",
+    "archetype": "Creep Show",
     "title": "",
     "characterStartDate": "",
-    "generationLabel": "Pretender Elder 8",
-    "clan": "Tremere - Easily Bound"
+    "generationLabel": "Ancilla 9",
+    "clan": "Nosferatu - Repulsive"
   },
   "attributes": {
-    "physical": 5,
-    "social": 3,
-    "mental": 11
+    "physical": 3,
+    "social": 5,
+    "mental": 7
   },
   "backgrounds": {
-    "generation": 3,
-    "resources": 1,
-    "ritae": 1,
-    "haven": 2
+    "generation": 2,
+    "alternate_identity": 2,
+    "haven": 1,
+    "influence_underworld": 3,
+    "resources": 2
   },
   "currentPools": {
     "current_willpower": 6,
     "current_humanity": 5
   },
   "abilities": {
-    "intimidation": 3,
-    "investigation": 2,
+    "academics": 1,
+    "streetwise": 1,
+    "animal_ken": 2,
+    "subterfuge": 3,
     "linguistics": 2,
-    "brawl": 2,
-    "lore": 3,
-    "dreaming": 2,
-    "occult": 4,
-    "science": 1,
-    "security": 1,
-    "firearms": 1,
-    "stealth": 1
+    "brawl": 1,
+    "crafts": 3,
+    "drive": 1,
+    "empathy": 4,
+    "stealth": 2
   },
-  "status": [
-    "Initiated (Sabbat)"
-  ],
+  "status": [],
   "meritsAndFlaws": [
-    "Rare Clan -5",
-    "Black Hand Membership (First Tribe) -2"
+    "Additional Common Discipline -4",
+    "Unmarred Face -2"
   ],
   "disciplines": [
     {
-      "name": "Auspex",
-      "value": 3
+      "name": "Animalism",
+      "value": 1
     },
     {
-      "name": "Dominate",
-      "value": 3
+      "name": "Obfuscate",
+      "value": 2
     },
     {
-      "name": "Thaumaturgy: Path of Blood (C)",
-      "value": 5
+      "name": "Potence",
+      "value": 1
     }
   ],
-  "ritualsRitaeOther": [
-    "Blood Mastery - 1",
-    "Deflection of Wooden Doom - 1"
-  ],
+  "ritualsRitaeOther": [],
   "abilitySpecializations": [
-    "Language: Enochian, Arabic",
-    "Lore: Dreams, Demonology, Tremere",
-    "Science: Mathmatics"
+    "Crafts: Body Modification, Tattoos,",
+    "Scarification"
   ],
   "rawSheets": {
     "Print Sheet": [
       [
         "",
-        "SABBAT: LA",
+        "CHRONICLE",
         "",
         "Players Gmail Account:",
         "",
@@ -97,19 +91,19 @@
         "",
         "CURRENT POOLS",
         "",
-        "60"
+        "49"
       ],
       [
         "",
-        "Dabir Alaswad",
+        "Charley Connor",
         "",
-        "Khaldoun Kheli",
         "",
-        "NPC",
+        "",
+        "Laura Bishop",
         "",
         "",
         "Generation",
-        "3.0",
+        "2.0",
         "",
         "",
         "Current Willpower",
@@ -133,7 +127,7 @@
       ],
       [
         "",
-        "Manipulator",
+        "Creep Show",
         "",
         "",
         "",
@@ -141,10 +135,10 @@
         "",
         "",
         "Alternate Identity",
+        "2.0",
         "",
         "",
-        "",
-        "Current Blood Points * Per Turn ~ 15*3"
+        "Current Blood Points * Per Turn ~ 10*1"
       ],
       [
         "",
@@ -155,7 +149,7 @@
         "Character Start Date",
         "",
         "",
-        "Contacts / Fame",
+        "Contacts",
         "",
         "",
         "",
@@ -163,18 +157,14 @@
       ],
       [
         "",
-        "Pretender Elder 8",
+        "Ancilla 9",
         "",
-        "Tremere - Easily Bound",
-        "",
-        "",
+        "Nosferatu - Repulsive",
         "",
         "",
-        "Mentor / Herd",
         "",
-        "1.0",
         "",
-        "Extra Clan Weakness: Sigal of the Betrayer"
+        "Fame"
       ],
       [
         "",
@@ -185,7 +175,8 @@
         "",
         "",
         "",
-        "Influence \"Elite\""
+        "Haven",
+        "1.0"
       ],
       [
         "",
@@ -196,46 +187,42 @@
         "",
         "",
         "",
-        "Influence \"Underworld\"",
-        "",
-        "",
-        "",
-        "Haven: Security, Occult, Library"
+        "Herd"
       ],
       [
         "",
         "Physical",
-        "5.0",
-        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "3.0",
+        "Strength - (Disarm, Grapple, Knock Down, or Pierce the Heart)",
         "",
         "",
         "",
         "",
-        "Resources",
-        "1.0"
+        "Influence \"Elite\""
       ],
       [
         "",
         "Social",
-        "3.0",
+        "5.0",
         "Manipulation - +3 Social on Non Power uses dealing with focus.",
         "",
         "",
         "",
         "",
-        "Retainers"
+        "Influence \"Underworld\"",
+        "3.0"
       ],
       [
         "",
         "Mental",
-        "11.0",
+        "7.0",
         "Intelligence - +3 Mental on Non Power uses dealing with focus.",
         "",
         "",
         "",
         "",
-        "Ritae",
-        "1.0"
+        "Resources",
+        "2.0"
       ],
       [
         "",
@@ -246,23 +233,22 @@
         "AWARDED BY",
         "",
         "",
-        "Haven",
-        "2.0"
+        "Retainers"
       ],
       [
         "",
-        "Initiated (Sabbat)",
         "",
         "",
         "",
         "",
         "",
         "",
-        "Other 2"
+        "",
+        "Ritae / Other"
       ],
       [
         "",
-        "Branded (Black Hand)",
+        "",
         "",
         "",
         "",
@@ -284,12 +270,12 @@
         "",
         "",
         "",
-        "Rare Clan -5",
+        "Additional Common Discipline -4",
         "",
         "",
         "",
-        "Auspex",
-        "3.0"
+        "Animalism",
+        "1.0"
       ],
       [
         "",
@@ -300,12 +286,12 @@
         "",
         "",
         "",
-        "Black Hand Membership (First Tribe) -2",
+        "Unmarred Face -2",
         "",
         "",
         "",
-        "Dominate",
-        "3.0"
+        "Obfuscate",
+        "2.0"
       ],
       [
         "",
@@ -320,8 +306,8 @@
         "",
         "",
         "",
-        "Thaumaturgy: Path of Blood (C)",
-        "5.0"
+        "Potence",
+        "1.0"
       ],
       [
         "",
@@ -336,32 +322,33 @@
         "",
         "",
         "",
-        "Thaumaturgy: Gift of Morpheus (R)",
-        "3.0"
+        "Presence",
+        "2.0"
       ],
       [
         "",
         "Academics",
-        "",
+        "1.0",
         "Intimidation",
-        "3.0",
+        "",
         "Streetwise",
+        "1.0",
         "",
         "",
         "",
         "",
         "",
-        "",
-        "Obfuscate",
+        "Auspex",
         "2.0"
       ],
       [
         "",
         "Animal Ken",
-        "",
-        "Investigation",
         "2.0",
-        "Subterfuge"
+        "Investigation",
+        "",
+        "Subterfuge",
+        "3.0"
       ],
       [
         "",
@@ -369,10 +356,7 @@
         "",
         "Leadership",
         "",
-        "Survival",
-        "",
-        "",
-        "Clan Weakness +2"
+        "Survival"
       ],
       [
         "",
@@ -380,14 +364,17 @@
         "",
         "Linguistics",
         "2.0",
-        "Performance"
+        "Performance",
+        "",
+        "",
+        "Soul Shard +3"
       ],
       [
         "",
         "Brawl",
-        "2.0",
+        "1.0",
         "Lore",
-        "3.0",
+        "",
         "SECONDARY ABILITIES",
         "",
         "",
@@ -403,61 +390,46 @@
         "",
         "Medicine",
         "",
-        "Dreaming",
-        "2.0",
-        "",
-        "Language: Enochian, Arabic",
         "",
         "",
         "",
-        "Blood Mastery - 1"
+        "Crafts: Body Modification, Tattoos,"
       ],
       [
         "",
         "Crafts",
-        "",
+        "3.0",
         "Melee",
         "",
         "",
         "",
         "",
-        "Lore: Dreams, Demonology, Tremere",
-        "",
-        "",
-        "",
-        "Deflection of Wooden Doom - 1"
+        "Scarification"
       ],
       [
         "",
         "Dodge",
         "",
-        "Occult",
-        "4.0"
+        "Occult"
       ],
       [
         "",
         "Drive",
-        "",
-        "Science",
         "1.0",
-        "",
-        "",
-        "",
-        "Science: Mathmatics"
+        "Science"
       ],
       [
         "",
         "Empathy",
-        "",
-        "Security",
-        "1.0"
+        "4.0",
+        "Security"
       ],
       [
         "",
         "Firearms",
-        "1.0",
+        "",
         "Stealth",
-        "1.0"
+        "2.0"
       ],
       [
         "",
@@ -465,25 +437,25 @@
       ],
       [
         "",
-        "Brawl    7",
+        "Brawl    4",
         "",
-        "Dodge    5",
+        "Dodge    3",
         "",
-        "Thaumaturgy -Tals   15"
+        "Disciplines Pull Down"
       ],
       [
         "",
-        "Melee    5",
+        "Melee    3",
         "",
-        "Auspex    13",
+        "Disciplines Pull Down",
         "",
-        "Obfuscate    12"
+        "Disciplines Pull Down"
       ],
       [
         "",
-        "Guns (No Wits)   6",
+        "Guns (No Wits)   3",
         "",
-        "Dominate    14",
+        "Disciplines Pull Down",
         "",
         "Disciplines Pull Down"
       ],
@@ -523,41 +495,41 @@
           "0"
         ],
         [
-          "Rare Clan -5",
+          "Unmarred Face",
           "Pre Game",
-          "-5.0"
+          "-2.0"
         ],
         [
-          "Thaumaturgic Expertise -1",
+          "Additional Common Discipline: Presence",
           "Pre Game",
-          "-1.0",
+          "-4.0",
           "",
           "",
           "Total XP Earned"
         ],
         [
-          "Ritual: Blood Mastery",
+          "Presence x1, x2",
           "Pre Game",
-          "-2.0",
+          "-9.0",
           "",
           "",
           "0"
         ],
         [
-          "Dominate 3",
+          "Auspex x1, x2",
           "Pre Game",
-          "-9.0"
+          "-12.0"
         ],
         [
-          "TH: GoM 1",
+          "Soul Shard",
           "Pre Game",
-          "-3.0",
+          "3.0",
           "",
           "",
           "Total Games Played"
         ],
         [
-          "TH: GoM 2",
+          "Resources x2",
           "Pre Game",
           "-6.0",
           "",
@@ -565,14 +537,13 @@
           "0"
         ],
         [
-          "TH: GoM 3",
-          "Pre Game",
-          "-9.0"
+          "",
+          "Pre Game"
         ],
         [
-          "Ritual: Deflect wd",
+          "",
           "Pre Game",
-          "-2.0",
+          "",
           "",
           "",
           "6 Game XP Earned"
@@ -610,25 +581,24 @@
           "Pre Game"
         ],
         [
-          "Paranoia, Extreme +3",
+          "",
           "Pre Game",
-          "3.0",
+          "",
           "",
           "",
           "Current XP"
         ],
         [
-          "Clan Weakness +2",
+          "",
           "Pre Game",
-          "2.0",
+          "",
           "",
           "",
           "0"
         ],
         [
-          "Child, Vengeful +2",
-          "Pre Game",
-          "2.0"
+          "",
+          "Pre Game"
         ],
         [
           "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
@@ -655,48 +625,44 @@
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Rare Clan -5",
+          "what_was_bought": "Unmarred Face",
           "date": "Pre Game",
-          "all_costs": -5
+          "all_costs": -2
         },
         {
-          "what_was_bought": "Thaumaturgic Expertise -1",
+          "what_was_bought": "Additional Common Discipline: Presence",
           "date": "Pre Game",
-          "all_costs": -1,
+          "all_costs": -4,
           "starting_total_xp_left": "Total XP Earned"
         },
         {
-          "what_was_bought": "Ritual: Blood Mastery",
+          "what_was_bought": "Presence x1, x2",
           "date": "Pre Game",
-          "all_costs": -2,
+          "all_costs": -9,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Dominate 3",
+          "what_was_bought": "Auspex x1, x2",
           "date": "Pre Game",
-          "all_costs": -9
+          "all_costs": -12
         },
         {
-          "what_was_bought": "TH: GoM 1",
+          "what_was_bought": "Soul Shard",
           "date": "Pre Game",
-          "all_costs": -3,
+          "all_costs": 3,
           "starting_total_xp_left": "Total Games Played"
         },
         {
-          "what_was_bought": "TH: GoM 2",
+          "what_was_bought": "Resources x2",
           "date": "Pre Game",
           "all_costs": -6,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "TH: GoM 3",
-          "date": "Pre Game",
-          "all_costs": -9
+          "date": "Pre Game"
         },
         {
-          "what_was_bought": "Ritual: Deflect wd",
           "date": "Pre Game",
-          "all_costs": -2,
           "starting_total_xp_left": "6 Game XP Earned"
         },
         {
@@ -718,21 +684,15 @@
           "date": "Pre Game"
         },
         {
-          "what_was_bought": "Paranoia, Extreme +3",
           "date": "Pre Game",
-          "all_costs": 3,
           "starting_total_xp_left": "Current XP"
         },
         {
-          "what_was_bought": "Clan Weakness +2",
           "date": "Pre Game",
-          "all_costs": 2,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Child, Vengeful +2",
-          "date": "Pre Game",
-          "all_costs": 2
+          "date": "Pre Game"
         },
         {
           "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
@@ -755,7 +715,7 @@
           "Hierarchy of Sins"
         ],
         [
-          "Path of Power and the Inner Voice\n1 If you voluntarily give up authority, allow your followers to be abused by anyone other than you\n2 Denying responsibility for your actions\n3 Accepting defeat\n4 Defy a superior you are not willing to directly challenge, or pass up an easy opportunity to gain power\n5 Turning down the opportunity for power"
+          "Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused."
         ],
         [
           "Every time your character commits a sin, you gain temporary Beast traits equal to the level of the sin. It is possible to mitigate the number of Beast traits your character gains when committing a sin by making a degeneration challenge. The test pool is Mental + Willpower with a standard diffculty rating (10) +1 per level of sin. If you win you get one less Beast trait. You lose a path or Humanity trait every time you get 5 Beast traits. Regaining Humanity Costs 10 Xp."
@@ -928,6 +888,7 @@
           "Created By:"
         ],
         [
+          "Nosferatu faking a Toreador",
           "",
           "",
           "",
@@ -935,42 +896,38 @@
           "",
           "",
           "",
-          "",
-          "Khaldoun Khelil"
+          "Rachel Judd"
         ],
         [
           "Staff Generated History"
         ],
         [
-          "A Tremere Antitribu who survived the death of the rest of his clan. He is a student of darker Thaumaturgy and is often tempted to infernalism. While the rest of his blood line died he was likely spared because he was at the Sabbat Regents side and protected by multiple layers of magical warding.  Dabir was a Regent in Baghdad, but defected to House Goratrix when he was revealed as a member of the Horned Society.  In the Sabbat he quickly realized that many in House Goratrix were infernalists and if not for the Black Hands intervention may have joined their number.  After the fall of his Clan and the reorganization of the Black Hand, Dabir still finds himself tempted by the power of infernalism, but cannot abide the idea of a demonic master.  He is in LA invetigating the rumor that new gargoyles are being created and how the Sabbat can counter these creatures... but he also wishes to learn more about LA's demons and how they can be captured or destroyed."
+          "You always thought you were too good for government work, but when a lucrative position opened up at the San Antonio DWP, you took it. You didn't think government jobs were so cushy, but yours was. Then the market crashed, and you *needed* a job. So you stayed, resenting your circumstances. It might have stopped there, but then you got engaged. You simply could not shut up about your fiancee and what beautiful children you'd make together. Distracted by wedding planning, your work suffered. Long story short, you ended up becoming a spite Embrace - your sire bequeathing you the Blood as a punishment for your vanity and self-absorption. Only, the Embrace didn't go the way your sire thought it would be. Your body is a mangled mess of sagging skin, unsightly body hair, taloned feet and hands... but your face remains untouched. You tried to fit in with the other Nosferatu, but you simply couldn't put up with their monstrousness. So, as soon as you could, you ran away and passed yourself off as a Caitiff in Dallas. There, you met Veronique, a Toreador neonate who had earned the ire of her own sire. You befriended her, seduced her, convinced her to drink your blood. Once you had utterly won her devotion, you convinced her to claim you as her childe. Which, of course, she did. You promptly drank Veronique dry and moved to San Francisco with the sad tale of your sire's death at the hands of the Sabbat. You fit in very well, pretending to be overtly religious to explain why you kept so well-covered. A little odd, as your chosen art form is very visceral - you practice tattooing, body modification and piercing; helping others show off their body while you must always keep yours hidden. But then the NPM took over San Francisco, and so you've fled to LA, looking for a new home among the Toreador. NOTE: You must cover up your hair, neck, hands, etc. If anyone ever sees a part of your body that is not your face, they will know you are not not Toreador. And Veronique isn't gone. Some part of her remained when you diablerized her, and she lingers in your head, mocking you constantly for being a fake Toreador."
         ],
         [
           "Sire:",
-          "Tetsuhiro",
+          "Mee-ku the Unclean (real), Veronique St. Croix (fake)",
           "Reference: (If any)",
           "",
           "",
           "Clan",
-          "Tremere - Easily Bound"
+          "Nosferatu - Repulsive"
         ],
         [
           "Embrace Date:",
-          "1976.0",
+          "1931/1955",
           "Embrace Location:",
-          "Iraq",
+          "San Antonio, TX",
           "",
           "Generation",
-          "Pretender Elder 8"
+          "Ancilla 9"
         ],
         [],
         [
           "Who You Know",
           "Your relationship to these people is described. This may mean they do not know you."
         ],
-        [
-          "Yasmin the Black",
-          "A powerful Montreal Tremere Antitribu of the Black Hand"
-        ],
+        [],
         [],
         [],
         [],
@@ -978,9 +935,15 @@
           "Starting Goals",
           "These are recomendations, not mandates."
         ],
-        [],
-        [],
-        [],
+        [
+          "Veronique won't leave you alone. Is there a way to get rid of someone you've diablerized, if they won't go away? Find someone you can trust, or manipulate, into helping you fix this problem without totally outing yourself."
+        ],
+        [
+          "Your cover is currently very weak. Work on shoring up your cover identity (i.e., buying higher levels of Alternate Identity)"
+        ],
+        [
+          "While you do excellent work on mortals, your work on Kindred, no matter how well-executed, vanishes each sunset (unless you've used fire to create your patterns, but that of course comes with its own challenges). Find a way to make your Kindred work permanent. You know the Sabbat have a unique discipline to craft flesh, though you know no details beyond that. You've also heard rumors of a ritual, but again, know little. Find out more."
+        ],
         [],
         [
           "Player Amended History",
@@ -990,40 +953,46 @@
       ],
       "records": [
         {
-          "created_by": "Khaldoun Khelil"
+          "staff_generated_concept": "Nosferatu faking a Toreador",
+          "created_by": "Rachel Judd"
         },
         {
           "staff_generated_concept": "Staff Generated History"
         },
         {
-          "staff_generated_concept": "A Tremere Antitribu who survived the death of the rest of his clan. He is a student of darker Thaumaturgy and is often tempted to infernalism. While the rest of his blood line died he was likely spared because he was at the Sabbat Regents side and protected by multiple layers of magical warding.  Dabir was a Regent in Baghdad, but defected to House Goratrix when he was revealed as a member of the Horned Society.  In the Sabbat he quickly realized that many in House Goratrix were infernalists and if not for the Black Hands intervention may have joined their number.  After the fall of his Clan and the reorganization of the Black Hand, Dabir still finds himself tempted by the power of infernalism, but cannot abide the idea of a demonic master.  He is in LA invetigating the rumor that new gargoyles are being created and how the Sabbat can counter these creatures... but he also wishes to learn more about LA's demons and how they can be captured or destroyed."
+          "staff_generated_concept": "You always thought you were too good for government work, but when a lucrative position opened up at the San Antonio DWP, you took it. You didn't think government jobs were so cushy, but yours was. Then the market crashed, and you *needed* a job. So you stayed, resenting your circumstances. It might have stopped there, but then you got engaged. You simply could not shut up about your fiancee and what beautiful children you'd make together. Distracted by wedding planning, your work suffered. Long story short, you ended up becoming a spite Embrace - your sire bequeathing you the Blood as a punishment for your vanity and self-absorption. Only, the Embrace didn't go the way your sire thought it would be. Your body is a mangled mess of sagging skin, unsightly body hair, taloned feet and hands... but your face remains untouched. You tried to fit in with the other Nosferatu, but you simply couldn't put up with their monstrousness. So, as soon as you could, you ran away and passed yourself off as a Caitiff in Dallas. There, you met Veronique, a Toreador neonate who had earned the ire of her own sire. You befriended her, seduced her, convinced her to drink your blood. Once you had utterly won her devotion, you convinced her to claim you as her childe. Which, of course, she did. You promptly drank Veronique dry and moved to San Francisco with the sad tale of your sire's death at the hands of the Sabbat. You fit in very well, pretending to be overtly religious to explain why you kept so well-covered. A little odd, as your chosen art form is very visceral - you practice tattooing, body modification and piercing; helping others show off their body while you must always keep yours hidden. But then the NPM took over San Francisco, and so you've fled to LA, looking for a new home among the Toreador. NOTE: You must cover up your hair, neck, hands, etc. If anyone ever sees a part of your body that is not your face, they will know you are not not Toreador. And Veronique isn't gone. Some part of her remained when you diablerized her, and she lingers in your head, mocking you constantly for being a fake Toreador."
         },
         {
           "staff_generated_concept": "Sire:",
-          "column_2": "Tetsuhiro",
+          "column_2": "Mee-ku the Unclean (real), Veronique St. Croix (fake)",
           "column_3": "Reference: (If any)",
           "column_6": "Clan",
-          "column_7": "Tremere - Easily Bound"
+          "column_7": "Nosferatu - Repulsive"
         },
         {
           "staff_generated_concept": "Embrace Date:",
-          "column_2": 1976,
+          "column_2": "1931/1955",
           "column_3": "Embrace Location:",
-          "column_4": "Iraq",
+          "column_4": "San Antonio, TX",
           "column_6": "Generation",
-          "column_7": "Pretender Elder 8"
+          "column_7": "Ancilla 9"
         },
         {
           "staff_generated_concept": "Who You Know",
           "column_2": "Your relationship to these people is described. This may mean they do not know you."
         },
         {
-          "staff_generated_concept": "Yasmin the Black",
-          "column_2": "A powerful Montreal Tremere Antitribu of the Black Hand"
-        },
-        {
           "staff_generated_concept": "Starting Goals",
           "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Veronique won't leave you alone. Is there a way to get rid of someone you've diablerized, if they won't go away? Find someone you can trust, or manipulate, into helping you fix this problem without totally outing yourself."
+        },
+        {
+          "staff_generated_concept": "Your cover is currently very weak. Work on shoring up your cover identity (i.e., buying higher levels of Alternate Identity)"
+        },
+        {
+          "staff_generated_concept": "While you do excellent work on mortals, your work on Kindred, no matter how well-executed, vanishes each sunset (unless you've used fire to create your patterns, but that of course comes with its own challenges). Find a way to make your Kindred work permanent. You know the Sabbat have a unique discipline to craft flesh, though you know no details beyond that. You've also heard rumors of a ritual, but again, know little. Find out more."
         },
         {
           "staff_generated_concept": "Player Amended History",
@@ -1032,11 +1001,7 @@
       ]
     },
     "Disiplines Mechanic": {
-      "rows": [
-        [
-          "Thaumaturgy - Path of Blood\nThose who practice the thaumaturgic arts sacrifice a small portion of their mystically-infused vitae in order to forcibly shape the world according to their will. Thaumaturgy has certain limitations:\nThaumaturgy relies upon a thaumaturge speaking magical phrases and making specific gestures. \nAll Thaumaturgy paths and rituals are considered Mental powers, and as such, cannot be used during Celerity rounds.\nSpecific Thaumaturgy powers that are resisted with your target’s Physical attribute can be repeatedly used against a target. Powers that are resisted with the target’s Mental attribute cannot be attempted repeatedly. You must wait 10 minutes before retrying such a power.\nThaumaturgy Test Pool: Mental attribute + Occult versus the target’s Mental attribute + Willpower. Powers that specifically target are resisted using the target’s Physical attribute + Dodge.\n\nThe Path of Blood\n● A Taste of Blood\nThe Path of Blood leverages the concept of sympathetic magic to allow you to alter the properties of the vitae within your system or to discover secrets of others through divining with their blood. \nSystem: Ingest a drop of your target’s blood and use your simple action to discern information about the target. A Taste for Blood requires you to physically ingest the vitae that you test, and, therefore, consumes the sample of blood. The magical nature of A Taste for Blood shields the thaumaturge from being bound by the blood ingested and provides all of the following information:\nMedical information, such as blood type and state of health\nHow much blood is currently in the subject’s system\nWhat type of creature the blood came from: mortal, ghoul, vampire, etc. \nThe thaumaturge may also determine: the subject’s generation; whether the subject has ever committed diablerie; how recently the subject has fed\nFocus [Perception]: You can gauge the strength of any blood bonds or partial blood bonds the target has, including the bonds created by participating in the Vaulderie. You do not know to whom the subject is bound, nor whether the bonds are mutual, but you do know the number and severity of the bonds.\n\n●● Blood Rage\nYou can mystically manipulate another vampire’s blood while it is still within her system. A vampire affected by Blood Rage feels a rush, much like a surge of adrenaline, and automatically realizes she has been affected by a power.\nSystem: Spend 1 Blood and use your standard action to make an opposed challenge using your Mental attribute + Occult versus the target’s Mental attribute + Willpower. The target must be within one step of you. If you succeed, the target must spend a single point of Blood in any fashion you wish. This expenditure can exceed the limits of Generation. By using this power, you can force a vampire or ghoul to spend Blood in one of the following manners:\nIncrease her Physical attribute\nActivate a discipline power, such as Rapidity\nHeal wounds\nAwaken from torpor\nSweat blood through her pores\nBlood Rage cannot be used to force the target to activate a power that requires her to spend an action. \nFocus [Perception]: You must be within 10 steps of your target in order to activate Blood Rage, as opposed to the standard one step.\n\n●●● Blood of Potency\nYou have mastered your vitae to the point that you can command it to temporarily thicken, causing your vampiric form to manifest a more potent generation.\nSystem: Once per night, you can spend 1 Blood and use your simple action to activate Blood of Potency. This power lasts for the next hour. While active, your Blood pool increases to half again its normal size (rounded up). You can spend 2 additional points of Blood per turn. You are considered to be three generations lower than normal for the purpose of waking another vampire from torpor. Once this power ends, any Blood you contain over your natural Blood pool dilutes, leaving you at your regular Blood pool maximum. If you are diablerized or Embrace, your real generation is used to determine the results.\nFocus [Intelligence]: You can utilize Blood of Potency twice in the course of a single evening.\n\n●●●● Theft of Vitae\nBy mystically attuning the vitae in your body into a thaumaturgical magnet, you can literally siphon blood from your target, causing it to cascade out of your enemy’s pores and into your hand, to be absorbed instantly into the caster’s system.\nSystem: Spend 1 Blood and use your standard action to make an opposed challenge using your Mental attribute + Occult versus the target’s Mental attribute + Willpower, targeting a character within 25 steps. If you succeed, you can draw 3 points of Blood from your victim. Blood stolen in this fashion has all of its normal properties.\nExceptional Success:\nYou steal 4 points of Blood from your target, rather than 3.\nFocus [Intelligence]: Blood siphoned will not induce a blood bond, sicken you, or carry diseases. Supernatural powers remain in effect.\n\n●●●●● Cauldron of Blood\nBy touching your opponent, you can boil the blood within your enemy’s veins, causing her to suffer incredible pain and agony. Red mist rises from the victim’s body as bubbling blood seeps from her pores and orifices. \nSystem: Use a standard action to Grapple a target. If you succeed, spend 1 Blood to inflict Cauldron of Blood on the victim, as well as inflicting all standard effects of a Grapple. Cauldron of Blood boils 2 points of Blood within your victim’s body, destroying the affected Blood and causing 2 points of aggravated damage. Damage caused by this power cannot be reduced or negated. \nThe first time you use Cauldron of Blood on a target, you must succeed in a Grapple combat maneuver against that target. If your target is already Grappled, you can activate this power by spending 1 Blood and using your standard action. \nThis power does not convert the normal damage dealt by a Grapple to aggravated damage, and that damage can be reduced or negated normally. The Grapple combat maneuver does not reduce the damage dealt by Cauldron of Blood. Mortals affected by Cauldron of Blood die instantly.\nFocus [Intelligence]: You can affect 1 additional point of Blood, boiling up to a total of 3 Blood and causing 3 aggravated damage per use."
-        ]
-      ],
+      "rows": [],
       "records": []
     },
     "Blood Bonds  Valudrie": {
@@ -1069,11 +1034,11 @@
           "Genaral Towntimes",
           "3.0",
           "Influnce Downtimes",
-          "1",
+          "3",
           "Computer Downtimes",
           "0",
           "Science Downtimes",
-          "1"
+          "0"
         ],
         [],
         [
@@ -1106,9 +1071,9 @@
           "genaral_towntimes": "Timestamp",
           "3_0": "Score",
           "influnce_downtimes": "What is your Character's name?",
-          "1": "Investigation / Patrol Actions",
+          "3": "What clan (or supernatural) does your character belong?",
           "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
-          "0": "Hunting Actions",
+          "0": "Investigation / Patrol Actions",
           "science_downtimes": "Hunting Modifications",
           "column_9": "Purpose of Investigation / Patrol",
           "column_10": "Blood Magic Research",
@@ -1887,13 +1852,7 @@
           "",
           "",
           "",
-          "Mirror Walk -4",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Dark Age Paths"
+          "Mirror Walk -4"
         ],
         [
           "Gangrel \"Noiad\" - Animalistic Beast",
@@ -1908,13 +1867,7 @@
           "",
           "",
           "",
-          "Severed Hand -4",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused.\""
+          "Severed Hand -4"
         ],
         [
           "Gargoyles - Monstrous Vistage",
@@ -1929,13 +1882,7 @@
           "",
           "",
           "",
-          "Scry - 4",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of the Beast\n1 Leaving the weak unchallenged\n2 Killing without need\n3 Tormenting others needlessly\n4 Not defending your territory \n5 Showing your enemies mercy"
+          "Scry - 4"
         ],
         [
           "Gargoyles - Monstrous Slaves",
@@ -1950,13 +1897,7 @@
           "",
           "",
           "",
-          "Blood Contract -5",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Heaven\n1  Failing to speak out against corruption and sin.\n2  Theft, robbery, willful vandalism.\n3  Feeding from an innocent without permission.\n4  Blasphemous or heretical acts.\n5  The murder of innocents."
+          "Blood Contract -5"
         ],
         [
           "Giovanni - Painful Feeding",
@@ -1971,13 +1912,7 @@
           "",
           "",
           "",
-          "Cobra’s Favor -5",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Kings\n1  Forgoing your duty\n2  Placing personal desires over duty\n3  Showing weakness in front of inferiors\n4  Treadting your superiour with disrepect\n5  Breaking your word or oath"
+          "Cobra’s Favor -5"
         ],
         [
           "Giovanni - \"Ghiberti\" - Painful Feeding",
@@ -1992,13 +1927,7 @@
           "",
           "",
           "",
-          "Paper Flesh -5",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Sins\n1 Failing to indulge a new desire\n2 Forfeting long-term plesures for short term ones\n3 Swearing an oath\n4 Refusing to act against those who attempt to bind you\n5 Encouraging the tenetates or virtues of another road"
+          "Paper Flesh -5"
         ],
         [
           "Giovanni - \"Della Passglia\" - Painful Feeding",
@@ -2013,13 +1942,7 @@
           "",
           "",
           "",
-          "Stone of the True Form -5",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Lilith\n1 Joining a system created by those with no wisdom\n2 Ignoring one of Lilith’s faces\n3 Rejecting the suffering of others or dismissing it\n4 Destroying a thinking being\n5 Getting between someone and a valuable lesson"
+          "Stone of the True Form -5"
         ],
         [
           "Giovanni \"Premascine\" - Ghastly Pallor",
@@ -2030,17 +1953,7 @@
           "",
           "Enforcer (Fleeting)",
           "",
-          "Thaumaturgy: Path of Corruption (C)",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Dark Age Paths"
+          "Thaumaturgy: Path of Corruption (C)"
         ],
         [
           "Giovanni \"Pisanob\" - Ghastly Pallor",
@@ -2055,13 +1968,7 @@
           "",
           "",
           "",
-          "Sabbat Ritae",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused.\""
+          "Sabbat Ritae"
         ],
         [
           "Lasombra - No Reflection",
@@ -2076,13 +1983,7 @@
           "",
           "",
           "",
-          "The Binding",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of the Beast\n1 Leaving the weak unchallenged\n2 Killing without need\n3 Tormenting others needlessly\n4 Not defending your territory \n5 Showing your enemies mercy"
+          "The Binding"
         ],
         [
           "Lasombra \"Kaisyd\" - Form of the Fae",
@@ -2097,13 +1998,7 @@
           "",
           "",
           "",
-          "Blood Bath",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Heaven\n1  Failing to speak out against corruption and sin.\n2  Theft, robbery, willful vandalism.\n3  Feeding from an innocent without permission.\n4  Blasphemous or heretical acts.\n5  The murder of innocents."
+          "Blood Bath"
         ],
         [
           "Lasombra \"Xi Dundu\" - No Natural Shadow",
@@ -2118,13 +2013,7 @@
           "",
           "",
           "",
-          "Blood Feast",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Kings\n1  Forgoing your duty\n2  Placing personal desires over duty\n3  Showing weakness in front of inferiors\n4  Treadting your superiour with disrepect\n5  Breaking your word or oath"
+          "Blood Feast"
         ],
         [
           "Lasombra Antitribu - No Reflection & Hunted",
@@ -2139,13 +2028,7 @@
           "",
           "",
           "",
-          "Creation Rites",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Sins\n1 Failing to indulge a new desire\n2 Forfeting long-term plesures for short term ones\n3 Swearing an oath\n4 Refusing to act against those who attempt to bind you\n5 Encouraging the tenetates or virtues of another road"
+          "Creation Rites"
         ],
         [
           "Meaghar - Fae Marked",
@@ -2160,13 +2043,7 @@
           "",
           "",
           "",
-          "Fire Dance",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Lilith\n1 Joining a system created by those with no wisdom\n2 Ignoring one of Lilith’s faces\n3 Rejecting the suffering of others or dismissing it\n4 Destroying a thinking being\n5 Getting between someone and a valuable lesson"
+          "Fire Dance"
         ],
         [
           "Malkavians - Permanent Derangement",
@@ -5865,8 +5742,7 @@
           "addict": "Conniver",
           "1_0": 27,
           "accepted_anarch": "Privileged (Abiding)",
-          "thaumaturgy": "Mirror Walk -4",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Dark Age Paths"
+          "thaumaturgy": "Mirror Walk -4"
         },
         {
           "clans_and_their_flaws": "Gangrel \"Noiad\" - Animalistic Beast",
@@ -5876,8 +5752,7 @@
           "1_0": 28,
           "accepted_anarch": "Sovereign (Abiding)",
           "animalism": "Thaumaturgy: Path of Blood (C)",
-          "thaumaturgy": "Severed Hand -4",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused.\""
+          "thaumaturgy": "Severed Hand -4"
         },
         {
           "clans_and_their_flaws": "Gargoyles - Monstrous Vistage",
@@ -5886,8 +5761,7 @@
           "1_0": 29,
           "accepted_anarch": "-",
           "animalism": "Thaumaturgy: Elemental Mastery (C)",
-          "thaumaturgy": "Scry - 4",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of the Beast\n1 Leaving the weak unchallenged\n2 Killing without need\n3 Tormenting others needlessly\n4 Not defending your territory \n5 Showing your enemies mercy"
+          "thaumaturgy": "Scry - 4"
         },
         {
           "clans_and_their_flaws": "Gargoyles - Monstrous Slaves",
@@ -5896,8 +5770,7 @@
           "1_0": 30,
           "accepted_anarch": "Architect (Innate)",
           "animalism": "Thaumaturgy: Lure of Flames (C)",
-          "thaumaturgy": "Blood Contract -5",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Heaven\n1  Failing to speak out against corruption and sin.\n2  Theft, robbery, willful vandalism.\n3  Feeding from an innocent without permission.\n4  Blasphemous or heretical acts.\n5  The murder of innocents."
+          "thaumaturgy": "Blood Contract -5"
         },
         {
           "clans_and_their_flaws": "Giovanni - Painful Feeding",
@@ -5907,8 +5780,7 @@
           "1_0": 0,
           "accepted_anarch": "Primus Inter Pares (Innate)",
           "animalism": "Thaumaturgy: Movement of the Mind (C)",
-          "thaumaturgy": "Cobra’s Favor -5",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Kings\n1  Forgoing your duty\n2  Placing personal desires over duty\n3  Showing weakness in front of inferiors\n4  Treadting your superiour with disrepect\n5  Breaking your word or oath"
+          "thaumaturgy": "Cobra’s Favor -5"
         },
         {
           "clans_and_their_flaws": "Giovanni - \"Ghiberti\" - Painful Feeding",
@@ -5917,8 +5789,7 @@
           "addict": "Curious",
           "accepted_anarch": "-",
           "animalism": "Thaumaturgy: Neptune's Might (C)",
-          "thaumaturgy": "Paper Flesh -5",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Sins\n1 Failing to indulge a new desire\n2 Forfeting long-term plesures for short term ones\n3 Swearing an oath\n4 Refusing to act against those who attempt to bind you\n5 Encouraging the tenetates or virtues of another road"
+          "thaumaturgy": "Paper Flesh -5"
         },
         {
           "clans_and_their_flaws": "Giovanni - \"Della Passglia\" - Painful Feeding",
@@ -5927,8 +5798,7 @@
           "addict": "Curmudgeon",
           "accepted_anarch": "Acclaimed (Fleeting)",
           "animalism": "Thaumaturgy: Path of Conjuring (C)",
-          "thaumaturgy": "Stone of the True Form -5",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Lilith\n1 Joining a system created by those with no wisdom\n2 Ignoring one of Lilith’s faces\n3 Rejecting the suffering of others or dismissing it\n4 Destroying a thinking being\n5 Getting between someone and a valuable lesson"
+          "thaumaturgy": "Stone of the True Form -5"
         },
         {
           "clans_and_their_flaws": "Giovanni \"Premascine\" - Ghastly Pallor",
@@ -5936,8 +5806,7 @@
           "secondary_abilities": "Interrogation",
           "addict": "Dabbler",
           "accepted_anarch": "Enforcer (Fleeting)",
-          "animalism": "Thaumaturgy: Path of Corruption (C)",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Dark Age Paths"
+          "animalism": "Thaumaturgy: Path of Corruption (C)"
         },
         {
           "clans_and_their_flaws": "Giovanni \"Pisanob\" - Ghastly Pallor",
@@ -5945,8 +5814,7 @@
           "addict": "Decoder",
           "accepted_anarch": "Gallant (Fleeting)",
           "animalism": "Thaumaturgy: Path of Technomancy (C)",
-          "thaumaturgy": "Sabbat Ritae",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused.\""
+          "thaumaturgy": "Sabbat Ritae"
         },
         {
           "clans_and_their_flaws": "Lasombra - No Reflection",
@@ -5955,8 +5823,7 @@
           "addict": "Defender",
           "accepted_anarch": "Sanctioned (Fleeting)",
           "animalism": "Thaumaturgy: Weather Control (C)",
-          "thaumaturgy": "The Binding",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of the Beast\n1 Leaving the weak unchallenged\n2 Killing without need\n3 Tormenting others needlessly\n4 Not defending your territory \n5 Showing your enemies mercy"
+          "thaumaturgy": "The Binding"
         },
         {
           "clans_and_their_flaws": "Lasombra \"Kaisyd\" - Form of the Fae",
@@ -5965,8 +5832,7 @@
           "addict": "Deviant",
           "accepted_anarch": "-",
           "animalism": "Thaumaturgy: Alchemy (U)",
-          "thaumaturgy": "Blood Bath",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Heaven\n1  Failing to speak out against corruption and sin.\n2  Theft, robbery, willful vandalism.\n3  Feeding from an innocent without permission.\n4  Blasphemous or heretical acts.\n5  The murder of innocents."
+          "thaumaturgy": "Blood Bath"
         },
         {
           "clans_and_their_flaws": "Lasombra \"Xi Dundu\" - No Natural Shadow",
@@ -5975,8 +5841,7 @@
           "addict": "Director",
           "accepted_anarch": "Confirmed (Ancilla)",
           "animalism": "Thaumaturgy: Hands of Destruction (U)",
-          "thaumaturgy": "Blood Feast",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Kings\n1  Forgoing your duty\n2  Placing personal desires over duty\n3  Showing weakness in front of inferiors\n4  Treadting your superiour with disrepect\n5  Breaking your word or oath"
+          "thaumaturgy": "Blood Feast"
         },
         {
           "clans_and_their_flaws": "Lasombra Antitribu - No Reflection & Hunted",
@@ -5985,8 +5850,7 @@
           "addict": "Dreamer",
           "accepted_anarch": "Confirmed, Established, and Privileged (Elder)",
           "animalism": "Thaumaturgy: Mastery of the Mortal Shell (U)",
-          "thaumaturgy": "Creation Rites",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Sins\n1 Failing to indulge a new desire\n2 Forfeting long-term plesures for short term ones\n3 Swearing an oath\n4 Refusing to act against those who attempt to bind you\n5 Encouraging the tenetates or virtues of another road"
+          "thaumaturgy": "Creation Rites"
         },
         {
           "clans_and_their_flaws": "Meaghar - Fae Marked",
@@ -5995,8 +5859,7 @@
           "addict": "Enigma",
           "accepted_anarch": "Ascendant, Authority, Commander, and Ominous  (Inner Councillor)",
           "animalism": "Thaumaturgy: Oneiromancy (U)",
-          "thaumaturgy": "Fire Dance",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Lilith\n1 Joining a system created by those with no wisdom\n2 Ignoring one of Lilith’s faces\n3 Rejecting the suffering of others or dismissing it\n4 Destroying a thinking being\n5 Getting between someone and a valuable lesson"
+          "thaumaturgy": "Fire Dance"
         },
         {
           "clans_and_their_flaws": "Malkavians - Permanent Derangement",
@@ -8798,7 +8661,7 @@
           "Cloaked in Shadow +4"
         ],
         [
-          "Conspicuous Consumption +3"
+          "Conspicuous Consumption +4"
         ],
         [
           "Deaf -4"
@@ -10537,7 +10400,7 @@
           "column_1": "Cloaked in Shadow +4"
         },
         {
-          "column_1": "Conspicuous Consumption +3"
+          "column_1": "Conspicuous Consumption +4"
         },
         {
           "column_1": "Deaf -4"
@@ -10865,11 +10728,6 @@
           "2016-07-18 00:00:00",
           "Added disipline crib sheets, andded downtime form input."
         ],
-        [
-          "V3.5.2",
-          "2016-10-17 00:00:00",
-          "Added space for new backgrounds."
-        ],
         [],
         [
           "Basic Rules for making characters"
@@ -10922,11 +10780,6 @@
           "v_2": "V3.5.1",
           "2015_10_15_00_00_00": "2016-07-18 00:00:00",
           "spelling_check": "Added disipline crib sheets, andded downtime form input."
-        },
-        {
-          "v_2": "V3.5.2",
-          "2015_10_15_00_00_00": "2016-10-17 00:00:00",
-          "spelling_check": "Added space for new backgrounds."
         },
         {
           "v_2": "Basic Rules for making characters"

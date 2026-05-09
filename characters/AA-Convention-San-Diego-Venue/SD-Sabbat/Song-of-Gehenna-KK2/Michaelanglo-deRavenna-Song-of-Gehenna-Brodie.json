@@ -1,90 +1,93 @@
 {
   "source": {
-    "title": "Dabir-Alaswad-Tremere-Anti-NPC",
-    "fileName": "Dabir-Alaswad-Tremere-Anti-NPC.xlsx",
-    "localPath": "source-sheets\\AA-Convention-San-Diego-Venue\\SD-Sabbat\\Night-Dragons\\Dabir-Alaswad-Tremere-Anti-NPC.xlsx"
+    "title": "Michaelanglo-deRavenna-Song-of-Gehenna-Brodie",
+    "fileName": "Michaelanglo-deRavenna-Song-of-Gehenna-Brodie.xlsx",
+    "localPath": "source-sheets\\AA-Convention-San-Diego-Venue\\SD-Sabbat\\Song-of-Gehenna-KK2\\Michaelanglo-deRavenna-Song-of-Gehenna-Brodie.xlsx"
   },
   "folderPath": [
     "AA Convention (San Diego) Venue",
     "SD Sabbat",
-    "Night Dragons"
+    "Song of Gehenna (KK2)"
   ],
   "coreSheet": "Print Sheet",
   "character": {
-    "chronicle": "SABBAT: LA",
-    "characterName": "Dabir Alaswad",
-    "playerName": "Khaldoun Kheli",
+    "chronicle": "SABBAT: SD",
+    "characterName": "Michaelangelo eRavenna",
+    "playerName": "Brodie",
     "gmailAccount": "",
-    "clanCoordinator": "NPC",
-    "archetype": "Manipulator",
-    "title": "",
+    "clanCoordinator": "Khaldoun Khelil",
+    "archetype": "Fanatic",
+    "title": "Priest",
     "characterStartDate": "",
     "generationLabel": "Pretender Elder 8",
-    "clan": "Tremere - Easily Bound"
+    "clan": "Caitiff - \"Pander\" - Weak Blood"
   },
   "attributes": {
     "physical": 5,
-    "social": 3,
-    "mental": 11
+    "social": 5,
+    "mental": 8
   },
   "backgrounds": {
     "generation": 3,
-    "resources": 1,
-    "ritae": 1,
-    "haven": 2
+    "mentor_herd": 1,
+    "ritae": 2
   },
   "currentPools": {
     "current_willpower": 6,
-    "current_humanity": 5
+    "current_path": 5
   },
   "abilities": {
-    "intimidation": 3,
-    "investigation": 2,
+    "academics": 1,
+    "intimidation": 4,
+    "subterfuge": 1,
+    "leadership": 3,
+    "awareness": 1,
     "linguistics": 2,
-    "brawl": 2,
-    "lore": 3,
-    "dreaming": 2,
-    "occult": 4,
-    "science": 1,
-    "security": 1,
-    "firearms": 1,
-    "stealth": 1
+    "lore": 1,
+    "demonology": 2,
+    "melee": 3,
+    "dodge": 2
   },
   "status": [
     "Initiated (Sabbat)"
   ],
   "meritsAndFlaws": [
-    "Rare Clan -5",
-    "Black Hand Membership (First Tribe) -2"
+    "Vestiges of Greatness -3",
+    "Auspicious -1 (Magic Resist)",
+    "Path of Caine -1"
   ],
   "disciplines": [
-    {
-      "name": "Auspex",
-      "value": 3
-    },
     {
       "name": "Dominate",
       "value": 3
     },
     {
-      "name": "Thaumaturgy: Path of Blood (C)",
-      "value": 5
+      "name": "Obtenebration",
+      "value": 1
+    },
+    {
+      "name": "Potence",
+      "value": 2
     }
   ],
   "ritualsRitaeOther": [
-    "Blood Mastery - 1",
-    "Deflection of Wooden Doom - 1"
+    "Creation Rites",
+    "Monomacy",
+    "Vaulderie",
+    "Ritus of Contrition",
+    "Sermon of Caine",
+    "Sun Dance"
   ],
   "abilitySpecializations": [
-    "Language: Enochian, Arabic",
-    "Lore: Dreams, Demonology, Tremere",
-    "Science: Mathmatics"
+    "Academics: Italian History",
+    "Ling: Italian, Spanish",
+    "Lore: Sabbat History"
   ],
   "rawSheets": {
     "Print Sheet": [
       [
         "",
-        "SABBAT: LA",
+        "SABBAT: SD",
         "",
         "Players Gmail Account:",
         "",
@@ -97,15 +100,15 @@
         "",
         "CURRENT POOLS",
         "",
-        "60"
+        "50"
       ],
       [
         "",
-        "Dabir Alaswad",
+        "Michaelangelo eRavenna",
         "",
-        "Khaldoun Kheli",
+        "Brodie",
         "",
-        "NPC",
+        "Khaldoun Khelil",
         "",
         "",
         "Generation",
@@ -128,14 +131,14 @@
         "",
         "",
         "",
-        "Current Humanity",
+        "Current Path",
         "5.0"
       ],
       [
         "",
-        "Manipulator",
+        "Fanatic",
         "",
-        "",
+        "Priest",
         "",
         "",
         "",
@@ -165,16 +168,16 @@
         "",
         "Pretender Elder 8",
         "",
-        "Tremere - Easily Bound",
+        "Caitiff - \"Pander\" - Weak Blood",
         "",
         "",
         "",
         "",
         "Mentor / Herd",
-        "",
         "1.0",
         "",
-        "Extra Clan Weakness: Sigal of the Betrayer"
+        "",
+        "Mentor: Famous, Auspicious: Magic Resistance"
       ],
       [
         "",
@@ -185,7 +188,7 @@
         "",
         "",
         "",
-        "Influence \"Elite\""
+        "Haven"
       ],
       [
         "",
@@ -196,46 +199,48 @@
         "",
         "",
         "",
-        "Influence \"Underworld\"",
+        "Influence \"Elite\"",
         "",
         "",
         "",
-        "Haven: Security, Occult, Library"
+        "Vow of Poverty"
       ],
       [
         "",
         "Physical",
         "5.0",
-        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "Strength - (Disarm, Grapple, Knock Down, or Pierce the Heart)",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Appearance - +3 Social on Non Power uses dealing with focus.",
         "",
         "",
         "",
         "",
         "Resources",
-        "1.0"
-      ],
-      [
-        "",
-        "Social",
-        "3.0",
-        "Manipulation - +3 Social on Non Power uses dealing with focus.",
         "",
         "",
         "",
-        "",
-        "Retainers"
+        "Dark Secret:  Your Sire freed you from an Infernal Pact that stripped you of your Clan AND he may now be an Infernalist"
       ],
       [
         "",
         "Mental",
-        "11.0",
+        "8.0",
         "Intelligence - +3 Mental on Non Power uses dealing with focus.",
         "",
         "",
         "",
         "",
-        "Ritae",
-        "1.0"
+        "Retainers"
       ],
       [
         "",
@@ -246,8 +251,11 @@
         "AWARDED BY",
         "",
         "",
-        "Haven",
-        "2.0"
+        "Ritae",
+        "2.0",
+        "",
+        "",
+        "PACK SHEET"
       ],
       [
         "",
@@ -258,11 +266,11 @@
         "",
         "",
         "",
-        "Other 2"
+        "Other"
       ],
       [
         "",
-        "Branded (Black Hand)",
+        "Ordained (Priest)",
         "",
         "",
         "",
@@ -284,23 +292,7 @@
         "",
         "",
         "",
-        "Rare Clan -5",
-        "",
-        "",
-        "",
-        "Auspex",
-        "3.0"
-      ],
-      [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "Black Hand Membership (First Tribe) -2",
+        "Vestiges of Greatness -3",
         "",
         "",
         "",
@@ -316,12 +308,28 @@
         "",
         "",
         "",
+        "Auspicious -1 (Magic Resist)",
+        "",
+        "",
+        "",
+        "Obtenebration",
+        "1.0"
+      ],
+      [
         "",
         "",
         "",
         "",
-        "Thaumaturgy: Path of Blood (C)",
-        "5.0"
+        "",
+        "",
+        "",
+        "",
+        "Path of Caine -1",
+        "",
+        "",
+        "",
+        "Potence",
+        "2.0"
       ],
       [
         "",
@@ -332,62 +340,63 @@
         "",
         "",
         "",
+        "Eclipsed Blood -2",
         "",
         "",
         "",
-        "",
-        "Thaumaturgy: Gift of Morpheus (R)",
-        "3.0"
+        "Presence",
+        "1.0"
       ],
       [
         "",
         "Academics",
-        "",
+        "1.0",
         "Intimidation",
-        "3.0",
+        "4.0",
         "Streetwise",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "Obfuscate",
-        "2.0"
+        "Scholar of the Sword -1"
       ],
       [
         "",
         "Animal Ken",
         "",
         "Investigation",
-        "2.0",
-        "Subterfuge"
+        "",
+        "Subterfuge",
+        "1.0",
+        "",
+        "Poverty +1"
       ],
       [
         "",
         "Athletics",
         "",
         "Leadership",
-        "",
+        "3.0",
         "Survival",
         "",
         "",
-        "Clan Weakness +2"
+        "Vainglorius +3"
       ],
       [
         "",
         "Awareness",
-        "",
+        "1.0",
         "Linguistics",
         "2.0",
-        "Performance"
+        "Performance",
+        "",
+        "",
+        "Dark Secret +2"
       ],
       [
         "",
         "Brawl",
-        "2.0",
+        "",
         "Lore",
-        "3.0",
+        "1.0",
         "SECONDARY ABILITIES",
         "",
         "",
@@ -403,87 +412,133 @@
         "",
         "Medicine",
         "",
-        "Dreaming",
+        "Demonology",
         "2.0",
         "",
-        "Language: Enochian, Arabic",
+        "Academics: Italian History",
         "",
         "",
         "",
-        "Blood Mastery - 1"
+        "Creation Rites"
       ],
       [
         "",
         "Crafts",
         "",
         "Melee",
+        "3.0",
         "",
         "",
         "",
-        "",
-        "Lore: Dreams, Demonology, Tremere",
-        "",
+        "Ling: Italian, Spanish",
         "",
         "",
-        "Deflection of Wooden Doom - 1"
+        "",
+        "Monomacy"
       ],
       [
         "",
         "Dodge",
-        "",
+        "2.0",
         "Occult",
-        "4.0"
+        "",
+        "",
+        "",
+        "",
+        "Lore: Sabbat History",
+        "",
+        "",
+        "",
+        "Vaulderie"
       ],
       [
         "",
         "Drive",
         "",
         "Science",
-        "1.0",
         "",
         "",
         "",
-        "Science: Mathmatics"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritus of Contrition"
       ],
       [
         "",
         "Empathy",
         "",
         "Security",
-        "1.0"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sermon of Caine"
       ],
       [
         "",
         "Firearms",
-        "1.0",
+        "",
         "Stealth",
-        "1.0"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sun Dance"
       ],
       [
         "",
-        "COMMON POOLS"
+        "COMMON POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "War Party"
       ],
       [
         "",
-        "Brawl    7",
+        "Brawl (StrPot)   7",
         "",
-        "Dodge    5",
+        "Dodge    7",
         "",
-        "Thaumaturgy -Tals   15"
+        "Disciplines Pull Down",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Wild Hunt"
       ],
       [
         "",
-        "Melee    5",
+        "Melee (StrPot)   10",
         "",
-        "Auspex    13",
+        "Dominate    12",
         "",
-        "Obfuscate    12"
+        "Disciplines Pull Down"
       ],
       [
         "",
-        "Guns (No Wits)   6",
+        "Guns (No Wits)   5",
         "",
-        "Dominate    14",
+        "Presence    8",
         "",
         "Disciplines Pull Down"
       ],
@@ -501,7 +556,22 @@
         "",
         "",
         "",
-        "3.5.1"
+        "3.5.3"
+      ],
+      [
+        "Cardinal Bruce De Guy",
+        "",
+        "The Cardinal of the West and signer of the Code of Milan.  He oversees your monomacy."
+      ],
+      [
+        "Chalupavka",
+        "",
+        "Rival for Archbishop: A monstrous Tzimsce Elder from Peru.  She is said to be a deadly and unstable warrior"
+      ],
+      [
+        "Elivira de Cordoba",
+        "",
+        "A Lasombra Elder, she now leads Cardine Scorso - one of the packs that assaulted the haven of the Lasombra Antediluvean"
       ]
     ],
     "XP Spends": {
@@ -523,12 +593,12 @@
           "0"
         ],
         [
-          "Rare Clan -5",
+          "Vestiges of Greatness -3",
           "Pre Game",
-          "-5.0"
+          "-3.0"
         ],
         [
-          "Thaumaturgic Expertise -1",
+          "Auspicious -1",
           "Pre Game",
           "-1.0",
           "",
@@ -536,71 +606,72 @@
           "Total XP Earned"
         ],
         [
-          "Ritual: Blood Mastery",
+          "Magic Resistance 0",
           "Pre Game",
-          "-2.0",
+          "0.0",
           "",
           "",
           "0"
         ],
         [
-          "Dominate 3",
+          "Path of Caine -1",
           "Pre Game",
-          "-9.0"
+          "-1.0"
         ],
         [
-          "TH: GoM 1",
+          "Eclisped blood",
           "Pre Game",
-          "-3.0",
+          "-2.0",
           "",
           "",
           "Total Games Played"
         ],
         [
-          "TH: GoM 2",
+          "Presence 1",
           "Pre Game",
-          "-6.0",
+          "-4.0",
           "",
           "",
           "0"
         ],
         [
-          "TH: GoM 3",
+          "Dominate 2",
           "Pre Game",
-          "-9.0"
+          "-6.0"
         ],
         [
-          "Ritual: Deflect wd",
+          "Dominate 3",
           "Pre Game",
-          "-2.0",
+          "-9.0",
           "",
           "",
           "6 Game XP Earned"
         ],
         [
-          "",
+          "Physical 4",
           "Pre Game",
-          "",
+          "-3.0",
           "",
           "",
           "0"
         ],
         [
-          "",
-          "Pre Game"
+          "Physical 5",
+          "Pre Game",
+          "-3.0"
         ],
         [
-          "",
+          "Mental 8",
           "Pre Game",
-          "",
+          "-3.0",
           "",
           "",
           "Current XP Spent"
         ],
         [
-          "",
+          "Scholar sword",
           "Pre Game",
-          "",
+          "-1.0",
           "",
           "",
           "0"
@@ -610,23 +681,23 @@
           "Pre Game"
         ],
         [
-          "Paranoia, Extreme +3",
+          "Poverty +1",
           "Pre Game",
-          "3.0",
+          "1.0",
           "",
           "",
           "Current XP"
         ],
         [
-          "Clan Weakness +2",
+          "Vainglorius +3",
           "Pre Game",
-          "2.0",
+          "3.0",
           "",
           "",
           "0"
         ],
         [
-          "Child, Vengeful +2",
+          "Dark Secret +2",
           "Pre Game",
           "2.0"
         ],
@@ -655,82 +726,90 @@
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Rare Clan -5",
+          "what_was_bought": "Vestiges of Greatness -3",
           "date": "Pre Game",
-          "all_costs": -5
+          "all_costs": -3
         },
         {
-          "what_was_bought": "Thaumaturgic Expertise -1",
+          "what_was_bought": "Auspicious -1",
           "date": "Pre Game",
           "all_costs": -1,
           "starting_total_xp_left": "Total XP Earned"
         },
         {
-          "what_was_bought": "Ritual: Blood Mastery",
+          "what_was_bought": "Magic Resistance 0",
+          "date": "Pre Game",
+          "all_costs": 0,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Path of Caine -1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Eclisped blood",
           "date": "Pre Game",
           "all_costs": -2,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Presence 1",
+          "date": "Pre Game",
+          "all_costs": -4,
           "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Dominate 2",
+          "date": "Pre Game",
+          "all_costs": -6
         },
         {
           "what_was_bought": "Dominate 3",
           "date": "Pre Game",
-          "all_costs": -9
-        },
-        {
-          "what_was_bought": "TH: GoM 1",
-          "date": "Pre Game",
-          "all_costs": -3,
-          "starting_total_xp_left": "Total Games Played"
-        },
-        {
-          "what_was_bought": "TH: GoM 2",
-          "date": "Pre Game",
-          "all_costs": -6,
-          "starting_total_xp_left": 0
-        },
-        {
-          "what_was_bought": "TH: GoM 3",
-          "date": "Pre Game",
-          "all_costs": -9
-        },
-        {
-          "what_was_bought": "Ritual: Deflect wd",
-          "date": "Pre Game",
-          "all_costs": -2,
+          "all_costs": -9,
           "starting_total_xp_left": "6 Game XP Earned"
         },
         {
+          "what_was_bought": "Physical 4",
           "date": "Pre Game",
+          "all_costs": -3,
           "starting_total_xp_left": 0
         },
         {
-          "date": "Pre Game"
+          "what_was_bought": "Physical 5",
+          "date": "Pre Game",
+          "all_costs": -3
         },
         {
+          "what_was_bought": "Mental 8",
           "date": "Pre Game",
+          "all_costs": -3,
           "starting_total_xp_left": "Current XP Spent"
         },
         {
+          "what_was_bought": "Scholar sword",
           "date": "Pre Game",
+          "all_costs": -1,
           "starting_total_xp_left": 0
         },
         {
           "date": "Pre Game"
         },
         {
-          "what_was_bought": "Paranoia, Extreme +3",
+          "what_was_bought": "Poverty +1",
           "date": "Pre Game",
-          "all_costs": 3,
+          "all_costs": 1,
           "starting_total_xp_left": "Current XP"
         },
         {
-          "what_was_bought": "Clan Weakness +2",
+          "what_was_bought": "Vainglorius +3",
           "date": "Pre Game",
-          "all_costs": 2,
+          "all_costs": 3,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Child, Vengeful +2",
+          "what_was_bought": "Dark Secret +2",
           "date": "Pre Game",
           "all_costs": 2
         },
@@ -755,7 +834,7 @@
           "Hierarchy of Sins"
         ],
         [
-          "Path of Power and the Inner Voice\n1 If you voluntarily give up authority, allow your followers to be abused by anyone other than you\n2 Denying responsibility for your actions\n3 Accepting defeat\n4 Defy a superior you are not willing to directly challenge, or pass up an easy opportunity to gain power\n5 Turning down the opportunity for power"
+          "Path of Caine\n1 If you voluntarily ignore an opportunity to study occult knowledge\n2 Befriending or co-existing with mortals\n3 Failing to diablerize a humane vampire\n4 If you voluntarily act humane, interact with mortals other than as cattle, or deny your vampiric needs.\n5 Failing to pursue lore about vampirism when the opportunity arises (even if it would cause you damage)"
         ],
         [
           "Every time your character commits a sin, you gain temporary Beast traits equal to the level of the sin. It is possible to mitigate the number of Beast traits your character gains when committing a sin by making a degeneration challenge. The test pool is Mental + Willpower with a standard diffculty rating (10) +1 per level of sin. If you win you get one less Beast trait. You lose a path or Humanity trait every time you get 5 Beast traits. Regaining Humanity Costs 10 Xp."
@@ -914,6 +993,667 @@
         }
       ]
     },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "3",
+          "",
+          "3",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "1",
+          "0",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "0",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "0",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "0",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "0",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 3,
+          "column_5": 3,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 0,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 0,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 2,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
     "History": {
       "rows": [
         [
@@ -936,28 +1676,28 @@
           "",
           "",
           "",
-          "Khaldoun Khelil"
+          "KK"
         ],
         [
           "Staff Generated History"
         ],
         [
-          "A Tremere Antitribu who survived the death of the rest of his clan. He is a student of darker Thaumaturgy and is often tempted to infernalism. While the rest of his blood line died he was likely spared because he was at the Sabbat Regents side and protected by multiple layers of magical warding.  Dabir was a Regent in Baghdad, but defected to House Goratrix when he was revealed as a member of the Horned Society.  In the Sabbat he quickly realized that many in House Goratrix were infernalists and if not for the Black Hands intervention may have joined their number.  After the fall of his Clan and the reorganization of the Black Hand, Dabir still finds himself tempted by the power of infernalism, but cannot abide the idea of a demonic master.  He is in LA invetigating the rumor that new gargoyles are being created and how the Sabbat can counter these creatures... but he also wishes to learn more about LA's demons and how they can be captured or destroyed."
+          "You were the vain son of a minor Italian nobleman in the resort town of Ravenna.  Your embrace was unexpected.  Your father had long managed the affairs of the local Lasombra and one of them took a fancy to your beauty.  The affair was brief and tragic, for though others often noticed your appearance, your reflection was lost to you and your rank of honor within the Sabbat was of little import to you.  When your Sire was raised up as an Inquistor you aided him in his hunt for heresey and infernalism and that is when you hit upon the power that coudl restore your lost visage. At first you thought you could control the demonic power, but soon found yourself a slave to the demon Irritum.  You regained your reflection, but you no longer held the blood of the Lasombra Clan in your veins.  It was only your Sire's great power that freed you from the pact.  At first you thought he must have captured the demon, but now you believe he made a pact of his own to free you from slavery.  Your sire sent you away to form your own pack and it has been almost two decades since you saw him last.  You've rededicated your self to the Dark Father and have relinquished all human cares and wants with a vow of poverty to Caine.  You've come to San Diego to launch a new Crusade and form the Sabbat into a unified and pure chorus that will call forth the fires of Gehenna."
         ],
         [
           "Sire:",
-          "Tetsuhiro",
+          "Judge Inquisitor Bertolli Cinqo",
           "Reference: (If any)",
           "",
           "",
           "Clan",
-          "Tremere - Easily Bound"
+          "Caitiff - \"Pander\" - Weak Blood"
         ],
         [
           "Embrace Date:",
-          "1976.0",
+          "1901.0",
           "Embrace Location:",
-          "Iraq",
+          "Ravenna, Italy",
           "",
           "Generation",
           "Pretender Elder 8"
@@ -968,19 +1708,34 @@
           "Your relationship to these people is described. This may mean they do not know you."
         ],
         [
-          "Yasmin the Black",
-          "A powerful Montreal Tremere Antitribu of the Black Hand"
+          "Cardinal Bruce De Guy",
+          "The Cardinal of the West and signer of the Code of Milan.  He oversees your monomacy."
         ],
-        [],
-        [],
-        [],
+        [
+          "Chalupavka",
+          "Rival for Archbishop: A monstrous Tzimsce Elder from Peru.  She is said to be a deadly and unstable warrior"
+        ],
+        [
+          "Elivira de Cordoba",
+          "A Lasombra Elder, she now leads Cardine Scorso - one of the packs that assaulted the haven of the Lasombra Antediluvean"
+        ],
+        [
+          "Kinyado",
+          "The Serpent from the Inquisition.  You remember him in Mexico City, he watched gleefully as the False Hand were thrown on the pyres"
+        ],
         [
           "Starting Goals",
           "These are recomendations, not mandates."
         ],
-        [],
-        [],
-        [],
+        [
+          "Become the Archbishop of San Diego.  Use whatever means necessary to discredit, blackmail or kill your rivals without falling back into infernalism"
+        ],
+        [
+          "Cleanse San Diego of infernal taint, burn the unholy corruption from the Sword of Caine using either the Inquisition or the Black Hand"
+        ],
+        [
+          "Turn San Diego into a launching pad for a great crusade to wipe the Camarilla and the Cathayans off the Pacific Coast."
+        ],
         [],
         [
           "Player Amended History",
@@ -990,26 +1745,26 @@
       ],
       "records": [
         {
-          "created_by": "Khaldoun Khelil"
+          "created_by": "KK"
         },
         {
           "staff_generated_concept": "Staff Generated History"
         },
         {
-          "staff_generated_concept": "A Tremere Antitribu who survived the death of the rest of his clan. He is a student of darker Thaumaturgy and is often tempted to infernalism. While the rest of his blood line died he was likely spared because he was at the Sabbat Regents side and protected by multiple layers of magical warding.  Dabir was a Regent in Baghdad, but defected to House Goratrix when he was revealed as a member of the Horned Society.  In the Sabbat he quickly realized that many in House Goratrix were infernalists and if not for the Black Hands intervention may have joined their number.  After the fall of his Clan and the reorganization of the Black Hand, Dabir still finds himself tempted by the power of infernalism, but cannot abide the idea of a demonic master.  He is in LA invetigating the rumor that new gargoyles are being created and how the Sabbat can counter these creatures... but he also wishes to learn more about LA's demons and how they can be captured or destroyed."
+          "staff_generated_concept": "You were the vain son of a minor Italian nobleman in the resort town of Ravenna.  Your embrace was unexpected.  Your father had long managed the affairs of the local Lasombra and one of them took a fancy to your beauty.  The affair was brief and tragic, for though others often noticed your appearance, your reflection was lost to you and your rank of honor within the Sabbat was of little import to you.  When your Sire was raised up as an Inquistor you aided him in his hunt for heresey and infernalism and that is when you hit upon the power that coudl restore your lost visage. At first you thought you could control the demonic power, but soon found yourself a slave to the demon Irritum.  You regained your reflection, but you no longer held the blood of the Lasombra Clan in your veins.  It was only your Sire's great power that freed you from the pact.  At first you thought he must have captured the demon, but now you believe he made a pact of his own to free you from slavery.  Your sire sent you away to form your own pack and it has been almost two decades since you saw him last.  You've rededicated your self to the Dark Father and have relinquished all human cares and wants with a vow of poverty to Caine.  You've come to San Diego to launch a new Crusade and form the Sabbat into a unified and pure chorus that will call forth the fires of Gehenna."
         },
         {
           "staff_generated_concept": "Sire:",
-          "column_2": "Tetsuhiro",
+          "column_2": "Judge Inquisitor Bertolli Cinqo",
           "column_3": "Reference: (If any)",
           "column_6": "Clan",
-          "column_7": "Tremere - Easily Bound"
+          "column_7": "Caitiff - \"Pander\" - Weak Blood"
         },
         {
           "staff_generated_concept": "Embrace Date:",
-          "column_2": 1976,
+          "column_2": 1901,
           "column_3": "Embrace Location:",
-          "column_4": "Iraq",
+          "column_4": "Ravenna, Italy",
           "column_6": "Generation",
           "column_7": "Pretender Elder 8"
         },
@@ -1018,12 +1773,33 @@
           "column_2": "Your relationship to these people is described. This may mean they do not know you."
         },
         {
-          "staff_generated_concept": "Yasmin the Black",
-          "column_2": "A powerful Montreal Tremere Antitribu of the Black Hand"
+          "staff_generated_concept": "Cardinal Bruce De Guy",
+          "column_2": "The Cardinal of the West and signer of the Code of Milan.  He oversees your monomacy."
+        },
+        {
+          "staff_generated_concept": "Chalupavka",
+          "column_2": "Rival for Archbishop: A monstrous Tzimsce Elder from Peru.  She is said to be a deadly and unstable warrior"
+        },
+        {
+          "staff_generated_concept": "Elivira de Cordoba",
+          "column_2": "A Lasombra Elder, she now leads Cardine Scorso - one of the packs that assaulted the haven of the Lasombra Antediluvean"
+        },
+        {
+          "staff_generated_concept": "Kinyado",
+          "column_2": "The Serpent from the Inquisition.  You remember him in Mexico City, he watched gleefully as the False Hand were thrown on the pyres"
         },
         {
           "staff_generated_concept": "Starting Goals",
           "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Become the Archbishop of San Diego.  Use whatever means necessary to discredit, blackmail or kill your rivals without falling back into infernalism"
+        },
+        {
+          "staff_generated_concept": "Cleanse San Diego of infernal taint, burn the unholy corruption from the Sword of Caine using either the Inquisition or the Black Hand"
+        },
+        {
+          "staff_generated_concept": "Turn San Diego into a launching pad for a great crusade to wipe the Camarilla and the Cathayans off the Pacific Coast."
         },
         {
           "staff_generated_concept": "Player Amended History",
@@ -1032,11 +1808,7 @@
       ]
     },
     "Disiplines Mechanic": {
-      "rows": [
-        [
-          "Thaumaturgy - Path of Blood\nThose who practice the thaumaturgic arts sacrifice a small portion of their mystically-infused vitae in order to forcibly shape the world according to their will. Thaumaturgy has certain limitations:\nThaumaturgy relies upon a thaumaturge speaking magical phrases and making specific gestures. \nAll Thaumaturgy paths and rituals are considered Mental powers, and as such, cannot be used during Celerity rounds.\nSpecific Thaumaturgy powers that are resisted with your target’s Physical attribute can be repeatedly used against a target. Powers that are resisted with the target’s Mental attribute cannot be attempted repeatedly. You must wait 10 minutes before retrying such a power.\nThaumaturgy Test Pool: Mental attribute + Occult versus the target’s Mental attribute + Willpower. Powers that specifically target are resisted using the target’s Physical attribute + Dodge.\n\nThe Path of Blood\n● A Taste of Blood\nThe Path of Blood leverages the concept of sympathetic magic to allow you to alter the properties of the vitae within your system or to discover secrets of others through divining with their blood. \nSystem: Ingest a drop of your target’s blood and use your simple action to discern information about the target. A Taste for Blood requires you to physically ingest the vitae that you test, and, therefore, consumes the sample of blood. The magical nature of A Taste for Blood shields the thaumaturge from being bound by the blood ingested and provides all of the following information:\nMedical information, such as blood type and state of health\nHow much blood is currently in the subject’s system\nWhat type of creature the blood came from: mortal, ghoul, vampire, etc. \nThe thaumaturge may also determine: the subject’s generation; whether the subject has ever committed diablerie; how recently the subject has fed\nFocus [Perception]: You can gauge the strength of any blood bonds or partial blood bonds the target has, including the bonds created by participating in the Vaulderie. You do not know to whom the subject is bound, nor whether the bonds are mutual, but you do know the number and severity of the bonds.\n\n●● Blood Rage\nYou can mystically manipulate another vampire’s blood while it is still within her system. A vampire affected by Blood Rage feels a rush, much like a surge of adrenaline, and automatically realizes she has been affected by a power.\nSystem: Spend 1 Blood and use your standard action to make an opposed challenge using your Mental attribute + Occult versus the target’s Mental attribute + Willpower. The target must be within one step of you. If you succeed, the target must spend a single point of Blood in any fashion you wish. This expenditure can exceed the limits of Generation. By using this power, you can force a vampire or ghoul to spend Blood in one of the following manners:\nIncrease her Physical attribute\nActivate a discipline power, such as Rapidity\nHeal wounds\nAwaken from torpor\nSweat blood through her pores\nBlood Rage cannot be used to force the target to activate a power that requires her to spend an action. \nFocus [Perception]: You must be within 10 steps of your target in order to activate Blood Rage, as opposed to the standard one step.\n\n●●● Blood of Potency\nYou have mastered your vitae to the point that you can command it to temporarily thicken, causing your vampiric form to manifest a more potent generation.\nSystem: Once per night, you can spend 1 Blood and use your simple action to activate Blood of Potency. This power lasts for the next hour. While active, your Blood pool increases to half again its normal size (rounded up). You can spend 2 additional points of Blood per turn. You are considered to be three generations lower than normal for the purpose of waking another vampire from torpor. Once this power ends, any Blood you contain over your natural Blood pool dilutes, leaving you at your regular Blood pool maximum. If you are diablerized or Embrace, your real generation is used to determine the results.\nFocus [Intelligence]: You can utilize Blood of Potency twice in the course of a single evening.\n\n●●●● Theft of Vitae\nBy mystically attuning the vitae in your body into a thaumaturgical magnet, you can literally siphon blood from your target, causing it to cascade out of your enemy’s pores and into your hand, to be absorbed instantly into the caster’s system.\nSystem: Spend 1 Blood and use your standard action to make an opposed challenge using your Mental attribute + Occult versus the target’s Mental attribute + Willpower, targeting a character within 25 steps. If you succeed, you can draw 3 points of Blood from your victim. Blood stolen in this fashion has all of its normal properties.\nExceptional Success:\nYou steal 4 points of Blood from your target, rather than 3.\nFocus [Intelligence]: Blood siphoned will not induce a blood bond, sicken you, or carry diseases. Supernatural powers remain in effect.\n\n●●●●● Cauldron of Blood\nBy touching your opponent, you can boil the blood within your enemy’s veins, causing her to suffer incredible pain and agony. Red mist rises from the victim’s body as bubbling blood seeps from her pores and orifices. \nSystem: Use a standard action to Grapple a target. If you succeed, spend 1 Blood to inflict Cauldron of Blood on the victim, as well as inflicting all standard effects of a Grapple. Cauldron of Blood boils 2 points of Blood within your victim’s body, destroying the affected Blood and causing 2 points of aggravated damage. Damage caused by this power cannot be reduced or negated. \nThe first time you use Cauldron of Blood on a target, you must succeed in a Grapple combat maneuver against that target. If your target is already Grappled, you can activate this power by spending 1 Blood and using your standard action. \nThis power does not convert the normal damage dealt by a Grapple to aggravated damage, and that damage can be reduced or negated normally. The Grapple combat maneuver does not reduce the damage dealt by Cauldron of Blood. Mortals affected by Cauldron of Blood die instantly.\nFocus [Intelligence]: You can affect 1 additional point of Blood, boiling up to a total of 3 Blood and causing 3 aggravated damage per use."
-        ]
-      ],
+      "rows": [],
       "records": []
     },
     "Blood Bonds  Valudrie": {
@@ -1049,9 +1821,71 @@
           "Name",
           "Pack Name",
           "Current Level"
+        ],
+        [],
+        [
+          "2017-05-27 00:00:00",
+          "Sandro",
+          "Song of Gehenna",
+          "3V: Friends ~ 1 WP to harm [per scene not needed for ritae] (Must Vaulderie 10 times in the last year)"
+        ],
+        [
+          "2017-05-27 00:00:00",
+          "Abraham Dusalle",
+          "Song of Gehenna",
+          "3V: Friends ~ 1 WP to harm [per scene not needed for ritae] (Must Vaulderie 10 times in the last year)"
+        ],
+        [
+          "2017-05-27 00:00:00",
+          "Leonardo Trivilling",
+          "Song of Gehenna",
+          "3V: Friends ~ 1 WP to harm [per scene not needed for ritae] (Must Vaulderie 10 times in the last year)"
+        ],
+        [
+          "?",
+          "Cardinal Bruce De Guy",
+          "Ojos de Dios",
+          "1V: Sect Mate ~ You feel a kinship but have no limations (If you have ever done a Vaulderie with this person)"
+        ],
+        [
+          "?",
+          "Cardinal Bruce De Guy Packmates",
+          "Ojos de Dios",
+          "1V: Sect Mate ~ You feel a kinship but have no limations (If you have ever done a Vaulderie with this person)"
         ]
       ],
-      "records": []
+      "records": [
+        {
+          "date": "2017-05-27 00:00:00",
+          "name": "Sandro",
+          "pack_name": "Song of Gehenna",
+          "current_level": "3V: Friends ~ 1 WP to harm [per scene not needed for ritae] (Must Vaulderie 10 times in the last year)"
+        },
+        {
+          "date": "2017-05-27 00:00:00",
+          "name": "Abraham Dusalle",
+          "pack_name": "Song of Gehenna",
+          "current_level": "3V: Friends ~ 1 WP to harm [per scene not needed for ritae] (Must Vaulderie 10 times in the last year)"
+        },
+        {
+          "date": "2017-05-27 00:00:00",
+          "name": "Leonardo Trivilling",
+          "pack_name": "Song of Gehenna",
+          "current_level": "3V: Friends ~ 1 WP to harm [per scene not needed for ritae] (Must Vaulderie 10 times in the last year)"
+        },
+        {
+          "date": "?",
+          "name": "Cardinal Bruce De Guy",
+          "pack_name": "Ojos de Dios",
+          "current_level": "1V: Sect Mate ~ You feel a kinship but have no limations (If you have ever done a Vaulderie with this person)"
+        },
+        {
+          "date": "?",
+          "name": "Cardinal Bruce De Guy Packmates",
+          "pack_name": "Ojos de Dios",
+          "current_level": "1V: Sect Mate ~ You feel a kinship but have no limations (If you have ever done a Vaulderie with this person)"
+        }
+      ]
     },
     "Personal Plot  Objects": {
       "rows": [
@@ -1069,11 +1903,11 @@
           "Genaral Towntimes",
           "3.0",
           "Influnce Downtimes",
-          "1",
+          "0",
           "Computer Downtimes",
           "0",
           "Science Downtimes",
-          "1"
+          "0"
         ],
         [],
         [
@@ -1106,9 +1940,8 @@
           "genaral_towntimes": "Timestamp",
           "3_0": "Score",
           "influnce_downtimes": "What is your Character's name?",
-          "1": "Investigation / Patrol Actions",
+          "0": "Investigation / Patrol Actions",
           "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
-          "0": "Hunting Actions",
           "science_downtimes": "Hunting Modifications",
           "column_9": "Purpose of Investigation / Patrol",
           "column_10": "Blood Magic Research",
@@ -1466,7 +2299,7 @@
           "Daimoinon",
           "",
           "Current Blood Points * Per Turn ~ 30*5",
-          "NEW PROMISE",
+          "SABBAT: SD",
           "Defense of the Sacred Haven - 1",
           "",
           "Appearance - +3 Social on Non Power uses dealing with focus.",
@@ -1487,13 +2320,13 @@
           "Dementation",
           "",
           "",
-          "INQUISTION",
+          "NEW PROMISE",
           "Deflection of Wooden Doom - 1",
           "",
           "Charisma - +3 Social on Non Power uses dealing with focus.",
           "",
           "",
-          "Garrett Scarborough",
+          "Michael Steinbach",
           "Path of Feral Heart\n1 Hunting with means other than your own vampiric powers\n2 Acting in an overly cruel manner\n3 Postponing feeding when hungry when the oppuntiuty presents it self. \n4 If you show fear or mercy, abandon a hunt, or kill outside of a hunt\n5 Refusing to kill to survive"
         ],
         [
@@ -1508,13 +2341,13 @@
           "Dominate",
           "",
           "",
-          "ECLIPSE COURT",
+          "INQUISTION",
           "Engaging the Vessel of Transference - 1",
           "",
           "Manipulation - +3 Social on Non Power uses dealing with focus.",
           "",
           "",
-          "Laura Bishop",
+          "Nicole Paoli",
           "Path of Honorable Accord \n1 If you voluntarily pass up an opportunity to benefit from exploiting a loophole in the rules\n2 Associating with the dishonorable\n3 Disobeying your leader\n4 If you voluntarily transgress against the law, disobey a command from a superior, break your word, place personal concerns over duty, or fail to severely punish a transgressor against the law\n5 Breaking your word or oath; failing to honor an agreement"
         ],
         [
@@ -1529,7 +2362,7 @@
           "Fortitude",
           "",
           "",
-          "Speciality Game",
+          "ECLIPSE COURT",
           "Illuminate the Trail of Prey -1",
           "",
           "",
@@ -1550,7 +2383,7 @@
           "Melpominee",
           "",
           "",
-          "",
+          "Speciality Game",
           "Warding Circle - 1",
           "",
           "Perception - +3 Mental on Non Power uses dealing with focus.",
@@ -2230,7 +3063,7 @@
         ],
         [
           "Malkavians \"Knights of the Moon\" - Permanent Derangement",
-          "Pack Leader",
+          "Pack Leader / Ductus",
           "Psychology",
           "Freak",
           "",
@@ -5616,7 +6449,7 @@
           "mortal": "Neonate 11",
           "animalism": "Daimoinon",
           "current_blood_points_per_turn_10_1": "Current Blood Points * Per Turn ~ 30*5",
-          "chronicle": "NEW PROMISE",
+          "chronicle": "SABBAT: SD",
           "thaumaturgy": "Defense of the Sacred Haven - 1",
           "dexterity_burst_of_speed_disarm_fighting_blind_or_quick_draw": "Appearance - +3 Social on Non Power uses dealing with focus.",
           "patric_thomas": "Khaldoun Khelil",
@@ -5631,10 +6464,10 @@
           "accepted_anarch": "Authority (Abiding)",
           "mortal": "Ancilla *10",
           "animalism": "Dementation",
-          "chronicle": "INQUISTION",
+          "chronicle": "NEW PROMISE",
           "thaumaturgy": "Deflection of Wooden Doom - 1",
           "dexterity_burst_of_speed_disarm_fighting_blind_or_quick_draw": "Charisma - +3 Social on Non Power uses dealing with focus.",
-          "patric_thomas": "Garrett Scarborough",
+          "patric_thomas": "Michael Steinbach",
           "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Path of Feral Heart\n1 Hunting with means other than your own vampiric powers\n2 Acting in an overly cruel manner\n3 Postponing feeding when hungry when the oppuntiuty presents it self. \n4 If you show fear or mercy, abandon a hunt, or kill outside of a hunt\n5 Refusing to kill to survive"
         },
         {
@@ -5646,10 +6479,10 @@
           "accepted_anarch": "Commander (Abiding)",
           "mortal": "Ancilla 9",
           "animalism": "Dominate",
-          "chronicle": "ECLIPSE COURT",
+          "chronicle": "INQUISTION",
           "thaumaturgy": "Engaging the Vessel of Transference - 1",
           "dexterity_burst_of_speed_disarm_fighting_blind_or_quick_draw": "Manipulation - +3 Social on Non Power uses dealing with focus.",
-          "patric_thomas": "Laura Bishop",
+          "patric_thomas": "Nicole Paoli",
           "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Path of Honorable Accord \n1 If you voluntarily pass up an opportunity to benefit from exploiting a loophole in the rules\n2 Associating with the dishonorable\n3 Disobeying your leader\n4 If you voluntarily transgress against the law, disobey a command from a superior, break your word, place personal concerns over duty, or fail to severely punish a transgressor against the law\n5 Breaking your word or oath; failing to honor an agreement"
         },
         {
@@ -5661,7 +6494,7 @@
           "accepted_anarch": "Enforcer (Abiding)",
           "mortal": "Pretender Elder 8",
           "animalism": "Fortitude",
-          "chronicle": "Speciality Game",
+          "chronicle": "ECLIPSE COURT",
           "thaumaturgy": "Illuminate the Trail of Prey -1",
           "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Path of Metamorphosis\n1 If you voluntarily share knowledge for no benefit\n2 Indulging in pleasure\n3 Considering the needs of others\n4 If you ignore an opportunity to alter yourself, seek apotheosis, or perform a new experiment\n5 Exhibiting compassion for others"
         },
@@ -5674,6 +6507,7 @@
           "accepted_anarch": "-",
           "mortal": "Master Elder 7",
           "animalism": "Melpominee",
+          "chronicle": "Speciality Game",
           "thaumaturgy": "Warding Circle - 1",
           "dexterity_burst_of_speed_disarm_fighting_blind_or_quick_draw": "Perception - +3 Mental on Non Power uses dealing with focus.",
           "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Path of Night (Hot)\n1 If you voluntarily fail to act on an opportunity to spread evil, tempt others to damnation, or terrify the faithless\n2 Failing to be innovative in one’s\n depredations\n3 Bowing to another Kindred’s will\n4 If you voluntarily follow another character’s orders or repent of your evil\n5 Repenting one’s behavior"
@@ -6038,7 +6872,7 @@
         },
         {
           "clans_and_their_flaws": "Malkavians \"Knights of the Moon\" - Permanent Derangement",
-          "title_rank": "Pack Leader",
+          "title_rank": "Pack Leader / Ductus",
           "secondary_abilities": "Psychology",
           "addict": "Freak",
           "accepted_anarch": "Commander (Alastor)",
@@ -8360,7 +9194,9 @@
         [
           "Virulent Strike  -7"
         ],
-        [],
+        [
+          "Order of St. Blaise -1"
+        ],
         [],
         [
           "Amnesia +1"
@@ -10102,6 +10938,9 @@
           "column_1": "Virulent Strike  -7"
         },
         {
+          "column_1": "Order of St. Blaise -1"
+        },
+        {
           "column_1": "Amnesia +1"
         },
         {
@@ -10870,6 +11709,11 @@
           "2016-10-17 00:00:00",
           "Added space for new backgrounds."
         ],
+        [
+          "V3.5.3",
+          "2016-11-17 00:00:00",
+          "Expanded Background Sheet added"
+        ],
         [],
         [
           "Basic Rules for making characters"
@@ -10927,6 +11771,11 @@
           "v_2": "V3.5.2",
           "2015_10_15_00_00_00": "2016-10-17 00:00:00",
           "spelling_check": "Added space for new backgrounds."
+        },
+        {
+          "v_2": "V3.5.3",
+          "2015_10_15_00_00_00": "2016-11-17 00:00:00",
+          "spelling_check": "Expanded Background Sheet added"
         },
         {
           "v_2": "Basic Rules for making characters"

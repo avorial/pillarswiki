@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 300,
+  "processedCount": 350,
   "processed": [
     {
       "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Loviatar-Tzmisce-NPC-San-Diego.json",
@@ -79,6 +79,90 @@
       "characterName": "Agatheoclea/Agatheocles (Aurel/Aurelia Roch)",
       "playerName": "",
       "clan": "Followers of Set - Light Sensitivity",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Beast-Finders-RL-1/Harry_Harriet-Lowell-Beast-Finders-Abbot.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Beast Finders (RL 1)"
+      ],
+      "sourceTitle": "Harry_Harriet-Lowell-Beast-Finders-Abbot",
+      "characterName": "Harry/Harriet Lowell",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Beast-Finders-RL-1/Spencer-Wilson-Beast-Finders-Ductus.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Beast Finders (RL 1)"
+      ],
+      "sourceTitle": "Spencer-Wilson-Beast-Finders-Ductus",
+      "characterName": "Chandler Wilson",
+      "playerName": "",
+      "clan": "Gangrel \"Coyote\" - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Beast-Finders-RL-1/Sydney-Ackerman-Beast-Finders-Pack-Priest.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Beast Finders (RL 1)"
+      ],
+      "sourceTitle": "Sydney-Ackerman-Beast-Finders-Pack-Priest",
+      "characterName": "Sydney Ackerman",
+      "playerName": "",
+      "clan": "Malkavians \"Knights of the Moon\" - Permanent Derangement",
       "tabs": [
         "Print Sheet",
         "XP Spends",
@@ -678,6 +762,62 @@
       ]
     },
     {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/La-Clandestinite-MB2/Boglarka_Sandor-Obertus-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "La Clandestinité (MB2)"
+      ],
+      "sourceTitle": "Boglarka_Sandor-Obertus-Sheet-V.3.5.4",
+      "characterName": "Boglarka/Sandor Obertus",
+      "playerName": "",
+      "clan": "Tzimisce - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/La-Clandestinite-MB2/Chat-La-Clandestine-Garret-S-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "La Clandestinité (MB2)"
+      ],
+      "sourceTitle": "Chat-La-Clandestine-Garret-S-V.3.5.4",
+      "characterName": "Chat",
+      "playerName": "Garret S",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/La-Clandestinite-MB2/Chat-La-Clandestine-Garret-S-V3-5-4.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -688,6 +828,34 @@
       "characterName": "Chat",
       "playerName": "Garret S",
       "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/La-Clandestinite-MB2/Marina_Martin-de-Lioncourt-Sheet-V.3.5.4.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "La Clandestinité (MB2)"
+      ],
+      "sourceTitle": "Marina_Martin-de-Lioncourt-Sheet-V.3.5.4",
+      "characterName": "Marina/Martin de Lioncourt",
+      "playerName": "",
+      "clan": "Gangrel \"Coyote\" - Animalistic Beast",
       "tabs": [
         "Print Sheet",
         "XP Spends",
@@ -804,6 +972,33 @@
         "XP Spends",
         "Morality & Derangments",
         "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Night-Dragons/Connie-Blaze-Night-Dragons-Aurea-S.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Night Dragons"
+      ],
+      "sourceTitle": "Connie-Blaze-Night-Dragons-Aurea-S",
+      "characterName": "Connie Blaze",
+      "playerName": "Aurea S.",
+      "clan": "Ventrue \"Crusader\" - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
         "History",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
@@ -1298,6 +1493,118 @@
       ]
     },
     {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Song-of-Gehenna-KK2/Abraham-Dusalle-Song-of-Gehenna-BRUJAH-DOOR.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Song of Gehenna (KK2)"
+      ],
+      "sourceTitle": "Abraham-Dusalle-Song-of-Gehenna-BRUJAH-DOOR",
+      "characterName": "Abraham Dusalle",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Song-of-Gehenna-KK2/Leonardo-Trivilling-Song-of-Gehenna-Charles-Stanton.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Song of Gehenna (KK2)"
+      ],
+      "sourceTitle": "Leonardo-Trivilling-Song-of-Gehenna-Charles-Stanton",
+      "characterName": "Leonardo Trivilling",
+      "playerName": "Charles Stanton",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Song-of-Gehenna-KK2/Michaelanglo-deRavenna-Song-of-Gehenna-Brodie.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Song of Gehenna (KK2)"
+      ],
+      "sourceTitle": "Michaelanglo-deRavenna-Song-of-Gehenna-Brodie",
+      "characterName": "Michaelangelo eRavenna",
+      "playerName": "Brodie",
+      "clan": "Caitiff - \"Pander\" - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Song-of-Gehenna-KK2/Sandro-Song-of-Gehenna-Joseph-B.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "Song of Gehenna (KK2)"
+      ],
+      "sourceTitle": "Sandro-Song-of-Gehenna-Joseph-B",
+      "characterName": "Sandro",
+      "playerName": "Joseph Butts",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Starlit-Blood-KK3/Jasper-Bloom-Starlit-Blood-Cy-T-Sheet-V3-5-4.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -1410,6 +1717,34 @@
       ]
     },
     {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Aristocrats-AR-1/Tahira-Dae-BLANK-Dont-Print.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Aristocrats (AR 1)"
+      ],
+      "sourceTitle": "Tahira-Dae-BLANK-Dont-Print",
+      "characterName": "",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Aristocrats-AR-1/Vicente-Raiola-The-Aristocrats-Jimmy-K.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -1502,6 +1837,91 @@
       ],
       "sourceTitle": "Hyrum-Emerald-Jessop-The-Fifth-Ward-Sheet-V3-5-4",
       "characterName": "Hyrum/Emerald Jessop",
+      "playerName": "",
+      "clan": "Lasombra - No Reflection",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Prodigals-RL-2/Alexandru-Alexandra-Balcescu-the-Prodigals-Abbot.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Prodigals (RL 2)"
+      ],
+      "sourceTitle": "Alexandru-Alexandra-Balcescu-the-Prodigals-Abbot",
+      "characterName": "Alexandru/Alexandra Balcescu",
+      "playerName": "",
+      "clan": "Tzimisce \"Carpathian\" - Bound to the Earth",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Prodigals-RL-2/Cameron-Spelman-the-Prodigals.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Prodigals (RL 2)"
+      ],
+      "sourceTitle": "Cameron-Spelman-the-Prodigals",
+      "characterName": "Cameron Spelman",
+      "playerName": "",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "History",
+        "Sheet16",
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Prodigals-RL-2/Maria-Martin-Fontana-Prodigals-Pack-Priest.json",
+      "folderPath": [
+        "AA Convention (San Diego) Venue",
+        "SD Sabbat",
+        "The Prodigals (RL 2)"
+      ],
+      "sourceTitle": "Maria-Martin-Fontana-Prodigals-Pack-Priest",
+      "characterName": "Martin/Maria Fontana",
       "playerName": "",
       "clan": "Lasombra - No Reflection",
       "tabs": [
@@ -7691,6 +8111,938 @@
         "Print Sheet",
         "XP Spends",
         "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Abilio-Abigail-Vernandez-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Abilio-Abigail-Vernandez-Toreador",
+      "characterName": "Abilio/Abigail Vernandez",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Albere-Dargent-Toreador-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Albere-Dargent-Toreador-Door",
+      "characterName": "Albere D'argent",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Candy-Mintz-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Candy-Mintz-Toreador",
+      "characterName": "Candy Mintz",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Cesare-Rizzini-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Cesare-Rizzini-Toreador",
+      "characterName": "Cesare Rizzini",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Charley-Connor-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Charley-Connor-Toreador",
+      "characterName": "Charley Connor",
+      "playerName": "",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Deirdre-Janos-Pierce-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Deirdre-Janos-Pierce-Toreador",
+      "characterName": "Deirdre/Janos Pierce",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Francine-Davis-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Francine-Davis-Toreador",
+      "characterName": "Francine Davis",
+      "playerName": "Heather Zerby",
+      "clan": "Toreador \"Volgirre\" - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Gillian-Matthews-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Gillian-Matthews-Toreador",
+      "characterName": "Gillian Matthews",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Keres-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Keres-Toreador",
+      "characterName": "Keres",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Lawrence-Wells-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Lawrence-Wells-Toreador",
+      "characterName": "Lawrence Wells",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Melissa-Martin-Dapello-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Melissa-Martin-Dapello-Toreador",
+      "characterName": "Melissa/Martin Dapello",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Nicholas-Nicole-Moreau-Toreador-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Nicholas-Nicole-Moreau-Toreador-Door",
+      "characterName": "Nicholas / Nicole Moreau",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Norris-Nancy-Michaud-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Norris-Nancy-Michaud-Toreador",
+      "characterName": "Nancy Michaud",
+      "playerName": "",
+      "clan": "Toreador",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Alan-Church-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Alan-Church-Tremere",
+      "characterName": "Alan Church",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Damien-Dierdre-Horst-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Damien-Dierdre-Horst-Tremere",
+      "characterName": "Damien/Dierdre Horst",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Elizabeth-Jackson-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Elizabeth-Jackson-Tremere",
+      "characterName": "Elizabeth Jackson",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Garrick-Romanovitch-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Garrick-Romanovitch-Tremere",
+      "characterName": "Garrick Romanovitch",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Hailey-Halverston-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Hailey-Halverston-Tremere",
+      "characterName": "Hailey/Halverston",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Jana-James-Neschdle-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Jana-James-Neschdle-Tremere",
+      "characterName": "Jana/James Neschdle",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Jody-John-Higgam-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Jody-John-Higgam-Tremere",
+      "characterName": "Jody/John Higgam",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Kay-Gargoyle-V4.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Kay-Gargoyle-V4",
+      "characterName": "Kay",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Luc-Vandevender-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Luc-Vandevender-Tremere",
+      "characterName": "Luc Vandevender",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Aileas-Aileen-Ceeq-DOOR.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Aileas-Aileen-Ceeq-DOOR",
+      "characterName": "Aileas/Aileen Ceeq",
+      "playerName": "",
+      "clan": "Tremere",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Personal Plot  Notes",
+        "Coding",
+        "Merit Table"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-ASSIGNED-INVALID-FILE-Leo-Corrales.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere",
+        "Old"
+      ],
+      "sourceTitle": "OLD-ASSIGNED-INVALID-FILE-Leo-Corrales",
+      "characterName": "Leo Corrales",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "XP Spends",
+        "Print Sheet",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Garrick-Romanovitch.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Garrick-Romanovitch",
+      "characterName": "Garrick Romanovitch",
+      "playerName": "",
+      "clan": "Tremere",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Leo-Corrales-Tremere-Reclaimed-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Leo-Corrales-Tremere-Reclaimed-Door",
+      "characterName": "Leo Corrales",
+      "playerName": "",
+      "clan": "Tremere",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Radana-Gregori-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Radana-Gregori-Tremere",
+      "characterName": "Radana/Gregori",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Santiago-Nuevo-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Santiago-Nuevo-Tremere",
+      "characterName": "Santiago Neuvo",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Stefan-Torben-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Stefan-Torben-Tremere",
+      "characterName": "Stefan Torben",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Tom-Wanda-Peterson-Tremere.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere"
+      ],
+      "sourceTitle": "Tom-Wanda-Peterson-Tremere",
+      "characterName": "Tom / Wanda Peterson",
+      "playerName": "",
+      "clan": "Tremere - Easily Bound",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Darron-Delilah-Hathaway-Toreador-V.5.json",
+      "folderPath": [
+        "Z Door Characters"
+      ],
+      "sourceTitle": "Darron-Delilah-Hathaway-Toreador-V.5",
+      "characterName": "Darron/Delilah Hathaway",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Derrin-Zeric-Nos.json",
+      "folderPath": [
+        "Z Door Characters"
+      ],
+      "sourceTitle": "Derrin-Zeric-Nos",
+      "characterName": "Derrin Zeric",
+      "playerName": "",
+      "clan": "Nosferatu - Repulsive",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Isaac-Iris-Barlos-Toreador-V.5.json",
+      "folderPath": [
+        "Z Door Characters"
+      ],
+      "sourceTitle": "Isaac-Iris-Barlos-Toreador-V.5",
+      "characterName": "Isaac/Iris Barlos",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Paul-Fitter.json",
+      "folderPath": [
+        "Z Door Characters"
+      ],
+      "sourceTitle": "Paul-Fitter",
+      "characterName": "Paul Fitter",
+      "playerName": "",
+      "clan": "Caitiff - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Sean-Hester-Assamite-Warrior.json",
+      "folderPath": [
+        "Z Door Characters"
+      ],
+      "sourceTitle": "Sean-Hester-Assamite-Warrior",
+      "characterName": "Sean Hester",
+      "playerName": "",
+      "clan": "Assamite \"Warrior\" - Addicted to Vitae",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
         "History",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",

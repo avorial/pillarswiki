@@ -1,90 +1,86 @@
 {
   "source": {
-    "title": "Dabir-Alaswad-Tremere-Anti-NPC",
-    "fileName": "Dabir-Alaswad-Tremere-Anti-NPC.xlsx",
-    "localPath": "source-sheets\\AA-Convention-San-Diego-Venue\\SD-Sabbat\\Night-Dragons\\Dabir-Alaswad-Tremere-Anti-NPC.xlsx"
+    "title": "Abilio-Abigail-Vernandez-Toreador",
+    "fileName": "Abilio-Abigail-Vernandez-Toreador.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Toreador\\Abilio-Abigail-Vernandez-Toreador.xlsx"
   },
   "folderPath": [
-    "AA Convention (San Diego) Venue",
-    "SD Sabbat",
-    "Night Dragons"
+    "Z Door Characters",
+    "Characters",
+    "Toreador"
   ],
   "coreSheet": "Print Sheet",
   "character": {
-    "chronicle": "SABBAT: LA",
-    "characterName": "Dabir Alaswad",
-    "playerName": "Khaldoun Kheli",
+    "chronicle": "CHRONICLE",
+    "characterName": "Abilio/Abigail Vernandez",
+    "playerName": "",
     "gmailAccount": "",
-    "clanCoordinator": "NPC",
-    "archetype": "Manipulator",
+    "clanCoordinator": "Laura Bishop",
+    "archetype": "Leader",
     "title": "",
     "characterStartDate": "",
-    "generationLabel": "Pretender Elder 8",
-    "clan": "Tremere - Easily Bound"
+    "generationLabel": "Neonate 11",
+    "clan": "Toreador - Entranced by Art"
   },
   "attributes": {
-    "physical": 5,
-    "social": 3,
-    "mental": 11
+    "physical": 3,
+    "social": 7,
+    "mental": 6
   },
   "backgrounds": {
-    "generation": 3,
-    "resources": 1,
-    "ritae": 1,
-    "haven": 2
+    "generation": 1,
+    "allies": 2,
+    "haven": 1,
+    "influence_elite": 2,
+    "influence_underworld": 3,
+    "resources": 3,
+    "retainers": 1
   },
   "currentPools": {
     "current_willpower": 6,
     "current_humanity": 5
   },
   "abilities": {
-    "intimidation": 3,
-    "investigation": 2,
-    "linguistics": 2,
-    "brawl": 2,
-    "lore": 3,
-    "dreaming": 2,
-    "occult": 4,
-    "science": 1,
-    "security": 1,
-    "firearms": 1,
-    "stealth": 1
+    "intimidation": 4,
+    "streetwise": 2,
+    "subterfuge": 2,
+    "leadership": 3,
+    "linguistics": 1,
+    "computer": 1,
+    "dodge": 1,
+    "drive": 1,
+    "security": 2,
+    "firearms": 3
   },
-  "status": [
-    "Initiated (Sabbat)"
-  ],
+  "status": [],
   "meritsAndFlaws": [
-    "Rare Clan -5",
-    "Black Hand Membership (First Tribe) -2"
+    "Monopoly -1",
+    "Personal Masquerade -1",
+    "Master of Puppets -2"
   ],
   "disciplines": [
     {
       "name": "Auspex",
-      "value": 3
+      "value": 1
     },
     {
-      "name": "Dominate",
-      "value": 3
+      "name": "Celerity",
+      "value": 1
     },
     {
-      "name": "Thaumaturgy: Path of Blood (C)",
-      "value": 5
+      "name": "Presence",
+      "value": 2
     }
   ],
-  "ritualsRitaeOther": [
-    "Blood Mastery - 1",
-    "Deflection of Wooden Doom - 1"
-  ],
+  "ritualsRitaeOther": [],
   "abilitySpecializations": [
-    "Language: Enochian, Arabic",
-    "Lore: Dreams, Demonology, Tremere",
-    "Science: Mathmatics"
+    "Languages: English, Spanish"
   ],
   "rawSheets": {
     "Print Sheet": [
       [
         "",
-        "SABBAT: LA",
+        "CHRONICLE",
         "",
         "Players Gmail Account:",
         "",
@@ -97,19 +93,19 @@
         "",
         "CURRENT POOLS",
         "",
-        "60"
+        "53"
       ],
       [
         "",
-        "Dabir Alaswad",
+        "Abilio/Abigail Vernandez",
         "",
-        "Khaldoun Kheli",
         "",
-        "NPC",
+        "",
+        "Laura Bishop",
         "",
         "",
         "Generation",
-        "3.0",
+        "1.0",
         "",
         "",
         "Current Willpower",
@@ -125,7 +121,7 @@
         "",
         "",
         "Allies",
-        "",
+        "2.0",
         "",
         "",
         "Current Humanity",
@@ -133,7 +129,7 @@
       ],
       [
         "",
-        "Manipulator",
+        "Leader",
         "",
         "",
         "",
@@ -144,7 +140,7 @@
         "",
         "",
         "",
-        "Current Blood Points * Per Turn ~ 15*3"
+        "Current Blood Points * Per Turn ~ 10*1"
       ],
       [
         "",
@@ -155,7 +151,7 @@
         "Character Start Date",
         "",
         "",
-        "Contacts / Fame",
+        "Contacts",
         "",
         "",
         "",
@@ -163,18 +159,18 @@
       ],
       [
         "",
-        "Pretender Elder 8",
+        "Neonate 11",
         "",
-        "Tremere - Easily Bound",
-        "",
-        "",
+        "Toreador - Entranced by Art",
         "",
         "",
-        "Mentor / Herd",
         "",
-        "1.0",
         "",
-        "Extra Clan Weakness: Sigal of the Betrayer"
+        "Fame",
+        "",
+        "",
+        "",
+        "Elite Influence: Mourges, County DMV"
       ],
       [
         "",
@@ -185,7 +181,8 @@
         "",
         "",
         "",
-        "Influence \"Elite\""
+        "Haven",
+        "1.0"
       ],
       [
         "",
@@ -196,46 +193,50 @@
         "",
         "",
         "",
-        "Influence \"Underworld\"",
+        "Herd",
         "",
         "",
         "",
-        "Haven: Security, Occult, Library"
+        "Underworld Influence: Lynnwood Gangs, Century Sheriff Detectives, Gentelmans Clubs"
       ],
       [
         "",
         "Physical",
-        "5.0",
-        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "3.0",
+        "Dexterity - (Burst of Speed, Disarm, Fighting Blind, or Quick Draw)",
         "",
         "",
         "",
         "",
-        "Resources",
-        "1.0"
+        "Influence \"Elite\"",
+        "2.0"
       ],
       [
         "",
         "Social",
-        "3.0",
+        "7.0",
         "Manipulation - +3 Social on Non Power uses dealing with focus.",
         "",
         "",
         "",
         "",
-        "Retainers"
+        "Influence \"Underworld\"",
+        "3.0",
+        "",
+        "",
+        "Haven: Security"
       ],
       [
         "",
         "Mental",
-        "11.0",
-        "Intelligence - +3 Mental on Non Power uses dealing with focus.",
+        "6.0",
+        "Wits - +3 Mental on Non Power uses dealing with focus.",
         "",
         "",
         "",
         "",
-        "Ritae",
-        "1.0"
+        "Resources",
+        "3.0"
       ],
       [
         "",
@@ -246,23 +247,26 @@
         "AWARDED BY",
         "",
         "",
-        "Haven",
-        "2.0"
+        "Retainers",
+        "1.0",
+        "",
+        "",
+        "Retainer: Fellow Gang Member"
       ],
       [
         "",
-        "Initiated (Sabbat)",
         "",
         "",
         "",
         "",
         "",
         "",
-        "Other 2"
+        "",
+        "Ritae / Other"
       ],
       [
         "",
-        "Branded (Black Hand)",
+        "",
         "",
         "",
         "",
@@ -284,12 +288,12 @@
         "",
         "",
         "",
-        "Rare Clan -5",
+        "Monopoly -1",
         "",
         "",
         "",
         "Auspex",
-        "3.0"
+        "1.0"
       ],
       [
         "",
@@ -300,12 +304,12 @@
         "",
         "",
         "",
-        "Black Hand Membership (First Tribe) -2",
+        "Personal Masquerade -1",
         "",
         "",
         "",
-        "Dominate",
-        "3.0"
+        "Celerity",
+        "1.0"
       ],
       [
         "",
@@ -316,12 +320,12 @@
         "",
         "",
         "",
+        "Master of Puppets -2",
         "",
         "",
         "",
-        "",
-        "Thaumaturgy: Path of Blood (C)",
-        "5.0"
+        "Presence",
+        "2.0"
       ],
       [
         "",
@@ -336,23 +340,16 @@
         "",
         "",
         "",
-        "Thaumaturgy: Gift of Morpheus (R)",
-        "3.0"
+        "Dominate",
+        "2.0"
       ],
       [
         "",
         "Academics",
         "",
         "Intimidation",
-        "3.0",
+        "4.0",
         "Streetwise",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "Obfuscate",
         "2.0"
       ],
       [
@@ -360,34 +357,32 @@
         "Animal Ken",
         "",
         "Investigation",
-        "2.0",
-        "Subterfuge"
+        "",
+        "Subterfuge",
+        "2.0"
       ],
       [
         "",
         "Athletics",
         "",
         "Leadership",
-        "",
-        "Survival",
-        "",
-        "",
-        "Clan Weakness +2"
+        "3.0",
+        "Survival"
       ],
       [
         "",
         "Awareness",
         "",
         "Linguistics",
-        "2.0",
+        "1.0",
         "Performance"
       ],
       [
         "",
         "Brawl",
-        "2.0",
+        "",
         "Lore",
-        "3.0",
+        "",
         "SECONDARY ABILITIES",
         "",
         "",
@@ -400,64 +395,44 @@
       [
         "",
         "Computer",
-        "",
+        "1.0",
         "Medicine",
         "",
-        "Dreaming",
-        "2.0",
-        "",
-        "Language: Enochian, Arabic",
         "",
         "",
         "",
-        "Blood Mastery - 1"
+        "Languages: English, Spanish"
       ],
       [
         "",
         "Crafts",
         "",
-        "Melee",
-        "",
-        "",
-        "",
-        "",
-        "Lore: Dreams, Demonology, Tremere",
-        "",
-        "",
-        "",
-        "Deflection of Wooden Doom - 1"
+        "Melee"
       ],
       [
         "",
         "Dodge",
-        "",
-        "Occult",
-        "4.0"
+        "1.0",
+        "Occult"
       ],
       [
         "",
         "Drive",
-        "",
-        "Science",
         "1.0",
-        "",
-        "",
-        "",
-        "Science: Mathmatics"
+        "Science"
       ],
       [
         "",
         "Empathy",
         "",
         "Security",
-        "1.0"
+        "2.0"
       ],
       [
         "",
         "Firearms",
-        "1.0",
-        "Stealth",
-        "1.0"
+        "3.0",
+        "Stealth"
       ],
       [
         "",
@@ -465,25 +440,25 @@
       ],
       [
         "",
-        "Brawl    7",
+        "Brawl    3",
         "",
-        "Dodge    5",
+        "Dodge    4",
         "",
-        "Thaumaturgy -Tals   15"
+        "Dominate    10"
       ],
       [
         "",
-        "Melee    5",
+        "Melee    3",
         "",
-        "Auspex    13",
+        "Auspex    6",
         "",
-        "Obfuscate    12"
+        "Disciplines Pull Down"
       ],
       [
         "",
         "Guns (No Wits)   6",
         "",
-        "Dominate    14",
+        "Presence    10",
         "",
         "Disciplines Pull Down"
       ],
@@ -520,67 +495,67 @@
           "30",
           "",
           "",
-          "0"
+          "60"
         ],
         [
-          "Rare Clan -5",
+          "Mental Trait",
           "Pre Game",
-          "-5.0"
+          "3.0"
         ],
         [
-          "Thaumaturgic Expertise -1",
+          "Dominate 1 and 2",
           "Pre Game",
-          "-1.0",
+          "12.0",
           "",
           "",
           "Total XP Earned"
         ],
         [
-          "Ritual: Blood Mastery",
+          "Master of Puppets",
           "Pre Game",
-          "-2.0",
+          "2.0",
           "",
           "",
           "0"
         ],
         [
-          "Dominate 3",
+          "Monopoly",
           "Pre Game",
-          "-9.0"
+          "1.0"
         ],
         [
-          "TH: GoM 1",
+          "Personal Masquerade",
           "Pre Game",
-          "-3.0",
+          "1.0",
           "",
           "",
           "Total Games Played"
         ],
         [
-          "TH: GoM 2",
+          "Influence (elite 1 and 2)",
           "Pre Game",
-          "-6.0",
+          "3.0",
           "",
           "",
           "0"
         ],
         [
-          "TH: GoM 3",
+          "Influence (Underworld 1, 2, 3)",
           "Pre Game",
-          "-9.0"
+          "6.0"
         ],
         [
-          "Ritual: Deflect wd",
+          "Retainer",
           "Pre Game",
-          "-2.0",
+          "1.0",
           "",
           "",
           "6 Game XP Earned"
         ],
         [
-          "",
+          "Haven",
           "Pre Game",
-          "",
+          "1.0",
           "",
           "",
           "0"
@@ -610,25 +585,24 @@
           "Pre Game"
         ],
         [
-          "Paranoia, Extreme +3",
+          "",
           "Pre Game",
-          "3.0",
+          "",
           "",
           "",
           "Current XP"
         ],
         [
-          "Clan Weakness +2",
+          "",
           "Pre Game",
-          "2.0",
+          "",
           "",
           "",
           "0"
         ],
         [
-          "Child, Vengeful +2",
-          "Pre Game",
-          "2.0"
+          "",
+          "Pre Game"
         ],
         [
           "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
@@ -652,55 +626,57 @@
           "what_was_bought": "Starting XP (30) Point Character",
           "date": "Pre Game",
           "all_costs": 30,
-          "starting_total_xp_left": 0
+          "starting_total_xp_left": 60
         },
         {
-          "what_was_bought": "Rare Clan -5",
+          "what_was_bought": "Mental Trait",
           "date": "Pre Game",
-          "all_costs": -5
+          "all_costs": 3
         },
         {
-          "what_was_bought": "Thaumaturgic Expertise -1",
+          "what_was_bought": "Dominate 1 and 2",
           "date": "Pre Game",
-          "all_costs": -1,
+          "all_costs": 12,
           "starting_total_xp_left": "Total XP Earned"
         },
         {
-          "what_was_bought": "Ritual: Blood Mastery",
+          "what_was_bought": "Master of Puppets",
           "date": "Pre Game",
-          "all_costs": -2,
+          "all_costs": 2,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Dominate 3",
+          "what_was_bought": "Monopoly",
           "date": "Pre Game",
-          "all_costs": -9
+          "all_costs": 1
         },
         {
-          "what_was_bought": "TH: GoM 1",
+          "what_was_bought": "Personal Masquerade",
           "date": "Pre Game",
-          "all_costs": -3,
+          "all_costs": 1,
           "starting_total_xp_left": "Total Games Played"
         },
         {
-          "what_was_bought": "TH: GoM 2",
+          "what_was_bought": "Influence (elite 1 and 2)",
           "date": "Pre Game",
-          "all_costs": -6,
+          "all_costs": 3,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "TH: GoM 3",
+          "what_was_bought": "Influence (Underworld 1, 2, 3)",
           "date": "Pre Game",
-          "all_costs": -9
+          "all_costs": 6
         },
         {
-          "what_was_bought": "Ritual: Deflect wd",
+          "what_was_bought": "Retainer",
           "date": "Pre Game",
-          "all_costs": -2,
+          "all_costs": 1,
           "starting_total_xp_left": "6 Game XP Earned"
         },
         {
+          "what_was_bought": "Haven",
           "date": "Pre Game",
+          "all_costs": 1,
           "starting_total_xp_left": 0
         },
         {
@@ -718,21 +694,15 @@
           "date": "Pre Game"
         },
         {
-          "what_was_bought": "Paranoia, Extreme +3",
           "date": "Pre Game",
-          "all_costs": 3,
           "starting_total_xp_left": "Current XP"
         },
         {
-          "what_was_bought": "Clan Weakness +2",
           "date": "Pre Game",
-          "all_costs": 2,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Child, Vengeful +2",
-          "date": "Pre Game",
-          "all_costs": 2
+          "date": "Pre Game"
         },
         {
           "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
@@ -755,7 +725,7 @@
           "Hierarchy of Sins"
         ],
         [
-          "Path of Power and the Inner Voice\n1 If you voluntarily give up authority, allow your followers to be abused by anyone other than you\n2 Denying responsibility for your actions\n3 Accepting defeat\n4 Defy a superior you are not willing to directly challenge, or pass up an easy opportunity to gain power\n5 Turning down the opportunity for power"
+          "Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused."
         ],
         [
           "Every time your character commits a sin, you gain temporary Beast traits equal to the level of the sin. It is possible to mitigate the number of Beast traits your character gains when committing a sin by making a degeneration challenge. The test pool is Mental + Willpower with a standard diffculty rating (10) +1 per level of sin. If you win you get one less Beast trait. You lose a path or Humanity trait every time you get 5 Beast traits. Regaining Humanity Costs 10 Xp."
@@ -927,40 +897,30 @@
           "",
           "Created By:"
         ],
-        [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Khaldoun Khelil"
-        ],
+        [],
         [
           "Staff Generated History"
         ],
         [
-          "A Tremere Antitribu who survived the death of the rest of his clan. He is a student of darker Thaumaturgy and is often tempted to infernalism. While the rest of his blood line died he was likely spared because he was at the Sabbat Regents side and protected by multiple layers of magical warding.  Dabir was a Regent in Baghdad, but defected to House Goratrix when he was revealed as a member of the Horned Society.  In the Sabbat he quickly realized that many in House Goratrix were infernalists and if not for the Black Hands intervention may have joined their number.  After the fall of his Clan and the reorganization of the Black Hand, Dabir still finds himself tempted by the power of infernalism, but cannot abide the idea of a demonic master.  He is in LA invetigating the rumor that new gargoyles are being created and how the Sabbat can counter these creatures... but he also wishes to learn more about LA's demons and how they can be captured or destroyed."
+          "You grew up in Lynwood in the gangs.  Your entire family was in the gangs and it was the only life you knew. You were rather good at the life, you worked your way up and by the time you were 25, you had only been to juvie twice, and county once.  You had respect from your affiliates, you ran dealers, had several pimps paying you for protection, and were leading the good life.  Then a rather nasty gunfight erupted down the street from your place, you went outside with your AK to wast some fuckers stupid enough to shoot up you neighborhood and met this beautiful woman on your lawn, she was covered in burned clothes and looked pretty messed up.  She was bending over this guy and seemed to be making out with him, but the dude was out.  Then she looked up and captured your eyes.  Next thing you knew this chick was living in your basement and you loved working for her, she was some strange blood sucking vampire chick, but damn she was hot.  You loved being around her and doing stuff for her.  She was fighting the Asians (they were the fuckers that dared attack her) and she needed help doing so, you had contacts and skill, and she let you help her in all the little ways you could.  2014 was the best year of your life.  Then in February of 2015, she embraced you as you had proven yourself invaluable to her.  She told you of the war going on in LA and the sides involved, and how you were very much not what her clan normally wanted, but in LA you were what they needed.  Your \"art\" was survival and revenge, a much better way to live in LA than sculpting and poetry.  The Anarchs sound like the people you have worked among all your life, the Sabbat sound like some crazy violent nasties, and the Camarilla seem to be the white collar that you have been locked out of by birth.  Theresa was caught and killed by the Asians last month, and that really pissed you off, you figure the only ones taking the fight to the Asians right now is the Camarilla and you should go check them out."
         ],
         [
           "Sire:",
-          "Tetsuhiro",
+          "Theresa Huerata",
           "Reference: (If any)",
           "",
           "",
           "Clan",
-          "Tremere - Easily Bound"
+          "Toreador - Entranced by Art"
         ],
         [
           "Embrace Date:",
-          "1976.0",
+          "2014.0",
           "Embrace Location:",
-          "Iraq",
+          "Los Angeles",
           "",
           "Generation",
-          "Pretender Elder 8"
+          "Neonate 11"
         ],
         [],
         [
@@ -968,19 +928,28 @@
           "Your relationship to these people is described. This may mean they do not know you."
         ],
         [
-          "Yasmin the Black",
-          "A powerful Montreal Tremere Antitribu of the Black Hand"
+          "Fernando Mosqueda",
+          "this Nosferatu has been with the Anarchs a while and about six months ago, decided to go straight and narrow and join up with the camarilla, he is a talented smuggler who you have used on routes before"
         ],
-        [],
+        [
+          "Dahlia Ferro",
+          "Vamp something?  She was just another mafia princess until a few months ago, now suddenly she is hard core and doing all the dirty deeds that need be doing.  What the hell happened, and who is she with?"
+        ],
         [],
         [],
         [
           "Starting Goals",
           "These are recomendations, not mandates."
         ],
-        [],
-        [],
-        [],
+        [
+          "Find Allies and Information, The asians need to pay, they are fucking with you and killed Theresa"
+        ],
+        [
+          "Decide if you are going to join the Camarilla or pay lip service and hang around to kill Asians"
+        ],
+        [
+          "Grow your contatcs and protect them, even if your in the Camarilla, dont let go of your people or stuff."
+        ],
         [],
         [
           "Player Amended History",
@@ -990,40 +959,50 @@
       ],
       "records": [
         {
-          "created_by": "Khaldoun Khelil"
-        },
-        {
           "staff_generated_concept": "Staff Generated History"
         },
         {
-          "staff_generated_concept": "A Tremere Antitribu who survived the death of the rest of his clan. He is a student of darker Thaumaturgy and is often tempted to infernalism. While the rest of his blood line died he was likely spared because he was at the Sabbat Regents side and protected by multiple layers of magical warding.  Dabir was a Regent in Baghdad, but defected to House Goratrix when he was revealed as a member of the Horned Society.  In the Sabbat he quickly realized that many in House Goratrix were infernalists and if not for the Black Hands intervention may have joined their number.  After the fall of his Clan and the reorganization of the Black Hand, Dabir still finds himself tempted by the power of infernalism, but cannot abide the idea of a demonic master.  He is in LA invetigating the rumor that new gargoyles are being created and how the Sabbat can counter these creatures... but he also wishes to learn more about LA's demons and how they can be captured or destroyed."
+          "staff_generated_concept": "You grew up in Lynwood in the gangs.  Your entire family was in the gangs and it was the only life you knew. You were rather good at the life, you worked your way up and by the time you were 25, you had only been to juvie twice, and county once.  You had respect from your affiliates, you ran dealers, had several pimps paying you for protection, and were leading the good life.  Then a rather nasty gunfight erupted down the street from your place, you went outside with your AK to wast some fuckers stupid enough to shoot up you neighborhood and met this beautiful woman on your lawn, she was covered in burned clothes and looked pretty messed up.  She was bending over this guy and seemed to be making out with him, but the dude was out.  Then she looked up and captured your eyes.  Next thing you knew this chick was living in your basement and you loved working for her, she was some strange blood sucking vampire chick, but damn she was hot.  You loved being around her and doing stuff for her.  She was fighting the Asians (they were the fuckers that dared attack her) and she needed help doing so, you had contacts and skill, and she let you help her in all the little ways you could.  2014 was the best year of your life.  Then in February of 2015, she embraced you as you had proven yourself invaluable to her.  She told you of the war going on in LA and the sides involved, and how you were very much not what her clan normally wanted, but in LA you were what they needed.  Your \"art\" was survival and revenge, a much better way to live in LA than sculpting and poetry.  The Anarchs sound like the people you have worked among all your life, the Sabbat sound like some crazy violent nasties, and the Camarilla seem to be the white collar that you have been locked out of by birth.  Theresa was caught and killed by the Asians last month, and that really pissed you off, you figure the only ones taking the fight to the Asians right now is the Camarilla and you should go check them out."
         },
         {
           "staff_generated_concept": "Sire:",
-          "column_2": "Tetsuhiro",
+          "column_2": "Theresa Huerata",
           "column_3": "Reference: (If any)",
           "column_6": "Clan",
-          "column_7": "Tremere - Easily Bound"
+          "column_7": "Toreador - Entranced by Art"
         },
         {
           "staff_generated_concept": "Embrace Date:",
-          "column_2": 1976,
+          "column_2": 2014,
           "column_3": "Embrace Location:",
-          "column_4": "Iraq",
+          "column_4": "Los Angeles",
           "column_6": "Generation",
-          "column_7": "Pretender Elder 8"
+          "column_7": "Neonate 11"
         },
         {
           "staff_generated_concept": "Who You Know",
           "column_2": "Your relationship to these people is described. This may mean they do not know you."
         },
         {
-          "staff_generated_concept": "Yasmin the Black",
-          "column_2": "A powerful Montreal Tremere Antitribu of the Black Hand"
+          "staff_generated_concept": "Fernando Mosqueda",
+          "column_2": "this Nosferatu has been with the Anarchs a while and about six months ago, decided to go straight and narrow and join up with the camarilla, he is a talented smuggler who you have used on routes before"
+        },
+        {
+          "staff_generated_concept": "Dahlia Ferro",
+          "column_2": "Vamp something?  She was just another mafia princess until a few months ago, now suddenly she is hard core and doing all the dirty deeds that need be doing.  What the hell happened, and who is she with?"
         },
         {
           "staff_generated_concept": "Starting Goals",
           "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Find Allies and Information, The asians need to pay, they are fucking with you and killed Theresa"
+        },
+        {
+          "staff_generated_concept": "Decide if you are going to join the Camarilla or pay lip service and hang around to kill Asians"
+        },
+        {
+          "staff_generated_concept": "Grow your contatcs and protect them, even if your in the Camarilla, dont let go of your people or stuff."
         },
         {
           "staff_generated_concept": "Player Amended History",
@@ -1034,10 +1013,29 @@
     "Disiplines Mechanic": {
       "rows": [
         [
-          "Thaumaturgy - Path of Blood\nThose who practice the thaumaturgic arts sacrifice a small portion of their mystically-infused vitae in order to forcibly shape the world according to their will. Thaumaturgy has certain limitations:\nThaumaturgy relies upon a thaumaturge speaking magical phrases and making specific gestures. \nAll Thaumaturgy paths and rituals are considered Mental powers, and as such, cannot be used during Celerity rounds.\nSpecific Thaumaturgy powers that are resisted with your target’s Physical attribute can be repeatedly used against a target. Powers that are resisted with the target’s Mental attribute cannot be attempted repeatedly. You must wait 10 minutes before retrying such a power.\nThaumaturgy Test Pool: Mental attribute + Occult versus the target’s Mental attribute + Willpower. Powers that specifically target are resisted using the target’s Physical attribute + Dodge.\n\nThe Path of Blood\n● A Taste of Blood\nThe Path of Blood leverages the concept of sympathetic magic to allow you to alter the properties of the vitae within your system or to discover secrets of others through divining with their blood. \nSystem: Ingest a drop of your target’s blood and use your simple action to discern information about the target. A Taste for Blood requires you to physically ingest the vitae that you test, and, therefore, consumes the sample of blood. The magical nature of A Taste for Blood shields the thaumaturge from being bound by the blood ingested and provides all of the following information:\nMedical information, such as blood type and state of health\nHow much blood is currently in the subject’s system\nWhat type of creature the blood came from: mortal, ghoul, vampire, etc. \nThe thaumaturge may also determine: the subject’s generation; whether the subject has ever committed diablerie; how recently the subject has fed\nFocus [Perception]: You can gauge the strength of any blood bonds or partial blood bonds the target has, including the bonds created by participating in the Vaulderie. You do not know to whom the subject is bound, nor whether the bonds are mutual, but you do know the number and severity of the bonds.\n\n●● Blood Rage\nYou can mystically manipulate another vampire’s blood while it is still within her system. A vampire affected by Blood Rage feels a rush, much like a surge of adrenaline, and automatically realizes she has been affected by a power.\nSystem: Spend 1 Blood and use your standard action to make an opposed challenge using your Mental attribute + Occult versus the target’s Mental attribute + Willpower. The target must be within one step of you. If you succeed, the target must spend a single point of Blood in any fashion you wish. This expenditure can exceed the limits of Generation. By using this power, you can force a vampire or ghoul to spend Blood in one of the following manners:\nIncrease her Physical attribute\nActivate a discipline power, such as Rapidity\nHeal wounds\nAwaken from torpor\nSweat blood through her pores\nBlood Rage cannot be used to force the target to activate a power that requires her to spend an action. \nFocus [Perception]: You must be within 10 steps of your target in order to activate Blood Rage, as opposed to the standard one step.\n\n●●● Blood of Potency\nYou have mastered your vitae to the point that you can command it to temporarily thicken, causing your vampiric form to manifest a more potent generation.\nSystem: Once per night, you can spend 1 Blood and use your simple action to activate Blood of Potency. This power lasts for the next hour. While active, your Blood pool increases to half again its normal size (rounded up). You can spend 2 additional points of Blood per turn. You are considered to be three generations lower than normal for the purpose of waking another vampire from torpor. Once this power ends, any Blood you contain over your natural Blood pool dilutes, leaving you at your regular Blood pool maximum. If you are diablerized or Embrace, your real generation is used to determine the results.\nFocus [Intelligence]: You can utilize Blood of Potency twice in the course of a single evening.\n\n●●●● Theft of Vitae\nBy mystically attuning the vitae in your body into a thaumaturgical magnet, you can literally siphon blood from your target, causing it to cascade out of your enemy’s pores and into your hand, to be absorbed instantly into the caster’s system.\nSystem: Spend 1 Blood and use your standard action to make an opposed challenge using your Mental attribute + Occult versus the target’s Mental attribute + Willpower, targeting a character within 25 steps. If you succeed, you can draw 3 points of Blood from your victim. Blood stolen in this fashion has all of its normal properties.\nExceptional Success:\nYou steal 4 points of Blood from your target, rather than 3.\nFocus [Intelligence]: Blood siphoned will not induce a blood bond, sicken you, or carry diseases. Supernatural powers remain in effect.\n\n●●●●● Cauldron of Blood\nBy touching your opponent, you can boil the blood within your enemy’s veins, causing her to suffer incredible pain and agony. Red mist rises from the victim’s body as bubbling blood seeps from her pores and orifices. \nSystem: Use a standard action to Grapple a target. If you succeed, spend 1 Blood to inflict Cauldron of Blood on the victim, as well as inflicting all standard effects of a Grapple. Cauldron of Blood boils 2 points of Blood within your victim’s body, destroying the affected Blood and causing 2 points of aggravated damage. Damage caused by this power cannot be reduced or negated. \nThe first time you use Cauldron of Blood on a target, you must succeed in a Grapple combat maneuver against that target. If your target is already Grappled, you can activate this power by spending 1 Blood and using your standard action. \nThis power does not convert the normal damage dealt by a Grapple to aggravated damage, and that damage can be reduced or negated normally. The Grapple combat maneuver does not reduce the damage dealt by Cauldron of Blood. Mortals affected by Cauldron of Blood die instantly.\nFocus [Intelligence]: You can affect 1 additional point of Blood, boiling up to a total of 3 Blood and causing 3 aggravated damage per use."
+          "Auspex\nA predator’s senses must be acute to track prey - and Auspex allows those senses to be sharpened. Higher levels of Auspex allow supernatural levels of perception. \nAuspex Test Pool: Mental attribute + Investigation versus the target’s Mental attribute + Willpower.\nHeightened vs. Supernatural Concealment: Target may use Mental attribute + Stealth as a defensive test pool instead of Mental attribute + Willpower. \nHeightened vs. Illusion: Target may use Social attribute + Subterfuge as a defensive test pool instead of Social attribute + Willpower.\n\n● Heightened Senses\nYou can extend any or all of your physical senses - sight, hearing, touch, smell and taste. You may see in the dark, eavesdrop on conversations across the room and sense supernaturally concealed beings standing within two steps. You may also spend 1 Blood and take 1 Standard ACtion to notice any mundanely hidden objects within your line of sight - make an opposed challenge to discern any details. \nExceptional Success: If you attempt the same challenge against the character, you automatically succeed for the next hour. \nFocus [Perception]: Sharpening your senses takes a simple action. \n\n●● Aura Perception\nEvery living (or unliving) creature is surrounded by an aura which reveals important information about them. Spend 1 Blood and 1 Standard action, make an opposed challenge. On a success, you can read your target’s aura. You know their creature type (vampire, ghoul, mortal, other), general mood, any immediately violent inclination and if your target has diablerized in the past year. If your target consents to have their aura read, you need not spend blood. \nExceptional Success: You may continue you read your subject’s aura for another hour without Blood or a challenge. If the target’s mood shifts, you know. You may act before them if combat occurs. \nFocus [Perception]: If your target is within three steps, your character spends no Blood, whether the target is willing or not. If the target is unwilling, you must still make an opposed challenge.\n\n●●● Spirit’s Touch\nPhysical objects carry traces of those who most recently handled them. This power allows you to absorb those impressions. This does not work on living (or unliving) creatures. You must make skin contact with the item and spend 1 Blood and a standard action. You may then ask one fo the following: \nShow me the last person who handled the object.\nHow did the individual die? \nWhen (or how) was the object last used? \nAre there any strong emotions attached to this object?\nFocus [Perception]: When you activate Spirit’s Touch, you may ask three question.\n\n●●●● Telepathy\nSpend 1 point of Blood, and you may immediately make mental contact with a willing target within 50 miles. You require 1 Blood and an opposed challenge for unwilling targets (your opponent may make an opposed Awareness challenge to find out who you are). This lasts for one hour, and you may not use any other powers while using Telepathy. On a success, your target must answer one of the following (2 for an exceptional success):   \nWhat are you currently thinking about?\nWhat does that person or thing you just described look like?\nWhere is the person or object you were just talking about located?\nDo you like or dislike the person you’re currently talking to?\nWhat are you planning to do in the next few minutes?\nFocus [Wits]: You can maintain Telepathy with up to three willing targets at once, interconnected. Spend 1 Blood per target. \n\n●●●●● Psychic Projection\nNo longer confined to the physical plane, you can project your senses and awareness outside of your body. Without the concerns of mass and matter, you easily pass through any physical barrier and move at the speed of thought to any place under the gaze of the moon.\nSystem: Spend 1 point of Blood and a standard action meditating. You project your awareness outside of her physical form. While in psychic form, your body lies in a torpor-like state. If you take damage, the Psychic Projection automatically ends. A psychic form travels at roughly 50 miles per hour and can pass through solid objects, but cannot interact with the physical world in any way. The only powers you can use while in psychic form are the first 4 dots of Auspex.\nA psychic form is invisible to those without Heightened Senses or similar supernatural abilities. You can spend 1 Blood to make yourself visible for one turn. A manifested character can be targeted by Mental and Social powers by those in the material world. Individuals with Heightened Senses or similar supernatural abilities can see the vague outline of an individual in Psychic Projection even when that individual has not manifested, but the observer cannot make out details, see gestures, or hear the projected character’s voice unless she manifests.\nTwo individuals in Psychic Projection can interact normally. A successful blow from another psychic individual costs the victim 1 Willpower as damage. If the victim runs out of Willpower, her Psychic Projection immediately ends and cannot be reactivated for 10 minutes. \nFocus [Wits]: You may utilize the first 2 dots of any Mental or Social in-clan discipline you possess. Your character uses these powers normally when targeting others in the psychic plane. If your character manifests, she can also use these disciplines on targets in the material world while she is manifested."
+        ],
+        [
+          "Dominate\nPractitioners of Dominate utilize their strength of will, channeling the force of their personality. With a modest exertion, such a creature can bend minds, implant suggestions, and even control another person’s actions. The Dominate user then issues verbal orders or communicates through simple, obvious hand gestures. Dominate cannot be used to force a target to do something directly self-destructive. \nGaze and Focus: To use Dominate on a target, that individual must have her gaze or her attention focused on the Dominate user. \nDominate Test Pool: The Dominate wielder uses her Mental attribute + Intimidation versus the target’s Mental attribute + Willpower.\n\n● Command\nWith a word or a gesture, you can exert your will upon an individual and force her to obey. The vampire can give a single word command embedded in a sentence or on it’s own. \nSystem: Expend a standard action and speak a simple one-word order (or give a brief gesture) to a target. If you are successful in an opposed challenge, your character forces her target to obey. The subject will spend her next turn attempting to obey your order. If you point at a door and Command your victim to “Leave!” she will attempt to leave via the door you indicated. A Command may be part of a sentence in order to conceal the power’s use.\nExceptional Success: The target does not realize that she’s been Dominated. \nFocus [Intelligence]: An individual who has been successfully given a Command must follow your order for three turns (instead of one).\n\n●● Mesmerism\nA Mesmerism user can create a hypnotic suggestion within her target’s mind. Complex commands and subconscious desires can be implanted, controlling the victim in subtle but powerful ways. This power implants a subliminal trigger in the target’s mind. This trigger will activate only under specified circumstances, and forces the target to perform certain pre-programmed actions when those conditions occur. You may indicate that the Mesmerism activity must occur immediately, or after a specific stimulus that will trigger the target at a later point. An individual can only have one active Mesmerism from a given Dominate user. A victim may have multiple Mesmerisms lurking in her psyche at the same time, provided each Mesmerism was implanted by a different individual.\nSystem: Expend a standard action, speak the instructions of your Mesmerism, and make an opposed challenge against your target. If you are successful, the Mesmerism has been implanted. This subliminal order may lay dormant in the target’s mind for up to one month.\nExceptional Success: Your victim will not remember following your instructions. She will remember all actions she took of her own free will, but will not recall what she was forced to do by your Mesmerism.\nFocus [Intelligence]: Your Mesmerisms may remain dormant in your target’s mind for up to three months Once triggered, it will last for up to two hours.\n\n●●● Forgetful Mind\nBy holding your target’s attention and speaking to her clearly, you can place her in a hypnotic state. While she is somnambulant, you may ask questions, cause her to describe something she has experienced, or give her specific details with which to alter or overwrite her memory of an event.\nThe user of this power can tell the target to incorporate new information into (or remove details from) her original memory. The target will do so seamlessly, justifying the information within the context of her overall remembrance. \nSystem: Expend a standard action and make an opposed challenge. If you are successful, your target enters a trance for a small amount of time while the user of this power offers details to alter, erase, or completely overwrite the target’s memory. If the target is threatened in any way, she will snap out of this trance. Forgetful Mind allows you to erase or alter up to 10 minutes of memory per use. A character can detect false or missing memories and possibly restore them. When you use Forgetful Mind on a target, you must log your action with the subject’s Storyteller. \nIf another character attempts to restore the subject’s altered memory, tell the Storyteller how many Dominate powers she possesses. If she has fewer, she is incapable of overpowering your Dominate. If equal or more, she may make an opposed Mental challenge against the highest Dominate pool applied to that subject. If successful, all memories altered by that Dominate user are restored. This process requires 1 downtime action to be spent by both the subject and the individual. A vampire cannot alter or restore her own memories.\nExceptional Success: Your character is considered to have 1 more dot of Dominate for the purpose of determining whether your Forgetful Mind is overpowered by another.\nFocus [Wits]: You may alter up to one hour of the target’s memory with a single application of Forgetful Mind (rather than 10 minutes).\n\n●●●● Conditioning\nBy taking your time and applying a more dedicated amount of effort, you can permanently alter a portion of your subject’s personality, adding habits or removing them. \nSystem: You can implant a semi-permanent Mesmerism deep in your subject’s mind. It takes three hours of diligent and uninterrupted focus, during which time your subject must be aware. Afterwards, make an opposed challenge against the subject. If successful, you implant a Mesmerism that can be triggered repeatedly. The target acts normally until such time as her Conditioning is triggered. Once activated, the target must fulfill the behaviors demanded (or attempt to for one hour, whichever comes first).  A successful compulsion implanted with Conditioning is permanent until broken by the subject; it cannot be removed or overwritten. \nA mortal can make an opposed challenge (using the subject’s Mental attribute + Willpower versus the Dominator’s Mental attribute + Intimidation) to break the Conditioning, if she avoids the trigger for a year. Failure requires her to wait another year to attempt again. Supernatural characters may attempt to break their Conditioning if they avoid having the compulsion triggered for three months. Failure requires the creature to wait another three months again.\nFocus: [Intelligence]: A mortal target must avoid having her Conditioning triggered for three years before making an attempt to break that Conditioning. Supernatural creatures must go six months without having the Conditioning triggered before attempting to break it.\n\n●●●●● Possession\nThe strength of your will is such that you can Dominate another individual’s psyche, controlling her thoughts and actions, inhabiting her psyche, and completely taking over your target’s physical form. \nSystem: Use your standard action to stare into the eyes of your subject and make an opposed challenge. If successful, your consciousness is transferred into the target’s body, and her mind is rendered into a fugue-like state. The character’s original body falls into a torpid state and can neither defend itself nor act. While in Possession, you always know the location of your real body.\nMortals and partially supernatural creatures, such as ghouls or kinfolk, can be targeted with Possession. Fully supernatural creatures cannot. If your character possesses a ghoul, you may use the ghoul’s Blood pool, and can spend 1 Blood per turn. A ghoul can hold up to 5 points of Blood in her pool to spend on Physical powers. You cannot spend this Blood to affect your character’s native form in any manner. \nPossession lasts until the next sunrise or until you spend a simple action for your character to return to her body. Possession ends immediately if the character travels more than 10 miles away, her body takes damage, or if the target takes damage.\nExceptional Success: If you achieve an exceptional success, your character’s mind can maintain control of the possessed form for up to three days without further challenges. Possession will end after the third sunrise, instead of the first. Note that your Possession will still end if the character travels more than 10 miles away from her native body, if the character’s native body takes damage, or if the body she’s possessing takes damage."
+        ],
+        [
+          "Presence\nA vampire’s natural aura of command, intimidation, or sensuality draws the attention like nothing else, and practitioners of the Presence discipline have mastered this ability. Where Dominate is a hammer, Presence is an iron hand in a velvet glove. This discipline sways the emotions and may not even be noticed, if the effects are applied cunningly enough. Presence doesn’t alter thought processes or change a subject’s personality; it simply enflames the target’s affections and sentiments.\nPresence Test Pool: A Presence wielder uses her Social attribute + Leadership versus the target’s Social attribute + Willpower.\n\n● Awe\nYour beauty and charisma draw the attention of others like moths to a flame. Even those who do not agree with your cause or your purposes will stop and listen, willing for a moment to give you the benefit of the doubt.\nSystem: Spend 1 Blood point and expend a standard action. For the scene, everyone within conversational distance will feel a strong desire to be near you. Characters affected by Awe are not compelled to like, trust, or stop attacking you, but they must pay attention to you. A target is automatically considered to be focused on you. Characters may ignore all uses of Awe for one hour, by spending a point of Willpower.\nFocus [Appearance]: Characters who wish to overcome your Awe must spend 2 Willpower. \n\n●● Dread Gaze\nUsing Dread Gaze allows the Beast to surface, focusing its rage on another individual. Those targeted by this fearsome power often quail before it, fleeing in terror from the fury of the Beast.\nSystem: Expend a standard action and make an opposed challenge against your target. If you are successful, she is overcome by fear. She will not willingly come within five steps of you for the next five minutes. She will not attack you unless she has no other option.\nExceptional Success: For the rest of the evening, if you make any aggressive movement towards the individual who has been subjected to your successful Dread Gaze, this power will re-exert itself for another five minutes.\nFocus [Manipulation]: Instead of bearing your fangs and hissing, you glare at your target. Observers will notice that you appear aggressive toward your opponent, but they will have no reason to think you are a vampire.\n\n●●● Entrancement\nFew others can match your beauty and poise, and those who are lucky enough to gain your attention will do anything to keep it. \nSystem: Spend 1 Blood, expend a standard action and make an opposed challenge against your target. If successful, you bend your target’s emotions and capture her heart. She becomes immediately receptive to you, rationalizing any disdain or negative feelings she had for you before you used this power. Both during the effects and after this power fades, the subject will rationalize the effect of Entrancement. \nOnly an individual who actively reviled you and wished you harm will clearly see that her actions were manipulated. Entranced characters cannot bring themselves to harm you, physically or politically, and will generally be as nice to you as reasonably possible and are not obligated to follow your instructions to the letter. They will generally try to make you happy, and they will take your side in arguments or conflicts, so long as they are not put in danger by doing so. If you attack someone you’ve Entranced, this power’s effect ends immediately.\nExceptional Success: The target of your Entrancement suffers a -3 penalty to resist or overcome your other Presence powers for the duration of this effect. \nFocus [Appearance]: When you use Entrancement successfully, the effects last for three hours instead of one.\n\n●●●● Summon\nYour powers of persuasion are so strong that you can mystically compel others to come when you beckon, even if they are miles \nSystem: Spend 1 point of Blood and expend a standard action. Make an opposed challenge against a familiar target. You cannot leave the area where you initiated the power, or the Summons will immediately end. If you succeed, the target automatically realizes she has been affected by the use of a power, as well as the identity of the individual performing it, and the location where she is to meet you. If your target doesn’t trust you, she can spend up to 10 minutes, taking precautions before answering your Summons.\nThe target will come as quickly and directly as possible, but retains her survival instincts. If it is not possible for a character to present herself to you physically without entering a dangerous situation, the target must come as close as possible and contact you in some other way. Summoned mortals will continue following your call across any distance, no matter how much time it takes to reach your side. Supernatural creatures travel as far as possible until the next sunrise.\nExceptional Success: The target doesn’t know the power has been used and cannot sense the identity of the individual summoning her. \nFocus [Manipulation]: You can Summon your Retainers, ghouls, and individuals who are blood bound to you without expending Blood or a standard action. You can use this aspect of Summon even when you are staked or in torpor. \n\n●●●●● Majesty\nThe force of your personality causes meeker hearts to quail, and fearful individuals to bow or grovel before you as you demand their respect. Hearts break and even the most stalwart tremble as you pass, overwhelmed by the authority and sovereignty of your countenance. \nSystem: Spend 1 Blood and expend a standard action to activate Majesty. For the next hour, you appear to be the apotheosis of your character’s best nature – astonishingly beautiful, terrifyingly evil, regal beyond reproach, or otherwise – as reflects your character’s personality. The feeling of a character’s Majesty can vary, depending upon the user’s personality and current mood. While this power is active, others cannot show you disrespect, and while they may disagree with you, they must do so with utmost courtesy.\nAnyone who wishes to attack or be rude to you must make an opposed challenge, using her Social attribute + Willpower versus your Social attribute + Leadership. If she fails, she cannot make another attempt for at least 10 minutes. This effect also applies to powers that don’t directly target the Majesty user, but instead target the area encompassing the Majesty user. If you attack an individual affected by your Majesty, or if you use a power on such an individual, your Majesty immediately breaks for that person. She is rendered immune to your Majesty for the next hour and can treat you as she would normally. \nFocus [Appearance]: While your Majesty is active, you ignore the Majesty of other characters."
+        ],
+        [
+          "Celerity\nThroughout history, myths have described vampires as having preternatural speed and reflexes. They move in a blur, travel across surfaces that shouldn’t be able to hold their weight, and strike between heartbeats when fighting.\nCelerity allows you to take additional actions. \nYou can only take Physical actions during a Celerity round.\nYou must spend 1 Blood point to activate Celerity for the turn. That expenditure activates all Celerity powers you possess. \nActivating Celerity doesn’t require an action and can be done at any time (even before your turn in the initiative order). \nEach dot of Celerity represents an additional increase in physical speed, and each dot stacks with all mechanical bonuses granted by other dots of this discipline. If a character has Rapidity (Celerity ●●●), she has the bonuses granted by Rapidity, and also the bonuses granted by Alacrity (Celerity ●) and Swiftness (Celerity ●●), which she must possess to reach Rapidity.\nUsing Celerity at the Rapidity level or beyond is a breach of the Masquerade, should it be seen by mortals.\n \nFocus [Dexterity]:\nAnytime you activate Celerity, your character gains +2 to Dodge-based defensive test pools.\n \n●  Alacrity\nWhen you spend Blood to activate Celerity, your initiative increases by the sum of all of the Celerity powers you possess, including Celerity elder powers and Celerity-based techniques.\n\n● ●  Swiftness\nWhen making a ranged attack, you gain a +5 bonus to determine whether or not the attack scores an exceptional success. Additionally, when dodging, you receive a +5 bonus to your test pool for the purpose of comparing attributes to determine if your attacker has achieved an exceptional success.\n\n● ● ●  Rapidity\nWhen you activate Celerity, you gain an extra round of actions (one simple action and one standard action). Resolve these actions during the first Celerity round.\n\n● ● ● ●  Legerity\nAll of your Dodge-based defensive test pools receive a +2 wild card bonus while Celerity is active. This bonus stacks with the +2 Dodge bonuses granted by the Dexterity attribute focus. Additionally, when you score an exceptional success with a mundane ranged attack (one not related to any supernatural discipline) while Celerity is active, your character inflicts 2 additional points of damage instead of the standard 1 additional point.\n\n● ● ● ● ●  Fleetness\nWhen you activate Celerity, you gain an extra round of actions (one simple action and one standard action).\nResolve these actions during the second Celerity round."
         ]
       ],
-      "records": []
+      "records": [
+        {
+          "auspex_a_predator_s_senses_must_be_acute_to_track_prey_and_auspex_allows_those_senses_to_be_sharpened_higher_levels_of_auspex_allow_supernatural_levels_of_perception_auspex_test_pool_mental_attribute_investigation_versus_the_target_s_mental_attribute_willpower_heightened_vs_supernatural_concealment_target_may_use_mental_attribute_stealth_as_a_defensive_test_pool_instead_of_mental_attribute_willpower_heightened_vs_illusion_target_may_use_social_attribute_subterfuge_as_a_defensive_test_pool_instead_of_social_attribute_willpower_heightened_senses_you_can_extend_any_or_all_of_your_physical_senses_sight_hearing_touch_smell_and_taste_you_may_see_in_the_dark_eavesdrop_on_conversations_across_the_room_and_sense_supernaturally_concealed_beings_standing_within_two_steps_you_may_also_spend_1_blood_and_take_1_standard_action_to_notice_any_mundanely_hidden_objects_within_your_line_of_sight_make_an_opposed_challenge_to_discern_any_details_exceptional_success_if_you_attempt_the_same_challenge_against_the_character_you_automatically_succeed_for_the_next_hour_focus_perception_sharpening_your_senses_takes_a_simple_action_aura_perception_every_living_or_unliving_creature_is_surrounded_by_an_aura_which_reveals_important_information_about_them_spend_1_blood_and_1_standard_action_make_an_opposed_challenge_on_a_success_you_can_read_your_target_s_aura_you_know_their_creature_type_vampire_ghoul_mortal_other_general_mood_any_immediately_violent_inclination_and_if_your_target_has_diablerized_in_the_past_year_if_your_target_consents_to_have_their_aura_read_you_need_not_spend_blood_exceptional_success_you_may_continue_you_read_your_subject_s_aura_for_another_hour_without_blood_or_a_challenge_if_the_target_s_mood_shifts_you_know_you_may_act_before_them_if_combat_occurs_focus_perception_if_your_target_is_within_three_steps_your_character_spends_no_blood_whether_the_target_is_willing_or_not_if_the_target_is_unwilling_you_must_still_make_an_opposed_challenge_spirit_s_touch_physical_objects_carry_traces_of_those_who_most_recently_handled_them_this_power_allows_you_to_absorb_those_impressions_this_does_not_work_on_living_or_unliving_creatures_you_must_make_skin_contact_with_the_item_and_spend_1_blood_and_a_standard_action_you_may_then_ask_one_fo_the_following_show_me_the_last_person_who_handled_the_object_how_did_the_individual_die_when_or_how_was_the_object_last_used_are_there_any_strong_emotions_attached_to_this_object_focus_perception_when_you_activate_spirit_s_touch_you_may_ask_three_question_telepathy_spend_1_point_of_blood_and_you_may_immediately_make_mental_contact_with_a_willing_target_within_50_miles_you_require_1_blood_and_an_opposed_challenge_for_unwilling_targets_your_opponent_may_make_an_opposed_awareness_challenge_to_find_out_who_you_are_this_lasts_for_one_hour_and_you_may_not_use_any_other_powers_while_using_telepathy_on_a_success_your_target_must_answer_one_of_the_following_2_for_an_exceptional_success_what_are_you_currently_thinking_about_what_does_that_person_or_thing_you_just_described_look_like_where_is_the_person_or_object_you_were_just_talking_about_located_do_you_like_or_dislike_the_person_you_re_currently_talking_to_what_are_you_planning_to_do_in_the_next_few_minutes_focus_wits_you_can_maintain_telepathy_with_up_to_three_willing_targets_at_once_interconnected_spend_1_blood_per_target_psychic_projection_no_longer_confined_to_the_physical_plane_you_can_project_your_senses_and_awareness_outside_of_your_body_without_the_concerns_of_mass_and_matter_you_easily_pass_through_any_physical_barrier_and_move_at_the_speed_of_thought_to_any_place_under_the_gaze_of_the_moon_system_spend_1_point_of_blood_and_a_standard_action_meditating_you_project_your_awareness_outside_of_her_physical_form_while_in_psychic_form_your_body_lies_in_a_torpor_like_state_if_you_take_damage_the_psychic_projection_automatically_ends_a_psychic_form_travels_at_roughly_50_miles_per_hour_and_can_pass_through_solid_objects_but_cannot_interact_with_the_physical_world_in_any_way_the_only_powers_you_can_use_while_in_psychic_form_are_the_first_4_dots_of_auspex_a_psychic_form_is_invisible_to_those_without_heightened_senses_or_similar_supernatural_abilities_you_can_spend_1_blood_to_make_yourself_visible_for_one_turn_a_manifested_character_can_be_targeted_by_mental_and_social_powers_by_those_in_the_material_world_individuals_with_heightened_senses_or_similar_supernatural_abilities_can_see_the_vague_outline_of_an_individual_in_psychic_projection_even_when_that_individual_has_not_manifested_but_the_observer_cannot_make_out_details_see_gestures_or_hear_the_projected_character_s_voice_unless_she_manifests_two_individuals_in_psychic_projection_can_interact_normally_a_successful_blow_from_another_psychic_individual_costs_the_victim_1_willpower_as_damage_if_the_victim_runs_out_of_willpower_her_psychic_projection_immediately_ends_and_cannot_be_reactivated_for_10_minutes_focus_wits_you_may_utilize_the_first_2_dots_of_any_mental_or_social_in_clan_discipline_you_possess_your_character_uses_these_powers_normally_when_targeting_others_in_the_psychic_plane_if_your_character_manifests_she_can_also_use_these_disciplines_on_targets_in_the_material_world_while_she_is_manifested": "Dominate\nPractitioners of Dominate utilize their strength of will, channeling the force of their personality. With a modest exertion, such a creature can bend minds, implant suggestions, and even control another person’s actions. The Dominate user then issues verbal orders or communicates through simple, obvious hand gestures. Dominate cannot be used to force a target to do something directly self-destructive. \nGaze and Focus: To use Dominate on a target, that individual must have her gaze or her attention focused on the Dominate user. \nDominate Test Pool: The Dominate wielder uses her Mental attribute + Intimidation versus the target’s Mental attribute + Willpower.\n\n● Command\nWith a word or a gesture, you can exert your will upon an individual and force her to obey. The vampire can give a single word command embedded in a sentence or on it’s own. \nSystem: Expend a standard action and speak a simple one-word order (or give a brief gesture) to a target. If you are successful in an opposed challenge, your character forces her target to obey. The subject will spend her next turn attempting to obey your order. If you point at a door and Command your victim to “Leave!” she will attempt to leave via the door you indicated. A Command may be part of a sentence in order to conceal the power’s use.\nExceptional Success: The target does not realize that she’s been Dominated. \nFocus [Intelligence]: An individual who has been successfully given a Command must follow your order for three turns (instead of one).\n\n●● Mesmerism\nA Mesmerism user can create a hypnotic suggestion within her target’s mind. Complex commands and subconscious desires can be implanted, controlling the victim in subtle but powerful ways. This power implants a subliminal trigger in the target’s mind. This trigger will activate only under specified circumstances, and forces the target to perform certain pre-programmed actions when those conditions occur. You may indicate that the Mesmerism activity must occur immediately, or after a specific stimulus that will trigger the target at a later point. An individual can only have one active Mesmerism from a given Dominate user. A victim may have multiple Mesmerisms lurking in her psyche at the same time, provided each Mesmerism was implanted by a different individual.\nSystem: Expend a standard action, speak the instructions of your Mesmerism, and make an opposed challenge against your target. If you are successful, the Mesmerism has been implanted. This subliminal order may lay dormant in the target’s mind for up to one month.\nExceptional Success: Your victim will not remember following your instructions. She will remember all actions she took of her own free will, but will not recall what she was forced to do by your Mesmerism.\nFocus [Intelligence]: Your Mesmerisms may remain dormant in your target’s mind for up to three months Once triggered, it will last for up to two hours.\n\n●●● Forgetful Mind\nBy holding your target’s attention and speaking to her clearly, you can place her in a hypnotic state. While she is somnambulant, you may ask questions, cause her to describe something she has experienced, or give her specific details with which to alter or overwrite her memory of an event.\nThe user of this power can tell the target to incorporate new information into (or remove details from) her original memory. The target will do so seamlessly, justifying the information within the context of her overall remembrance. \nSystem: Expend a standard action and make an opposed challenge. If you are successful, your target enters a trance for a small amount of time while the user of this power offers details to alter, erase, or completely overwrite the target’s memory. If the target is threatened in any way, she will snap out of this trance. Forgetful Mind allows you to erase or alter up to 10 minutes of memory per use. A character can detect false or missing memories and possibly restore them. When you use Forgetful Mind on a target, you must log your action with the subject’s Storyteller. \nIf another character attempts to restore the subject’s altered memory, tell the Storyteller how many Dominate powers she possesses. If she has fewer, she is incapable of overpowering your Dominate. If equal or more, she may make an opposed Mental challenge against the highest Dominate pool applied to that subject. If successful, all memories altered by that Dominate user are restored. This process requires 1 downtime action to be spent by both the subject and the individual. A vampire cannot alter or restore her own memories.\nExceptional Success: Your character is considered to have 1 more dot of Dominate for the purpose of determining whether your Forgetful Mind is overpowered by another.\nFocus [Wits]: You may alter up to one hour of the target’s memory with a single application of Forgetful Mind (rather than 10 minutes).\n\n●●●● Conditioning\nBy taking your time and applying a more dedicated amount of effort, you can permanently alter a portion of your subject’s personality, adding habits or removing them. \nSystem: You can implant a semi-permanent Mesmerism deep in your subject’s mind. It takes three hours of diligent and uninterrupted focus, during which time your subject must be aware. Afterwards, make an opposed challenge against the subject. If successful, you implant a Mesmerism that can be triggered repeatedly. The target acts normally until such time as her Conditioning is triggered. Once activated, the target must fulfill the behaviors demanded (or attempt to for one hour, whichever comes first).  A successful compulsion implanted with Conditioning is permanent until broken by the subject; it cannot be removed or overwritten. \nA mortal can make an opposed challenge (using the subject’s Mental attribute + Willpower versus the Dominator’s Mental attribute + Intimidation) to break the Conditioning, if she avoids the trigger for a year. Failure requires her to wait another year to attempt again. Supernatural characters may attempt to break their Conditioning if they avoid having the compulsion triggered for three months. Failure requires the creature to wait another three months again.\nFocus: [Intelligence]: A mortal target must avoid having her Conditioning triggered for three years before making an attempt to break that Conditioning. Supernatural creatures must go six months without having the Conditioning triggered before attempting to break it.\n\n●●●●● Possession\nThe strength of your will is such that you can Dominate another individual’s psyche, controlling her thoughts and actions, inhabiting her psyche, and completely taking over your target’s physical form. \nSystem: Use your standard action to stare into the eyes of your subject and make an opposed challenge. If successful, your consciousness is transferred into the target’s body, and her mind is rendered into a fugue-like state. The character’s original body falls into a torpid state and can neither defend itself nor act. While in Possession, you always know the location of your real body.\nMortals and partially supernatural creatures, such as ghouls or kinfolk, can be targeted with Possession. Fully supernatural creatures cannot. If your character possesses a ghoul, you may use the ghoul’s Blood pool, and can spend 1 Blood per turn. A ghoul can hold up to 5 points of Blood in her pool to spend on Physical powers. You cannot spend this Blood to affect your character’s native form in any manner. \nPossession lasts until the next sunrise or until you spend a simple action for your character to return to her body. Possession ends immediately if the character travels more than 10 miles away, her body takes damage, or if the target takes damage.\nExceptional Success: If you achieve an exceptional success, your character’s mind can maintain control of the possessed form for up to three days without further challenges. Possession will end after the third sunrise, instead of the first. Note that your Possession will still end if the character travels more than 10 miles away from her native body, if the character’s native body takes damage, or if the body she’s possessing takes damage."
+        },
+        {
+          "auspex_a_predator_s_senses_must_be_acute_to_track_prey_and_auspex_allows_those_senses_to_be_sharpened_higher_levels_of_auspex_allow_supernatural_levels_of_perception_auspex_test_pool_mental_attribute_investigation_versus_the_target_s_mental_attribute_willpower_heightened_vs_supernatural_concealment_target_may_use_mental_attribute_stealth_as_a_defensive_test_pool_instead_of_mental_attribute_willpower_heightened_vs_illusion_target_may_use_social_attribute_subterfuge_as_a_defensive_test_pool_instead_of_social_attribute_willpower_heightened_senses_you_can_extend_any_or_all_of_your_physical_senses_sight_hearing_touch_smell_and_taste_you_may_see_in_the_dark_eavesdrop_on_conversations_across_the_room_and_sense_supernaturally_concealed_beings_standing_within_two_steps_you_may_also_spend_1_blood_and_take_1_standard_action_to_notice_any_mundanely_hidden_objects_within_your_line_of_sight_make_an_opposed_challenge_to_discern_any_details_exceptional_success_if_you_attempt_the_same_challenge_against_the_character_you_automatically_succeed_for_the_next_hour_focus_perception_sharpening_your_senses_takes_a_simple_action_aura_perception_every_living_or_unliving_creature_is_surrounded_by_an_aura_which_reveals_important_information_about_them_spend_1_blood_and_1_standard_action_make_an_opposed_challenge_on_a_success_you_can_read_your_target_s_aura_you_know_their_creature_type_vampire_ghoul_mortal_other_general_mood_any_immediately_violent_inclination_and_if_your_target_has_diablerized_in_the_past_year_if_your_target_consents_to_have_their_aura_read_you_need_not_spend_blood_exceptional_success_you_may_continue_you_read_your_subject_s_aura_for_another_hour_without_blood_or_a_challenge_if_the_target_s_mood_shifts_you_know_you_may_act_before_them_if_combat_occurs_focus_perception_if_your_target_is_within_three_steps_your_character_spends_no_blood_whether_the_target_is_willing_or_not_if_the_target_is_unwilling_you_must_still_make_an_opposed_challenge_spirit_s_touch_physical_objects_carry_traces_of_those_who_most_recently_handled_them_this_power_allows_you_to_absorb_those_impressions_this_does_not_work_on_living_or_unliving_creatures_you_must_make_skin_contact_with_the_item_and_spend_1_blood_and_a_standard_action_you_may_then_ask_one_fo_the_following_show_me_the_last_person_who_handled_the_object_how_did_the_individual_die_when_or_how_was_the_object_last_used_are_there_any_strong_emotions_attached_to_this_object_focus_perception_when_you_activate_spirit_s_touch_you_may_ask_three_question_telepathy_spend_1_point_of_blood_and_you_may_immediately_make_mental_contact_with_a_willing_target_within_50_miles_you_require_1_blood_and_an_opposed_challenge_for_unwilling_targets_your_opponent_may_make_an_opposed_awareness_challenge_to_find_out_who_you_are_this_lasts_for_one_hour_and_you_may_not_use_any_other_powers_while_using_telepathy_on_a_success_your_target_must_answer_one_of_the_following_2_for_an_exceptional_success_what_are_you_currently_thinking_about_what_does_that_person_or_thing_you_just_described_look_like_where_is_the_person_or_object_you_were_just_talking_about_located_do_you_like_or_dislike_the_person_you_re_currently_talking_to_what_are_you_planning_to_do_in_the_next_few_minutes_focus_wits_you_can_maintain_telepathy_with_up_to_three_willing_targets_at_once_interconnected_spend_1_blood_per_target_psychic_projection_no_longer_confined_to_the_physical_plane_you_can_project_your_senses_and_awareness_outside_of_your_body_without_the_concerns_of_mass_and_matter_you_easily_pass_through_any_physical_barrier_and_move_at_the_speed_of_thought_to_any_place_under_the_gaze_of_the_moon_system_spend_1_point_of_blood_and_a_standard_action_meditating_you_project_your_awareness_outside_of_her_physical_form_while_in_psychic_form_your_body_lies_in_a_torpor_like_state_if_you_take_damage_the_psychic_projection_automatically_ends_a_psychic_form_travels_at_roughly_50_miles_per_hour_and_can_pass_through_solid_objects_but_cannot_interact_with_the_physical_world_in_any_way_the_only_powers_you_can_use_while_in_psychic_form_are_the_first_4_dots_of_auspex_a_psychic_form_is_invisible_to_those_without_heightened_senses_or_similar_supernatural_abilities_you_can_spend_1_blood_to_make_yourself_visible_for_one_turn_a_manifested_character_can_be_targeted_by_mental_and_social_powers_by_those_in_the_material_world_individuals_with_heightened_senses_or_similar_supernatural_abilities_can_see_the_vague_outline_of_an_individual_in_psychic_projection_even_when_that_individual_has_not_manifested_but_the_observer_cannot_make_out_details_see_gestures_or_hear_the_projected_character_s_voice_unless_she_manifests_two_individuals_in_psychic_projection_can_interact_normally_a_successful_blow_from_another_psychic_individual_costs_the_victim_1_willpower_as_damage_if_the_victim_runs_out_of_willpower_her_psychic_projection_immediately_ends_and_cannot_be_reactivated_for_10_minutes_focus_wits_you_may_utilize_the_first_2_dots_of_any_mental_or_social_in_clan_discipline_you_possess_your_character_uses_these_powers_normally_when_targeting_others_in_the_psychic_plane_if_your_character_manifests_she_can_also_use_these_disciplines_on_targets_in_the_material_world_while_she_is_manifested": "Presence\nA vampire’s natural aura of command, intimidation, or sensuality draws the attention like nothing else, and practitioners of the Presence discipline have mastered this ability. Where Dominate is a hammer, Presence is an iron hand in a velvet glove. This discipline sways the emotions and may not even be noticed, if the effects are applied cunningly enough. Presence doesn’t alter thought processes or change a subject’s personality; it simply enflames the target’s affections and sentiments.\nPresence Test Pool: A Presence wielder uses her Social attribute + Leadership versus the target’s Social attribute + Willpower.\n\n● Awe\nYour beauty and charisma draw the attention of others like moths to a flame. Even those who do not agree with your cause or your purposes will stop and listen, willing for a moment to give you the benefit of the doubt.\nSystem: Spend 1 Blood point and expend a standard action. For the scene, everyone within conversational distance will feel a strong desire to be near you. Characters affected by Awe are not compelled to like, trust, or stop attacking you, but they must pay attention to you. A target is automatically considered to be focused on you. Characters may ignore all uses of Awe for one hour, by spending a point of Willpower.\nFocus [Appearance]: Characters who wish to overcome your Awe must spend 2 Willpower. \n\n●● Dread Gaze\nUsing Dread Gaze allows the Beast to surface, focusing its rage on another individual. Those targeted by this fearsome power often quail before it, fleeing in terror from the fury of the Beast.\nSystem: Expend a standard action and make an opposed challenge against your target. If you are successful, she is overcome by fear. She will not willingly come within five steps of you for the next five minutes. She will not attack you unless she has no other option.\nExceptional Success: For the rest of the evening, if you make any aggressive movement towards the individual who has been subjected to your successful Dread Gaze, this power will re-exert itself for another five minutes.\nFocus [Manipulation]: Instead of bearing your fangs and hissing, you glare at your target. Observers will notice that you appear aggressive toward your opponent, but they will have no reason to think you are a vampire.\n\n●●● Entrancement\nFew others can match your beauty and poise, and those who are lucky enough to gain your attention will do anything to keep it. \nSystem: Spend 1 Blood, expend a standard action and make an opposed challenge against your target. If successful, you bend your target’s emotions and capture her heart. She becomes immediately receptive to you, rationalizing any disdain or negative feelings she had for you before you used this power. Both during the effects and after this power fades, the subject will rationalize the effect of Entrancement. \nOnly an individual who actively reviled you and wished you harm will clearly see that her actions were manipulated. Entranced characters cannot bring themselves to harm you, physically or politically, and will generally be as nice to you as reasonably possible and are not obligated to follow your instructions to the letter. They will generally try to make you happy, and they will take your side in arguments or conflicts, so long as they are not put in danger by doing so. If you attack someone you’ve Entranced, this power’s effect ends immediately.\nExceptional Success: The target of your Entrancement suffers a -3 penalty to resist or overcome your other Presence powers for the duration of this effect. \nFocus [Appearance]: When you use Entrancement successfully, the effects last for three hours instead of one.\n\n●●●● Summon\nYour powers of persuasion are so strong that you can mystically compel others to come when you beckon, even if they are miles \nSystem: Spend 1 point of Blood and expend a standard action. Make an opposed challenge against a familiar target. You cannot leave the area where you initiated the power, or the Summons will immediately end. If you succeed, the target automatically realizes she has been affected by the use of a power, as well as the identity of the individual performing it, and the location where she is to meet you. If your target doesn’t trust you, she can spend up to 10 minutes, taking precautions before answering your Summons.\nThe target will come as quickly and directly as possible, but retains her survival instincts. If it is not possible for a character to present herself to you physically without entering a dangerous situation, the target must come as close as possible and contact you in some other way. Summoned mortals will continue following your call across any distance, no matter how much time it takes to reach your side. Supernatural creatures travel as far as possible until the next sunrise.\nExceptional Success: The target doesn’t know the power has been used and cannot sense the identity of the individual summoning her. \nFocus [Manipulation]: You can Summon your Retainers, ghouls, and individuals who are blood bound to you without expending Blood or a standard action. You can use this aspect of Summon even when you are staked or in torpor. \n\n●●●●● Majesty\nThe force of your personality causes meeker hearts to quail, and fearful individuals to bow or grovel before you as you demand their respect. Hearts break and even the most stalwart tremble as you pass, overwhelmed by the authority and sovereignty of your countenance. \nSystem: Spend 1 Blood and expend a standard action to activate Majesty. For the next hour, you appear to be the apotheosis of your character’s best nature – astonishingly beautiful, terrifyingly evil, regal beyond reproach, or otherwise – as reflects your character’s personality. The feeling of a character’s Majesty can vary, depending upon the user’s personality and current mood. While this power is active, others cannot show you disrespect, and while they may disagree with you, they must do so with utmost courtesy.\nAnyone who wishes to attack or be rude to you must make an opposed challenge, using her Social attribute + Willpower versus your Social attribute + Leadership. If she fails, she cannot make another attempt for at least 10 minutes. This effect also applies to powers that don’t directly target the Majesty user, but instead target the area encompassing the Majesty user. If you attack an individual affected by your Majesty, or if you use a power on such an individual, your Majesty immediately breaks for that person. She is rendered immune to your Majesty for the next hour and can treat you as she would normally. \nFocus [Appearance]: While your Majesty is active, you ignore the Majesty of other characters."
+        },
+        {
+          "auspex_a_predator_s_senses_must_be_acute_to_track_prey_and_auspex_allows_those_senses_to_be_sharpened_higher_levels_of_auspex_allow_supernatural_levels_of_perception_auspex_test_pool_mental_attribute_investigation_versus_the_target_s_mental_attribute_willpower_heightened_vs_supernatural_concealment_target_may_use_mental_attribute_stealth_as_a_defensive_test_pool_instead_of_mental_attribute_willpower_heightened_vs_illusion_target_may_use_social_attribute_subterfuge_as_a_defensive_test_pool_instead_of_social_attribute_willpower_heightened_senses_you_can_extend_any_or_all_of_your_physical_senses_sight_hearing_touch_smell_and_taste_you_may_see_in_the_dark_eavesdrop_on_conversations_across_the_room_and_sense_supernaturally_concealed_beings_standing_within_two_steps_you_may_also_spend_1_blood_and_take_1_standard_action_to_notice_any_mundanely_hidden_objects_within_your_line_of_sight_make_an_opposed_challenge_to_discern_any_details_exceptional_success_if_you_attempt_the_same_challenge_against_the_character_you_automatically_succeed_for_the_next_hour_focus_perception_sharpening_your_senses_takes_a_simple_action_aura_perception_every_living_or_unliving_creature_is_surrounded_by_an_aura_which_reveals_important_information_about_them_spend_1_blood_and_1_standard_action_make_an_opposed_challenge_on_a_success_you_can_read_your_target_s_aura_you_know_their_creature_type_vampire_ghoul_mortal_other_general_mood_any_immediately_violent_inclination_and_if_your_target_has_diablerized_in_the_past_year_if_your_target_consents_to_have_their_aura_read_you_need_not_spend_blood_exceptional_success_you_may_continue_you_read_your_subject_s_aura_for_another_hour_without_blood_or_a_challenge_if_the_target_s_mood_shifts_you_know_you_may_act_before_them_if_combat_occurs_focus_perception_if_your_target_is_within_three_steps_your_character_spends_no_blood_whether_the_target_is_willing_or_not_if_the_target_is_unwilling_you_must_still_make_an_opposed_challenge_spirit_s_touch_physical_objects_carry_traces_of_those_who_most_recently_handled_them_this_power_allows_you_to_absorb_those_impressions_this_does_not_work_on_living_or_unliving_creatures_you_must_make_skin_contact_with_the_item_and_spend_1_blood_and_a_standard_action_you_may_then_ask_one_fo_the_following_show_me_the_last_person_who_handled_the_object_how_did_the_individual_die_when_or_how_was_the_object_last_used_are_there_any_strong_emotions_attached_to_this_object_focus_perception_when_you_activate_spirit_s_touch_you_may_ask_three_question_telepathy_spend_1_point_of_blood_and_you_may_immediately_make_mental_contact_with_a_willing_target_within_50_miles_you_require_1_blood_and_an_opposed_challenge_for_unwilling_targets_your_opponent_may_make_an_opposed_awareness_challenge_to_find_out_who_you_are_this_lasts_for_one_hour_and_you_may_not_use_any_other_powers_while_using_telepathy_on_a_success_your_target_must_answer_one_of_the_following_2_for_an_exceptional_success_what_are_you_currently_thinking_about_what_does_that_person_or_thing_you_just_described_look_like_where_is_the_person_or_object_you_were_just_talking_about_located_do_you_like_or_dislike_the_person_you_re_currently_talking_to_what_are_you_planning_to_do_in_the_next_few_minutes_focus_wits_you_can_maintain_telepathy_with_up_to_three_willing_targets_at_once_interconnected_spend_1_blood_per_target_psychic_projection_no_longer_confined_to_the_physical_plane_you_can_project_your_senses_and_awareness_outside_of_your_body_without_the_concerns_of_mass_and_matter_you_easily_pass_through_any_physical_barrier_and_move_at_the_speed_of_thought_to_any_place_under_the_gaze_of_the_moon_system_spend_1_point_of_blood_and_a_standard_action_meditating_you_project_your_awareness_outside_of_her_physical_form_while_in_psychic_form_your_body_lies_in_a_torpor_like_state_if_you_take_damage_the_psychic_projection_automatically_ends_a_psychic_form_travels_at_roughly_50_miles_per_hour_and_can_pass_through_solid_objects_but_cannot_interact_with_the_physical_world_in_any_way_the_only_powers_you_can_use_while_in_psychic_form_are_the_first_4_dots_of_auspex_a_psychic_form_is_invisible_to_those_without_heightened_senses_or_similar_supernatural_abilities_you_can_spend_1_blood_to_make_yourself_visible_for_one_turn_a_manifested_character_can_be_targeted_by_mental_and_social_powers_by_those_in_the_material_world_individuals_with_heightened_senses_or_similar_supernatural_abilities_can_see_the_vague_outline_of_an_individual_in_psychic_projection_even_when_that_individual_has_not_manifested_but_the_observer_cannot_make_out_details_see_gestures_or_hear_the_projected_character_s_voice_unless_she_manifests_two_individuals_in_psychic_projection_can_interact_normally_a_successful_blow_from_another_psychic_individual_costs_the_victim_1_willpower_as_damage_if_the_victim_runs_out_of_willpower_her_psychic_projection_immediately_ends_and_cannot_be_reactivated_for_10_minutes_focus_wits_you_may_utilize_the_first_2_dots_of_any_mental_or_social_in_clan_discipline_you_possess_your_character_uses_these_powers_normally_when_targeting_others_in_the_psychic_plane_if_your_character_manifests_she_can_also_use_these_disciplines_on_targets_in_the_material_world_while_she_is_manifested": "Celerity\nThroughout history, myths have described vampires as having preternatural speed and reflexes. They move in a blur, travel across surfaces that shouldn’t be able to hold their weight, and strike between heartbeats when fighting.\nCelerity allows you to take additional actions. \nYou can only take Physical actions during a Celerity round.\nYou must spend 1 Blood point to activate Celerity for the turn. That expenditure activates all Celerity powers you possess. \nActivating Celerity doesn’t require an action and can be done at any time (even before your turn in the initiative order). \nEach dot of Celerity represents an additional increase in physical speed, and each dot stacks with all mechanical bonuses granted by other dots of this discipline. If a character has Rapidity (Celerity ●●●), she has the bonuses granted by Rapidity, and also the bonuses granted by Alacrity (Celerity ●) and Swiftness (Celerity ●●), which she must possess to reach Rapidity.\nUsing Celerity at the Rapidity level or beyond is a breach of the Masquerade, should it be seen by mortals.\n \nFocus [Dexterity]:\nAnytime you activate Celerity, your character gains +2 to Dodge-based defensive test pools.\n \n●  Alacrity\nWhen you spend Blood to activate Celerity, your initiative increases by the sum of all of the Celerity powers you possess, including Celerity elder powers and Celerity-based techniques.\n\n● ●  Swiftness\nWhen making a ranged attack, you gain a +5 bonus to determine whether or not the attack scores an exceptional success. Additionally, when dodging, you receive a +5 bonus to your test pool for the purpose of comparing attributes to determine if your attacker has achieved an exceptional success.\n\n● ● ●  Rapidity\nWhen you activate Celerity, you gain an extra round of actions (one simple action and one standard action). Resolve these actions during the first Celerity round.\n\n● ● ● ●  Legerity\nAll of your Dodge-based defensive test pools receive a +2 wild card bonus while Celerity is active. This bonus stacks with the +2 Dodge bonuses granted by the Dexterity attribute focus. Additionally, when you score an exceptional success with a mundane ranged attack (one not related to any supernatural discipline) while Celerity is active, your character inflicts 2 additional points of damage instead of the standard 1 additional point.\n\n● ● ● ● ●  Fleetness\nWhen you activate Celerity, you gain an extra round of actions (one simple action and one standard action).\nResolve these actions during the second Celerity round."
+        }
+      ]
     },
     "Blood Bonds  Valudrie": {
       "rows": [
@@ -1069,11 +1067,11 @@
           "Genaral Towntimes",
           "3.0",
           "Influnce Downtimes",
-          "1",
+          "5",
           "Computer Downtimes",
-          "0",
+          "1",
           "Science Downtimes",
-          "1"
+          "0"
         ],
         [],
         [
@@ -1106,10 +1104,11 @@
           "genaral_towntimes": "Timestamp",
           "3_0": "Score",
           "influnce_downtimes": "What is your Character's name?",
-          "1": "Investigation / Patrol Actions",
+          "5": "What clan (or supernatural) does your character belong?",
           "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
-          "0": "Hunting Actions",
+          "1": "Hunting Actions",
           "science_downtimes": "Hunting Modifications",
+          "0": "Investigation / Patrol Actions",
           "column_9": "Purpose of Investigation / Patrol",
           "column_10": "Blood Magic Research",
           "column_11": "Elite Influnce Actions",
@@ -1887,13 +1886,7 @@
           "",
           "",
           "",
-          "Mirror Walk -4",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Dark Age Paths"
+          "Mirror Walk -4"
         ],
         [
           "Gangrel \"Noiad\" - Animalistic Beast",
@@ -1908,13 +1901,7 @@
           "",
           "",
           "",
-          "Severed Hand -4",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused.\""
+          "Severed Hand -4"
         ],
         [
           "Gargoyles - Monstrous Vistage",
@@ -1929,13 +1916,7 @@
           "",
           "",
           "",
-          "Scry - 4",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of the Beast\n1 Leaving the weak unchallenged\n2 Killing without need\n3 Tormenting others needlessly\n4 Not defending your territory \n5 Showing your enemies mercy"
+          "Scry - 4"
         ],
         [
           "Gargoyles - Monstrous Slaves",
@@ -1950,13 +1931,7 @@
           "",
           "",
           "",
-          "Blood Contract -5",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Heaven\n1  Failing to speak out against corruption and sin.\n2  Theft, robbery, willful vandalism.\n3  Feeding from an innocent without permission.\n4  Blasphemous or heretical acts.\n5  The murder of innocents."
+          "Blood Contract -5"
         ],
         [
           "Giovanni - Painful Feeding",
@@ -1971,13 +1946,7 @@
           "",
           "",
           "",
-          "Cobra’s Favor -5",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Kings\n1  Forgoing your duty\n2  Placing personal desires over duty\n3  Showing weakness in front of inferiors\n4  Treadting your superiour with disrepect\n5  Breaking your word or oath"
+          "Cobra’s Favor -5"
         ],
         [
           "Giovanni - \"Ghiberti\" - Painful Feeding",
@@ -1992,13 +1961,7 @@
           "",
           "",
           "",
-          "Paper Flesh -5",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Sins\n1 Failing to indulge a new desire\n2 Forfeting long-term plesures for short term ones\n3 Swearing an oath\n4 Refusing to act against those who attempt to bind you\n5 Encouraging the tenetates or virtues of another road"
+          "Paper Flesh -5"
         ],
         [
           "Giovanni - \"Della Passglia\" - Painful Feeding",
@@ -2013,13 +1976,7 @@
           "",
           "",
           "",
-          "Stone of the True Form -5",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Lilith\n1 Joining a system created by those with no wisdom\n2 Ignoring one of Lilith’s faces\n3 Rejecting the suffering of others or dismissing it\n4 Destroying a thinking being\n5 Getting between someone and a valuable lesson"
+          "Stone of the True Form -5"
         ],
         [
           "Giovanni \"Premascine\" - Ghastly Pallor",
@@ -2030,17 +1987,7 @@
           "",
           "Enforcer (Fleeting)",
           "",
-          "Thaumaturgy: Path of Corruption (C)",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Dark Age Paths"
+          "Thaumaturgy: Path of Corruption (C)"
         ],
         [
           "Giovanni \"Pisanob\" - Ghastly Pallor",
@@ -2055,13 +2002,7 @@
           "",
           "",
           "",
-          "Sabbat Ritae",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused.\""
+          "Sabbat Ritae"
         ],
         [
           "Lasombra - No Reflection",
@@ -2076,13 +2017,7 @@
           "",
           "",
           "",
-          "The Binding",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of the Beast\n1 Leaving the weak unchallenged\n2 Killing without need\n3 Tormenting others needlessly\n4 Not defending your territory \n5 Showing your enemies mercy"
+          "The Binding"
         ],
         [
           "Lasombra \"Kaisyd\" - Form of the Fae",
@@ -2097,13 +2032,7 @@
           "",
           "",
           "",
-          "Blood Bath",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Heaven\n1  Failing to speak out against corruption and sin.\n2  Theft, robbery, willful vandalism.\n3  Feeding from an innocent without permission.\n4  Blasphemous or heretical acts.\n5  The murder of innocents."
+          "Blood Bath"
         ],
         [
           "Lasombra \"Xi Dundu\" - No Natural Shadow",
@@ -2118,13 +2047,7 @@
           "",
           "",
           "",
-          "Blood Feast",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Kings\n1  Forgoing your duty\n2  Placing personal desires over duty\n3  Showing weakness in front of inferiors\n4  Treadting your superiour with disrepect\n5  Breaking your word or oath"
+          "Blood Feast"
         ],
         [
           "Lasombra Antitribu - No Reflection & Hunted",
@@ -2139,13 +2062,7 @@
           "",
           "",
           "",
-          "Creation Rites",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Sins\n1 Failing to indulge a new desire\n2 Forfeting long-term plesures for short term ones\n3 Swearing an oath\n4 Refusing to act against those who attempt to bind you\n5 Encouraging the tenetates or virtues of another road"
+          "Creation Rites"
         ],
         [
           "Meaghar - Fae Marked",
@@ -2160,13 +2077,7 @@
           "",
           "",
           "",
-          "Fire Dance",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Road of Lilith\n1 Joining a system created by those with no wisdom\n2 Ignoring one of Lilith’s faces\n3 Rejecting the suffering of others or dismissing it\n4 Destroying a thinking being\n5 Getting between someone and a valuable lesson"
+          "Fire Dance"
         ],
         [
           "Malkavians - Permanent Derangement",
@@ -5865,8 +5776,7 @@
           "addict": "Conniver",
           "1_0": 27,
           "accepted_anarch": "Privileged (Abiding)",
-          "thaumaturgy": "Mirror Walk -4",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Dark Age Paths"
+          "thaumaturgy": "Mirror Walk -4"
         },
         {
           "clans_and_their_flaws": "Gangrel \"Noiad\" - Animalistic Beast",
@@ -5876,8 +5786,7 @@
           "1_0": 28,
           "accepted_anarch": "Sovereign (Abiding)",
           "animalism": "Thaumaturgy: Path of Blood (C)",
-          "thaumaturgy": "Severed Hand -4",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused.\""
+          "thaumaturgy": "Severed Hand -4"
         },
         {
           "clans_and_their_flaws": "Gargoyles - Monstrous Vistage",
@@ -5886,8 +5795,7 @@
           "1_0": 29,
           "accepted_anarch": "-",
           "animalism": "Thaumaturgy: Elemental Mastery (C)",
-          "thaumaturgy": "Scry - 4",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of the Beast\n1 Leaving the weak unchallenged\n2 Killing without need\n3 Tormenting others needlessly\n4 Not defending your territory \n5 Showing your enemies mercy"
+          "thaumaturgy": "Scry - 4"
         },
         {
           "clans_and_their_flaws": "Gargoyles - Monstrous Slaves",
@@ -5896,8 +5804,7 @@
           "1_0": 30,
           "accepted_anarch": "Architect (Innate)",
           "animalism": "Thaumaturgy: Lure of Flames (C)",
-          "thaumaturgy": "Blood Contract -5",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Heaven\n1  Failing to speak out against corruption and sin.\n2  Theft, robbery, willful vandalism.\n3  Feeding from an innocent without permission.\n4  Blasphemous or heretical acts.\n5  The murder of innocents."
+          "thaumaturgy": "Blood Contract -5"
         },
         {
           "clans_and_their_flaws": "Giovanni - Painful Feeding",
@@ -5907,8 +5814,7 @@
           "1_0": 0,
           "accepted_anarch": "Primus Inter Pares (Innate)",
           "animalism": "Thaumaturgy: Movement of the Mind (C)",
-          "thaumaturgy": "Cobra’s Favor -5",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Kings\n1  Forgoing your duty\n2  Placing personal desires over duty\n3  Showing weakness in front of inferiors\n4  Treadting your superiour with disrepect\n5  Breaking your word or oath"
+          "thaumaturgy": "Cobra’s Favor -5"
         },
         {
           "clans_and_their_flaws": "Giovanni - \"Ghiberti\" - Painful Feeding",
@@ -5917,8 +5823,7 @@
           "addict": "Curious",
           "accepted_anarch": "-",
           "animalism": "Thaumaturgy: Neptune's Might (C)",
-          "thaumaturgy": "Paper Flesh -5",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Sins\n1 Failing to indulge a new desire\n2 Forfeting long-term plesures for short term ones\n3 Swearing an oath\n4 Refusing to act against those who attempt to bind you\n5 Encouraging the tenetates or virtues of another road"
+          "thaumaturgy": "Paper Flesh -5"
         },
         {
           "clans_and_their_flaws": "Giovanni - \"Della Passglia\" - Painful Feeding",
@@ -5927,8 +5832,7 @@
           "addict": "Curmudgeon",
           "accepted_anarch": "Acclaimed (Fleeting)",
           "animalism": "Thaumaturgy: Path of Conjuring (C)",
-          "thaumaturgy": "Stone of the True Form -5",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Lilith\n1 Joining a system created by those with no wisdom\n2 Ignoring one of Lilith’s faces\n3 Rejecting the suffering of others or dismissing it\n4 Destroying a thinking being\n5 Getting between someone and a valuable lesson"
+          "thaumaturgy": "Stone of the True Form -5"
         },
         {
           "clans_and_their_flaws": "Giovanni \"Premascine\" - Ghastly Pallor",
@@ -5936,8 +5840,7 @@
           "secondary_abilities": "Interrogation",
           "addict": "Dabbler",
           "accepted_anarch": "Enforcer (Fleeting)",
-          "animalism": "Thaumaturgy: Path of Corruption (C)",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Dark Age Paths"
+          "animalism": "Thaumaturgy: Path of Corruption (C)"
         },
         {
           "clans_and_their_flaws": "Giovanni \"Pisanob\" - Ghastly Pallor",
@@ -5945,8 +5848,7 @@
           "addict": "Decoder",
           "accepted_anarch": "Gallant (Fleeting)",
           "animalism": "Thaumaturgy: Path of Technomancy (C)",
-          "thaumaturgy": "Sabbat Ritae",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Humanity\n1 Harm Another: You’ve signifcantly harmed another individual physically, mentally, or in a way that will take weeks for the victim to recover.\n2 Permanent Injury: You’ve harmed another individual in a way that will take the victim years to overcome (if ever).\n3 Killing: You’ve killed another individual.\n4 Multiple Murders: You’ve killed more than one individual.\n5 Heinous Acts: You’ve committed inhuman acts that cannot be excused.\""
+          "thaumaturgy": "Sabbat Ritae"
         },
         {
           "clans_and_their_flaws": "Lasombra - No Reflection",
@@ -5955,8 +5857,7 @@
           "addict": "Defender",
           "accepted_anarch": "Sanctioned (Fleeting)",
           "animalism": "Thaumaturgy: Weather Control (C)",
-          "thaumaturgy": "The Binding",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of the Beast\n1 Leaving the weak unchallenged\n2 Killing without need\n3 Tormenting others needlessly\n4 Not defending your territory \n5 Showing your enemies mercy"
+          "thaumaturgy": "The Binding"
         },
         {
           "clans_and_their_flaws": "Lasombra \"Kaisyd\" - Form of the Fae",
@@ -5965,8 +5866,7 @@
           "addict": "Deviant",
           "accepted_anarch": "-",
           "animalism": "Thaumaturgy: Alchemy (U)",
-          "thaumaturgy": "Blood Bath",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Heaven\n1  Failing to speak out against corruption and sin.\n2  Theft, robbery, willful vandalism.\n3  Feeding from an innocent without permission.\n4  Blasphemous or heretical acts.\n5  The murder of innocents."
+          "thaumaturgy": "Blood Bath"
         },
         {
           "clans_and_their_flaws": "Lasombra \"Xi Dundu\" - No Natural Shadow",
@@ -5975,8 +5875,7 @@
           "addict": "Director",
           "accepted_anarch": "Confirmed (Ancilla)",
           "animalism": "Thaumaturgy: Hands of Destruction (U)",
-          "thaumaturgy": "Blood Feast",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Kings\n1  Forgoing your duty\n2  Placing personal desires over duty\n3  Showing weakness in front of inferiors\n4  Treadting your superiour with disrepect\n5  Breaking your word or oath"
+          "thaumaturgy": "Blood Feast"
         },
         {
           "clans_and_their_flaws": "Lasombra Antitribu - No Reflection & Hunted",
@@ -5985,8 +5884,7 @@
           "addict": "Dreamer",
           "accepted_anarch": "Confirmed, Established, and Privileged (Elder)",
           "animalism": "Thaumaturgy: Mastery of the Mortal Shell (U)",
-          "thaumaturgy": "Creation Rites",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Sins\n1 Failing to indulge a new desire\n2 Forfeting long-term plesures for short term ones\n3 Swearing an oath\n4 Refusing to act against those who attempt to bind you\n5 Encouraging the tenetates or virtues of another road"
+          "thaumaturgy": "Creation Rites"
         },
         {
           "clans_and_their_flaws": "Meaghar - Fae Marked",
@@ -5995,8 +5893,7 @@
           "addict": "Enigma",
           "accepted_anarch": "Ascendant, Authority, Commander, and Ominous  (Inner Councillor)",
           "animalism": "Thaumaturgy: Oneiromancy (U)",
-          "thaumaturgy": "Fire Dance",
-          "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Road of Lilith\n1 Joining a system created by those with no wisdom\n2 Ignoring one of Lilith’s faces\n3 Rejecting the suffering of others or dismissing it\n4 Destroying a thinking being\n5 Getting between someone and a valuable lesson"
+          "thaumaturgy": "Fire Dance"
         },
         {
           "clans_and_their_flaws": "Malkavians - Permanent Derangement",
@@ -8798,7 +8695,7 @@
           "Cloaked in Shadow +4"
         ],
         [
-          "Conspicuous Consumption +3"
+          "Conspicuous Consumption +4"
         ],
         [
           "Deaf -4"
@@ -10537,7 +10434,7 @@
           "column_1": "Cloaked in Shadow +4"
         },
         {
-          "column_1": "Conspicuous Consumption +3"
+          "column_1": "Conspicuous Consumption +4"
         },
         {
           "column_1": "Deaf -4"
@@ -10740,9 +10637,6 @@
         ],
         [
           "The Ash Path\nThe study of the Ash Path is the study of the Shadowlands: the otherworld of the dead. Through focused research regarding the transference of the soul from this world to the next, a necromancer learns to strengthen or weaken the Shroud, and even to pass back and forth between the two worlds.\n● Shroud Sight\nThe Shadowlands lies superimposed over the real world like an echo of things long past. Buildings that have been torn down are still standing; carriages rush past on ghostly streets; walls, furniture, and even forested areas still exist where the modern world shows no sign of their presence. Through the use of Shroud Sight, you can see into the Shadowlands as easily as looking at the present world. System: Once purchased, this power is always active. You can see and sense the Shadowlands around you, perceiving the echoes of the past that still linger in that other world. You can notice wraiths in the Shadowlands, but you are granted no special ability to communicate with them. If a wraith speaks a language you know, then you can have discourse with it. Focus [Manipulation]: You can spend a standard action to study a living mortal and determine whether it is likely she will become a wraith. Wraiths are created when people die with unfulfilled issues, particularly strong emotional connections or other deep ties. You can also look at an item in the physical world and ascertain if it is a wraith fetter: an object of great importance to a particular wraith, which can be used to call or bind it.\n●● Shroud Mastery\nYou stand between two worlds and can control the flow of power between the land of the living and the realm of the dead. With concentration, you can manipulate the Shroud between the worlds, making it more difficult to cross — or easier to ignore. System: By spending 1 Blood and concentrating for three full turns, you can raise or lower the Shroud by one level in an area up to the size of a large room. This effect lasts for the rest of the night. A stronger Shroud makes it more difficult for wraiths to interact with the living world, while a weaker Shroud has the reverse effect. There are three levels of Shroud: low, medium, and high. The typical Shroud rating is medium, though particularly “creepy” areas, such as cemeteries or haunted houses, have a low Shroud; and emotionally sterile places, such as a newsroom or a laboratory, will have a high Shroud rating. Focus [Manipulation]: By spending 1 Blood and concentrating for three full turns, you can raise or lower the Shroud by one level. This lasts for one lunar month, and you can target an area up to the size of a large house.\n• Low: Ghosts do not have to spend Pathos to manifest. When manifesting, a ghost has a number of health levels equal to the turns it spends manifesting, with a maximum of 5. Also, a ghost’s view of the physical world is very clear, and they can communicate in a whisper, even with individuals who do not have the Medium merit (or any other ability to speak with or see wraiths). A soul that is outside of its body due to use of Soul Steal can spend a Willpower to manifest when the shroud is low. Such a character has access to all of her powers, including Physical powers, and 1 health level.\n• Medium – All activities are as per the standard Shroud level. Ghosts must spend the normal amount of Pathos to cross the Shroud.\n• High – Wraiths have a particularly difficult time interacting with the physical world. Ghosts must spend twice the normal amount of Pathos when manifesting.\n●●● Dead Hand\nPerceiving the Shadowlands is only the first step to understanding the transition from life to death. Next, you must master the ability to cross the Shroud. Through use of this power, you can seize ghostly artifacts on the other side of the Shroud and draw them through to the physical world. System: By spending 1 Blood and expending your standard action, you can reach into the Shadowlands and draw out common objects and items. Objects retrieved with this power must be small enough for a normal person to hold in both hands. This power can be used to grasp things that naturally occur in the Shadowlands at that location, echoes of objects that existed in the past. Such items are always normal, though they may be quite old, and must sensibly be present within the local landscape of the Shadowlands. You can also use this power to similarly push items through the Shroud to the Shadowlands from the material realm. In this manner, this power’s user could use Dead Hand to reach through the Shroud and give her wraith Retainer a gun. Later, at a different location, she could again use Dead Hand to reach into the Shadowlands, where her wraith Retainer (who has been following her around) stands ready to hand back the gun. Items native to the Shadowlands remain in this world for one hour, after which they dissolve into mist and return to their native plane. Focus [Charisma]: Items you pull into the physical world remain on that plane for the rest of the night, rather than for only an hour.\n●●●● Stygian Lance \nDeep within the Shadowlands, powerful tempests and storms ravage the sepia-toned landscape, ranging from rains of plasm to lightning-flashes of soulfire. You can unleash this fell power, hurling a lance of pure oblivion toward your enemies. System: Spend 1 Blood and use a standard action to hurl a bolt of plasm from the tempests of the Shadowlands. Make an opposed challenge using your Social attribute + Occult versus the target’s Physical attribute + Dodge. If successful, this attack deals 3 points of normal damage, and it can strike individuals in the Shadowlands – including wraiths, physical travelers, and individuals whose souls have been stolen – as well as those on the physical plane. Exceptional Success: Your Stygian Lance deals 4 points of normal damage, instead of 3.\nFocus [Charisma]: Damage from your Stygian Lance cannot be reduced or negated, but can be healed normally.\n●●●●● Ex Nihilo\nThe necromancer who has mastered the Ash Path has also mastered the Shroud. You can cross the border between the Shadowlands and the physical world as easily as others might open a door and step through.\nSystem: By focusing on a familiar destination, spending 1 Blood, and chanting for five full turns, you can travel into and through the Shadowlands. You can bring up to three of your zombie minions (Shambling Hordes or other such Retainers) with you on this journey. Time and distance are subjective in the Shadowlands, and it always takes four hours to arrive at your destination, no matter how far you travel in the real world. You can shorten the time it takes to arrive at your chosen location by sacrificing an undead servant, either a zombie or wraith, to the Tempest after you enter Ex Nihilo. For each such Retainer you destroy, your journey takes one hour less to complete. If you sacrifice all three of your zombie or wraith servants, you reduce your travel time to one hour. Alternately, you can enter the Shadowlands without intent to travel. Instead, you may lurk beyond the Shroud and spy on the living world. While in the Shadowlands, you see the real world as a hazy shadow of itself. This allows you to have a general understanding of events around you, but it is difficult to pick out details or overhear conversations. Unfortunately, the Medium merit does not work in reverse to allow you to hear and witness the physical world as you would the Shadowlands. A character can return to the physical world by concentrating for five turns. This transition is slow and noticeable, as the individual slowly comes into focus, gaining solidity as she eases her way back through the Shroud. You cannot bring anyone with you through the Shadowlands, other than your zombie minions. This power can be particularly dangerous if there are hostile wraiths, such as spectres, in the Shadowlands. Such creatures can attack you while you are on their plane. This encounter is treated in all ways like a normal conflict. Focus [Manipulation]: In addition to normal uses of this power, you can spend 1 Blood and your standard action to transition into the Shadowlands for a flicker of time. You spend one full turn moving through the Shadowlands, and you exit Ex Nihilo up to 20 steps in any direction from your original location."
-        ],
-        [
-          "Obtenebration\n\nThe masters of Obtenebration can command darkness itself, ordering it to carry out their will. While the untutored believe these are simple tricks of shadow, the truth is far more dangerous. Obtenebration is wholly unnatural, calling on the essence of the Abyss and drawing it into the physical world. This darkness mutes sound, absorbs light, and seems almost tangible. It is willful, as well, twisting and writhing with a sentience of its own, unless tightly controlled by its wielder.\nSpirits of all kinds fear the Abyss, and ghosts will flee from it rather than be driven murderously insane by its touch.  All powers of Obtenebration, including elder powers and techniques, are automatically dispelled if exposed to sunlight. There is no standardized Obtenebration test pool.\n\n•Shadow Play\nAt your command, the shadows in an area fill with the energy of the Abyss, moving and shaping as you require. These shadows animate, move about, flicker, and even achieve a limited form of perverse sentience, reaching out to brush icy cold fingers against anything that comes too close.\nSystem:\nThis power grants the vampire control over natural shadows present in an area. Spend 1 Blood and expend a simple action to animate nearby patches of darkness for the next five minutes. Your animated shadows are not truly intelligent, but they have a form of rudimentary cunning, which allows them to follow your simple instructions.\nYour shadows are semi-solid and capable of moving objects weighing up to one pound. Animated shadows have one standard action each turn and can use that action to move up to three steps, to perform a simple action, or to attack. Your animated shadows always move and attack as a group.\nIf directed to attack, the shadows wrap themselves around a single target, attempting to draw out her breath. The shadows’ attack test pool is 8. Undead are not affected by this attack, but living individuals take 1 point of damage per successful attack, which cannot be reduced or negated, as they desperately gasp for breath. Your animated shadows are independent creatures, and directing them to attack does not require an action. If you are affected by a Mental or Social power, your shadows are similarly affected. If you cannot break your target’s Majesty, your shadows are also unable to attack. These shadow-helpers do not normally take damage from Physical attacks, but are dispelled if exposed to bright light or to fire. Even a single point of fire damage, such as one from an incendiary bullet, is enough to send your shadow spawn back to the Abyss.\nA character can only have one application of Shadow Play active at a time.\n\nFocus [Appearance]:\nYou can instruct your shadows to cling to your body, making you extremely intimidating to behold. While this power is active, your terrifying countenance makes you immune to the exceptional successes of Dominate and Presence.\n\n••Shroud of Night\nBy calling upon the eternal depths of the Abyss, you evoke a swath of thick, preternatural blackness, which absorbs all light and distorts sound. Those within it feel an aching chill, hear murmured weeping, and sense the soft pressure of an ocean’s waves rolling through their bodies and out into...nothingness.\nSystem:\nSpend 1 Blood and expend a simple action to summon forth a cloud of viscous shadow, the utter essence of the Abyss. You can call this darkness into existence anywhere within your line of sight. The Shroud of Night has a six-step diameter and obscures all light within it, thus creating an utterly unnatural-looking area of pitch darkness.\nAnyone trapped in your Shroud of Night is blinded, unless she has some preternatural method of seeing through the formless void. Individuals within the shroud must use the Blind Fighting combat maneuver to attack. Characters with powers such as Eyes of the Beast can see through a Shroud of Night, and characters with other sensory powers, such as Heightened Senses, can compensate for lost sight, allowing them to attack normally.\nWithin a shroud, most living beings, such as animals or people, suffer 1 point of normal damage on your initiative each turn, as the Abyss steals their breath and saps their will to live. This damage cannot be reduced or negated. Undead are immune to this effect, as are Stamina-focused living characters.\nYou are immune to the effects of your own Shroud of Night; you see normally through the Shroud, and you are not disconcerted by its touch. After creating a Shroud of Night, you may use a simple action to move your Shroud three steps in any direction. Alternately, you can use a simple action and spend 1 point of Blood to increase your shroud’s radius by two steps, after it has been summoned into existence by the first use of this power.\nFocus [Manipulation]:\n\nYour Shroud of Night manifests a much stronger conduit to the unnatural energies of the Abyss. Undead remain unaffected by the damaging effects of your shroud, but living creatures take 3 points of normal damage per turn, instead of the standard 1 point. Even living creatures who are Stamina-focused cannot so easily shrug off the effects; they take 2 points of damage each turn within your shroud. Additionally, all individuals within your shroud suffer a -2 penalty to attack test pools (Physical, Mental, and Social). Characters using supernatural powers to bypass the blinding effect of your shroud are not immune to this -2 penalty. Characters using the Blind Fighting combat maneuver do not suffer this -2 penalty.\n\n•••Arms of the Abyss\nAs your mastery of Obtenebration grows, your ability to summon the Abyss becomes ever more frightening. You can call forth tentacles of Abyssal darkness, creatures bound to the shadows themselves. These servants strike and coil at your command, serving your every wish.\nSystem:\nSpend 1 Blood and expend your simple action to cause dark tentacles to rise from shadows within your line of sight. These tentacles are a tangible manifestation of the primal sentience within the Abyssal void. When you activate this power, you create one Arm of the Abyss for each Obtenebration power you possess, including techniques, to a maximum of five. Arms of the Abyss cannot move from the spot in which they are summoned.\nEach Arm of the Abyss acts independently of the rest, functioning as an entirely sentient creature. An Arm of the Abyss has one standard action each turn. It can use this action to attack any target within two steps. Arms of the Abyss have an attack test pool of 8, and a successful attack inflicts 1 point of normal damage. However, instead of inflicting damage, you may choose to have an Arm of the Abyss Grapple its target. In this manner, an Arm of the Abyss can use the Grapple combat maneuver without spending Willpower. In mass combat, Arms of the Abyss can provide the assist attacker tactic to a nearby ally. If this occurs, the Arms of the Abyss give that ally a +1 bonus to her attack test pool, similar to a Stock NPC. Arms of the Abyss cannot provide the assist defender tactic.\nArms of the Abyss have no mind and cannot be targeted by Mental and Social powers. However, if you are incapable of attacking a target, your arms are also incapable of taking hostile action. For example, if you cannot break your target’s Majesty, your Arms of the Abyss are also unable to attack.\nAn Arm of the Abyss has 4 health levels. Arms are immediately destroyed if exposed to sunlight.\nFocus [Manipulation]:\nYour Arms of the Abyss have an attack test pool of 10. If you possess even 1 dot of Potence, your Arms of the Abyss inflict 2 points of normal damage, rather than 1. If you possess even 1 dot of Fortitude, your Arms of the Abyss have 6 health levels, instead of the normal 4.\n••••Black Metamorphosis\nBy wrapping the darkness of the Abyss around your body, you meld your corpse with the sentience of the ancient depths. Bands of darkness ripple across your pale flesh, and flailing tentacles manifest from your ribcage, transforming you into a creature of the Abyss.\nSystem:\nSpend 1 Blood and use your simple action to transform into a monstrous creature of shadow. The raw material of the void envelops you in undulating bands, and four tentacles (similar in appearance to Arms of the Abyss) rise from your ribcage.\nThe additional limbs provided by Black Metamorphosis cannot attack independently, but add to your own actions. Once each turn, on your initiative, you can make a Brawl attack using the arms provided by Black Metamorphosis, without using an action. This attack can target anyone within five steps. Attacks made with Black Metamorphosis use your normal Brawl test pool and inflict your normal Brawl damage. Black Metamorphosis attacks may be modified by your Potence powers, including elder Potence and Potence-based techniques, but cannot be modified by any other discipline powers. Black Metamorphosis cannot be used to attack during Celerity rounds.\nAttacks made by Black Metamorphosis can be modified by the Grapple combat maneuver, although you must still pay the normal cost to use that maneuver. Black Metamorphosis cannot be modified by any combat maneuvers other than Grapple.\nBlack Metamorphosis is a transformative power and cannot be combined with other transformative powers. You may end this transformation at any time by expending a simple action. Black Metamorphosis’ transformation is close enough to human to allow you to use weapons.\nFocus [Appearance]:\nWhile in Black Metamorphosis, you can sense your surroundings perfectly, even during the depths of night, or while within the unnatural darkness of other Obtenebration effects. You are immune to all of the effects of Shroud of Night, even the -2 penalty inflicted by Shroud of Night’s focus effect. Additionally, your terrifying countenance makes you immune to exceptional successes generated by Dominate and Presence powers.\n\n•••••Tenebrous Form\nBy invoking this power, you do not merely summon forth the might of the Abyss; you actually allow the void to enter your spirit and manifest within your soul. Your physical form transmutes into a body of shadow: a rippling, liquid shape of utter void. While in this form, you can slither through holes and cracks, and you can see through all forms of darkness.\nSystem: Spend 1 Blood and expend both your simple and standard actions in order to transform into a flowing creature of liquid shadow. While in Tenebrous Form, you cannot spend Blood, activate powers, or physically attack, but you are also immune to Physical attacks from sources other than fire and sunlight. You can be injured by non-Physical attacks, and you can be harmed by flaming weapons, such as a torch or a road flare; however, incendiary ammunition passes through your form too quickly to inflict damage. You take 1 additional point of aggravated damage from fire, flaming weapons, or sunlight while in this form. While in Tenebrous Form, you are not truly intangible. You are capable of slipping through small openings, sliding under doors, and oozing through holes, but you cannot pass through solid objects. A character in Tenebrous Form can talk and move normally. Additionally, you can move at normal speed along any solid surface, including up a wall or across a ceiling. Though you cannot actually fly, you don’t take damage from falling while in Tenebrous Form. You can be touched if an individual passes her hand through your form, and you may touch other characters by extending a shadowy limb or by slithering against them. Touching or being touched may require a Brawl attack.\nTenebrous Form is a transformative power and cannot be combined with other transformative powers.\nFocus [Manipulation]:\nYou may spend 1 Blood while in Tenebrous Form to manifest a pair of red, glowing eyes. Doing this allows you to use the first 3 dots of Dominate and Presence while in shadow form, as long as you already possess those powers. This is an exception to the rule that prevents a character from using disciplines or spending Blood while in Tenebrous Form."
         ]
       ],
       "records": [
@@ -10817,9 +10711,6 @@
         },
         {
           "animalism_by_drawing_on_this_feral_instinct_and_predatory_drive_a_vampire_can_communicate_with_and_control_animals_it_can_be_used_on_birds_mammals_marsupials_and_fish_it_cannot_be_used_on_insects_nor_on_creatures_whose_minds_are_too_simple_to_understand_rudimentary_communication_animalism_test_pool_social_attribute_animal_ken_versus_the_target_s_social_attribute_willpower_feral_whispers_you_can_communicate_with_animals_by_murmuring_to_them_in_growls_and_using_body_language_although_an_animal_is_not_forced_to_obey_you_it_tends_to_respond_favorably_to_individuals_using_this_power_system_to_ask_questions_of_an_animal_consult_your_storyteller_you_may_speak_to_a_specific_animal_or_you_may_use_feral_whispers_to_interrogate_all_local_wildlife_within_hearing_focus_charisma_you_don_t_need_to_growl_or_gesture_to_make_yourself_understood_your_beast_can_communicate_directly_with_the_minds_of_nearby_animals_beckoning_by_uttering_a_howl_a_series_of_chirrups_or_some_other_identifiable_animal_noise_you_summon_animals_to_your_location_you_can_select_the_size_and_type_of_animal_common_to_the_area_system_spend_1_blood_and_a_standard_action_to_summon_your_choice_up_to_five_small_three_medium_or_one_large_animal_the_animals_arrive_over_the_course_of_the_next_10_minutes_if_common_to_the_area_the_animals_will_attempt_to_obey_you_and_work_for_you_until_dawn_or_until_they_take_damage_equal_to_their_npc_rating_beckoning_cannot_be_used_to_control_animals_that_are_currently_under_the_effect_of_another_practitioner_s_use_of_the_animalism_animals_summoned_with_beckoning_are_created_using_the_retainer_rules_with_the_following_additional_guidelines_small_animals_1_point_retainers_small_animals_may_possess_one_unusual_movement_ability_that_allows_them_to_climb_swim_fly_or_burrow_at_their_normal_movement_rate_small_animals_include_small_dogs_cats_and_squirrels_as_well_as_most_birds_fish_or_moles_medium_animals_use_the_rules_for_3_point_retainers_this_category_includes_larger_dogs_brown_bears_coyotes_and_bobcats_large_animals_use_the_rules_for_a_5_point_retainer_the_summoner_might_beckon_a_horse_a_stag_or_a_grizzly_bear_before_going_to_sleep_or_entering_torpor_you_can_spend_1_blood_to_activate_this_power_animals_summoned_by_this_power_will_guard_your_resting_place_until_they_are_killed_or_you_wake_focus_charisma_you_may_also_soothe_a_target_s_emotions_into_a_sleepy_peacefulness_system_the_target_must_be_capable_of_frenzy_when_you_are_the_focus_of_another_character_s_attention_as_per_gaze_and_focus_you_can_spend_1_blood_expend_a_standard_action_and_make_an_opposed_challenge_using_the_animalism_test_pool_if_the_target_was_in_frenzy_when_this_power_was_successfully_used_she_immediately_falls_out_of_frenzy_if_the_target_was_not_in_frenzy_she_becomes_incapable_of_entering_frenzy_for_the_next_hour_her_willpower_is_sapped_and_must_spend_2_willpower_to_retest_challenges_for_the_remainder_of_this_and_the_next_full_turn_for_the_next_five_minutes_she_must_continue_to_spend_2_willpower_instead_of_1_to_retest_challenges_characters_with_merits_or_powers_that_allow_them_to_make_retests_without_spending_willpower_can_use_those_merits_normally_quell_the_beast_cannot_be_used_on_yourself_exceptional_success_the_willpower_sapping_effect_of_quell_the_beast_lasts_for_the_rest_of_this_turn_and_for_the_next_two_full_turns_rather_than_one_focus_manipulation_the_victim_is_unable_to_use_willpower_retests_at_all_for_the_duration_of_this_power_subsume_the_spirit_the_beast_is_a_palpable_thing_capable_of_influencing_the_minds_and_spirits_of_other_animals_not_only_can_you_cause_lesser_creatures_to_be_cowed_you_can_actually_send_your_consciousness_into_an_animal_s_body_subsuming_it_completely_the_animal_s_when_you_summon_creatures_using_this_power_apply_one_of_the_following_additional_effects_if_you_summon_more_than_one_creature_the_chosen_effect_applies_to_each_creature_you_have_summoned_all_are_cunning_or_can_fly_and_so_forth_unusual_movement_you_may_summon_a_group_of_medium_sized_creatures_that_possess_the_ability_to_swim_or_fly_at_normal_speeds_such_as_a_vulture_eagle_or_salmon_a_single_large_sized_creature_that_possesses_the_ability_to_swim_at_normal_speeds_such_as_a_shark_or_dolphin_cunning_you_can_beckon_an_animal_with_extraordinary_cunning_capable_of_understanding_and_following_more_complex_instructions_this_animal_is_a_standard_example_of_its_type_for_all_other_purposes_swarm_you_summon_a_large_number_of_small_animals_a_swarm_is_built_using_the_normal_retainer_rules_and_a_swarm_is_considered_a_single_creature_for_the_purpose_of_combat_a_swarm_moves_slowly_one_step_per_action_and_killing_a_single_animal_has_little_effect_on_the_overall_swarm_you_must_inflict_twice_the_normal_amount_of_damage_necessary_to_defeat_a_standard_retainer_of_its_size_quell_the_beast_the_target_becomes_wholly_compliant_to_your_will_and_you_can_utilize_it_as_though_it_were_your_natural_form_while_using_this_powerl_your_own_physical_form_falls_into_a_comatose_state_although_you_can_utilize_the_full_scope_of_your_intelligence_cunning_and_memories_you_are_limited_by_the_physical_capabilities_of_the_animal_system_spend_1_blood_and_use_a_standard_action_to_stare_into_the_eyes_of_an_animal_make_an_opposed_challenge_against_the_animal_if_successful_your_consciousness_is_transferred_into_the_target_s_body_its_mind_enters_a_fugue_the_character_s_body_falls_into_a_torpid_state_and_can_neither_act_or_defend_itself_the_body_retains_fortitude_or_other_powers_that_are_always_active_you_always_know_the_direction_and_distance_of_your_real_body_normal_and_ghouled_animals_can_be_targeted_supernatural_creatures_cannot_ghouled_animals_hold_up_to_5_points_of_vampiric_blood_that_can_be_used_towards_their_physical_disciplines_the_vampire_may_spend_this_blood_at_a_rate_of_1_per_turn_the_vampire_cannot_use_their_own_disciplines_the_character_uses_her_own_mental_attributes_and_focuses_social_attributes_and_focuses_skills_and_backgrounds_in_challenges_and_the_physical_attribute_of_the_animal_for_any_physical_challenges_this_attribute_is_equal_to_double_that_animal_s_npc_rating_if_the_animal_you_are_controlling_has_the_power_to_fly_or_is_adapted_to_aquatic_life_like_a_fish_you_gain_its_ability_to_fly_or_swim_at_normal_speeds_subsume_the_spirit_lasts_the_night_and_ends_immediately_if_the_character_travels_more_than_10_miles_away_from_her_native_body_if_the_character_s_native_body_takes_damage_or_if_the_animal_she_s_controlling_takes_damage_a_vampire_with_beast_traits_still_risks_frenzy_focus_manipulation_you_can_use_the_first_2_dots_of_your_mental_and_social_in_clan_disciplines_if_you_are_controlling_a_ghouled_animal_you_can_spend_up_to_5_blood_to_fuel_these_in_clan_disciplines_at_the_rate_of_1_blood_a_turn_regardless_of_the_character_s_generation_drawing_out_the_beast_through_your_keen_understanding_of_your_own_predatory_nature_and_instincts_you_have_reached_a_communion_with_your_beast_system_spend_1_blood_and_expend_a_simple_action_to_immediately_cause_your_character_to_fall_out_of_frenzy_alternately_you_may_spend_1_blood_and_expend_a_simple_action_to_instantly_launch_your_character_into_a_rage_frenzy_focus_manipulation_you_can_enter_frenzy_even_when_you_would_otherwise_be_unable_to_do_so_additionally_while_in_a_rage_frenzy_your_character_receives_a_3_bonus_to_all_physical_attack_test_pools_your_character_still_suffers_the_standard_2_penalty_to_physical_defense_pools_while_in_frenzy": "The Ash Path\nThe study of the Ash Path is the study of the Shadowlands: the otherworld of the dead. Through focused research regarding the transference of the soul from this world to the next, a necromancer learns to strengthen or weaken the Shroud, and even to pass back and forth between the two worlds.\n● Shroud Sight\nThe Shadowlands lies superimposed over the real world like an echo of things long past. Buildings that have been torn down are still standing; carriages rush past on ghostly streets; walls, furniture, and even forested areas still exist where the modern world shows no sign of their presence. Through the use of Shroud Sight, you can see into the Shadowlands as easily as looking at the present world. System: Once purchased, this power is always active. You can see and sense the Shadowlands around you, perceiving the echoes of the past that still linger in that other world. You can notice wraiths in the Shadowlands, but you are granted no special ability to communicate with them. If a wraith speaks a language you know, then you can have discourse with it. Focus [Manipulation]: You can spend a standard action to study a living mortal and determine whether it is likely she will become a wraith. Wraiths are created when people die with unfulfilled issues, particularly strong emotional connections or other deep ties. You can also look at an item in the physical world and ascertain if it is a wraith fetter: an object of great importance to a particular wraith, which can be used to call or bind it.\n●● Shroud Mastery\nYou stand between two worlds and can control the flow of power between the land of the living and the realm of the dead. With concentration, you can manipulate the Shroud between the worlds, making it more difficult to cross — or easier to ignore. System: By spending 1 Blood and concentrating for three full turns, you can raise or lower the Shroud by one level in an area up to the size of a large room. This effect lasts for the rest of the night. A stronger Shroud makes it more difficult for wraiths to interact with the living world, while a weaker Shroud has the reverse effect. There are three levels of Shroud: low, medium, and high. The typical Shroud rating is medium, though particularly “creepy” areas, such as cemeteries or haunted houses, have a low Shroud; and emotionally sterile places, such as a newsroom or a laboratory, will have a high Shroud rating. Focus [Manipulation]: By spending 1 Blood and concentrating for three full turns, you can raise or lower the Shroud by one level. This lasts for one lunar month, and you can target an area up to the size of a large house.\n• Low: Ghosts do not have to spend Pathos to manifest. When manifesting, a ghost has a number of health levels equal to the turns it spends manifesting, with a maximum of 5. Also, a ghost’s view of the physical world is very clear, and they can communicate in a whisper, even with individuals who do not have the Medium merit (or any other ability to speak with or see wraiths). A soul that is outside of its body due to use of Soul Steal can spend a Willpower to manifest when the shroud is low. Such a character has access to all of her powers, including Physical powers, and 1 health level.\n• Medium – All activities are as per the standard Shroud level. Ghosts must spend the normal amount of Pathos to cross the Shroud.\n• High – Wraiths have a particularly difficult time interacting with the physical world. Ghosts must spend twice the normal amount of Pathos when manifesting.\n●●● Dead Hand\nPerceiving the Shadowlands is only the first step to understanding the transition from life to death. Next, you must master the ability to cross the Shroud. Through use of this power, you can seize ghostly artifacts on the other side of the Shroud and draw them through to the physical world. System: By spending 1 Blood and expending your standard action, you can reach into the Shadowlands and draw out common objects and items. Objects retrieved with this power must be small enough for a normal person to hold in both hands. This power can be used to grasp things that naturally occur in the Shadowlands at that location, echoes of objects that existed in the past. Such items are always normal, though they may be quite old, and must sensibly be present within the local landscape of the Shadowlands. You can also use this power to similarly push items through the Shroud to the Shadowlands from the material realm. In this manner, this power’s user could use Dead Hand to reach through the Shroud and give her wraith Retainer a gun. Later, at a different location, she could again use Dead Hand to reach into the Shadowlands, where her wraith Retainer (who has been following her around) stands ready to hand back the gun. Items native to the Shadowlands remain in this world for one hour, after which they dissolve into mist and return to their native plane. Focus [Charisma]: Items you pull into the physical world remain on that plane for the rest of the night, rather than for only an hour.\n●●●● Stygian Lance \nDeep within the Shadowlands, powerful tempests and storms ravage the sepia-toned landscape, ranging from rains of plasm to lightning-flashes of soulfire. You can unleash this fell power, hurling a lance of pure oblivion toward your enemies. System: Spend 1 Blood and use a standard action to hurl a bolt of plasm from the tempests of the Shadowlands. Make an opposed challenge using your Social attribute + Occult versus the target’s Physical attribute + Dodge. If successful, this attack deals 3 points of normal damage, and it can strike individuals in the Shadowlands – including wraiths, physical travelers, and individuals whose souls have been stolen – as well as those on the physical plane. Exceptional Success: Your Stygian Lance deals 4 points of normal damage, instead of 3.\nFocus [Charisma]: Damage from your Stygian Lance cannot be reduced or negated, but can be healed normally.\n●●●●● Ex Nihilo\nThe necromancer who has mastered the Ash Path has also mastered the Shroud. You can cross the border between the Shadowlands and the physical world as easily as others might open a door and step through.\nSystem: By focusing on a familiar destination, spending 1 Blood, and chanting for five full turns, you can travel into and through the Shadowlands. You can bring up to three of your zombie minions (Shambling Hordes or other such Retainers) with you on this journey. Time and distance are subjective in the Shadowlands, and it always takes four hours to arrive at your destination, no matter how far you travel in the real world. You can shorten the time it takes to arrive at your chosen location by sacrificing an undead servant, either a zombie or wraith, to the Tempest after you enter Ex Nihilo. For each such Retainer you destroy, your journey takes one hour less to complete. If you sacrifice all three of your zombie or wraith servants, you reduce your travel time to one hour. Alternately, you can enter the Shadowlands without intent to travel. Instead, you may lurk beyond the Shroud and spy on the living world. While in the Shadowlands, you see the real world as a hazy shadow of itself. This allows you to have a general understanding of events around you, but it is difficult to pick out details or overhear conversations. Unfortunately, the Medium merit does not work in reverse to allow you to hear and witness the physical world as you would the Shadowlands. A character can return to the physical world by concentrating for five turns. This transition is slow and noticeable, as the individual slowly comes into focus, gaining solidity as she eases her way back through the Shroud. You cannot bring anyone with you through the Shadowlands, other than your zombie minions. This power can be particularly dangerous if there are hostile wraiths, such as spectres, in the Shadowlands. Such creatures can attack you while you are on their plane. This encounter is treated in all ways like a normal conflict. Focus [Manipulation]: In addition to normal uses of this power, you can spend 1 Blood and your standard action to transition into the Shadowlands for a flicker of time. You spend one full turn moving through the Shadowlands, and you exit Ex Nihilo up to 20 steps in any direction from your original location."
-        },
-        {
-          "animalism_by_drawing_on_this_feral_instinct_and_predatory_drive_a_vampire_can_communicate_with_and_control_animals_it_can_be_used_on_birds_mammals_marsupials_and_fish_it_cannot_be_used_on_insects_nor_on_creatures_whose_minds_are_too_simple_to_understand_rudimentary_communication_animalism_test_pool_social_attribute_animal_ken_versus_the_target_s_social_attribute_willpower_feral_whispers_you_can_communicate_with_animals_by_murmuring_to_them_in_growls_and_using_body_language_although_an_animal_is_not_forced_to_obey_you_it_tends_to_respond_favorably_to_individuals_using_this_power_system_to_ask_questions_of_an_animal_consult_your_storyteller_you_may_speak_to_a_specific_animal_or_you_may_use_feral_whispers_to_interrogate_all_local_wildlife_within_hearing_focus_charisma_you_don_t_need_to_growl_or_gesture_to_make_yourself_understood_your_beast_can_communicate_directly_with_the_minds_of_nearby_animals_beckoning_by_uttering_a_howl_a_series_of_chirrups_or_some_other_identifiable_animal_noise_you_summon_animals_to_your_location_you_can_select_the_size_and_type_of_animal_common_to_the_area_system_spend_1_blood_and_a_standard_action_to_summon_your_choice_up_to_five_small_three_medium_or_one_large_animal_the_animals_arrive_over_the_course_of_the_next_10_minutes_if_common_to_the_area_the_animals_will_attempt_to_obey_you_and_work_for_you_until_dawn_or_until_they_take_damage_equal_to_their_npc_rating_beckoning_cannot_be_used_to_control_animals_that_are_currently_under_the_effect_of_another_practitioner_s_use_of_the_animalism_animals_summoned_with_beckoning_are_created_using_the_retainer_rules_with_the_following_additional_guidelines_small_animals_1_point_retainers_small_animals_may_possess_one_unusual_movement_ability_that_allows_them_to_climb_swim_fly_or_burrow_at_their_normal_movement_rate_small_animals_include_small_dogs_cats_and_squirrels_as_well_as_most_birds_fish_or_moles_medium_animals_use_the_rules_for_3_point_retainers_this_category_includes_larger_dogs_brown_bears_coyotes_and_bobcats_large_animals_use_the_rules_for_a_5_point_retainer_the_summoner_might_beckon_a_horse_a_stag_or_a_grizzly_bear_before_going_to_sleep_or_entering_torpor_you_can_spend_1_blood_to_activate_this_power_animals_summoned_by_this_power_will_guard_your_resting_place_until_they_are_killed_or_you_wake_focus_charisma_you_may_also_soothe_a_target_s_emotions_into_a_sleepy_peacefulness_system_the_target_must_be_capable_of_frenzy_when_you_are_the_focus_of_another_character_s_attention_as_per_gaze_and_focus_you_can_spend_1_blood_expend_a_standard_action_and_make_an_opposed_challenge_using_the_animalism_test_pool_if_the_target_was_in_frenzy_when_this_power_was_successfully_used_she_immediately_falls_out_of_frenzy_if_the_target_was_not_in_frenzy_she_becomes_incapable_of_entering_frenzy_for_the_next_hour_her_willpower_is_sapped_and_must_spend_2_willpower_to_retest_challenges_for_the_remainder_of_this_and_the_next_full_turn_for_the_next_five_minutes_she_must_continue_to_spend_2_willpower_instead_of_1_to_retest_challenges_characters_with_merits_or_powers_that_allow_them_to_make_retests_without_spending_willpower_can_use_those_merits_normally_quell_the_beast_cannot_be_used_on_yourself_exceptional_success_the_willpower_sapping_effect_of_quell_the_beast_lasts_for_the_rest_of_this_turn_and_for_the_next_two_full_turns_rather_than_one_focus_manipulation_the_victim_is_unable_to_use_willpower_retests_at_all_for_the_duration_of_this_power_subsume_the_spirit_the_beast_is_a_palpable_thing_capable_of_influencing_the_minds_and_spirits_of_other_animals_not_only_can_you_cause_lesser_creatures_to_be_cowed_you_can_actually_send_your_consciousness_into_an_animal_s_body_subsuming_it_completely_the_animal_s_when_you_summon_creatures_using_this_power_apply_one_of_the_following_additional_effects_if_you_summon_more_than_one_creature_the_chosen_effect_applies_to_each_creature_you_have_summoned_all_are_cunning_or_can_fly_and_so_forth_unusual_movement_you_may_summon_a_group_of_medium_sized_creatures_that_possess_the_ability_to_swim_or_fly_at_normal_speeds_such_as_a_vulture_eagle_or_salmon_a_single_large_sized_creature_that_possesses_the_ability_to_swim_at_normal_speeds_such_as_a_shark_or_dolphin_cunning_you_can_beckon_an_animal_with_extraordinary_cunning_capable_of_understanding_and_following_more_complex_instructions_this_animal_is_a_standard_example_of_its_type_for_all_other_purposes_swarm_you_summon_a_large_number_of_small_animals_a_swarm_is_built_using_the_normal_retainer_rules_and_a_swarm_is_considered_a_single_creature_for_the_purpose_of_combat_a_swarm_moves_slowly_one_step_per_action_and_killing_a_single_animal_has_little_effect_on_the_overall_swarm_you_must_inflict_twice_the_normal_amount_of_damage_necessary_to_defeat_a_standard_retainer_of_its_size_quell_the_beast_the_target_becomes_wholly_compliant_to_your_will_and_you_can_utilize_it_as_though_it_were_your_natural_form_while_using_this_powerl_your_own_physical_form_falls_into_a_comatose_state_although_you_can_utilize_the_full_scope_of_your_intelligence_cunning_and_memories_you_are_limited_by_the_physical_capabilities_of_the_animal_system_spend_1_blood_and_use_a_standard_action_to_stare_into_the_eyes_of_an_animal_make_an_opposed_challenge_against_the_animal_if_successful_your_consciousness_is_transferred_into_the_target_s_body_its_mind_enters_a_fugue_the_character_s_body_falls_into_a_torpid_state_and_can_neither_act_or_defend_itself_the_body_retains_fortitude_or_other_powers_that_are_always_active_you_always_know_the_direction_and_distance_of_your_real_body_normal_and_ghouled_animals_can_be_targeted_supernatural_creatures_cannot_ghouled_animals_hold_up_to_5_points_of_vampiric_blood_that_can_be_used_towards_their_physical_disciplines_the_vampire_may_spend_this_blood_at_a_rate_of_1_per_turn_the_vampire_cannot_use_their_own_disciplines_the_character_uses_her_own_mental_attributes_and_focuses_social_attributes_and_focuses_skills_and_backgrounds_in_challenges_and_the_physical_attribute_of_the_animal_for_any_physical_challenges_this_attribute_is_equal_to_double_that_animal_s_npc_rating_if_the_animal_you_are_controlling_has_the_power_to_fly_or_is_adapted_to_aquatic_life_like_a_fish_you_gain_its_ability_to_fly_or_swim_at_normal_speeds_subsume_the_spirit_lasts_the_night_and_ends_immediately_if_the_character_travels_more_than_10_miles_away_from_her_native_body_if_the_character_s_native_body_takes_damage_or_if_the_animal_she_s_controlling_takes_damage_a_vampire_with_beast_traits_still_risks_frenzy_focus_manipulation_you_can_use_the_first_2_dots_of_your_mental_and_social_in_clan_disciplines_if_you_are_controlling_a_ghouled_animal_you_can_spend_up_to_5_blood_to_fuel_these_in_clan_disciplines_at_the_rate_of_1_blood_a_turn_regardless_of_the_character_s_generation_drawing_out_the_beast_through_your_keen_understanding_of_your_own_predatory_nature_and_instincts_you_have_reached_a_communion_with_your_beast_system_spend_1_blood_and_expend_a_simple_action_to_immediately_cause_your_character_to_fall_out_of_frenzy_alternately_you_may_spend_1_blood_and_expend_a_simple_action_to_instantly_launch_your_character_into_a_rage_frenzy_focus_manipulation_you_can_enter_frenzy_even_when_you_would_otherwise_be_unable_to_do_so_additionally_while_in_a_rage_frenzy_your_character_receives_a_3_bonus_to_all_physical_attack_test_pools_your_character_still_suffers_the_standard_2_penalty_to_physical_defense_pools_while_in_frenzy": "Obtenebration\n\nThe masters of Obtenebration can command darkness itself, ordering it to carry out their will. While the untutored believe these are simple tricks of shadow, the truth is far more dangerous. Obtenebration is wholly unnatural, calling on the essence of the Abyss and drawing it into the physical world. This darkness mutes sound, absorbs light, and seems almost tangible. It is willful, as well, twisting and writhing with a sentience of its own, unless tightly controlled by its wielder.\nSpirits of all kinds fear the Abyss, and ghosts will flee from it rather than be driven murderously insane by its touch.  All powers of Obtenebration, including elder powers and techniques, are automatically dispelled if exposed to sunlight. There is no standardized Obtenebration test pool.\n\n•Shadow Play\nAt your command, the shadows in an area fill with the energy of the Abyss, moving and shaping as you require. These shadows animate, move about, flicker, and even achieve a limited form of perverse sentience, reaching out to brush icy cold fingers against anything that comes too close.\nSystem:\nThis power grants the vampire control over natural shadows present in an area. Spend 1 Blood and expend a simple action to animate nearby patches of darkness for the next five minutes. Your animated shadows are not truly intelligent, but they have a form of rudimentary cunning, which allows them to follow your simple instructions.\nYour shadows are semi-solid and capable of moving objects weighing up to one pound. Animated shadows have one standard action each turn and can use that action to move up to three steps, to perform a simple action, or to attack. Your animated shadows always move and attack as a group.\nIf directed to attack, the shadows wrap themselves around a single target, attempting to draw out her breath. The shadows’ attack test pool is 8. Undead are not affected by this attack, but living individuals take 1 point of damage per successful attack, which cannot be reduced or negated, as they desperately gasp for breath. Your animated shadows are independent creatures, and directing them to attack does not require an action. If you are affected by a Mental or Social power, your shadows are similarly affected. If you cannot break your target’s Majesty, your shadows are also unable to attack. These shadow-helpers do not normally take damage from Physical attacks, but are dispelled if exposed to bright light or to fire. Even a single point of fire damage, such as one from an incendiary bullet, is enough to send your shadow spawn back to the Abyss.\nA character can only have one application of Shadow Play active at a time.\n\nFocus [Appearance]:\nYou can instruct your shadows to cling to your body, making you extremely intimidating to behold. While this power is active, your terrifying countenance makes you immune to the exceptional successes of Dominate and Presence.\n\n••Shroud of Night\nBy calling upon the eternal depths of the Abyss, you evoke a swath of thick, preternatural blackness, which absorbs all light and distorts sound. Those within it feel an aching chill, hear murmured weeping, and sense the soft pressure of an ocean’s waves rolling through their bodies and out into...nothingness.\nSystem:\nSpend 1 Blood and expend a simple action to summon forth a cloud of viscous shadow, the utter essence of the Abyss. You can call this darkness into existence anywhere within your line of sight. The Shroud of Night has a six-step diameter and obscures all light within it, thus creating an utterly unnatural-looking area of pitch darkness.\nAnyone trapped in your Shroud of Night is blinded, unless she has some preternatural method of seeing through the formless void. Individuals within the shroud must use the Blind Fighting combat maneuver to attack. Characters with powers such as Eyes of the Beast can see through a Shroud of Night, and characters with other sensory powers, such as Heightened Senses, can compensate for lost sight, allowing them to attack normally.\nWithin a shroud, most living beings, such as animals or people, suffer 1 point of normal damage on your initiative each turn, as the Abyss steals their breath and saps their will to live. This damage cannot be reduced or negated. Undead are immune to this effect, as are Stamina-focused living characters.\nYou are immune to the effects of your own Shroud of Night; you see normally through the Shroud, and you are not disconcerted by its touch. After creating a Shroud of Night, you may use a simple action to move your Shroud three steps in any direction. Alternately, you can use a simple action and spend 1 point of Blood to increase your shroud’s radius by two steps, after it has been summoned into existence by the first use of this power.\nFocus [Manipulation]:\n\nYour Shroud of Night manifests a much stronger conduit to the unnatural energies of the Abyss. Undead remain unaffected by the damaging effects of your shroud, but living creatures take 3 points of normal damage per turn, instead of the standard 1 point. Even living creatures who are Stamina-focused cannot so easily shrug off the effects; they take 2 points of damage each turn within your shroud. Additionally, all individuals within your shroud suffer a -2 penalty to attack test pools (Physical, Mental, and Social). Characters using supernatural powers to bypass the blinding effect of your shroud are not immune to this -2 penalty. Characters using the Blind Fighting combat maneuver do not suffer this -2 penalty.\n\n•••Arms of the Abyss\nAs your mastery of Obtenebration grows, your ability to summon the Abyss becomes ever more frightening. You can call forth tentacles of Abyssal darkness, creatures bound to the shadows themselves. These servants strike and coil at your command, serving your every wish.\nSystem:\nSpend 1 Blood and expend your simple action to cause dark tentacles to rise from shadows within your line of sight. These tentacles are a tangible manifestation of the primal sentience within the Abyssal void. When you activate this power, you create one Arm of the Abyss for each Obtenebration power you possess, including techniques, to a maximum of five. Arms of the Abyss cannot move from the spot in which they are summoned.\nEach Arm of the Abyss acts independently of the rest, functioning as an entirely sentient creature. An Arm of the Abyss has one standard action each turn. It can use this action to attack any target within two steps. Arms of the Abyss have an attack test pool of 8, and a successful attack inflicts 1 point of normal damage. However, instead of inflicting damage, you may choose to have an Arm of the Abyss Grapple its target. In this manner, an Arm of the Abyss can use the Grapple combat maneuver without spending Willpower. In mass combat, Arms of the Abyss can provide the assist attacker tactic to a nearby ally. If this occurs, the Arms of the Abyss give that ally a +1 bonus to her attack test pool, similar to a Stock NPC. Arms of the Abyss cannot provide the assist defender tactic.\nArms of the Abyss have no mind and cannot be targeted by Mental and Social powers. However, if you are incapable of attacking a target, your arms are also incapable of taking hostile action. For example, if you cannot break your target’s Majesty, your Arms of the Abyss are also unable to attack.\nAn Arm of the Abyss has 4 health levels. Arms are immediately destroyed if exposed to sunlight.\nFocus [Manipulation]:\nYour Arms of the Abyss have an attack test pool of 10. If you possess even 1 dot of Potence, your Arms of the Abyss inflict 2 points of normal damage, rather than 1. If you possess even 1 dot of Fortitude, your Arms of the Abyss have 6 health levels, instead of the normal 4.\n••••Black Metamorphosis\nBy wrapping the darkness of the Abyss around your body, you meld your corpse with the sentience of the ancient depths. Bands of darkness ripple across your pale flesh, and flailing tentacles manifest from your ribcage, transforming you into a creature of the Abyss.\nSystem:\nSpend 1 Blood and use your simple action to transform into a monstrous creature of shadow. The raw material of the void envelops you in undulating bands, and four tentacles (similar in appearance to Arms of the Abyss) rise from your ribcage.\nThe additional limbs provided by Black Metamorphosis cannot attack independently, but add to your own actions. Once each turn, on your initiative, you can make a Brawl attack using the arms provided by Black Metamorphosis, without using an action. This attack can target anyone within five steps. Attacks made with Black Metamorphosis use your normal Brawl test pool and inflict your normal Brawl damage. Black Metamorphosis attacks may be modified by your Potence powers, including elder Potence and Potence-based techniques, but cannot be modified by any other discipline powers. Black Metamorphosis cannot be used to attack during Celerity rounds.\nAttacks made by Black Metamorphosis can be modified by the Grapple combat maneuver, although you must still pay the normal cost to use that maneuver. Black Metamorphosis cannot be modified by any combat maneuvers other than Grapple.\nBlack Metamorphosis is a transformative power and cannot be combined with other transformative powers. You may end this transformation at any time by expending a simple action. Black Metamorphosis’ transformation is close enough to human to allow you to use weapons.\nFocus [Appearance]:\nWhile in Black Metamorphosis, you can sense your surroundings perfectly, even during the depths of night, or while within the unnatural darkness of other Obtenebration effects. You are immune to all of the effects of Shroud of Night, even the -2 penalty inflicted by Shroud of Night’s focus effect. Additionally, your terrifying countenance makes you immune to exceptional successes generated by Dominate and Presence powers.\n\n•••••Tenebrous Form\nBy invoking this power, you do not merely summon forth the might of the Abyss; you actually allow the void to enter your spirit and manifest within your soul. Your physical form transmutes into a body of shadow: a rippling, liquid shape of utter void. While in this form, you can slither through holes and cracks, and you can see through all forms of darkness.\nSystem: Spend 1 Blood and expend both your simple and standard actions in order to transform into a flowing creature of liquid shadow. While in Tenebrous Form, you cannot spend Blood, activate powers, or physically attack, but you are also immune to Physical attacks from sources other than fire and sunlight. You can be injured by non-Physical attacks, and you can be harmed by flaming weapons, such as a torch or a road flare; however, incendiary ammunition passes through your form too quickly to inflict damage. You take 1 additional point of aggravated damage from fire, flaming weapons, or sunlight while in this form. While in Tenebrous Form, you are not truly intangible. You are capable of slipping through small openings, sliding under doors, and oozing through holes, but you cannot pass through solid objects. A character in Tenebrous Form can talk and move normally. Additionally, you can move at normal speed along any solid surface, including up a wall or across a ceiling. Though you cannot actually fly, you don’t take damage from falling while in Tenebrous Form. You can be touched if an individual passes her hand through your form, and you may touch other characters by extending a shadowy limb or by slithering against them. Touching or being touched may require a Brawl attack.\nTenebrous Form is a transformative power and cannot be combined with other transformative powers.\nFocus [Manipulation]:\nYou may spend 1 Blood while in Tenebrous Form to manifest a pair of red, glowing eyes. Doing this allows you to use the first 3 dots of Dominate and Presence while in shadow form, as long as you already possess those powers. This is an exception to the rule that prevents a character from using disciplines or spending Blood while in Tenebrous Form."
         }
       ]
     },
@@ -10864,11 +10755,6 @@
           "V3.5.1",
           "2016-07-18 00:00:00",
           "Added disipline crib sheets, andded downtime form input."
-        ],
-        [
-          "V3.5.2",
-          "2016-10-17 00:00:00",
-          "Added space for new backgrounds."
         ],
         [],
         [
@@ -10922,11 +10808,6 @@
           "v_2": "V3.5.1",
           "2015_10_15_00_00_00": "2016-07-18 00:00:00",
           "spelling_check": "Added disipline crib sheets, andded downtime form input."
-        },
-        {
-          "v_2": "V3.5.2",
-          "2015_10_15_00_00_00": "2016-10-17 00:00:00",
-          "spelling_check": "Added space for new backgrounds."
         },
         {
           "v_2": "Basic Rules for making characters"

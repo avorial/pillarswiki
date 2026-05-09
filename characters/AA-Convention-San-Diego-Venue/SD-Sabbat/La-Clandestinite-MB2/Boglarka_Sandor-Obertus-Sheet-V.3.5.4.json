@@ -1,90 +1,90 @@
 {
   "source": {
-    "title": "Dabir-Alaswad-Tremere-Anti-NPC",
-    "fileName": "Dabir-Alaswad-Tremere-Anti-NPC.xlsx",
-    "localPath": "source-sheets\\AA-Convention-San-Diego-Venue\\SD-Sabbat\\Night-Dragons\\Dabir-Alaswad-Tremere-Anti-NPC.xlsx"
+    "title": "Boglarka_Sandor-Obertus-Sheet-V.3.5.4",
+    "fileName": "Boglarka_Sandor-Obertus-Sheet-V.3.5.4.xlsx",
+    "localPath": "source-sheets\\AA-Convention-San-Diego-Venue\\SD-Sabbat\\La-Clandestinite-MB2\\Boglarka_Sandor-Obertus-Sheet-V.3.5.4.xlsx"
   },
   "folderPath": [
     "AA Convention (San Diego) Venue",
     "SD Sabbat",
-    "Night Dragons"
+    "La Clandestinité (MB2)"
   ],
   "coreSheet": "Print Sheet",
   "character": {
-    "chronicle": "SABBAT: LA",
-    "characterName": "Dabir Alaswad",
-    "playerName": "Khaldoun Kheli",
+    "chronicle": "CHRONICLE",
+    "characterName": "Boglarka/Sandor Obertus",
+    "playerName": "",
     "gmailAccount": "",
-    "clanCoordinator": "NPC",
-    "archetype": "Manipulator",
-    "title": "",
+    "clanCoordinator": "",
+    "archetype": "Curious",
+    "title": "True Sabbat",
     "characterStartDate": "",
     "generationLabel": "Pretender Elder 8",
-    "clan": "Tremere - Easily Bound"
+    "clan": "Tzimisce - Bound to the Earth"
   },
   "attributes": {
     "physical": 5,
     "social": 3,
-    "mental": 11
+    "mental": 7
   },
   "backgrounds": {
     "generation": 3,
-    "resources": 1,
-    "ritae": 1,
-    "haven": 2
+    "haven": 1,
+    "retainers": 2
   },
   "currentPools": {
     "current_willpower": 6,
     "current_humanity": 5
   },
   "abilities": {
-    "intimidation": 3,
-    "investigation": 2,
+    "streetwise": 1,
+    "animal_ken": 1,
+    "investigation": 4,
+    "leadership": 1,
+    "awareness": 1,
     "linguistics": 2,
-    "brawl": 2,
     "lore": 3,
-    "dreaming": 2,
-    "occult": 4,
-    "science": 1,
-    "security": 1,
+    "computer": 1,
+    "medicine": 3,
+    "crafts": 1,
+    "melee": 2,
+    "dodge": 1,
+    "drive": 1,
     "firearms": 1,
-    "stealth": 1
+    "stealth": 2
   },
   "status": [
     "Initiated (Sabbat)"
   ],
   "meritsAndFlaws": [
-    "Rare Clan -5",
-    "Black Hand Membership (First Tribe) -2"
+    "Path of Caine -1"
   ],
   "disciplines": [
     {
+      "name": "Animalism",
+      "value": 1
+    },
+    {
       "name": "Auspex",
-      "value": 3
+      "value": 4
     },
     {
-      "name": "Dominate",
-      "value": 3
-    },
-    {
-      "name": "Thaumaturgy: Path of Blood (C)",
-      "value": 5
+      "name": "Vicissitude",
+      "value": 1
     }
   ],
-  "ritualsRitaeOther": [
-    "Blood Mastery - 1",
-    "Deflection of Wooden Doom - 1"
-  ],
+  "ritualsRitaeOther": [],
   "abilitySpecializations": [
-    "Language: Enochian, Arabic",
-    "Lore: Dreams, Demonology, Tremere",
-    "Science: Mathmatics"
+    "Crafts: Body crafting",
+    "Linguistics: French, Hungarian",
+    "Lore: Noddist, Noteable Sabbat,",
+    "Astral"
   ],
   "rawSheets": {
     "Print Sheet": [
       [
         "",
-        "SABBAT: LA",
+        "CHRONICLE",
         "",
         "Players Gmail Account:",
         "",
@@ -97,15 +97,15 @@
         "",
         "CURRENT POOLS",
         "",
-        "60"
+        "52"
       ],
       [
         "",
-        "Dabir Alaswad",
+        "Boglarka/Sandor Obertus",
         "",
-        "Khaldoun Kheli",
         "",
-        "NPC",
+        "",
+        "",
         "",
         "",
         "Generation",
@@ -133,9 +133,9 @@
       ],
       [
         "",
-        "Manipulator",
+        "Curious",
         "",
-        "",
+        "True Sabbat",
         "",
         "",
         "",
@@ -165,16 +165,16 @@
         "",
         "Pretender Elder 8",
         "",
-        "Tremere - Easily Bound",
+        "Tzimisce - Bound to the Earth",
         "",
         "",
         "",
         "",
         "Mentor / Herd",
         "",
-        "1.0",
         "",
-        "Extra Clan Weakness: Sigal of the Betrayer"
+        "",
+        "Haven: Library (Cainite lineages)"
       ],
       [
         "",
@@ -185,7 +185,8 @@
         "",
         "",
         "",
-        "Influence \"Elite\""
+        "Haven",
+        "1.0"
       ],
       [
         "",
@@ -196,11 +197,11 @@
         "",
         "",
         "",
-        "Influence \"Underworld\"",
+        "Influence \"Elite\"",
         "",
         "",
         "",
-        "Haven: Security, Occult, Library"
+        "Retainer: Lucy Obertus (Lore, Security)"
       ],
       [
         "",
@@ -211,31 +212,30 @@
         "",
         "",
         "",
-        "Resources",
-        "1.0"
+        "Influence \"Underworld\""
       ],
       [
         "",
         "Social",
         "3.0",
-        "Manipulation - +3 Social on Non Power uses dealing with focus.",
+        "Appearance - +3 Social on Non Power uses dealing with focus.",
         "",
         "",
         "",
         "",
-        "Retainers"
+        "Resources"
       ],
       [
         "",
         "Mental",
-        "11.0",
-        "Intelligence - +3 Mental on Non Power uses dealing with focus.",
+        "7.0",
+        "Wits - +3 Mental on Non Power uses dealing with focus.",
         "",
         "",
         "",
         "",
-        "Ritae",
-        "1.0"
+        "Retainers",
+        "2.0"
       ],
       [
         "",
@@ -246,8 +246,11 @@
         "AWARDED BY",
         "",
         "",
-        "Haven",
-        "2.0"
+        "Ritae",
+        "",
+        "",
+        "",
+        "PACK SHEET"
       ],
       [
         "",
@@ -258,11 +261,11 @@
         "",
         "",
         "",
-        "Other 2"
+        "Other"
       ],
       [
         "",
-        "Branded (Black Hand)",
+        "",
         "",
         "",
         "",
@@ -284,28 +287,28 @@
         "",
         "",
         "",
-        "Rare Clan -5",
+        "Path of Caine -1",
+        "",
+        "",
+        "",
+        "Animalism",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         "",
         "Auspex",
-        "3.0"
-      ],
-      [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "Black Hand Membership (First Tribe) -2",
-        "",
-        "",
-        "",
-        "Dominate",
-        "3.0"
+        "4.0"
       ],
       [
         "",
@@ -320,8 +323,8 @@
         "",
         "",
         "",
-        "Thaumaturgy: Path of Blood (C)",
-        "5.0"
+        "Vicissitude",
+        "1.0"
       ],
       [
         "",
@@ -336,31 +339,24 @@
         "",
         "",
         "",
-        "Thaumaturgy: Gift of Morpheus (R)",
-        "3.0"
+        "Obfuscate",
+        "1.0"
       ],
       [
         "",
         "Academics",
         "",
         "Intimidation",
-        "3.0",
+        "",
         "Streetwise",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "Obfuscate",
-        "2.0"
+        "1.0"
       ],
       [
         "",
         "Animal Ken",
-        "",
+        "1.0",
         "Investigation",
-        "2.0",
+        "4.0",
         "Subterfuge"
       ],
       [
@@ -368,24 +364,27 @@
         "Athletics",
         "",
         "Leadership",
-        "",
+        "1.0",
         "Survival",
         "",
         "",
-        "Clan Weakness +2"
+        "Fragile Bones +4"
       ],
       [
         "",
         "Awareness",
-        "",
+        "1.0",
         "Linguistics",
         "2.0",
-        "Performance"
+        "Performance",
+        "",
+        "",
+        "Curiosity +2"
       ],
       [
         "",
         "Brawl",
-        "2.0",
+        "",
         "Lore",
         "3.0",
         "SECONDARY ABILITIES",
@@ -400,64 +399,59 @@
       [
         "",
         "Computer",
-        "",
+        "1.0",
         "Medicine",
-        "",
-        "Dreaming",
-        "2.0",
-        "",
-        "Language: Enochian, Arabic",
+        "3.0",
         "",
         "",
         "",
-        "Blood Mastery - 1"
+        "Crafts: Body crafting"
       ],
       [
         "",
         "Crafts",
-        "",
+        "1.0",
         "Melee",
-        "",
-        "",
-        "",
-        "",
-        "Lore: Dreams, Demonology, Tremere",
-        "",
-        "",
-        "",
-        "Deflection of Wooden Doom - 1"
+        "2.0"
       ],
       [
         "",
         "Dodge",
-        "",
+        "1.0",
         "Occult",
-        "4.0"
+        "",
+        "",
+        "",
+        "",
+        "Linguistics: French, Hungarian"
       ],
       [
         "",
         "Drive",
-        "",
-        "Science",
         "1.0",
-        "",
-        "",
-        "",
-        "Science: Mathmatics"
+        "Science"
       ],
       [
         "",
         "Empathy",
         "",
         "Security",
-        "1.0"
+        "",
+        "",
+        "",
+        "",
+        "Lore: Noddist, Noteable Sabbat,"
       ],
       [
         "",
         "Firearms",
         "1.0",
         "Stealth",
-        "1.0"
+        "2.0",
+        "",
+        "",
+        "",
+        "Astral"
       ],
       [
         "",
@@ -465,25 +459,25 @@
       ],
       [
         "",
-        "Brawl    7",
+        "Brawl    5",
         "",
-        "Dodge    5",
+        "Dodge    6",
         "",
-        "Thaumaturgy -Tals   15"
+        "Obfuscate    9"
       ],
       [
         "",
-        "Melee    5",
+        "Melee    7",
         "",
-        "Auspex    13",
+        "Animalism    4",
         "",
-        "Obfuscate    12"
+        "Disciplines Pull Down"
       ],
       [
         "",
         "Guns (No Wits)   6",
         "",
-        "Dominate    14",
+        "Auspex    11",
         "",
         "Disciplines Pull Down"
       ],
@@ -501,7 +495,7 @@
         "",
         "",
         "",
-        "3.5.1"
+        "3.5.3"
       ]
     ],
     "XP Spends": {
@@ -523,20 +517,41 @@
           "0"
         ],
         [
-          "Rare Clan -5",
+          "Path of Caine",
           "Pre Game",
-          "-5.0"
+          "-1.0"
         ],
         [
-          "Thaumaturgic Expertise -1",
+          "Auspex 3,4",
           "Pre Game",
-          "-1.0",
+          "-21.0",
           "",
           "",
           "Total XP Earned"
         ],
         [
-          "Ritual: Blood Mastery",
+          "Obfuscate 1",
+          "Pre Game",
+          "-4.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Curiousity",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Fragile Bones",
+          "Pre Game",
+          "4.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Awareness 1",
           "Pre Game",
           "-2.0",
           "",
@@ -544,33 +559,12 @@
           "0"
         ],
         [
-          "Dominate 3",
+          "Computers 1",
           "Pre Game",
-          "-9.0"
+          "-2.0"
         ],
         [
-          "TH: GoM 1",
-          "Pre Game",
-          "-3.0",
-          "",
-          "",
-          "Total Games Played"
-        ],
-        [
-          "TH: GoM 2",
-          "Pre Game",
-          "-6.0",
-          "",
-          "",
-          "0"
-        ],
-        [
-          "TH: GoM 3",
-          "Pre Game",
-          "-9.0"
-        ],
-        [
-          "Ritual: Deflect wd",
+          "Crafts 1",
           "Pre Game",
           "-2.0",
           "",
@@ -578,16 +572,17 @@
           "6 Game XP Earned"
         ],
         [
-          "",
+          "Leadership 1",
           "Pre Game",
-          "",
+          "-2.0",
           "",
           "",
           "0"
         ],
         [
-          "",
-          "Pre Game"
+          "Streetwise 1",
+          "Pre Game",
+          "-2.0"
         ],
         [
           "",
@@ -610,25 +605,24 @@
           "Pre Game"
         ],
         [
-          "Paranoia, Extreme +3",
+          "",
           "Pre Game",
-          "3.0",
+          "",
           "",
           "",
           "Current XP"
         ],
         [
-          "Clan Weakness +2",
+          "",
           "Pre Game",
-          "2.0",
+          "",
           "",
           "",
           "0"
         ],
         [
-          "Child, Vengeful +2",
-          "Pre Game",
-          "2.0"
+          "",
+          "Pre Game"
         ],
         [
           "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
@@ -655,56 +649,60 @@
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Rare Clan -5",
+          "what_was_bought": "Path of Caine",
           "date": "Pre Game",
-          "all_costs": -5
+          "all_costs": -1
         },
         {
-          "what_was_bought": "Thaumaturgic Expertise -1",
+          "what_was_bought": "Auspex 3,4",
           "date": "Pre Game",
-          "all_costs": -1,
+          "all_costs": -21,
           "starting_total_xp_left": "Total XP Earned"
         },
         {
-          "what_was_bought": "Ritual: Blood Mastery",
+          "what_was_bought": "Obfuscate 1",
+          "date": "Pre Game",
+          "all_costs": -4,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Curiousity",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Fragile Bones",
+          "date": "Pre Game",
+          "all_costs": 4,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Awareness 1",
           "date": "Pre Game",
           "all_costs": -2,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Dominate 3",
+          "what_was_bought": "Computers 1",
           "date": "Pre Game",
-          "all_costs": -9
+          "all_costs": -2
         },
         {
-          "what_was_bought": "TH: GoM 1",
-          "date": "Pre Game",
-          "all_costs": -3,
-          "starting_total_xp_left": "Total Games Played"
-        },
-        {
-          "what_was_bought": "TH: GoM 2",
-          "date": "Pre Game",
-          "all_costs": -6,
-          "starting_total_xp_left": 0
-        },
-        {
-          "what_was_bought": "TH: GoM 3",
-          "date": "Pre Game",
-          "all_costs": -9
-        },
-        {
-          "what_was_bought": "Ritual: Deflect wd",
+          "what_was_bought": "Crafts 1",
           "date": "Pre Game",
           "all_costs": -2,
           "starting_total_xp_left": "6 Game XP Earned"
         },
         {
+          "what_was_bought": "Leadership 1",
           "date": "Pre Game",
+          "all_costs": -2,
           "starting_total_xp_left": 0
         },
         {
-          "date": "Pre Game"
+          "what_was_bought": "Streetwise 1",
+          "date": "Pre Game",
+          "all_costs": -2
         },
         {
           "date": "Pre Game",
@@ -718,21 +716,15 @@
           "date": "Pre Game"
         },
         {
-          "what_was_bought": "Paranoia, Extreme +3",
           "date": "Pre Game",
-          "all_costs": 3,
           "starting_total_xp_left": "Current XP"
         },
         {
-          "what_was_bought": "Clan Weakness +2",
           "date": "Pre Game",
-          "all_costs": 2,
           "starting_total_xp_left": 0
         },
         {
-          "what_was_bought": "Child, Vengeful +2",
-          "date": "Pre Game",
-          "all_costs": 2
+          "date": "Pre Game"
         },
         {
           "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
@@ -755,7 +747,7 @@
           "Hierarchy of Sins"
         ],
         [
-          "Path of Power and the Inner Voice\n1 If you voluntarily give up authority, allow your followers to be abused by anyone other than you\n2 Denying responsibility for your actions\n3 Accepting defeat\n4 Defy a superior you are not willing to directly challenge, or pass up an easy opportunity to gain power\n5 Turning down the opportunity for power"
+          "Path of Caine\n1 If you voluntarily ignore an opportunity to study occult knowledge\n2 Befriending or co-existing with mortals\n3 Failing to diablerize a humane vampire\n4 If you voluntarily act humane, interact with mortals other than as cattle, or deny your vampiric needs.\n5 Failing to pursue lore about vampirism when the opportunity arises (even if it would cause you damage)"
         ],
         [
           "Every time your character commits a sin, you gain temporary Beast traits equal to the level of the sin. It is possible to mitigate the number of Beast traits your character gains when committing a sin by making a degeneration challenge. The test pool is Mental + Willpower with a standard diffculty rating (10) +1 per level of sin. If you win you get one less Beast trait. You lose a path or Humanity trait every time you get 5 Beast traits. Regaining Humanity Costs 10 Xp."
@@ -914,6 +906,667 @@
         }
       ]
     },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "3",
+          "",
+          "3",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "0",
+          "0",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "1",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "0",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "0",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "2",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 3,
+          "column_5": 3,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 0,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 0,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 2,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
     "History": {
       "rows": [
         [
@@ -927,37 +1580,27 @@
           "",
           "Created By:"
         ],
-        [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "Khaldoun Khelil"
-        ],
+        [],
         [
           "Staff Generated History"
         ],
         [
-          "A Tremere Antitribu who survived the death of the rest of his clan. He is a student of darker Thaumaturgy and is often tempted to infernalism. While the rest of his blood line died he was likely spared because he was at the Sabbat Regents side and protected by multiple layers of magical warding.  Dabir was a Regent in Baghdad, but defected to House Goratrix when he was revealed as a member of the Horned Society.  In the Sabbat he quickly realized that many in House Goratrix were infernalists and if not for the Black Hands intervention may have joined their number.  After the fall of his Clan and the reorganization of the Black Hand, Dabir still finds himself tempted by the power of infernalism, but cannot abide the idea of a demonic master.  He is in LA invetigating the rumor that new gargoyles are being created and how the Sabbat can counter these creatures... but he also wishes to learn more about LA's demons and how they can be captured or destroyed."
+          "You were born into the Obertus revenant family, but your drive to know things took an unexpected twist that lead you to learn the art of spying rather than occult knowledge.  Your family expected you to come to a bad end one way or another, but your future-sire decided that your skills were useful, and took you into service.  You still nearly came to a bad end, suffering an injury that guarenteed you would not be breeding more baby revenants to serve the Tzimisce.  With the possibility removed, your sire embraced you in order to keep your drive for the service of Caine.  You are not quite as driven to follow leads as you were as a mortal, but it is hard for you to leave a good mystery alone.  You have tremendous respect and gratitude towards your sire, but you do find life easier when you are not around him, as it is too easy to recall that awe which you used to feel towards him."
         ],
         [
           "Sire:",
-          "Tetsuhiro",
+          "",
           "Reference: (If any)",
           "",
           "",
           "Clan",
-          "Tremere - Easily Bound"
+          "Tzimisce - Bound to the Earth"
         ],
         [
           "Embrace Date:",
-          "1976.0",
+          "1842.0",
           "Embrace Location:",
-          "Iraq",
+          "Munich, Germany",
           "",
           "Generation",
           "Pretender Elder 8"
@@ -968,19 +1611,34 @@
           "Your relationship to these people is described. This may mean they do not know you."
         ],
         [
-          "Yasmin the Black",
-          "A powerful Montreal Tremere Antitribu of the Black Hand"
+          "Kathrine \"Katie\" Ford",
+          "An emissary of the Black Hand that continues to question everything, including the upcoming Monomacy."
         ],
-        [],
-        [],
-        [],
+        [
+          "Chalupavka",
+          "Rival for Archbishop: A monstrous Tzimsce Elder from Peru."
+        ],
+        [
+          "Kinyado",
+          "An Inquisitor who hopes to tear down the Tremere Chantry and bury all the forbidden secrets within it"
+        ],
+        [
+          "Michaelangello de Ravenna",
+          "Rival for Archbishop: The young Lasombra chile of a Judge Inquisitor"
+        ],
         [
           "Starting Goals",
           "These are recomendations, not mandates."
         ],
-        [],
-        [],
-        [],
+        [
+          "You've heard that the spirits in San Diego are angry because of the powerful magic unleashed on the Camarilla Chantry by the Black Hand"
+        ],
+        [
+          "A family of Bratovitch ghouls is trying to make a home in San Diego.  You suspect they will only bring trouble with them."
+        ],
+        [
+          "Wraiths are natural allies for vampires.  Can they help us defend San Diego from the Camarilla counterattack?"
+        ],
         [],
         [
           "Player Amended History",
@@ -990,26 +1648,22 @@
       ],
       "records": [
         {
-          "created_by": "Khaldoun Khelil"
-        },
-        {
           "staff_generated_concept": "Staff Generated History"
         },
         {
-          "staff_generated_concept": "A Tremere Antitribu who survived the death of the rest of his clan. He is a student of darker Thaumaturgy and is often tempted to infernalism. While the rest of his blood line died he was likely spared because he was at the Sabbat Regents side and protected by multiple layers of magical warding.  Dabir was a Regent in Baghdad, but defected to House Goratrix when he was revealed as a member of the Horned Society.  In the Sabbat he quickly realized that many in House Goratrix were infernalists and if not for the Black Hands intervention may have joined their number.  After the fall of his Clan and the reorganization of the Black Hand, Dabir still finds himself tempted by the power of infernalism, but cannot abide the idea of a demonic master.  He is in LA invetigating the rumor that new gargoyles are being created and how the Sabbat can counter these creatures... but he also wishes to learn more about LA's demons and how they can be captured or destroyed."
+          "staff_generated_concept": "You were born into the Obertus revenant family, but your drive to know things took an unexpected twist that lead you to learn the art of spying rather than occult knowledge.  Your family expected you to come to a bad end one way or another, but your future-sire decided that your skills were useful, and took you into service.  You still nearly came to a bad end, suffering an injury that guarenteed you would not be breeding more baby revenants to serve the Tzimisce.  With the possibility removed, your sire embraced you in order to keep your drive for the service of Caine.  You are not quite as driven to follow leads as you were as a mortal, but it is hard for you to leave a good mystery alone.  You have tremendous respect and gratitude towards your sire, but you do find life easier when you are not around him, as it is too easy to recall that awe which you used to feel towards him."
         },
         {
           "staff_generated_concept": "Sire:",
-          "column_2": "Tetsuhiro",
           "column_3": "Reference: (If any)",
           "column_6": "Clan",
-          "column_7": "Tremere - Easily Bound"
+          "column_7": "Tzimisce - Bound to the Earth"
         },
         {
           "staff_generated_concept": "Embrace Date:",
-          "column_2": 1976,
+          "column_2": 1842,
           "column_3": "Embrace Location:",
-          "column_4": "Iraq",
+          "column_4": "Munich, Germany",
           "column_6": "Generation",
           "column_7": "Pretender Elder 8"
         },
@@ -1018,12 +1672,33 @@
           "column_2": "Your relationship to these people is described. This may mean they do not know you."
         },
         {
-          "staff_generated_concept": "Yasmin the Black",
-          "column_2": "A powerful Montreal Tremere Antitribu of the Black Hand"
+          "staff_generated_concept": "Kathrine \"Katie\" Ford",
+          "column_2": "An emissary of the Black Hand that continues to question everything, including the upcoming Monomacy."
+        },
+        {
+          "staff_generated_concept": "Chalupavka",
+          "column_2": "Rival for Archbishop: A monstrous Tzimsce Elder from Peru."
+        },
+        {
+          "staff_generated_concept": "Kinyado",
+          "column_2": "An Inquisitor who hopes to tear down the Tremere Chantry and bury all the forbidden secrets within it"
+        },
+        {
+          "staff_generated_concept": "Michaelangello de Ravenna",
+          "column_2": "Rival for Archbishop: The young Lasombra chile of a Judge Inquisitor"
         },
         {
           "staff_generated_concept": "Starting Goals",
           "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "You've heard that the spirits in San Diego are angry because of the powerful magic unleashed on the Camarilla Chantry by the Black Hand"
+        },
+        {
+          "staff_generated_concept": "A family of Bratovitch ghouls is trying to make a home in San Diego.  You suspect they will only bring trouble with them."
+        },
+        {
+          "staff_generated_concept": "Wraiths are natural allies for vampires.  Can they help us defend San Diego from the Camarilla counterattack?"
         },
         {
           "staff_generated_concept": "Player Amended History",
@@ -1034,7 +1709,9 @@
     "Disiplines Mechanic": {
       "rows": [
         [
-          "Thaumaturgy - Path of Blood\nThose who practice the thaumaturgic arts sacrifice a small portion of their mystically-infused vitae in order to forcibly shape the world according to their will. Thaumaturgy has certain limitations:\nThaumaturgy relies upon a thaumaturge speaking magical phrases and making specific gestures. \nAll Thaumaturgy paths and rituals are considered Mental powers, and as such, cannot be used during Celerity rounds.\nSpecific Thaumaturgy powers that are resisted with your target’s Physical attribute can be repeatedly used against a target. Powers that are resisted with the target’s Mental attribute cannot be attempted repeatedly. You must wait 10 minutes before retrying such a power.\nThaumaturgy Test Pool: Mental attribute + Occult versus the target’s Mental attribute + Willpower. Powers that specifically target are resisted using the target’s Physical attribute + Dodge.\n\nThe Path of Blood\n● A Taste of Blood\nThe Path of Blood leverages the concept of sympathetic magic to allow you to alter the properties of the vitae within your system or to discover secrets of others through divining with their blood. \nSystem: Ingest a drop of your target’s blood and use your simple action to discern information about the target. A Taste for Blood requires you to physically ingest the vitae that you test, and, therefore, consumes the sample of blood. The magical nature of A Taste for Blood shields the thaumaturge from being bound by the blood ingested and provides all of the following information:\nMedical information, such as blood type and state of health\nHow much blood is currently in the subject’s system\nWhat type of creature the blood came from: mortal, ghoul, vampire, etc. \nThe thaumaturge may also determine: the subject’s generation; whether the subject has ever committed diablerie; how recently the subject has fed\nFocus [Perception]: You can gauge the strength of any blood bonds or partial blood bonds the target has, including the bonds created by participating in the Vaulderie. You do not know to whom the subject is bound, nor whether the bonds are mutual, but you do know the number and severity of the bonds.\n\n●● Blood Rage\nYou can mystically manipulate another vampire’s blood while it is still within her system. A vampire affected by Blood Rage feels a rush, much like a surge of adrenaline, and automatically realizes she has been affected by a power.\nSystem: Spend 1 Blood and use your standard action to make an opposed challenge using your Mental attribute + Occult versus the target’s Mental attribute + Willpower. The target must be within one step of you. If you succeed, the target must spend a single point of Blood in any fashion you wish. This expenditure can exceed the limits of Generation. By using this power, you can force a vampire or ghoul to spend Blood in one of the following manners:\nIncrease her Physical attribute\nActivate a discipline power, such as Rapidity\nHeal wounds\nAwaken from torpor\nSweat blood through her pores\nBlood Rage cannot be used to force the target to activate a power that requires her to spend an action. \nFocus [Perception]: You must be within 10 steps of your target in order to activate Blood Rage, as opposed to the standard one step.\n\n●●● Blood of Potency\nYou have mastered your vitae to the point that you can command it to temporarily thicken, causing your vampiric form to manifest a more potent generation.\nSystem: Once per night, you can spend 1 Blood and use your simple action to activate Blood of Potency. This power lasts for the next hour. While active, your Blood pool increases to half again its normal size (rounded up). You can spend 2 additional points of Blood per turn. You are considered to be three generations lower than normal for the purpose of waking another vampire from torpor. Once this power ends, any Blood you contain over your natural Blood pool dilutes, leaving you at your regular Blood pool maximum. If you are diablerized or Embrace, your real generation is used to determine the results.\nFocus [Intelligence]: You can utilize Blood of Potency twice in the course of a single evening.\n\n●●●● Theft of Vitae\nBy mystically attuning the vitae in your body into a thaumaturgical magnet, you can literally siphon blood from your target, causing it to cascade out of your enemy’s pores and into your hand, to be absorbed instantly into the caster’s system.\nSystem: Spend 1 Blood and use your standard action to make an opposed challenge using your Mental attribute + Occult versus the target’s Mental attribute + Willpower, targeting a character within 25 steps. If you succeed, you can draw 3 points of Blood from your victim. Blood stolen in this fashion has all of its normal properties.\nExceptional Success:\nYou steal 4 points of Blood from your target, rather than 3.\nFocus [Intelligence]: Blood siphoned will not induce a blood bond, sicken you, or carry diseases. Supernatural powers remain in effect.\n\n●●●●● Cauldron of Blood\nBy touching your opponent, you can boil the blood within your enemy’s veins, causing her to suffer incredible pain and agony. Red mist rises from the victim’s body as bubbling blood seeps from her pores and orifices. \nSystem: Use a standard action to Grapple a target. If you succeed, spend 1 Blood to inflict Cauldron of Blood on the victim, as well as inflicting all standard effects of a Grapple. Cauldron of Blood boils 2 points of Blood within your victim’s body, destroying the affected Blood and causing 2 points of aggravated damage. Damage caused by this power cannot be reduced or negated. \nThe first time you use Cauldron of Blood on a target, you must succeed in a Grapple combat maneuver against that target. If your target is already Grappled, you can activate this power by spending 1 Blood and using your standard action. \nThis power does not convert the normal damage dealt by a Grapple to aggravated damage, and that damage can be reduced or negated normally. The Grapple combat maneuver does not reduce the damage dealt by Cauldron of Blood. Mortals affected by Cauldron of Blood die instantly.\nFocus [Intelligence]: You can affect 1 additional point of Blood, boiling up to a total of 3 Blood and causing 3 aggravated damage per use."
+          "Animalism\nBy drawing on this feral instinct and predatory drive, a vampire can communicate with and control animals, It can be used on birds, mammals, marsupials, and fish. It cannot be used on insects, nor on creatures whose minds are too simple to understand rudimentary communication.\nAnimalism Test Pool: Social attribute + Animal Ken versus the target’s Social attribute + Willpower.\n \n● Feral Whispers\nYou can communicate with animals by murmuring to them in growls and using body language. Although an animal is not forced to obey you, it tends to respond favorably to individuals using this power.\nSystem: To ask questions of an animal, consult your Storyteller. You may speak to a specific animal, or you may use Feral Whispers to interrogate all local wildlife within hearing.\nFocus [Charisma]: You don’t need to growl or gesture to make yourself understood. Your Beast can communicate directly with the minds of nearby animals..\n \n●● Beckoning\nBy uttering a howl, a series of chirrups, or some other identifiable animal noise, you summon animals to your location. You can select the size and type of animal common to the area. \nSystem: Spend 1 Blood and a standard action to summon (your choice) up to five small, three medium, or one large animal. The animals arrive over the course of the next 10 minutes if common to the area. The animals will attempt to obey you and work for you until dawn, or until they take damage equal to their NPC rating. Beckoning cannot be used to control animals that are currently under the effect of another practitioner’s use of the Animalism. Animals summoned with Beckoning are created using the Retainer rules, with the following additional guidelines:\nSmall Animals: 1-point Retainers. Small animals may possess one unusual movement ability that allows them to climb, swim, fly, or burrow at their normal movement rate. Small animals include small dogs, cats, and squirrels, as well as most birds, fish, or moles.\nMedium Animals: Use the rules for 3-point Retainers. This category includes larger dogs, brown bears, coyotes, and bobcats.\nLarge Animals: Use the rules for a 5-point Retainer. The summoner might Beckon a horse, a stag, or a grizzly bear.\nBefore going to sleep or entering torpor, you can spend 1 Blood to activate this power. Animals summoned by this power will guard your resting place until they are killed or you wake.\nFocus [Charisma]: You may also soothe a target’s emotions into a sleepy peacefulness. \nSystem: The target must be capable of frenzy. When you are the focus of another character’s attention (as per Gaze and Focus), you can spend 1 Blood, expend a standard action, and make an opposed challenge using the Animalism test pool. If the target was in frenzy when this power was successfully used, she immediately falls out of frenzy.\nIf the target was not in frenzy, she becomes incapable of entering frenzy for the next hour. Her Willpower is sapped, and must spend 2 Willpower to retest challenges for the remainder of this and the next full turn. For the next five minutes, she must continue to spend 2 Willpower instead of 1 to retest challenges.\nCharacters with merits or powers that allow them to make retests without spending Willpower can use those merits normally. Quell the Beast cannot be used on yourself.\nExceptional Success: The Willpower-sapping effect of Quell the Beast lasts for the rest of this turn and for the next two full turns (rather than one).\nFocus [Manipulation]: The victim is unable to use Willpower retests at all for the duration of this power.\n \n●●● Subsume the Spirit\nThe Beast is a palpable thing, capable of influencing the minds and spirits of other animals. Not only can you cause lesser creatures to be cowed, you can actually send your consciousness into an animal’s body, subsuming it completely. The animal’s\nWhen you summon creatures using this power, apply one of the following additional effects. If you summon more than one creature, the chosen effect applies to each creature you have summoned (all are cunning, or can fly, and so forth).\nUnusual Movement: You may summon a group of medium-sized creatures that possess the ability to swim or fly at normal speeds (such as a vulture, eagle, or salmon); a single large-sized creature that possesses the ability to swim at normal speeds (such as a shark or dolphin).\nCunning: You can Beckon an animal with extraordinary cunning capable of understanding and following more complex instructions. This animal is a standard example of its type for all other purposes.\nSwarm: You summon a large number of small animals. A swarm is built using the normal Retainer rules, and a swarm is considered a single creature for the purpose of combat. A swarm moves slowly (one step per action), and killing a single animal has little effect on the overall swarm. You must inflict twice the normal amount of damage necessary to defeat a standard Retainer of its size. \n\n●●●● Quell the Beast\nThe target becomes wholly compliant to your will, and you can utilize it as though it were your natural form. While using this powerl, your own physical form falls into a comatose state. Although you can utilize the full scope of your intelligence, cunning, and memories, you are limited by the physical capabilities of the animal.\nSystem: Spend 1 Blood and use a standard action to stare into the eyes of an animal; make an opposed challenge against the animal. If successful, your consciousness is transferred into the target’s body, its mind enters a fugue. The character’s body falls into a torpid state and can neither act or defend itself. The body retains Fortitude or other powers that are always active. You always know the direction and distance of your real body.\nNormal and ghouled animals can be targeted, supernatural creatures cannot. Ghouled animals hold up to 5 points of vampiric Blood that can be used towards their physical Disciplines. The vampire may spend this Blood at a rate of 1 per turn. The vampire cannot use their own Disciplines.\nThe character uses her own Mental attributes and focuses, Social attributes and focuses, Skills, and Backgrounds in challenges and the Physical attribute of the animal for any Physical challenges. This attribute is equal to double that animal’s NPC rating. If the animal you are controlling has the power to fly or is adapted to aquatic life (like a fish), you gain its ability to fly or swim at normal speeds. \nSubsume the Spirit lasts the night and ends immediately if the character travels more than 10 miles away from her native body, if the character’s native body takes damage, or if the animal she’s controlling takes damage. A vampire with Beast traits still risks frenzy. \nFocus [Manipulation]: You can use the first 2 dots of your Mental and Social in-clan disciplines. If you are controlling a ghouled animal, you can spend up to 5 Blood to fuel these in-clan disciplines, at the rate of 1 Blood a turn, regardless of the character’s generation. \n \n●●●●● Drawing Out the Beast\nThrough your keen understanding of your own predatory nature and instincts, you have reached a communion with your Beast. \nSystem: Spend 1 Blood and expend a simple action to immediately cause your character to fall out of frenzy. Alternately, you may spend 1 Blood and expend a simple action to instantly launch your character into a rage frenzy.\nFocus [Manipulation]: You can enter frenzy, even when you would otherwise be unable to do so. Additionally, while in a rage frenzy, your character receives a +3 bonus to all Physical attack test pools. Your character still suffers the standard -2 penalty to Physical defense pools while in frenzy.",
+          "Auspex\nA predator’s senses must be acute to track prey - and Auspex allows those senses to be sharpened. Higher levels of Auspex allow supernatural levels of perception. \nAuspex Test Pool: Mental attribute + Investigation versus the target’s Mental attribute + Willpower.\nHeightened vs. Supernatural Concealment: Target may use Mental attribute + Stealth as a defensive test pool instead of Mental attribute + Willpower. \nHeightened vs. Illusion: Target may use Social attribute + Subterfuge as a defensive test pool instead of Social attribute + Willpower.\n\n● Heightened Senses\nYou can extend any or all of your physical senses - sight, hearing, touch, smell and taste. You may see in the dark, eavesdrop on conversations across the room and sense supernaturally concealed beings standing within two steps. You may also spend 1 Blood and take 1 Standard ACtion to notice any mundanely hidden objects within your line of sight - make an opposed challenge to discern any details. \nExceptional Success: If you attempt the same challenge against the character, you automatically succeed for the next hour. \nFocus [Perception]: Sharpening your senses takes a simple action. \n\n●● Aura Perception\nEvery living (or unliving) creature is surrounded by an aura which reveals important information about them. Spend 1 Blood and 1 Standard action, make an opposed challenge. On a success, you can read your target’s aura. You know their creature type (vampire, ghoul, mortal, other), general mood, any immediately violent inclination and if your target has diablerized in the past year. If your target consents to have their aura read, you need not spend blood. \nExceptional Success: You may continue you read your subject’s aura for another hour without Blood or a challenge. If the target’s mood shifts, you know. You may act before them if combat occurs. \nFocus [Perception]: If your target is within three steps, your character spends no Blood, whether the target is willing or not. If the target is unwilling, you must still make an opposed challenge.\n\n●●● Spirit’s Touch\nPhysical objects carry traces of those who most recently handled them. This power allows you to absorb those impressions. This does not work on living (or unliving) creatures. You must make skin contact with the item and spend 1 Blood and a standard action. You may then ask one fo the following: \nShow me the last person who handled the object.\nHow did the individual die? \nWhen (or how) was the object last used? \nAre there any strong emotions attached to this object?\nFocus [Perception]: When you activate Spirit’s Touch, you may ask three question.\n\n●●●● Telepathy\nSpend 1 point of Blood, and you may immediately make mental contact with a willing target within 50 miles. You require 1 Blood and an opposed challenge for unwilling targets (your opponent may make an opposed Awareness challenge to find out who you are). This lasts for one hour, and you may not use any other powers while using Telepathy. On a success, your target must answer one of the following (2 for an exceptional success):   \nWhat are you currently thinking about?\nWhat does that person or thing you just described look like?\nWhere is the person or object you were just talking about located?\nDo you like or dislike the person you’re currently talking to?\nWhat are you planning to do in the next few minutes?\nFocus [Wits]: You can maintain Telepathy with up to three willing targets at once, interconnected. Spend 1 Blood per target. \n\n●●●●● Psychic Projection\nNo longer confined to the physical plane, you can project your senses and awareness outside of your body. Without the concerns of mass and matter, you easily pass through any physical barrier and move at the speed of thought to any place under the gaze of the moon.\nSystem: Spend 1 point of Blood and a standard action meditating. You project your awareness outside of her physical form. While in psychic form, your body lies in a torpor-like state. If you take damage, the Psychic Projection automatically ends. A psychic form travels at roughly 50 miles per hour and can pass through solid objects, but cannot interact with the physical world in any way. The only powers you can use while in psychic form are the first 4 dots of Auspex.\nA psychic form is invisible to those without Heightened Senses or similar supernatural abilities. You can spend 1 Blood to make yourself visible for one turn. A manifested character can be targeted by Mental and Social powers by those in the material world. Individuals with Heightened Senses or similar supernatural abilities can see the vague outline of an individual in Psychic Projection even when that individual has not manifested, but the observer cannot make out details, see gestures, or hear the projected character’s voice unless she manifests.\nTwo individuals in Psychic Projection can interact normally. A successful blow from another psychic individual costs the victim 1 Willpower as damage. If the victim runs out of Willpower, her Psychic Projection immediately ends and cannot be reactivated for 10 minutes. \nFocus [Wits]: You may utilize the first 2 dots of any Mental or Social in-clan discipline you possess. Your character uses these powers normally when targeting others in the psychic plane. If your character manifests, she can also use these disciplines on targets in the material world while she is manifested.",
+          "Obfuscate\nVampires often rely on their ability to remain hidden. Obfuscate affects all five senses.\nObfuscate and Animals: Animals can occasionally sense when a vampire who currently possesses any number of Beast traits is nearby, even if that vampire is hidden or altered by Obfuscate. \nObfuscate and Auspex: A vampire using Auspex can attempt to use her sharpened senses to pierce an individual’s Obfuscate. The Auspex user must test using her Mental attribute + Investigation versus the Obfuscate user’s Mental attribute + Willpower. The Obfuscate user may opt to use her Mental attribute + Stealth as a defensive test pool rather than her Mental attribute + Willpower.\nObfuscate and Machines: Obfuscate works by clouding the minds of observers and, therefore, has no effect on machines.\nObfuscate Test Pool: The Obfuscate user’s Mental attribute + Stealth versus the target’s Mental attribute + Willpower.\n\n● Conceal\nExpend a simple action to conceal a weapon or other object you possess; the item must be no longer than three feet. Objects hidden with Conceal remain invisible as long as they are physically on your person. Conceal cannot be used to hide living or undead beings. Conceal can be used to maintain the invisibility of up to three objects at once. You may end an object’s Conceal at any time. If you interact with a Concealed object, use it to attack someone, or otherwise draw attention to the object, it will become visible.\nFocus [Intelligence]: You can Conceal up to 10 objects at one time, so long as they remain on your person. You can Conceal objects up to six feet long, rather than three. You still cannot Conceal living or undead beings.\n\n●● Unseen Presence\nExpend a standard action to become invisible, taking with you all inanimate items on your person. Unseen Presence cannot be used to make another character invisible, even if the character is unconscious or dead. If you talk, touch someone, produce an outlandish odor, or take any action that requires a challenge, your Unseen Presence will immediately end.\nIf another individual is looking at you when you activate Unseen Presence, the observer automatically sees through this use of Obfuscate. \nIf you interact with the environment, speak with another character, or draw attention to yourself, your Obfuscate will break and you will become visible. \nFocus [Wits]: You can talk in a low voice or use your standard action to interact with an unattended object, without breaking your Unseen Presence. Your Unseen Presence will still break if you shout, interact with a character, interact with something in another character’s control, or take an action that requires a challenge.\n\n●●● Mask of a Thousand Faces\nMask of a Thousand Faces can be used to mimic anything that generally matches your form. To believably mimic a specific individual’s appearance, you must have at least 2 dots of the Subterfuge skill. You might be able to mimic someone’s face after studying a photograph, but your disguise will not fool people who have previously met your target, as you do not know enough to successfully replicate that person. To believably mimic another character’s voice, you must have at least 3 dots of the Subterfuge skill, and you must listen to her talk for at least five minutes as she uses a variety of words and phrases. Listening to a recording of that voice is not enough for a true replication. \nMask of a Thousand Faces can be used to change the appearance of your clothing and equipment in minor ways, so long as your equipment does not change significantly in size or shape. \nFocus [Wits]: You can dramatically change the appearance of your wardrobe and equipment. You are capable of feats such as making a cell phone look like a shotgun or causing a hoodie and jeans to appear as though you are wearing a ball gown.\n\n●●●● Vanish From the Mind’ Eye\nIf you activate Conceal or Unseen Presence while someone is watching, Vanish from the Mind’s Eye allows you to make an opposed challenge against any observers, using your Obfuscate test pool. If you succeed, your power takes hold despite their alertness, and you or the object you are targeting becomes invisible at the end of the everyman round. \nTo use Vanish From the Mind’s Eye against multiple observers, you must test against each observer. If you spend a Willpower to retest, you gain a retest against each observer. If you succeed against some observers but not others, only those who fail the challenge will be unable to see you. Those who succeed can continue to see you (or the object you’re attempting to Conceal) as though you had not used Vanish From the Mind’s Eye. Characters with Heightened Senses cannot pierce any of your Obfuscate powers unless they have the 5th dot of Auspex. Additionally, characters without 5 dots of Auspex do not  automatically notice your presence, no matter how close you stand.\nVanish From the Mind’s Eye can be used every turn, even if you failed to vanish in a previous turn. This is an exception to the rule that prevents a character from immediately retrying a failed Mental challenge.\nExceptional Success:\nThe observer cannot contest any of your other uses of Vanish From the Mind’s Eye, Mask of a Thousand Faces, Conceal, or Unseen Presence for the next hour. This prevents her from using normal means to retain sight of you, but does not prevent her from using Auspex (if she possesses that power) to foil your uses of Obfuscate.\nFocus [Intelligence]: When you lose a Vanish From the Mind’s Eye test, you gain a retest for this attempt to use the power, without having to spend Willpower. These retests act in all ways like a Willpower retest.\n\n●●●●● Cloak the Gathering\nWhen you activate Unseen Presence, Mask of a Thousand Faces, or Vanish from the Mind’s Eye, you may choose to extend the effects of those powers to nearby allies; a number of willing individuals equal to your number of dots in the Stealth skill, minimum one.\nIndividuals feel a sudden, distinct chill when Obfuscate is used in an attempt to cloak them, but the targets have no mystical ability to know who is trying to use the power, nor to what extent. If any of your targets do not wish to be affected by Obfuscate, the power automatically fails to work on that individual. \nA character can always see through her own uses of Obfuscate, regardless of whom she is affecting. Further, other characters concealed by a single use of Cloak the Gathering can see each other normally. If one of your allies breaks her Obfuscate or moves more than 20 steps away from you, the power ceases to function for them.. If you break the Obfuscate, however, your Cloak the Gathering ceases to function for all.\nWhen this power is used to augment Vanish from the Mind’s Eye, you only need to test once per observer, as though you had simply vanished yourself. If you are successful, you Obfuscate the entire group.\nYou can use Cloak the Gathering to extend more than one Obfuscate power, but you cannot extend the same power to more than one group at a time. Cloak the Gathering can only be used on sentient creatures and confers no ability to conceal animals.\nFocus [Intelligence]: You may extend your Obfuscate powers to a number of willing individuals equal to twice your number of dots in the Stealth skill."
         ]
       ],
       "records": []
@@ -1069,11 +1746,11 @@
           "Genaral Towntimes",
           "3.0",
           "Influnce Downtimes",
-          "1",
-          "Computer Downtimes",
           "0",
+          "Computer Downtimes",
+          "1",
           "Science Downtimes",
-          "1"
+          "0"
         ],
         [],
         [
@@ -1106,9 +1783,9 @@
           "genaral_towntimes": "Timestamp",
           "3_0": "Score",
           "influnce_downtimes": "What is your Character's name?",
-          "1": "Investigation / Patrol Actions",
+          "0": "Investigation / Patrol Actions",
           "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
-          "0": "Hunting Actions",
+          "1": "Hunting Actions",
           "science_downtimes": "Hunting Modifications",
           "column_9": "Purpose of Investigation / Patrol",
           "column_10": "Blood Magic Research",
@@ -1466,7 +2143,7 @@
           "Daimoinon",
           "",
           "Current Blood Points * Per Turn ~ 30*5",
-          "NEW PROMISE",
+          "SABBAT: SD",
           "Defense of the Sacred Haven - 1",
           "",
           "Appearance - +3 Social on Non Power uses dealing with focus.",
@@ -1487,13 +2164,13 @@
           "Dementation",
           "",
           "",
-          "INQUISTION",
+          "NEW PROMISE",
           "Deflection of Wooden Doom - 1",
           "",
           "Charisma - +3 Social on Non Power uses dealing with focus.",
           "",
           "",
-          "Garrett Scarborough",
+          "Michael Steinbach",
           "Path of Feral Heart\n1 Hunting with means other than your own vampiric powers\n2 Acting in an overly cruel manner\n3 Postponing feeding when hungry when the oppuntiuty presents it self. \n4 If you show fear or mercy, abandon a hunt, or kill outside of a hunt\n5 Refusing to kill to survive"
         ],
         [
@@ -1508,13 +2185,13 @@
           "Dominate",
           "",
           "",
-          "ECLIPSE COURT",
+          "INQUISTION",
           "Engaging the Vessel of Transference - 1",
           "",
           "Manipulation - +3 Social on Non Power uses dealing with focus.",
           "",
           "",
-          "Laura Bishop",
+          "Nicole Paoli",
           "Path of Honorable Accord \n1 If you voluntarily pass up an opportunity to benefit from exploiting a loophole in the rules\n2 Associating with the dishonorable\n3 Disobeying your leader\n4 If you voluntarily transgress against the law, disobey a command from a superior, break your word, place personal concerns over duty, or fail to severely punish a transgressor against the law\n5 Breaking your word or oath; failing to honor an agreement"
         ],
         [
@@ -1529,7 +2206,7 @@
           "Fortitude",
           "",
           "",
-          "Speciality Game",
+          "ECLIPSE COURT",
           "Illuminate the Trail of Prey -1",
           "",
           "",
@@ -1550,7 +2227,7 @@
           "Melpominee",
           "",
           "",
-          "",
+          "Speciality Game",
           "Warding Circle - 1",
           "",
           "Perception - +3 Mental on Non Power uses dealing with focus.",
@@ -2230,7 +2907,7 @@
         ],
         [
           "Malkavians \"Knights of the Moon\" - Permanent Derangement",
-          "Pack Leader",
+          "Pack Leader / Ductus",
           "Psychology",
           "Freak",
           "",
@@ -5616,7 +6293,7 @@
           "mortal": "Neonate 11",
           "animalism": "Daimoinon",
           "current_blood_points_per_turn_10_1": "Current Blood Points * Per Turn ~ 30*5",
-          "chronicle": "NEW PROMISE",
+          "chronicle": "SABBAT: SD",
           "thaumaturgy": "Defense of the Sacred Haven - 1",
           "dexterity_burst_of_speed_disarm_fighting_blind_or_quick_draw": "Appearance - +3 Social on Non Power uses dealing with focus.",
           "patric_thomas": "Khaldoun Khelil",
@@ -5631,10 +6308,10 @@
           "accepted_anarch": "Authority (Abiding)",
           "mortal": "Ancilla *10",
           "animalism": "Dementation",
-          "chronicle": "INQUISTION",
+          "chronicle": "NEW PROMISE",
           "thaumaturgy": "Deflection of Wooden Doom - 1",
           "dexterity_burst_of_speed_disarm_fighting_blind_or_quick_draw": "Charisma - +3 Social on Non Power uses dealing with focus.",
-          "patric_thomas": "Garrett Scarborough",
+          "patric_thomas": "Michael Steinbach",
           "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Path of Feral Heart\n1 Hunting with means other than your own vampiric powers\n2 Acting in an overly cruel manner\n3 Postponing feeding when hungry when the oppuntiuty presents it self. \n4 If you show fear or mercy, abandon a hunt, or kill outside of a hunt\n5 Refusing to kill to survive"
         },
         {
@@ -5646,10 +6323,10 @@
           "accepted_anarch": "Commander (Abiding)",
           "mortal": "Ancilla 9",
           "animalism": "Dominate",
-          "chronicle": "ECLIPSE COURT",
+          "chronicle": "INQUISTION",
           "thaumaturgy": "Engaging the Vessel of Transference - 1",
           "dexterity_burst_of_speed_disarm_fighting_blind_or_quick_draw": "Manipulation - +3 Social on Non Power uses dealing with focus.",
-          "patric_thomas": "Laura Bishop",
+          "patric_thomas": "Nicole Paoli",
           "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Path of Honorable Accord \n1 If you voluntarily pass up an opportunity to benefit from exploiting a loophole in the rules\n2 Associating with the dishonorable\n3 Disobeying your leader\n4 If you voluntarily transgress against the law, disobey a command from a superior, break your word, place personal concerns over duty, or fail to severely punish a transgressor against the law\n5 Breaking your word or oath; failing to honor an agreement"
         },
         {
@@ -5661,7 +6338,7 @@
           "accepted_anarch": "Enforcer (Abiding)",
           "mortal": "Pretender Elder 8",
           "animalism": "Fortitude",
-          "chronicle": "Speciality Game",
+          "chronicle": "ECLIPSE COURT",
           "thaumaturgy": "Illuminate the Trail of Prey -1",
           "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Path of Metamorphosis\n1 If you voluntarily share knowledge for no benefit\n2 Indulging in pleasure\n3 Considering the needs of others\n4 If you ignore an opportunity to alter yourself, seek apotheosis, or perform a new experiment\n5 Exhibiting compassion for others"
         },
@@ -5674,6 +6351,7 @@
           "accepted_anarch": "-",
           "mortal": "Master Elder 7",
           "animalism": "Melpominee",
+          "chronicle": "Speciality Game",
           "thaumaturgy": "Warding Circle - 1",
           "dexterity_burst_of_speed_disarm_fighting_blind_or_quick_draw": "Perception - +3 Mental on Non Power uses dealing with focus.",
           "humanity_1_harm_another_you_ve_signifcantly_harmed_another_individual_physically_mentally_or_in_a_way_that_will_take_weeks_for_the_victim_to_recover_2_permanent_injury_you_ve_harmed_another_individual_in_a_way_that_will_take_the_victim_years_to_overcome_if_ever_3_killing_you_ve_killed_another_individual_4_multiple_murders_you_ve_killed_more_than_one_individual_5_heinous_acts_you_ve_committed_inhuman_acts_that_cannot_be_excused": "Path of Night (Hot)\n1 If you voluntarily fail to act on an opportunity to spread evil, tempt others to damnation, or terrify the faithless\n2 Failing to be innovative in one’s\n depredations\n3 Bowing to another Kindred’s will\n4 If you voluntarily follow another character’s orders or repent of your evil\n5 Repenting one’s behavior"
@@ -6038,7 +6716,7 @@
         },
         {
           "clans_and_their_flaws": "Malkavians \"Knights of the Moon\" - Permanent Derangement",
-          "title_rank": "Pack Leader",
+          "title_rank": "Pack Leader / Ductus",
           "secondary_abilities": "Psychology",
           "addict": "Freak",
           "accepted_anarch": "Commander (Alastor)",
@@ -7248,6 +7926,9 @@
           "Bioluminescence -1"
         ],
         [
+          "Bitter Blood -1 (Mortal Only)"
+        ],
+        [
           "Blackmail Material (Trival) -1"
         ],
         [
@@ -7287,13 +7968,13 @@
           "Efficient Digestion -1"
         ],
         [
+          "Elysium Regular -1"
+        ],
+        [
           "Embraced without the Cup -1"
         ],
         [
           "Emissary to the Camarilla -1"
-        ],
-        [
-          "Executioner -1"
         ],
         [
           "Expanded Consciousness -1"
@@ -7315,6 +7996,9 @@
         ],
         [
           "Focused Rage -1"
+        ],
+        [
+          "Former Ghoul -1"
         ],
         [
           "Gentle Entrallment (Minor) -1"
@@ -7353,6 +8037,9 @@
           "Machiavellian Prodigy -1"
         ],
         [
+          "Many Headed Seekers -1"
+        ],
+        [
           "Marijava Contact or Kairouan Brotherhood Contact -1"
         ],
         [
@@ -7381,6 +8068,9 @@
         ],
         [
           "Old Dog -1"
+        ],
+        [
+          "Order of St. Blaise -1"
         ],
         [
           "Pale Aura -1"
@@ -7458,13 +8148,13 @@
           "Seen the Unseeable -1"
         ],
         [
-          "Short -1"
-        ],
-        [
           "Special Gift -1"
         ],
         [
           "Supernatural Aria -1"
+        ],
+        [
+          "Supernatural Background -1"
         ],
         [
           "Surgar Daddy (Ghoul) -1"
@@ -7518,7 +8208,7 @@
           "Zealot -1"
         ],
         [
-          "Abyss Mystic -1"
+          "Abyss Mystic -2"
         ],
         [
           "Agent of Prophecy (Minor) \"Of Embrace Fortold\" -2"
@@ -7602,10 +8292,10 @@
           "Born in Shadow -2"
         ],
         [
-          "Burning Wrath -2"
+          "Bullyboy -2"
         ],
         [
-          "Clan Weakness -2"
+          "Burning Wrath -2"
         ],
         [
           "Code of Honor -2"
@@ -7615,6 +8305,9 @@
         ],
         [
           "Controllable Night Sight -2"
+        ],
+        [
+          "Court Appointment -2"
         ],
         [
           "Critters -2"
@@ -7650,6 +8343,9 @@
           "Enchanting Voice -2"
         ],
         [
+          "Executioner -2"
+        ],
+        [
           "Eyes of Shadow (Noteable) -2"
         ],
         [
@@ -7657,6 +8353,9 @@
         ],
         [
           "Fanatic -2"
+        ],
+        [
+          "Fearless Ferocity -2"
         ],
         [
           "Former Magus -2"
@@ -7692,7 +8391,13 @@
           "Lucky -2"
         ],
         [
+          "Machiavellian Prodigy -2"
+        ],
+        [
           "Mansion -2"
+        ],
+        [
+          "Many Headed Seekers -2"
         ],
         [
           "Mask of Everyman (Merit) -2"
@@ -7720,6 +8425,9 @@
         ],
         [
           "Mortuario (Minor) -2"
+        ],
+        [
+          "Night Vision -2"
         ],
         [
           "Nightclub -2"
@@ -7788,7 +8496,7 @@
           "Prophetic Dreams  -2"
         ],
         [
-          "Prophetic Dreams aka Prescience -2"
+          "Prophetic Dreams aka Prescience aka Foresighted-2"
         ],
         [
           "Rare Sect -2"
@@ -7801,6 +8509,9 @@
         ],
         [
           "Retractable Wings (Gargoyles) -2"
+        ],
+        [
+          "Scholar of Enemies -2"
         ],
         [
           "Silence  -2"
@@ -7884,9 +8595,6 @@
           "Bloodline: Healer -3"
         ],
         [
-          "Bound to the Council -3"
-        ],
-        [
           "Childe, Loyal -3"
         ],
         [
@@ -7908,16 +8616,10 @@
           "Disciplined Eye -3"
         ],
         [
-          "Double Betrayer -3"
-        ],
-        [
           "Dracon's Temperament -3"
         ],
         [
           "Efficient Digestion (Ghoul) -3"
-        ],
-        [
-          "Embraced Without the Cup -3"
         ],
         [
           "Escape Artist -3"
@@ -7968,10 +8670,19 @@
           "Lion of the Cause -3"
         ],
         [
+          "Lupine Kinship (Minor) -3"
+        ],
+        [
+          "Machiavellian Prodigy -3"
+        ],
+        [
           "Magic Resistance -3"
         ],
         [
           "Magical Addict (Minor)  -3"
+        ],
+        [
+          "Mole -3"
         ],
         [
           "Mystic Ability -3"
@@ -8073,6 +8784,9 @@
           "Scourge of Alecto -3"
         ],
         [
+          "Second Sight -3"
+        ],
+        [
           "Servant of the Ephorate -3"
         ],
         [
@@ -8095,6 +8809,9 @@
         ],
         [
           "Talisman -3"
+        ],
+        [
+          "Vampiric Recognition -3"
         ],
         [
           "Versatile -3"
@@ -8172,7 +8889,7 @@
           "Holdings -4"
         ],
         [
-          "Kinfolk (Ghoul)  -4"
+          "Kinfolk -4"
         ],
         [
           "Lesser Mark of the Beast -4"
@@ -8200,6 +8917,9 @@
         ],
         [
           "Sophistry  -4"
+        ],
+        [
+          "Spirit Sight -4"
         ],
         [
           "Strength of Shadows -4"
@@ -8253,7 +8973,7 @@
           "Jack of all Trades -5"
         ],
         [
-          "Magical Addict (Major)  -5"
+          "Lupine Kinship (Major) -5"
         ],
         [
           "Mummy Companion -5"
@@ -8286,6 +9006,9 @@
           "Rugged Bad Looks -5"
         ],
         [
+          "Rune-Wise -5"
+        ],
+        [
           "Self Confident -5"
         ],
         [
@@ -8304,6 +9027,9 @@
           "Totemic Change -5"
         ],
         [
+          "True Berserk -5"
+        ],
+        [
           "True Gypsy (Ghoul) -5"
         ],
         [
@@ -8316,10 +9042,16 @@
           "Unmarked Antitribu (Major) -5"
         ],
         [
+          "Vigorous -5 (Mortal/Ghouls)"
+        ],
+        [
           "Enlightened -6"
         ],
         [
           "Grand Libary (Major) -6"
+        ],
+        [
+          "Lesser Shamman -6"
         ],
         [
           "Nine Lives -6"
@@ -8338,6 +9070,12 @@
         ],
         [
           "Grand Libary (Expert) -7"
+        ],
+        [
+          "Lupine Kinship (Greater) -7"
+        ],
+        [
+          "New Bloodline -7"
         ],
         [
           "Path of the Hive -7"
@@ -8360,8 +9098,6 @@
         [
           "Virulent Strike  -7"
         ],
-        [],
-        [],
         [
           "Amnesia +1"
         ],
@@ -8432,13 +9168,16 @@
           "Poverty +1"
         ],
         [
-          "Prestation Debt -1"
+          "Prestation Debt +1"
         ],
         [
           "Prey Exclusion +1"
         ],
         [
           "Scales (Trival) +1"
+        ],
+        [
+          "Short +1"
         ],
         [
           "Stench +1"
@@ -8507,7 +9246,16 @@
           "Child, Vengeful +2"
         ],
         [
+          "Clan Weakness (Vampire) +2"
+        ],
+        [
+          "Clan Weakness +2"
+        ],
+        [
           "Cloistered +2"
+        ],
+        [
+          "Criminal Record +2"
         ],
         [
           "Crisis of Faith +2"
@@ -8520,6 +9268,9 @@
         ],
         [
           "Deep Sleeper  +2"
+        ],
+        [
+          "Deluded +2"
         ],
         [
           "Dubious Loyalties +2"
@@ -8565,6 +9316,9 @@
         ],
         [
           "Inbred (Minor) +2"
+        ],
+        [
+          "Insomanic +2 (Mortals/Ghouls)"
         ],
         [
           "Insomnia (Ghoul) +2"
@@ -8663,6 +9417,9 @@
           "Beacon of the Unholy +3"
         ],
         [
+          "Bound to the Council +3"
+        ],
+        [
           "Broken Antitribu  +3"
         ],
         [
@@ -8675,7 +9432,19 @@
           "Clan Weakness (Ghoul) +3"
         ],
         [
+          "Conspicuous Consumption +3"
+        ],
+        [
           "Death's Reflection +3"
+        ],
+        [
+          "Disgrace to the Blood +3"
+        ],
+        [
+          "Double Betrayer +3"
+        ],
+        [
+          "Embraced Without the Cup +3"
         ],
         [
           "False Amarath +3"
@@ -8780,10 +9549,10 @@
           "Vainglorius +3"
         ],
         [
-          "Weak Stomach +3"
+          "Weak Stomach aka Bulima +3"
         ],
         [
-          "Weak+Willed +3"
+          "Weak Willed +3"
         ],
         [
           "Blood Hunted +4"
@@ -8798,10 +9567,7 @@
           "Cloaked in Shadow +4"
         ],
         [
-          "Conspicuous Consumption +3"
-        ],
-        [
-          "Deaf -4"
+          "Deaf +4"
         ],
         [
           "Disease Carrier +4"
@@ -8825,7 +9591,7 @@
           "Inbred (Major) +4"
         ],
         [
-          "Kinfolk (Ghoul)  +4"
+          "Kinfolk  +4"
         ],
         [
           "Marked for Death +4"
@@ -8837,7 +9603,10 @@
           "Methuselah's Thirst  +4"
         ],
         [
-          "Prestation Debt -4"
+          "Overextended +4"
+        ],
+        [
+          "Prestation Debt +4"
         ],
         [
           "Probationary Sect Member +4"
@@ -8900,7 +9669,10 @@
           "Mage Blood +5"
         ],
         [
-          "Prestation Debt -5"
+          "Magical Addict (Major)  +5"
+        ],
+        [
+          "Prestation Debt +5"
         ],
         [
           "Thaumaturgically Inept +5"
@@ -8915,7 +9687,7 @@
           "Visible Eye +5"
         ],
         [
-          "Blind -6"
+          "Blind +6"
         ],
         [
           "Shadowalker +6"
@@ -8989,6 +9761,9 @@
           "column_1": "Bioluminescence -1"
         },
         {
+          "column_1": "Bitter Blood -1 (Mortal Only)"
+        },
+        {
           "column_1": "Blackmail Material (Trival) -1"
         },
         {
@@ -9028,13 +9803,13 @@
           "column_1": "Efficient Digestion -1"
         },
         {
+          "column_1": "Elysium Regular -1"
+        },
+        {
           "column_1": "Embraced without the Cup -1"
         },
         {
           "column_1": "Emissary to the Camarilla -1"
-        },
-        {
-          "column_1": "Executioner -1"
         },
         {
           "column_1": "Expanded Consciousness -1"
@@ -9056,6 +9831,9 @@
         },
         {
           "column_1": "Focused Rage -1"
+        },
+        {
+          "column_1": "Former Ghoul -1"
         },
         {
           "column_1": "Gentle Entrallment (Minor) -1"
@@ -9094,6 +9872,9 @@
           "column_1": "Machiavellian Prodigy -1"
         },
         {
+          "column_1": "Many Headed Seekers -1"
+        },
+        {
           "column_1": "Marijava Contact or Kairouan Brotherhood Contact -1"
         },
         {
@@ -9122,6 +9903,9 @@
         },
         {
           "column_1": "Old Dog -1"
+        },
+        {
+          "column_1": "Order of St. Blaise -1"
         },
         {
           "column_1": "Pale Aura -1"
@@ -9199,13 +9983,13 @@
           "column_1": "Seen the Unseeable -1"
         },
         {
-          "column_1": "Short -1"
-        },
-        {
           "column_1": "Special Gift -1"
         },
         {
           "column_1": "Supernatural Aria -1"
+        },
+        {
+          "column_1": "Supernatural Background -1"
         },
         {
           "column_1": "Surgar Daddy (Ghoul) -1"
@@ -9259,7 +10043,7 @@
           "column_1": "Zealot -1"
         },
         {
-          "column_1": "Abyss Mystic -1"
+          "column_1": "Abyss Mystic -2"
         },
         {
           "column_1": "Agent of Prophecy (Minor) \"Of Embrace Fortold\" -2"
@@ -9343,10 +10127,10 @@
           "column_1": "Born in Shadow -2"
         },
         {
-          "column_1": "Burning Wrath -2"
+          "column_1": "Bullyboy -2"
         },
         {
-          "column_1": "Clan Weakness -2"
+          "column_1": "Burning Wrath -2"
         },
         {
           "column_1": "Code of Honor -2"
@@ -9356,6 +10140,9 @@
         },
         {
           "column_1": "Controllable Night Sight -2"
+        },
+        {
+          "column_1": "Court Appointment -2"
         },
         {
           "column_1": "Critters -2"
@@ -9391,6 +10178,9 @@
           "column_1": "Enchanting Voice -2"
         },
         {
+          "column_1": "Executioner -2"
+        },
+        {
           "column_1": "Eyes of Shadow (Noteable) -2"
         },
         {
@@ -9398,6 +10188,9 @@
         },
         {
           "column_1": "Fanatic -2"
+        },
+        {
+          "column_1": "Fearless Ferocity -2"
         },
         {
           "column_1": "Former Magus -2"
@@ -9433,7 +10226,13 @@
           "column_1": "Lucky -2"
         },
         {
+          "column_1": "Machiavellian Prodigy -2"
+        },
+        {
           "column_1": "Mansion -2"
+        },
+        {
+          "column_1": "Many Headed Seekers -2"
         },
         {
           "column_1": "Mask of Everyman (Merit) -2"
@@ -9461,6 +10260,9 @@
         },
         {
           "column_1": "Mortuario (Minor) -2"
+        },
+        {
+          "column_1": "Night Vision -2"
         },
         {
           "column_1": "Nightclub -2"
@@ -9529,7 +10331,7 @@
           "column_1": "Prophetic Dreams  -2"
         },
         {
-          "column_1": "Prophetic Dreams aka Prescience -2"
+          "column_1": "Prophetic Dreams aka Prescience aka Foresighted-2"
         },
         {
           "column_1": "Rare Sect -2"
@@ -9542,6 +10344,9 @@
         },
         {
           "column_1": "Retractable Wings (Gargoyles) -2"
+        },
+        {
+          "column_1": "Scholar of Enemies -2"
         },
         {
           "column_1": "Silence  -2"
@@ -9625,9 +10430,6 @@
           "column_1": "Bloodline: Healer -3"
         },
         {
-          "column_1": "Bound to the Council -3"
-        },
-        {
           "column_1": "Childe, Loyal -3"
         },
         {
@@ -9649,16 +10451,10 @@
           "column_1": "Disciplined Eye -3"
         },
         {
-          "column_1": "Double Betrayer -3"
-        },
-        {
           "column_1": "Dracon's Temperament -3"
         },
         {
           "column_1": "Efficient Digestion (Ghoul) -3"
-        },
-        {
-          "column_1": "Embraced Without the Cup -3"
         },
         {
           "column_1": "Escape Artist -3"
@@ -9709,10 +10505,19 @@
           "column_1": "Lion of the Cause -3"
         },
         {
+          "column_1": "Lupine Kinship (Minor) -3"
+        },
+        {
+          "column_1": "Machiavellian Prodigy -3"
+        },
+        {
           "column_1": "Magic Resistance -3"
         },
         {
           "column_1": "Magical Addict (Minor)  -3"
+        },
+        {
+          "column_1": "Mole -3"
         },
         {
           "column_1": "Mystic Ability -3"
@@ -9814,6 +10619,9 @@
           "column_1": "Scourge of Alecto -3"
         },
         {
+          "column_1": "Second Sight -3"
+        },
+        {
           "column_1": "Servant of the Ephorate -3"
         },
         {
@@ -9836,6 +10644,9 @@
         },
         {
           "column_1": "Talisman -3"
+        },
+        {
+          "column_1": "Vampiric Recognition -3"
         },
         {
           "column_1": "Versatile -3"
@@ -9913,7 +10724,7 @@
           "column_1": "Holdings -4"
         },
         {
-          "column_1": "Kinfolk (Ghoul)  -4"
+          "column_1": "Kinfolk -4"
         },
         {
           "column_1": "Lesser Mark of the Beast -4"
@@ -9941,6 +10752,9 @@
         },
         {
           "column_1": "Sophistry  -4"
+        },
+        {
+          "column_1": "Spirit Sight -4"
         },
         {
           "column_1": "Strength of Shadows -4"
@@ -9994,7 +10808,7 @@
           "column_1": "Jack of all Trades -5"
         },
         {
-          "column_1": "Magical Addict (Major)  -5"
+          "column_1": "Lupine Kinship (Major) -5"
         },
         {
           "column_1": "Mummy Companion -5"
@@ -10027,6 +10841,9 @@
           "column_1": "Rugged Bad Looks -5"
         },
         {
+          "column_1": "Rune-Wise -5"
+        },
+        {
           "column_1": "Self Confident -5"
         },
         {
@@ -10045,6 +10862,9 @@
           "column_1": "Totemic Change -5"
         },
         {
+          "column_1": "True Berserk -5"
+        },
+        {
           "column_1": "True Gypsy (Ghoul) -5"
         },
         {
@@ -10057,10 +10877,16 @@
           "column_1": "Unmarked Antitribu (Major) -5"
         },
         {
+          "column_1": "Vigorous -5 (Mortal/Ghouls)"
+        },
+        {
           "column_1": "Enlightened -6"
         },
         {
           "column_1": "Grand Libary (Major) -6"
+        },
+        {
+          "column_1": "Lesser Shamman -6"
         },
         {
           "column_1": "Nine Lives -6"
@@ -10079,6 +10905,12 @@
         },
         {
           "column_1": "Grand Libary (Expert) -7"
+        },
+        {
+          "column_1": "Lupine Kinship (Greater) -7"
+        },
+        {
+          "column_1": "New Bloodline -7"
         },
         {
           "column_1": "Path of the Hive -7"
@@ -10171,13 +11003,16 @@
           "column_1": "Poverty +1"
         },
         {
-          "column_1": "Prestation Debt -1"
+          "column_1": "Prestation Debt +1"
         },
         {
           "column_1": "Prey Exclusion +1"
         },
         {
           "column_1": "Scales (Trival) +1"
+        },
+        {
+          "column_1": "Short +1"
         },
         {
           "column_1": "Stench +1"
@@ -10246,7 +11081,16 @@
           "column_1": "Child, Vengeful +2"
         },
         {
+          "column_1": "Clan Weakness (Vampire) +2"
+        },
+        {
+          "column_1": "Clan Weakness +2"
+        },
+        {
           "column_1": "Cloistered +2"
+        },
+        {
+          "column_1": "Criminal Record +2"
         },
         {
           "column_1": "Crisis of Faith +2"
@@ -10259,6 +11103,9 @@
         },
         {
           "column_1": "Deep Sleeper  +2"
+        },
+        {
+          "column_1": "Deluded +2"
         },
         {
           "column_1": "Dubious Loyalties +2"
@@ -10304,6 +11151,9 @@
         },
         {
           "column_1": "Inbred (Minor) +2"
+        },
+        {
+          "column_1": "Insomanic +2 (Mortals/Ghouls)"
         },
         {
           "column_1": "Insomnia (Ghoul) +2"
@@ -10402,6 +11252,9 @@
           "column_1": "Beacon of the Unholy +3"
         },
         {
+          "column_1": "Bound to the Council +3"
+        },
+        {
           "column_1": "Broken Antitribu  +3"
         },
         {
@@ -10414,7 +11267,19 @@
           "column_1": "Clan Weakness (Ghoul) +3"
         },
         {
+          "column_1": "Conspicuous Consumption +3"
+        },
+        {
           "column_1": "Death's Reflection +3"
+        },
+        {
+          "column_1": "Disgrace to the Blood +3"
+        },
+        {
+          "column_1": "Double Betrayer +3"
+        },
+        {
+          "column_1": "Embraced Without the Cup +3"
         },
         {
           "column_1": "False Amarath +3"
@@ -10519,10 +11384,10 @@
           "column_1": "Vainglorius +3"
         },
         {
-          "column_1": "Weak Stomach +3"
+          "column_1": "Weak Stomach aka Bulima +3"
         },
         {
-          "column_1": "Weak+Willed +3"
+          "column_1": "Weak Willed +3"
         },
         {
           "column_1": "Blood Hunted +4"
@@ -10537,10 +11402,7 @@
           "column_1": "Cloaked in Shadow +4"
         },
         {
-          "column_1": "Conspicuous Consumption +3"
-        },
-        {
-          "column_1": "Deaf -4"
+          "column_1": "Deaf +4"
         },
         {
           "column_1": "Disease Carrier +4"
@@ -10564,7 +11426,7 @@
           "column_1": "Inbred (Major) +4"
         },
         {
-          "column_1": "Kinfolk (Ghoul)  +4"
+          "column_1": "Kinfolk  +4"
         },
         {
           "column_1": "Marked for Death +4"
@@ -10576,7 +11438,10 @@
           "column_1": "Methuselah's Thirst  +4"
         },
         {
-          "column_1": "Prestation Debt -4"
+          "column_1": "Overextended +4"
+        },
+        {
+          "column_1": "Prestation Debt +4"
         },
         {
           "column_1": "Probationary Sect Member +4"
@@ -10639,7 +11504,10 @@
           "column_1": "Mage Blood +5"
         },
         {
-          "column_1": "Prestation Debt -5"
+          "column_1": "Magical Addict (Major)  +5"
+        },
+        {
+          "column_1": "Prestation Debt +5"
         },
         {
           "column_1": "Thaumaturgically Inept +5"
@@ -10654,7 +11522,7 @@
           "column_1": "Visible Eye +5"
         },
         {
-          "column_1": "Blind -6"
+          "column_1": "Blind +6"
         },
         {
           "column_1": "Shadowalker +6"
@@ -10870,6 +11738,11 @@
           "2016-10-17 00:00:00",
           "Added space for new backgrounds."
         ],
+        [
+          "V3.5.3",
+          "2016-11-17 00:00:00",
+          "Expanded Background Sheet added"
+        ],
         [],
         [
           "Basic Rules for making characters"
@@ -10927,6 +11800,11 @@
           "v_2": "V3.5.2",
           "2015_10_15_00_00_00": "2016-10-17 00:00:00",
           "spelling_check": "Added space for new backgrounds."
+        },
+        {
+          "v_2": "V3.5.3",
+          "2015_10_15_00_00_00": "2016-11-17 00:00:00",
+          "spelling_check": "Expanded Background Sheet added"
         },
         {
           "v_2": "Basic Rules for making characters"
