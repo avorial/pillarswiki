@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 350,
+  "processedCount": 400,
   "processed": [
     {
       "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Loviatar-Tzmisce-NPC-San-Diego.json",
@@ -8124,6 +8124,1031 @@
       ]
     },
     {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Abd-al-Alim-Assamite-Vizier-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Abd-al-Alim-Assamite-Vizier-Door",
+      "characterName": "Abd al Alim",
+      "playerName": "",
+      "clan": "Assamite \"Vizier\" - Obsessed \"Knowledge\"",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Ali-Ameera-Sayied-Assamite-V.4.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Ali-Ameera-Sayied-Assamite-V.4",
+      "characterName": "Ameera/Ali Sayied",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Brian-Poguni-Assamite.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Brian-Poguni-Assamite",
+      "characterName": "Brian Poguni",
+      "playerName": "",
+      "clan": "Assamite \"Warrior\" - Addicted to Vitae",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Copy-of-Eshrit-Al-Hadi-Assamite-S-Door-V.3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Copy-of-Eshrit-Al-Hadi-Assamite-S-Door-V.3.5.1",
+      "characterName": "Eshrit Al Hadi",
+      "playerName": "",
+      "clan": "Assamite \"Sorcerer\" - Magical Aura",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Copy-of-Mark-French-ASSAMITE-DOOR-3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Copy-of-Mark-French-ASSAMITE-DOOR-3.5.1",
+      "characterName": "Mark French",
+      "playerName": "",
+      "clan": "Assamite \"Vizier\" - Obsessed \"Knowledge\"",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Diego-Lorena-Assamite.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Diego-Lorena-Assamite",
+      "characterName": "Diego/Lorena",
+      "playerName": "",
+      "clan": "Assamite \"Vizier\" - Obsessed \"Knowledge\"",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Galava-Gameti-Assamite.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Galava-Gameti-Assamite",
+      "characterName": "Galava/Gameti",
+      "playerName": "",
+      "clan": "Assamite \"Warrior\" - Addicted to Vitae",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Jamal-Ardwana-Assamite.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Jamal-Ardwana-Assamite",
+      "characterName": "Jamal/Ardwana",
+      "playerName": "",
+      "clan": "Assamite \"Vizier\" - Obsessed \"Knowledge\"",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Jedediah-Phelps-Assamite.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Jedediah-Phelps-Assamite",
+      "characterName": "Jedediah Phelps",
+      "playerName": "",
+      "clan": "Assamite \"Warrior\"",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Assamite/Phillipe-Paula-Assamite-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Assamite"
+      ],
+      "sourceTitle": "Phillipe-Paula-Assamite-Door",
+      "characterName": "Phillipe/Paula",
+      "playerName": "",
+      "clan": "Assamite \"Warrior\" - Addicted to Vitae",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/3.5.4-Guillermo-Jackie-Nunez-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "3.5.4-Guillermo-Jackie-Nunez-Brujah",
+      "characterName": "Guillermo/Jackie Nunez",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/3.5.4-Mike-The-Hammer-Reynaurd-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "3.5.4-Mike-The-Hammer-Reynaurd-Brujah",
+      "characterName": "Mike \"The Hammer\" Reynaurd",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Aaron-Jones-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Aaron-Jones-Brujah",
+      "characterName": "Aaron Jones",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Alfons-Davis-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Alfons-Davis-Brujah",
+      "characterName": "Alfons Davis",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Bronislawa-Crone-of-Zamosc-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Bronislawa-Crone-of-Zamosc-Brujah",
+      "characterName": "Bronislawa, Crone of Zamosc",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Copy-of-Noxium-Dolor-BRUJAH-Ariel-Staehle-3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Copy-of-Noxium-Dolor-BRUJAH-Ariel-Staehle-3.5.1",
+      "characterName": "Noxium Dolor",
+      "playerName": "",
+      "clan": "Caitiff - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Copy-of-Tucker-Smallwood-Brujah-V.3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Copy-of-Tucker-Smallwood-Brujah-V.3.5.1",
+      "characterName": "Tucker Smallwood",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Gesco-the-Carthaginian-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Gesco-the-Carthaginian-Brujah",
+      "characterName": "Gesco the Carthaginian",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Janice-Armstrong-Brujah-V.3.5.4.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Janice-Armstrong-Brujah-V.3.5.4",
+      "characterName": "Janice Armstrong",
+      "playerName": "Shaina Nalaboff",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/John-McFlannery-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "John-McFlannery-Brujah",
+      "characterName": "John McFlannery",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Tucker-Smallwood-Brujah-V.3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Tucker-Smallwood-Brujah-V.3.5.1",
+      "characterName": "Tucker Smallwood",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/V4-Evelyn-Ethan-Hughes-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "V4-Evelyn-Ethan-Hughes-Brujah",
+      "characterName": "Evelyn/Ethan Hughes",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/V4-Federica-Federico-Castillo.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "V4-Federica-Federico-Castillo",
+      "characterName": "Federica/Federico Castillo",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Brujah/Willis-Potter-Brujah.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Brujah"
+      ],
+      "sourceTitle": "Willis-Potter-Brujah",
+      "characterName": "Willis Potter",
+      "playerName": "",
+      "clan": "Brujah - Stronger Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Caitiff/Copy-of-August-Creel-CAITIFF-3.5.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Caitiff"
+      ],
+      "sourceTitle": "Copy-of-August-Creel-CAITIFF-3.5",
+      "characterName": "August Creel",
+      "playerName": "",
+      "clan": "Caitiff - Weak Blood",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Caitiff/Copy-of-Elissa-Montclair-Caitiff.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Caitiff"
+      ],
+      "sourceTitle": "Copy-of-Elissa-Montclair-Caitiff",
+      "characterName": "Elissa Montclair",
+      "playerName": "",
+      "clan": "???",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/3.5.4-Brian-Briana-DeNoto-Gangrel.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "3.5.4-Brian-Briana-DeNoto-Gangrel",
+      "characterName": "Brian/Briana Denoto",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/3.5.4-Charles-Carly-Longsten-Gangrel.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "3.5.4-Charles-Carly-Longsten-Gangrel",
+      "characterName": "Charles/Carly Longsten",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/3.5.4-Gunnar-Gangrel.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "3.5.4-Gunnar-Gangrel",
+      "characterName": "Gunnar",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/3.5.4-Ivan-Wanda-March-Gangrel.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "3.5.4-Ivan-Wanda-March-Gangrel",
+      "characterName": "Ivan/Wanda March",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/Alfonso-Alma-Luna-Gangrel-Reclaimed-Door-V.3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "Alfonso-Alma-Luna-Gangrel-Reclaimed-Door-V.3.5.1",
+      "characterName": "Alfonso / Alma Luna",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/Andre-Laurent-City-Gangrel-Doors.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "Andre-Laurent-City-Gangrel-Doors",
+      "characterName": "Andre Laurent",
+      "playerName": "",
+      "clan": "Gangrel \"Coyote\" - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/Daniel-Felix-GANGREL-DOOR-3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "Daniel-Felix-GANGREL-DOOR-3.5.1",
+      "characterName": "Daniel Felix",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/Nigel-Natalie-Laskaris-Gangrel.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "Nigel-Natalie-Laskaris-Gangrel",
+      "characterName": "Nigel/Natalie Laskaris",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/Old/OLD-Alfonso-Alma-Luna-Gangrel-Reclaimed-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Alfonso-Alma-Luna-Gangrel-Reclaimed-Door",
+      "characterName": "Alfonso/Alma Luna",
+      "playerName": "",
+      "clan": "Gangrel",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/Old/OLD-Nigel-Natalie-Laskaris-Gangrel-Reclaimed-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Nigel-Natalie-Laskaris-Gangrel-Reclaimed-Door",
+      "characterName": "Nigel/Natalie Laskaris",
+      "playerName": "Ellen Anderson",
+      "clan": "Gangrel",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/Old/OLD-William-Kenner-Gangrel-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel",
+        "Old"
+      ],
+      "sourceTitle": "OLD-William-Kenner-Gangrel-Door",
+      "characterName": "William Kenner",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Gangrel/William-Kenner-Gangrel-Door-V.3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Gangrel"
+      ],
+      "sourceTitle": "William-Kenner-Gangrel-Door-V.3.5.1",
+      "characterName": "William Kenner",
+      "playerName": "",
+      "clan": "Gangrel - Animalistic Beast",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Z-Door-Characters/Characters/Toreador/Abilio-Abigail-Vernandez-Toreador.json",
       "folderPath": [
         "Z Door Characters",
@@ -8742,6 +9767,30 @@
       ]
     },
     {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Alan-Church.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Alan-Church",
+      "characterName": "Alan Church",
+      "playerName": "",
+      "clan": "Tremere",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-ASSIGNED-INVALID-FILE-Leo-Corrales.json",
       "folderPath": [
         "Z Door Characters",
@@ -8766,6 +9815,30 @@
         "Coding",
         "Merit Table",
         "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Elizabeth-Johnson.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Elizabeth-Johnson",
+      "characterName": "Elizabeth Johnson",
+      "playerName": "",
+      "clan": "Tremere",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
         "Sheet Information"
       ]
     },
@@ -8811,6 +9884,54 @@
         "History",
         "Personal Plot  Notes",
         "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Luc-Vandevender.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Luc-Vandevender",
+      "characterName": "Luc Vandevender",
+      "playerName": "",
+      "clan": "Tremere",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Oleg-Karpoff.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Tremere",
+        "Old"
+      ],
+      "sourceTitle": "OLD-Oleg-Karpoff",
+      "characterName": "Oleg Karpoff",
+      "playerName": "",
+      "clan": "Tremere",
+      "tabs": [
+        "XP Spends",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Print Sheet",
         "Coding",
         "Merit Table",
         "Sheet Information"
@@ -8914,6 +10035,227 @@
         "XP Spends",
         "Morality & Derangments",
         "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Ventrue/Copy-of-3.5.4-John-Bathven-Ventrue.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Ventrue"
+      ],
+      "sourceTitle": "Copy-of-3.5.4-John-Bathven-Ventrue",
+      "characterName": "John Bathven",
+      "playerName": "",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Ventrue/Copy-of-3.5.4-Jonathan-Julia-van-Giersbergen-Ventrue.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Ventrue"
+      ],
+      "sourceTitle": "Copy-of-3.5.4-Jonathan-Julia-van-Giersbergen-Ventrue",
+      "characterName": "Jonathan/Julia van Giersbergen",
+      "playerName": "",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Ventrue/Copy-of-3.5.4-Peter-Van-Helgen-Ventrue.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Ventrue"
+      ],
+      "sourceTitle": "Copy-of-3.5.4-Peter-Van-Helgen-Ventrue",
+      "characterName": "Peter Van Helgen",
+      "playerName": "",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Ventrue/Copy-of-Angelina-Fate-VENTRUE-DOOR-3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Ventrue"
+      ],
+      "sourceTitle": "Copy-of-Angelina-Fate-VENTRUE-DOOR-3.5.1",
+      "characterName": "Angelina Fate",
+      "playerName": "",
+      "clan": "Ventrue \"Crusader\" - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Disiplines Mechanic",
+        "History",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Ventrue/Copy-of-Elen-Kurstwild-Ventrue-DOOR-3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Ventrue"
+      ],
+      "sourceTitle": "Copy-of-Elen-Kurstwild-Ventrue-DOOR-3.5.1",
+      "characterName": "Elen Kurstwild",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Ventrue/Copy-of-Knox-Harrington-Ventrue-DOOR-3.5.1.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Ventrue"
+      ],
+      "sourceTitle": "Copy-of-Knox-Harrington-Ventrue-DOOR-3.5.1",
+      "characterName": "Knox Harrington",
+      "playerName": "",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Ventrue/Copy-of-Victor-Victoria-Creed-Ventrue.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Ventrue"
+      ],
+      "sourceTitle": "Copy-of-Victor-Victoria-Creed-Ventrue",
+      "characterName": "Victor/Victoria Creed",
+      "playerName": "",
+      "clan": "Ventrue - Feeding Preference",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Ventrue/V4-Jessica-Jonathan-Bobak-Ventrue.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Ventrue"
+      ],
+      "sourceTitle": "V4-Jessica-Jonathan-Bobak-Ventrue",
+      "characterName": "Jessica/Jonathan Bobak",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
