@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 400,
+  "processedCount": 410,
   "processed": [
     {
       "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Loviatar-Tzmisce-NPC-San-Diego.json",
@@ -9149,6 +9149,250 @@
       ]
     },
     {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/Adolpho-Yanna-Moncesco-Malkavian.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "Adolpho-Yanna-Moncesco-Malkavian",
+      "characterName": "Adolpho/Yanna Moncesco",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/Douglas-Mirisch-Malkavian-DOOR-V.3.5.2.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "Douglas-Mirisch-Malkavian-DOOR-V.3.5.2",
+      "characterName": "Douglas Mirisch",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/Ephrim-Margret-Galaz-Malkavian-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "Ephrim-Margret-Galaz-Malkavian-Door",
+      "characterName": "Ephrim/Margret Galaz",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/Indigo-Malkavian-Reclaimed-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "Indigo-Malkavian-Reclaimed-Door",
+      "characterName": "Indigo",
+      "playerName": "",
+      "clan": "Malkavians",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "History",
+        "Personal Plot  Notes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/James-Paula-Krovinska-Malkavian.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "James-Paula-Krovinska-Malkavian",
+      "characterName": "James/Paula Krovinska",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/Mors-Malkavian.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "Mors-Malkavian",
+      "characterName": "Mors",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/Ned-Marci-Malkavian.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "Ned-Marci-Malkavian",
+      "characterName": "Ned/Marci",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/Robert-Robin-Aberton-Malkavian-V.3.5.4.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "Robert-Robin-Aberton-Malkavian-V.3.5.4",
+      "characterName": "Robert/Robin Aberton",
+      "playerName": "",
+      "clan": "Malkavians - Permanent Derangement",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Malkavian/V4-Nicole-Noah-Bowers-Malkavian-Door.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Malkavian"
+      ],
+      "sourceTitle": "V4-Nicole-Noah-Bowers-Malkavian-Door",
+      "characterName": "Nicole/Noah Bowers",
+      "playerName": "",
+      "clan": "",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "History",
+        "Expanded Backgrounds",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
       "path": "characters/Z-Door-Characters/Characters/Toreador/Abilio-Abigail-Vernandez-Toreador.json",
       "folderPath": [
         "Z Door Characters",
@@ -9271,6 +9515,34 @@
         "Print Sheet",
         "XP Spends",
         "Morality & Derangments",
+        "History",
+        "Disiplines Mechanic",
+        "Blood Bonds  Valudrie",
+        "Personal Plot  Objects",
+        "Downtimes",
+        "Submissions",
+        "Coding",
+        "Merit Table",
+        "DisiplineBM Coding",
+        "Sheet Information"
+      ]
+    },
+    {
+      "path": "characters/Z-Door-Characters/Characters/Toreador/Copy-of-3.5.4-Deirdre-Janos-Pierce-Toreador.json",
+      "folderPath": [
+        "Z Door Characters",
+        "Characters",
+        "Toreador"
+      ],
+      "sourceTitle": "Copy-of-3.5.4-Deirdre-Janos-Pierce-Toreador",
+      "characterName": "Deirdre/Janos Pierce",
+      "playerName": "",
+      "clan": "Toreador - Entranced by Art",
+      "tabs": [
+        "Print Sheet",
+        "XP Spends",
+        "Morality & Derangments",
+        "Expanded Backgrounds",
         "History",
         "Disiplines Mechanic",
         "Blood Bonds  Valudrie",
