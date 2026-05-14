@@ -1,7 +1,7 @@
 {
   "source": "Google Drive Characters folder",
   "status": "in_progress",
-  "processedCount": 410,
+  "processedCount": 330,
   "processed": [
     {
       "path": "characters/AA-Convention-San-Diego-Venue/Old-May-2016/Copy-of-Loviatar-Tzmisce-NPC-San-Diego.json",
@@ -389,27 +389,6 @@
       ]
     },
     {
-      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Cicatriz-NPC-V3-5-4.json",
-      "folderPath": [
-        "AA Convention (San Diego) Venue",
-        "SD Sabbat"
-      ],
-      "sourceTitle": "Cicatriz-NPC-V3-5-4",
-      "characterName": "Cicatriz",
-      "playerName": "Khaldoun Khelil",
-      "clan": "Nosferatu - Repulsive",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/City-Gangrel-Black-Hand.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -482,28 +461,6 @@
         "Espada Rápida (MB1)"
       ],
       "sourceTitle": "Mouse (abbot) - Sheet V.3.5.4",
-      "characterName": "Mouse",
-      "playerName": "",
-      "clan": "Tzimisce - Bound to the Earth",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Espada-Rapida-MB1/Mouse-abbot-Sheet-V3-5-4.json",
-      "folderPath": [
-        "AA Convention (San Diego) Venue",
-        "SD Sabbat",
-        "Espada Rapida (MB1)"
-      ],
-      "sourceTitle": "Mouse-abbot-Sheet-V3-5-4",
       "characterName": "Mouse",
       "playerName": "",
       "clan": "Tzimisce - Bound to the Earth",
@@ -632,28 +589,6 @@
         "La Clandestinité (MB2)"
       ],
       "sourceTitle": "Chat-La-Clandestine-Garret-S-V.3.5.4",
-      "characterName": "Chat",
-      "playerName": "Garret S",
-      "clan": "Nosferatu - Repulsive",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/La-Clandestinite-MB2/Chat-La-Clandestine-Garret-S-V3-5-4.json",
-      "folderPath": [
-        "AA Convention (San Diego) Venue",
-        "SD Sabbat",
-        "La Clandestinite (MB2)"
-      ],
-      "sourceTitle": "Chat-La-Clandestine-Garret-S-V3-5-4",
       "characterName": "Chat",
       "playerName": "Garret S",
       "clan": "Nosferatu - Repulsive",
@@ -1266,28 +1201,6 @@
       ]
     },
     {
-      "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/Starlit-Blood-KK3/Jasper-Bloom-Starlit-Blood-Cy-T-Sheet-V3-5-4.json",
-      "folderPath": [
-        "AA Convention (San Diego) Venue",
-        "SD Sabbat",
-        "Starlit Blood (KK3)"
-      ],
-      "sourceTitle": "Jasper-Bloom-Starlit-Blood-Cy-T-Sheet-V3-5-4",
-      "characterName": "Jasper Bloom",
-      "playerName": "Cy T.",
-      "clan": "Malkavians - Permanent Derangement",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/AA-Convention-San-Diego-Venue/SD-Sabbat/The-Aristocrats-AR-1/Clarence-Reverdin-The-Aristocrats-Scott.json",
       "folderPath": [
         "AA Convention (San Diego) Venue",
@@ -1574,28 +1487,6 @@
       ]
     },
     {
-      "path": "characters/AA-Sabbat-Venue/Packs/Angeli-della-Notti/Beatrice-d_Este-Angeli-della-Notti-Vanessa-Kam-V.3.5.4.json",
-      "folderPath": [
-        "AA Sabbat Venue",
-        "Packs",
-        "Angeli della Notti"
-      ],
-      "sourceTitle": "Beatrice d_Este (Angeli della Notti) Vanessa Kam V.3.5.4",
-      "characterName": "Beatrice d'Este",
-      "playerName": "Vanessa Kam",
-      "clan": "Lasombra - No Reflection",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/AA-Sabbat-Venue/Packs/Never-Ending-Disaster-Clique/Isaiah-NDC-Mat-Segal-V.3.5.4.json",
       "folderPath": [
         "AA Sabbat Venue",
@@ -1704,51 +1595,11 @@
       ]
     },
     {
-      "path": "characters/Assamite/Adrian-Greyward-Assamite-WotB-V5.json",
-      "folderPath": [
-        "Assamite"
-      ],
-      "sourceTitle": "Adrian-Greyward-Assamite-WotB-V5",
-      "characterName": "Adrian Greyward",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Assamite/Anna-Alan-Isaak-Assamite-WotB-V-5-April-Serrato.json",
       "folderPath": [
         "Assamite"
       ],
       "sourceTitle": "Anna-Alan-Isaak-Assamite-WotB-V-5-April-Serrato",
-      "characterName": "Anna Isaak",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Assamite/Anna-Alan-Isaak-Assamite-WotB-V5-April-Serrato.json",
-      "folderPath": [
-        "Assamite"
-      ],
-      "sourceTitle": "Anna-Alan-Isaak-Assamite-WotB-V5-April-Serrato",
       "characterName": "Anna Isaak",
       "playerName": "",
       "clan": "",
@@ -1804,26 +1655,6 @@
       ]
     },
     {
-      "path": "characters/Assamite/Fadi-bin-Sallah-Assamite-Neal-Fischer-WotB-V5.json",
-      "folderPath": [
-        "Assamite"
-      ],
-      "sourceTitle": "Fadi-bin-Sallah-Assamite-Neal-Fischer-WotB-V5",
-      "characterName": "Fadi bin Sallah",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Assamite/Khadija-Zubayda-Assamite-Sorcerer-Carla-Dickerson-Whispers-of-the-Blind-V5.json",
       "folderPath": [
         "Assamite"
@@ -1844,51 +1675,11 @@
       ]
     },
     {
-      "path": "characters/Assamite/Khadija-Zubayda-Assamite-Sorcerer-Carla-Dickerson-WotB-V-5.json",
-      "folderPath": [
-        "Assamite"
-      ],
-      "sourceTitle": "Khadija-Zubayda-Assamite-Sorcerer-Carla-Dickerson-WotB-V-5",
-      "characterName": "Khadija Zubayda",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Assamite/Maha-Vizier-Medic-Assamite-Sheet-V-5.json",
       "folderPath": [
         "Assamite"
       ],
       "sourceTitle": "Maha-Vizier-Medic-Assamite-Sheet-V-5",
-      "characterName": "Maha bint Abi al-Qasim",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Assamite/Maha-Vizier-Medic-Assamite-Sheet-V5.json",
-      "folderPath": [
-        "Assamite"
-      ],
-      "sourceTitle": "Maha-Vizier-Medic-Assamite-Sheet-V5",
       "characterName": "Maha bint Abi al-Qasim",
       "playerName": "",
       "clan": "",
@@ -1930,46 +1721,6 @@
       ],
       "sourceTitle": "Omar-Assamite-WotB-V-5",
       "characterName": "Omar al'ilm",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Assamite/Omar-Assamite-WotB-V5.json",
-      "folderPath": [
-        "Assamite"
-      ],
-      "sourceTitle": "Omar-Assamite-WotB-V5",
-      "characterName": "Omar al'ilm",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Brujah/Alberto-Cabrales-Brujah-WotB-V-5.json",
-      "folderPath": [
-        "Brujah"
-      ],
-      "sourceTitle": "Alberto-Cabrales-Brujah-WotB-V-5",
-      "characterName": "Alberto Cabrales",
       "playerName": "",
       "clan": "",
       "tabs": [
@@ -2068,27 +1819,6 @@
       ]
     },
     {
-      "path": "characters/Brujah/retired/Ramman-Hawthorne-Brujah-Robert-Santner.json",
-      "folderPath": [
-        "Brujah",
-        "retired"
-      ],
-      "sourceTitle": "Ramman-Hawthorne-Brujah-Robert-Santner",
-      "characterName": "Ramman Hawthorne",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Brujah/Reynard-Renarde-Gracen.json",
       "folderPath": [
         "Brujah"
@@ -2102,45 +1832,6 @@
         "XP Spends",
         "History",
         "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Brujah/Salvador-Garcia-Brujah-WotB-Sheet-V-5.json",
-      "folderPath": [
-        "Brujah"
-      ],
-      "sourceTitle": "Salvador-Garcia-Brujah-WotB-Sheet-V-5",
-      "characterName": "Salvador Garcia",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Brujah/Willis-Potter-V-3-5-1.json",
-      "folderPath": [
-        "Brujah"
-      ],
-      "sourceTitle": "Willis-Potter-V-3-5-1",
-      "characterName": "Willis Potter",
-      "playerName": "",
-      "clan": "Brujah - Stronger Beast",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
         "Downtimes",
@@ -2566,26 +2257,6 @@
       ]
     },
     {
-      "path": "characters/Drive-V.3.5.4-Search/Beatrice-dEste-Angeli-della-Notti-Vanessa-Kam-V.3.5.4.json",
-      "folderPath": [
-        "Drive V.3.5.4 Search"
-      ],
-      "sourceTitle": "Beatrice d'Este (Angeli della Notti) Vanessa Kam V.3.5.4",
-      "characterName": "Beatrice d'Este",
-      "playerName": "Vanessa Kam",
-      "clan": "Lasombra - No Reflection",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Drive-V.3.5.4-Search/Beckett-Gangrel-Mark-Rein-Hagen-V.3.5.4.json",
       "folderPath": [
         "Drive V.3.5.4 Search"
@@ -2731,26 +2402,6 @@
         "Drive V.3.5.4 Search"
       ],
       "sourceTitle": "Copy of Dawn Alabastor (Labrys Rune) Lucy R - V.3.5.4 duplicate",
-      "characterName": "Dawn Alabastor",
-      "playerName": "Lucy R",
-      "clan": "Ventrue \"Crusader\" - Feeding Preference",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Drive-V.3.5.4-Search/Dawn-Alabastor-Labrys-Rune-Lucy-R-V.3.5.4.json",
-      "folderPath": [
-        "Drive V.3.5.4 Search"
-      ],
-      "sourceTitle": "Copy of Dawn Alabastor (Labrys Rune) Lucy R - V.3.5.4",
       "characterName": "Dawn Alabastor",
       "playerName": "Lucy R",
       "clan": "Ventrue \"Crusader\" - Feeding Preference",
@@ -2986,26 +2637,6 @@
       ]
     },
     {
-      "path": "characters/Drive-V.3.5.4-Search/Nikos-Taparis-Spear-of-Enoch-Dan-Pipoly-V.3.5.4.json",
-      "folderPath": [
-        "Drive V.3.5.4 Search"
-      ],
-      "sourceTitle": "Nikos Taparis (Spear of Enoch) Dan Pipoly V.3.5.4",
-      "characterName": "Nikos Taparis",
-      "playerName": "Dan Pipoly",
-      "clan": "Lasombra - No Reflection",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Drive-V.3.5.4-Search/Norris-Michaud-Toreador-Cy-Terrin-V.3.5.4.json",
       "folderPath": [
         "Drive V.3.5.4 Search"
@@ -3146,46 +2777,6 @@
       ]
     },
     {
-      "path": "characters/Drive-V.3.5.4-Search/Robert-Graves-Spear-of-Enoch-Charles-Stanton-V.3.5.4-duplicate.json",
-      "folderPath": [
-        "Drive V.3.5.4 Search"
-      ],
-      "sourceTitle": "Robert Graves (Spear of Enoch) Charles Stanton V.3.5.4 duplicate",
-      "characterName": "Robert / Bobby Graves",
-      "playerName": "Charles Stanton",
-      "clan": "Cappadocians - \"Harbingers of Skulls\" Ghastly Pallor",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Drive-V.3.5.4-Search/Robert-Graves-Spear-of-Enoch-Charles-Stanton-V.3.5.4.json",
-      "folderPath": [
-        "Drive V.3.5.4 Search"
-      ],
-      "sourceTitle": "Robert Graves (Spear of Enoch) Charles Stanton V.3.5.4",
-      "characterName": "Robert / Bobby Graves",
-      "playerName": "Charles Stanton",
-      "clan": "Cappadocians - \"Harbingers of Skulls\" Ghastly Pallor",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Drive-V.3.5.4-Search/Ruby-Darling-NDC-Rachel-Judd-V.3.5.4.json",
       "folderPath": [
         "Drive V.3.5.4 Search"
@@ -3214,26 +2805,6 @@
       "characterName": "Scar",
       "playerName": "Cy Terrin",
       "clan": "Tzimisce - Bound to the Earth",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Drive-V.3.5.4-Search/Shepherd-Sheet-V.3.5.4-duplicate.json",
-      "folderPath": [
-        "Drive V.3.5.4 Search"
-      ],
-      "sourceTitle": "Copy of Shepherd - Sheet V.3.5.4 duplicate",
-      "characterName": "Shepherd",
-      "playerName": "",
-      "clan": "",
       "tabs": [
         "Print Sheet",
         "XP Spends",
@@ -3306,26 +2877,6 @@
       ]
     },
     {
-      "path": "characters/Drive-V.3.5.4-Search/Vatiali-Kuzio-Spear-of-Enoch-Joseph-Butts-V.3.5.4.json",
-      "folderPath": [
-        "Drive V.3.5.4 Search"
-      ],
-      "sourceTitle": "Vatiali Kuzio (Spear of Enoch) Joseph Butts V.3.5.4",
-      "characterName": "Vatiali Kuzio",
-      "playerName": "Joseph Butts",
-      "clan": "Tzimisce \"Koldun\" - Bound to the Earth",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Drive-V.3.5.4-Search/Zahn-Spiral-Sign-Kevin-Fennel-V.3.5.4.json",
       "folderPath": [
         "Drive V.3.5.4 Search"
@@ -3366,26 +2917,6 @@
       ]
     },
     {
-      "path": "characters/Gangrel/ChristopherBertrand-Gangrel-Keith-Goodwin-v5-WotB.json",
-      "folderPath": [
-        "Gangrel"
-      ],
-      "sourceTitle": "ChristopherBertrand-Gangrel-Keith-Goodwin-v5-WotB",
-      "characterName": "Christopher Bertrand",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Gangrel/Ian-Murray-Gangrel.json",
       "folderPath": [
         "Gangrel"
@@ -3410,26 +2941,6 @@
         "Gangrel"
       ],
       "sourceTitle": "Mara-Marc-Millar-Gangrel-WotB-V-5",
-      "characterName": "Mara/Marc Millar",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Gangrel/Mara-Marc-Millar-Gangrel-WotB-V5.json",
-      "folderPath": [
-        "Gangrel"
-      ],
-      "sourceTitle": "Mara-Marc-Millar-Gangrel-WotB-V5",
       "characterName": "Mara/Marc Millar",
       "playerName": "",
       "clan": "",
@@ -3858,26 +3369,6 @@
       ]
     },
     {
-      "path": "characters/NPC/Count-Ernest-Tofen-NPC-Setite.json",
-      "folderPath": [
-        "NPC"
-      ],
-      "sourceTitle": "Count-Ernest-Tofen-NPC-Setite",
-      "characterName": "Count Ernest Tofen",
-      "playerName": "",
-      "clan": "Followers of Set - Light Sensitivity",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/NPC/Dhareef-el-Anwar-Assamite-Michele-Shannon-NPC-Archon.json",
       "folderPath": [
         "NPC"
@@ -3890,25 +3381,6 @@
         "Print Sheet",
         "XP Spends",
         "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/NPC/Don-Paul-Guzman-Lasombra-NPC.json",
-      "folderPath": [
-        "NPC"
-      ],
-      "sourceTitle": "Don-Paul-Guzman-Lasombra-NPC",
-      "characterName": "Don Paul Guzman",
-      "playerName": "",
-      "clan": "Lasombra - No Reflection",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
         "History",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
@@ -4241,27 +3713,6 @@
       ]
     },
     {
-      "path": "characters/NPC/NPCs/Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired.json",
-      "folderPath": [
-        "NPC",
-        "NPCs"
-      ],
-      "sourceTitle": "Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired",
-      "characterName": "Nakai Tsosi/Jose Morales",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/NPC/Sabbat-NPC/Bird-Dog-Representative-of-Cicatrix-Theo.json",
       "folderPath": [
         "NPC",
@@ -4581,26 +4032,6 @@
       ]
     },
     {
-      "path": "characters/NPC/Sabbat-NPC/La-Chuchilla-Hand-Patric.json",
-      "folderPath": [
-        "NPC",
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "La-Chuchilla-Hand-Patric",
-      "characterName": "La Cuchilla \"The Cleaver\"",
-      "playerName": "Patric Thomas",
-      "clan": "Caitiff - \"Pander\" - Weak Blood",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/NPC/Sabbat-NPC/Leila-Monroe-NPC-Dressed-to-Kill.json",
       "folderPath": [
         "NPC",
@@ -4856,26 +4287,6 @@
       ]
     },
     {
-      "path": "characters/NPCs/Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired.json",
-      "folderPath": [
-        "NPC's"
-      ],
-      "sourceTitle": "Nakai-Tsosi-Jose-Morales-Nosferatu-Patric-Thomas-Sheet-V5-Retired",
-      "characterName": "Nakai Tsosi/Jose Morales",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Retired-Characters-Players-MIA/Apostle-Nosferatu-WotB-Hans-V.5.json",
       "folderPath": [
         "Retired Characters Players MIA"
@@ -4896,309 +4307,6 @@
       ]
     },
     {
-      "path": "characters/Sabbat-NPC/Bird-Dog-Representative-of-Cicatrix-Theo.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Bird-Dog-Representative-of-Cicatrix-Theo",
-      "characterName": "Bird Dog",
-      "playerName": "Theo",
-      "clan": "Nosferatu - Repulsive",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Brian-Lebowitz-Tijuana-Garrett.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Brian-Lebowitz-Tijuana-Garrett",
-      "characterName": "Brian Lebowitz",
-      "playerName": "Garrett",
-      "clan": "Nosferatu - Repulsive",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Census-Taker-Yusuf-Caitiff-Josh-Bafunso.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Census-Taker-Yusuf-Caitiff-Josh-Bafunso",
-      "characterName": "Yusuf",
-      "playerName": "Josh Bafunso",
-      "clan": "Caitiff - Weak Blood",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Clavin-Clipper-Johnson-NPC-Harry-Fox.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Clavin-Clipper-Johnson-NPC-Harry-Fox",
-      "characterName": "Clavin \"Clipper\" Johnson",
-      "playerName": "NPC - Harry Fox",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Don-Paul-Guzman-Lasombra-NPC.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Don-Paul-Guzman-Lasombra-NPC",
-      "characterName": "Don Paul Guzman",
-      "playerName": "",
-      "clan": "Lasombra - No Reflection",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Don-Pedro-de-Moreata-Archbishops-Templar-Garrett.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Don-Pedro-de-Moreata-Archbishops-Templar-Garrett",
-      "characterName": "Don Pedro de Moreata",
-      "playerName": "Garrett",
-      "clan": "Lasombra - No Reflection",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Bishop-Mark-Blood-Brother-Theo-V3-5-4.json",
-      "folderPath": [
-        "Sabbat NPC",
-        "Double Helix (Doors)"
-      ],
-      "sourceTitle": "Bishop-Mark-Blood-Brother-Theo-V3-5-4",
-      "characterName": "Mark",
-      "playerName": "Theo",
-      "clan": "Blood Brothers - Faulty Creation",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Jack-Blood-Brothers-NPC.json",
-      "folderPath": [
-        "Sabbat NPC",
-        "Double Helix (Doors)"
-      ],
-      "sourceTitle": "Jack-Blood-Brothers-NPC",
-      "characterName": "Jack",
-      "playerName": "",
-      "clan": "Blood Brothers",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Karl-Blood-Brothers-NPC.json",
-      "folderPath": [
-        "Sabbat NPC",
-        "Double Helix (Doors)"
-      ],
-      "sourceTitle": "Karl-Blood-Brothers-NPC",
-      "characterName": "Karl",
-      "playerName": "",
-      "clan": "Blood Brothers",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Llse-Blood-Brothers-NPC.json",
-      "folderPath": [
-        "Sabbat NPC",
-        "Double Helix (Doors)"
-      ],
-      "sourceTitle": "Llse-Blood-Brothers-NPC",
-      "characterName": "Lise",
-      "playerName": "",
-      "clan": "Blood Brothers",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Double-Helix-Doors/Truman-Blood-Brothers-NPC.json",
-      "folderPath": [
-        "Sabbat NPC",
-        "Double Helix (Doors)"
-      ],
-      "sourceTitle": "Truman-Blood-Brothers-NPC",
-      "characterName": "Truman",
-      "playerName": "",
-      "clan": "Blood Brothers",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Ethan-Livingstone-Mnemosyne-Harry-Fox-NPC-Hand.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Ethan-Livingstone-Mnemosyne-Harry-Fox-NPC-Hand",
-      "characterName": "Ethan Livingstone",
-      "playerName": "Harry Fox",
-      "clan": "Malkavians \"Mnemosyne\" - Permanent Obession",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Geza-Szabo-TZIMISCE-NPC.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Geza-Szabo-TZIMISCE-NPC",
-      "characterName": "Geza Szabo",
-      "playerName": "Chris Briseno",
-      "clan": "Tzimisce - Bound to the Earth",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Harold-Archbishops-Templar-Ragin.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Harold-Archbishops-Templar-Ragin",
-      "characterName": "Harold",
-      "playerName": "Ragin",
-      "clan": "Gangrel \"Coyote\" - Animalistic Beast",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Istvan-Zantosa-Sabbat.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Istvan-Zantosa-Sabbat",
-      "characterName": "Istvan",
-      "playerName": "Justin",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Knight-Inquisitor-Sven-Christensen-Brujah-Antitribu-Door.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Knight-Inquisitor-Sven-Christensen-Brujah-Antitribu-Door",
-      "characterName": "Sven Christensen",
-      "playerName": "Patric Thomas",
-      "clan": "Brujah - Stronger Beast",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Sabbat-NPC/La-Cuchilla-The-Cleaver-Hand-Patric.json",
       "folderPath": [
         "Sabbat NPC"
@@ -5210,84 +4318,6 @@
       "tabs": [
         "Print Sheet",
         "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Leila-Monroe-NPC-Dressed-to-Kill.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Leila-Monroe-NPC-Dressed-to-Kill",
-      "characterName": "Leila Monroe",
-      "playerName": "NPC",
-      "clan": "Lasombra - No Reflection",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Mae-Cranston-Lasombra-Templar-Carla-Dickerson-3-5.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Mae-Cranston-Lasombra-Templar-Carla-Dickerson-3-5",
-      "characterName": "Mae Cranston",
-      "playerName": "Carla Dickerson",
-      "clan": "Lasombra - No Reflection",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Veronika-Jenikova-Malkavian-Antitribu-NPC-Laura-Bishop.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Veronika-Jenikova-Malkavian-Antitribu-NPC-Laura-Bishop",
-      "characterName": "Veronika Jenikova",
-      "playerName": "Laura Bishop",
-      "clan": "Malkavians - Permanent Derangement",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Sabbat-NPC/Vidar-Helgessen-inq-Investigator-Mike-Leader.json",
-      "folderPath": [
-        "Sabbat NPC"
-      ],
-      "sourceTitle": "Vidar-Helgessen-inq-Investigator-Mike-Leader",
-      "characterName": "",
-      "playerName": "",
-      "clan": "Tzimisce - Bound to the Earth",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
         "History",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
@@ -5455,26 +4485,6 @@
       ]
     },
     {
-      "path": "characters/Toreador/Agatha-Edgars-Toreador-Emily-WotB-V4.json",
-      "folderPath": [
-        "Toreador"
-      ],
-      "sourceTitle": "Agatha-Edgars-Toreador-Emily-WotB-V4",
-      "characterName": "Agatha Edgars",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Toreador/Doug-Lindsay-Strider.json",
       "folderPath": [
         "Toreador"
@@ -5578,25 +4588,6 @@
       ]
     },
     {
-      "path": "characters/Tremere/Alan-Church.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Alan-Church",
-      "characterName": "Alan Church",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Tremere/Chloe-Tremere-Sheet-V5.json",
       "folderPath": [
         "Tremere"
@@ -5610,26 +4601,6 @@
         "XP Spends",
         "History",
         "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Damien-Dierdre-Horst.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Damien-Dierdre-Horst",
-      "characterName": "Damien/Dierdre Horst",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
         "Downtimes",
@@ -5657,64 +4628,6 @@
       ]
     },
     {
-      "path": "characters/Tremere/Elizabeth-Jackson-V3-5-4.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Elizabeth-Jackson-V3-5-4",
-      "characterName": "Elizabeth Jackson",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Garrick-Romanovitch.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Garrick-Romanovitch",
-      "characterName": "Garrick Romanovitch",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Hailey-Halverston.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Hailey-Halverston",
-      "characterName": "Hailey/Halverston",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Tremere/Jana-Jacob-Sims-Samantha.json",
       "folderPath": [
         "Tremere"
@@ -5735,215 +4648,6 @@
       ]
     },
     {
-      "path": "characters/Tremere/Jana-James-Neschdle.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Jana-James-Neschdle",
-      "characterName": "Jana/James Neschdle",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/jody.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "jody",
-      "characterName": "Jody/John Higgam",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Kay-Gargoyle-V4.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Kay-Gargoyle-V4",
-      "characterName": "Kay",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Luc-Vandevender.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Luc-Vandevender",
-      "characterName": "Luc Vandevender",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Old/OLD-Aileas-Aileen-Ceeq-DOOR.json",
-      "folderPath": [
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Aileas-Aileen-Ceeq-DOOR",
-      "characterName": "Aileas/Aileen Ceeq",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Personal Plot  Notes"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Old/OLD-Alan-Church.json",
-      "folderPath": [
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Alan-Church",
-      "characterName": "Alan Church",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Old/OLD-ASSIGNED-INVALID-FILE-Leo-Corrales.json",
-      "folderPath": [
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-ASSIGNED-INVALID-FILE-Leo-Corrales",
-      "characterName": "Leo Corrales",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "XP Spends",
-        "Print Sheet",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Old/OLD-Elizabeth-Johnson.json",
-      "folderPath": [
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Elizabeth-Johnson",
-      "characterName": "Elizabeth Johnson",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Old/OLD-Garrick-Romanovitch.json",
-      "folderPath": [
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Garrick-Romanovitch",
-      "characterName": "Garrick Romanovitch",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Old/OLD-Leo-Corrales-Tremere-Reclaimed-Door.json",
-      "folderPath": [
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Leo-Corrales-Tremere-Reclaimed-Door",
-      "characterName": "Leo Corrales",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Old/OLD-Luc-Vandevender.json",
-      "folderPath": [
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Luc-Vandevender",
-      "characterName": "Luc Vandevender",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Tremere/Old/OLD-Milicent-Myles-Ducheski-Tremere.json",
       "folderPath": [
         "Tremere",
@@ -5960,25 +4664,6 @@
         "Blood Bonds  Valudrie",
         "Personal Plot  Notes",
         "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Old/OLD-Oleg-Karpoff.json",
-      "folderPath": [
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Oleg-Karpoff",
-      "characterName": "Oleg Karpoff",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions",
-        "Print Sheet"
       ]
     },
     {
@@ -6134,64 +4819,6 @@
       ]
     },
     {
-      "path": "characters/Tremere/Radana-Gregori.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Radana-Gregori",
-      "characterName": "Radana/Gregori",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Santiago-Nuevo.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Santiago-Nuevo",
-      "characterName": "Santiago Neuvo",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Stefan-Torben.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Stefan-Torben",
-      "characterName": "Stefan Torben",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Tremere/Tara-Elliot-Tremere-Jennifer-K-Wolfe.json",
       "folderPath": [
         "Tremere"
@@ -6205,25 +4832,6 @@
         "XP Spends",
         "History",
         "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Tremere/Tom-Wanda-Peterson.json",
-      "folderPath": [
-        "Tremere"
-      ],
-      "sourceTitle": "Tom-Wanda-Peterson",
-      "characterName": "Tom / Wanda Peterson",
-      "playerName": "",
-      "clan": "Tremere - Easily Bound",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
         "Blood Bonds  Valudrie",
         "Personal Plot  Objects",
         "Downtimes",
@@ -6316,26 +4924,6 @@
         "Ventrue"
       ],
       "sourceTitle": "Robert-Duke-Ventrue-WotB-Sheet-Vlad-V-5",
-      "characterName": "Robert Duke",
-      "playerName": "",
-      "clan": "",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Expanded Backgrounds",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Ventrue/Robert-Duke-Ventrue-WotB-Sheet-Vlad-V5.json",
-      "folderPath": [
-        "Ventrue"
-      ],
-      "sourceTitle": "Robert-Duke-Ventrue-WotB-Sheet-Vlad-V5",
       "characterName": "Robert Duke",
       "playerName": "",
       "clan": "",
@@ -6817,27 +5405,6 @@
       ]
     },
     {
-      "path": "characters/Z-Door-Characters/Characters/Brujah/Tucker-Smallwood-Brujah-V.3.5.1.json",
-      "folderPath": [
-        "Z Door Characters",
-        "Characters",
-        "Brujah"
-      ],
-      "sourceTitle": "Tucker-Smallwood-Brujah-V.3.5.1",
-      "characterName": "Tucker Smallwood",
-      "playerName": "",
-      "clan": "Brujah - Stronger Beast",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Z-Door-Characters/Characters/Brujah/V4-Evelyn-Ethan-Hughes-Brujah.json",
       "folderPath": [
         "Z Door Characters",
@@ -7132,48 +5699,6 @@
         "Print Sheet",
         "XP Spends",
         "History",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Z-Door-Characters/Characters/Gangrel/Old/OLD-Nigel-Natalie-Laskaris-Gangrel-Reclaimed-Door.json",
-      "folderPath": [
-        "Z Door Characters",
-        "Characters",
-        "Gangrel",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Nigel-Natalie-Laskaris-Gangrel-Reclaimed-Door",
-      "characterName": "Nigel/Natalie Laskaris",
-      "playerName": "Ellen Anderson",
-      "clan": "Gangrel",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Z-Door-Characters/Characters/Gangrel/Old/OLD-William-Kenner-Gangrel-Door.json",
-      "folderPath": [
-        "Z Door Characters",
-        "Characters",
-        "Gangrel",
-        "Old"
-      ],
-      "sourceTitle": "OLD-William-Kenner-Gangrel-Door",
-      "characterName": "William Kenner",
-      "playerName": "",
-      "clan": "Gangrel - Animalistic Beast",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
         "Personal Plot  Notes",
         "Submissions"
       ]
@@ -7505,28 +6030,6 @@
         "Toreador"
       ],
       "sourceTitle": "Copy-of-3.5.4-Deirdre-Janos-Pierce-Toreador",
-      "characterName": "Deirdre/Janos Pierce",
-      "playerName": "",
-      "clan": "Toreador - Entranced by Art",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "Expanded Backgrounds",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Objects",
-        "Downtimes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Z-Door-Characters/Characters/Toreador/Deirdre-Janos-Pierce-Toreador.json",
-      "folderPath": [
-        "Z Door Characters",
-        "Characters",
-        "Toreador"
-      ],
-      "sourceTitle": "Deirdre-Janos-Pierce-Toreador",
       "characterName": "Deirdre/Janos Pierce",
       "playerName": "",
       "clan": "Toreador - Entranced by Art",
@@ -7902,27 +6405,6 @@
       ]
     },
     {
-      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Alan-Church.json",
-      "folderPath": [
-        "Z Door Characters",
-        "Characters",
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Alan-Church",
-      "characterName": "Alan Church",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
       "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-ASSIGNED-INVALID-FILE-Leo-Corrales.json",
       "folderPath": [
         "Z Door Characters",
@@ -7961,68 +6443,6 @@
         "XP Spends",
         "History",
         "Blood Bonds Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Garrick-Romanovitch.json",
-      "folderPath": [
-        "Z Door Characters",
-        "Characters",
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Garrick-Romanovitch",
-      "characterName": "Garrick Romanovitch",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Leo-Corrales-Tremere-Reclaimed-Door.json",
-      "folderPath": [
-        "Z Door Characters",
-        "Characters",
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Leo-Corrales-Tremere-Reclaimed-Door",
-      "characterName": "Leo Corrales",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Personal Plot  Notes",
-        "Submissions"
-      ]
-    },
-    {
-      "path": "characters/Z-Door-Characters/Characters/Tremere/Old/OLD-Luc-Vandevender.json",
-      "folderPath": [
-        "Z Door Characters",
-        "Characters",
-        "Tremere",
-        "Old"
-      ],
-      "sourceTitle": "OLD-Luc-Vandevender",
-      "characterName": "Luc Vandevender",
-      "playerName": "",
-      "clan": "Tremere",
-      "tabs": [
-        "Print Sheet",
-        "XP Spends",
-        "History",
-        "Blood Bonds  Valudrie",
         "Personal Plot  Notes",
         "Submissions"
       ]
