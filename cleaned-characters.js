@@ -384,6 +384,31 @@ const cleanedCharacters = [
   }
 ];
 
+const dossierSlots = [
+  { id: "henry-serra", name: "Henry Serra", clan: "Gangrel", image: "pictures/Henry_Serra.png" },
+  { id: "andy-watkins", name: "Andy Watkins", clan: "Gangrel" },
+  { id: "wade-trip-carlson", name: "Wade \"Trip\" Carlson", clan: "Gangrel", image: "pictures/Wade_Trip_Carlson.png" },
+  { id: "durriken", name: "Durriken", clan: "Malkavian" },
+  { id: "bartholomew-douglas", name: "Bartholomew Douglas", clan: "Malkavian" },
+  { id: "kirill-levonoff", name: "Kirill Levonoff", clan: "Nosferatu" },
+  { id: "jackie-the-tail", name: "Jackie the Tail", clan: "Nosferatu" },
+  { id: "mathias-castagnoli", name: "Mathias Castagnoli", clan: "Nosferatu" },
+  { id: "marcus-jonak", name: "Marcus Jonak", clan: "Toreador", image: "pictures/Marcus_Jonak.png" },
+  { id: "delgado-corsi", name: "Delgado Corsi", clan: "Toreador", image: "pictures/Delgado_Corsi.png" },
+  { id: "judith-de-leon", name: "Judith de Leon", clan: "Toreador", image: "pictures/Judith_de_Leon.png" },
+  { id: "alistair-ross", name: "Alistair Ross", clan: "Toreador", image: "pictures/Alistair_Ross.png" },
+  { id: "justicar-ulgahn-bey", name: "Justicar Ulgahn Bey", clan: "Tremere", image: "pictures/Justicar_Ulgahn_Bey.png" },
+  { id: "prince-lord-dafne-pictor", name: "Prince / Lord Dafne Pictor", clan: "Tremere", image: "pictures/Prince_Lord_Dafne_Pictor.png" },
+  { id: "regent-pedro-villalobos", name: "Regent Pedro Villalobos", clan: "Tremere", image: "pictures/Regent_Pedro_Villalobos.png" },
+  { id: "cohn-rose", name: "Cohn Rose", clan: "Tremere", image: "pictures/Cohn_Rose.png" },
+  { id: "april-ueltschi", name: "April Ueltschi", clan: "Ventrue" },
+  { id: "anna-petrovna", name: "Anna Petrovna", clan: "Ventrue" },
+  { id: "calvin-olsen", name: "Calvin Olsen", clan: "Ventrue" },
+  { id: "zhao-john-leji", name: "Zhao \"John\" Leji", clan: "Ventrue" },
+];
+
+cleanedCharacters.push(...dossierSlots.map(createDossierSlot));
+
 let activeDossierClan = "all";
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -446,9 +471,58 @@ function updateDossierCount(count) {
   label.textContent = `${count} ${noun} shown / ${filter}`;
 }
 
+function createDossierSlot(slot) {
+  const image = slot.image ? `${slot.image}?v=20260515slots` : "";
+  return {
+    id: slot.id,
+    name: slot.name,
+    clan: slot.clan,
+    role: slot.role ?? "Draft dossier slot",
+    image,
+    imageNote: slot.image ? `Portrait of ${slot.name}` : `Portrait pending for ${slot.name}`,
+    traits: {
+      status: "Draft slot",
+      sire: "TBD",
+      nature: "TBD",
+      demeanor: "TBD",
+      generation: "TBD",
+      embrace: "TBD",
+      apparentAge: "TBD",
+    },
+    attributes: {
+      physical: "TBD",
+      social: "TBD",
+      mental: "TBD",
+    },
+    abilities: {
+      talents: "TBD",
+      skills: "TBD",
+      knowledges: "TBD",
+    },
+    powers: {
+      disciplines: "TBD",
+      backgrounds: "TBD",
+      meritsFlaws: "TBD",
+      virtues: "TBD",
+      humanity: "TBD",
+      willpower: "TBD",
+    },
+    history: [
+      `Draft dossier slot for ${slot.name}. Full cleaned character writeup pending.`,
+    ],
+    imageDescription: slot.image
+      ? "Portrait asset loaded. Final image description pending the cleaned writeup."
+      : "Portrait pending. Add the image file when available and wire it to this slot.",
+    roleplayingHints: "Pending cleaned roleplaying notes.",
+    haven: "Pending haven details.",
+    influence: "Pending influence and relationship notes.",
+    isDraft: true,
+  };
+}
+
 function characterDossier(character) {
   const article = document.createElement("article");
-  article.className = "cleaned-character-card";
+  article.className = `cleaned-character-card${character.isDraft ? " draft-dossier" : ""}`;
   article.id = character.id;
   const portraitClass = character.image ? "cleaned-portrait" : "cleaned-portrait portrait-missing";
   const portraitImage = character.image
