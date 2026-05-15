@@ -1005,6 +1005,66 @@ h1 {
     var(--paper);
 }
 
+.dossier-tabs-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 0 18px 14px;
+  border-bottom: 1px solid #1c1410;
+  background: var(--paper);
+}
+
+.dossier-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+}
+
+.dossier-tab {
+  min-height: 42px;
+  padding: 10px 15px;
+  border: 1px solid rgba(28, 20, 16, 0.72);
+  border-right: 0;
+  color: var(--ink);
+  background: rgba(255, 248, 232, 0.5);
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.dossier-tab:last-child {
+  border-right: 1px solid rgba(28, 20, 16, 0.72);
+}
+
+.dossier-tab:hover,
+.dossier-tab.active {
+  color: #fff8e8;
+  background: var(--red);
+}
+
+.dossier-tab small {
+  display: inline-block;
+  margin-left: 6px;
+  color: inherit;
+  font-size: 0.84em;
+  opacity: 0.75;
+}
+
+.dossier-count {
+  margin: 0;
+  color: rgba(42, 32, 27, 0.72);
+  font-family: var(--sans);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .cleaned-characters-grid {
   display: grid;
   gap: 1px;
