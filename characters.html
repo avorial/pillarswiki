@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pillars Character Viewer</title>
+    <link rel="stylesheet" href="viewer.css?v=20260515">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Character list">
+        <header class="sidebar-header">
+          <nav class="viewer-tabs" aria-label="Site navigation">
+            <a href="index.html">Chronicle</a>
+            <a class="active" href="characters.html">Characters</a>
+          </nav>
+          <h1>Pillars Characters</h1>
+          <p><span id="visibleCount">0</span> of <span id="totalCount">0</span> sheets</p>
+        </header>
+
+        <label class="search-label" for="searchInput">Search characters</label>
+        <input id="searchInput" class="search-input" type="search" placeholder="Name, clan, folder, player..." autocomplete="off">
+
+        <div class="filter-tabs" aria-label="Character filters">
+          <button type="button" class="filter-button active" data-filter="all">All</button>
+          <button type="button" class="filter-button" data-filter="pc">PC</button>
+          <button type="button" class="filter-button" data-filter="npc">NPC</button>
+          <button type="button" class="filter-button" data-filter="archive">Archive</button>
+          <button type="button" class="filter-button" data-filter="special">Special</button>
+        </div>
+
+        <div id="characterList" class="character-list" role="listbox" aria-label="Characters"></div>
+      </aside>
+
+      <main class="viewer">
+        <div id="emptyState" class="empty-state">
+          <h2>Select a character</h2>
+          <p>Choose a sheet from the list to render the normalized JSON as a printable character sheet.</p>
+        </div>
+
+        <section id="sheetView" class="sheet-view hidden" aria-live="polite">
+          <div class="sheet-toolbar">
+            <div>
+              <h2 id="sheetTitle">Character Sheet</h2>
+              <p id="sheetSubtitle"></p>
+            </div>
+            <a id="sourceLink" class="source-link" href="#" target="_blank" rel="noopener">Source JSON</a>
+          </div>
+
+          <div id="sheetGrid" class="sheet-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="listItemTemplate">
+      <button type="button" class="character-item" role="option">
+        <span class="character-name"></span>
+        <span class="character-meta"></span>
+        <span class="character-path"></span>
+      </button>
+    </template>
+
+    <script src="viewer.js?v=20260515"></script>
+  </body>
+</html>
