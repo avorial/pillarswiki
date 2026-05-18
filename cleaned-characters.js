@@ -1494,7 +1494,49 @@ const dossierSlots = [];
 
 cleanedCharacters.push(...dossierSlots.map(createDossierSlot));
 
-let activeDossierClan = "all";
+const dossierNavigation = [
+  {
+    id: "Camarilla",
+    label: "Camarilla",
+    tabs: ["Assamite", "Brujah", "Gangrel", "Malkavian", "Nosferatu", "Toreador", "Tremere", "Ventrue"],
+  },
+  {
+    id: "Sabbat",
+    label: "Sabbat",
+    tabs: [
+      "Meester Van de Nacht",
+      "The Answer",
+      "Liliaceae Lancers",
+      "The Torrance Circle",
+      "Abramelin Oil",
+      "Spear of Enoch",
+      "The Knights of St. Boris",
+      "La Petite Lunar",
+      "Aleph Null",
+      "Nomad Packs",
+    ],
+  },
+  {
+    id: "New Promise Mandarinate",
+    label: "New Promise Mandarinate",
+    tabs: [
+      "Harmonious Mender of the Broken Fence",
+      "Flatbush and Stockton Posse",
+      "The Caged Sun Brotherhood",
+      "House of the Salted Crown",
+      "The Sutra of Blackened Incense",
+      "Bright Lanterns Beneath the Overpass",
+    ],
+  },
+  {
+    id: "Others",
+    label: "Others",
+    tabs: ["Vampires", "Werecreatures", "Mages", "Changelings", "Wraiths", "Demons"],
+  },
+];
+
+let activeDossierCategory = "Camarilla";
+let activeDossierSubtab = null;
 
 document.addEventListener("DOMContentLoaded", () => {
   renderDossierTabs();
@@ -1502,32 +1544,49 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function renderDossierTabs() {
+  const categoryTabs = document.querySelector("#dossierCategoryTabs");
   const tabs = document.querySelector("#dossierClanTabs");
-  if (!tabs) return;
+  if (!tabs || !categoryTabs) return;
 
-  const clans = [...new Set(cleanedCharacters.map((character) => character.clan))].sort((left, right) => left.localeCompare(right));
-  const filters = [
-    { id: "all", label: "All", count: cleanedCharacters.length },
-    ...clans.map((clan) => ({
-      id: clan,
-      label: clan,
-      count: cleanedCharacters.filter((character) => character.clan === clan).length,
-    })),
-  ];
+  categoryTabs.replaceChildren(...dossierNavigation.map((category) => dossierCategoryTab(category)));
+
+  const category = currentDossierCategory();
+  const filters = category.tabs.map((tab) => ({
+    id: tab,
+    label: tab,
+    count: cleanedCharacters.filter((character) => dossierCharacterCategory(character) === category.id && dossierCharacterSubtab(character) === tab).length,
+  }));
 
   tabs.replaceChildren(...filters.map((filter) => dossierTab(filter)));
 }
 
-function dossierTab(filter) {
+function dossierCategoryTab(category) {
   const button = document.createElement("button");
-  button.className = `dossier-tab${filter.id === activeDossierClan ? " active" : ""}`;
+  button.className = `dossier-tab${category.id === activeDossierCategory ? " active" : ""}`;
   button.type = "button";
   button.setAttribute("role", "tab");
-  button.setAttribute("aria-selected", filter.id === activeDossierClan ? "true" : "false");
-  button.dataset.clan = filter.id;
+  button.setAttribute("aria-selected", category.id === activeDossierCategory ? "true" : "false");
+  button.dataset.category = category.id;
+  button.innerHTML = `${escapeClean(category.label)} <small>${countDossiersForCategory(category.id)}</small>`;
+  button.addEventListener("click", () => {
+    activeDossierCategory = category.id;
+    activeDossierSubtab = null;
+    renderDossierTabs();
+    renderCleanedCharacters();
+  });
+  return button;
+}
+
+function dossierTab(filter) {
+  const button = document.createElement("button");
+  button.className = `dossier-tab${filter.id === activeDossierSubtab ? " active" : ""}`;
+  button.type = "button";
+  button.setAttribute("role", "tab");
+  button.setAttribute("aria-selected", filter.id === activeDossierSubtab ? "true" : "false");
+  button.dataset.subtab = filter.id;
   button.innerHTML = `${escapeClean(filter.label)} <small>${filter.count}</small>`;
   button.addEventListener("click", () => {
-    activeDossierClan = filter.id;
+    activeDossierSubtab = filter.id === activeDossierSubtab ? null : filter.id;
     renderDossierTabs();
     renderCleanedCharacters();
   });
@@ -1538,9 +1597,10 @@ function renderCleanedCharacters() {
   const grid = document.querySelector("#cleanedCharactersGrid");
   if (!grid) return;
 
-  const visibleCharacters = activeDossierClan === "all"
-    ? cleanedCharacters
-    : cleanedCharacters.filter((character) => character.clan === activeDossierClan);
+  const visibleCharacters = cleanedCharacters.filter((character) => {
+    if (dossierCharacterCategory(character) !== activeDossierCategory) return false;
+    return activeDossierSubtab ? dossierCharacterSubtab(character) === activeDossierSubtab : true;
+  });
   const fragment = document.createDocumentFragment();
   visibleCharacters.forEach((character) => fragment.appendChild(characterDossier(character)));
   grid.replaceChildren(fragment);
@@ -1552,8 +1612,24 @@ function updateDossierCount(count) {
   if (!label) return;
 
   const noun = count === 1 ? "dossier" : "dossiers";
-  const filter = activeDossierClan === "all" ? "all clans" : activeDossierClan;
+  const filter = activeDossierSubtab ? `${activeDossierCategory} / ${activeDossierSubtab}` : activeDossierCategory;
   label.textContent = `${count} ${noun} shown / ${filter}`;
+}
+
+function currentDossierCategory() {
+  return dossierNavigation.find((category) => category.id === activeDossierCategory) ?? dossierNavigation[0];
+}
+
+function countDossiersForCategory(categoryId) {
+  return cleanedCharacters.filter((character) => dossierCharacterCategory(character) === categoryId).length;
+}
+
+function dossierCharacterCategory(character) {
+  return character.category ?? "Camarilla";
+}
+
+function dossierCharacterSubtab(character) {
+  return character.subtab ?? character.clan;
 }
 
 function createDossierSlot(slot) {
