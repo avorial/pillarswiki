@@ -1016,10 +1016,22 @@ h1 {
   background: var(--paper);
 }
 
+.dossier-tabs-wrap > .dossier-tabs {
+  flex: 1 1 100%;
+}
+
 .dossier-tabs {
   display: flex;
   flex-wrap: wrap;
   gap: 0;
+}
+
+.dossier-category-tabs {
+  margin-bottom: -4px;
+}
+
+.dossier-category-tabs .dossier-tab {
+  min-width: 168px;
 }
 
 .dossier-tab {
