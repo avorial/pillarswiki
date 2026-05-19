@@ -1254,6 +1254,48 @@ h1 {
   line-height: 0.78;
 }
 
+.cleaned-storyteller-notes,
+.cleaned-member-list {
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 3px double var(--hairline);
+}
+
+.cleaned-storyteller-notes h4,
+.cleaned-member-list > h4 {
+  margin: 0 0 12px;
+  color: var(--red);
+  font-size: 18px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.cleaned-storyteller-notes p,
+.cleaned-member-entry p {
+  margin: 0;
+  color: var(--soft-ink);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.cleaned-member-entry {
+  padding: 14px 0 16px;
+  border-top: 1px solid var(--hairline);
+}
+
+.cleaned-member-entry:first-of-type {
+  border-top: 0;
+}
+
+.cleaned-member-entry h5 {
+  margin: 0 0 7px;
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 1.25;
+}
+
 .cleaned-two-column {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
