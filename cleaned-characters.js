@@ -2942,19 +2942,19 @@ const cleanedCharacters = [
 
   {
       "id": "hidden-kindred-sabatos",
-      "name": "The Hidden Kindred: Sabatos",
+      "name": "The Hidden Kindred",
       "clan": "Vampires",
       "category": "Others",
       "subtab": "Vampires",
-      "role": "Inconnu monitor of Los Angeles",
-      "imageNote": "Symbol pending for The Hidden Kindred: Sabatos",
+      "role": "Sabatos, Monitor of Los Angeles",
+      "imageNote": "Symbol pending for The Hidden Kindred",
       "traits": {
           "leader": "Sabatos",
           "nature": "Inconnu Observer",
           "allegiance": "Vampires",
           "primaryTerritory": "Los Angeles as a whole, especially elder politics and occult convergences",
-          "knownMembers": "None listed",
-          "purpose": "Inconnu monitor of Los Angeles"
+          "knownMembers": "Sabatos, Monitor of Los Angeles",
+          "purpose": "Sabatos, Monitor of Los Angeles"
       },
       "attributes": {
           "sphere": "Vampires",
@@ -2963,13 +2963,13 @@ const cleanedCharacters = [
       },
       "abilities": {
           "territory": "Los Angeles as a whole, especially elder politics and occult convergences",
-          "members": "None listed",
-          "function": "Inconnu monitor of Los Angeles"
+          "members": "Sabatos, Monitor of Los Angeles",
+          "function": "Sabatos, Monitor of Los Angeles"
       },
       "powers": {
           "allegiance": "Vampires",
-          "roleInTheCity": "Inconnu monitor of Los Angeles",
-          "storytellerUse": "Use The Hidden Kindred: Sabatos as the Vampires lens on Los Angeles beyond the main vampire sect war."
+          "roleInTheCity": "Sabatos, Monitor of Los Angeles",
+          "storytellerUse": "Use The Hidden Kindred as the Vampires lens on Los Angeles beyond the main vampire sect war."
       },
       "history": [
           "The Inconnu do not claim praxis. They do not petition Princes, threaten Barons, or barter openly with Mandarins. They watch. In Los Angeles, their eye is Sabatos.",
@@ -2982,8 +2982,8 @@ const cleanedCharacters = [
       ],
       "detailSections": [],
       "memberEntries": [],
-      "imageDescription": "Symbol or group image pending for The Hidden Kindred: Sabatos.",
-      "roleplayingHints": "The Hidden Kindred: Sabatos should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
+      "imageDescription": "Symbol or group image pending for The Hidden Kindred.",
+      "roleplayingHints": "The Hidden Kindred should feel distinct from Kindred court politics. Sabatos watches rather than rules, and his questions should feel more dangerous than another vampire's commands.",
       "haven": "Los Angeles as a whole, especially elder politics and occult convergences",
       "influence": "The Inconnu do not claim praxis. They do not petition Princes, threaten Barons, or barter openly with Mandarins. They watch. In Los Angeles, their eye is Sabatos. Sabatos has monitored the city through the fall of the Free State, the Cathayan occupation, the Camarilla's return, and the Sabbat's emergence from its long burial. He has seen Los Angeles pass through more would-be masters in a few decades than most domains endure in centuries. None have impressed him. All have interested him. Unlike many elder observers, Sabatos does not study L.A. because he believes one faction will finally win it. He studies it because Los Angeles is becoming a confluence. The city draws powers that should have remained distant from one another. Earthbound stir beneath mortal neighborhoods. Necromancers and displaced dead build quiet alliances. The Technocracy suppresses miracles with increasing violence. Cathayans and Kindred attempt coexistence while preparing to murder each other. The Sabbat mutters of prophecy. The Camarilla, having reclaimed ground, acts as though reclaiming territory and understanding it are the same thing."
   },
@@ -3234,7 +3234,7 @@ const cleanedCharacters = [
           "nature": "Changeling Court",
           "allegiance": "Changelings",
           "primaryTerritory": "Caer Angeles, Hollywood, Santa Monica, and glamour-rich Los Angeles",
-          "knownMembers": "None listed",
+          "knownMembers": "Duke Jayson of Hollywood; Thierry Alain Chevalier; Father James; Tyria Winter of House Leanhaun",
           "purpose": "Pacifica court, freeholds, glamour, and fae decay in Los Angeles"
       },
       "attributes": {
@@ -3244,7 +3244,7 @@ const cleanedCharacters = [
       },
       "abilities": {
           "territory": "Caer Angeles, Hollywood, Santa Monica, and glamour-rich Los Angeles",
-          "members": "None listed",
+          "members": "Duke Jayson of Hollywood; Thierry Alain Chevalier; Father James; Tyria Winter of House Leanhaun",
           "function": "Pacifica court, freeholds, glamour, and fae decay in Los Angeles"
       },
       "powers": {
@@ -3263,12 +3263,7 @@ const cleanedCharacters = [
           {
               "title": "The Local Court",
               "body": [
-                  "Los Angeles is divided among overlapping fae influences, dukedoms, freeholds, artistic circles, and old commoner enclaves that ignore noble maps whenever convenient. Formal hierarchy exists. Functional hierarchy is negotiated nightly.",
-                  "Duke Jayson of Hollywood is among the most visible local nobles. Unlike many courtiers who treat the Cathayan occupation as merely another vampire matter, Jayson has become fascinated by the Kuei-jin. Their souls do not seem to fit Western expectations. Their reactions to chimerical influence are irregular, sometimes resistant, sometimes startlingly vulnerable in ways no one can yet explain. Jayson sponsors quiet experiments to learn whether Cantrips can be reliably used against them. Some call this prudent. Others call it reckless meddling with creatures whose metaphysics were never meant to touch the Dreaming.",
-                  "At Land's End in Santa Monica, Thierry Alain Chevalier maintains a freehold whose atmosphere is far gentler than its strategic importance suggests. The Pooka keeps the place welcoming to travelers, artists, runaways, and wanderers who need a night of safety from the city's harder appetites. That hospitality gives Land's End a reputation for softness among certain nobles. Those who mistake kindness for weakness have regretted it.",
-                  "Father James, a Troll priest with roots in the Civil Rights Movement, remains one of the most respected voices in Pacifica. He is not a ruler, which is why rulers listen when he speaks. Nobles seek his counsel because he remembers struggles older than their current feuds. Commoners trust him because he does not speak of sacrifice as though only others should make it. In a court prone to theatrical outrage and personal decadence, Father James is dangerous in the rarest possible way: he is taken seriously.",
-                  "Then there is Tyria Winter of House Leanhaun.",
-                  "Tyria moves through the Los Angeles music scene like a promise whispered backstage. She encourages genius, feeds upon inspiration, and leaves behind ruin polished enough to be mistaken for artistic tragedy. Some at court suspect her Shadow Court affiliations. Others know and keep silent. The city creates enough damaged prodigies that one more burned-out singer, suicidal songwriter, or hollow-eyed composer attracts little notice. Tyria understands Los Angeles exceptionally well. It is a place where predation can wear the face of patronage and still receive applause."
+                  "Los Angeles is divided among overlapping fae influences, dukedoms, freeholds, artistic circles, and old commoner enclaves that ignore noble maps whenever convenient. Formal hierarchy exists. Functional hierarchy is negotiated nightly."
               ]
           },
           {
@@ -3281,7 +3276,33 @@ const cleanedCharacters = [
               ]
           }
       ],
-      "memberEntries": [],
+      "memberEntries": [
+          {
+              "title": "Duke Jayson of Hollywood",
+              "body": [
+                  "Duke Jayson of Hollywood is among the most visible local nobles. Unlike many courtiers who treat the Cathayan occupation as merely another vampire matter, Jayson has become fascinated by the Kuei-jin. Their souls do not seem to fit Western expectations. Their reactions to chimerical influence are irregular, sometimes resistant, sometimes startlingly vulnerable in ways no one can yet explain. Jayson sponsors quiet experiments to learn whether Cantrips can be reliably used against them. Some call this prudent. Others call it reckless meddling with creatures whose metaphysics were never meant to touch the Dreaming."
+              ]
+          },
+          {
+              "title": "Thierry Alain Chevalier",
+              "body": [
+                  "At Land's End in Santa Monica, Thierry Alain Chevalier maintains a freehold whose atmosphere is far gentler than its strategic importance suggests. The Pooka keeps the place welcoming to travelers, artists, runaways, and wanderers who need a night of safety from the city's harder appetites. That hospitality gives Land's End a reputation for softness among certain nobles. Those who mistake kindness for weakness have regretted it."
+              ]
+          },
+          {
+              "title": "Father James",
+              "body": [
+                  "Father James, a Troll priest with roots in the Civil Rights Movement, remains one of the most respected voices in Pacifica. He is not a ruler, which is why rulers listen when he speaks. Nobles seek his counsel because he remembers struggles older than their current feuds. Commoners trust him because he does not speak of sacrifice as though only others should make it. In a court prone to theatrical outrage and personal decadence, Father James is dangerous in the rarest possible way: he is taken seriously."
+              ]
+          },
+          {
+              "title": "Tyria Winter of House Leanhaun",
+              "body": [
+                  "Then there is Tyria Winter of House Leanhaun.",
+                  "Tyria moves through the Los Angeles music scene like a promise whispered backstage. She encourages genius, feeds upon inspiration, and leaves behind ruin polished enough to be mistaken for artistic tragedy. Some at court suspect her Shadow Court affiliations. Others know and keep silent. The city creates enough damaged prodigies that one more burned-out singer, suicidal songwriter, or hollow-eyed composer attracts little notice. Tyria understands Los Angeles exceptionally well. It is a place where predation can wear the face of patronage and still receive applause."
+              ]
+          }
+      ],
       "imageDescription": "Symbol or group image pending for The Dreaming in Los Angeles.",
       "roleplayingHints": "The Dreaming in Los Angeles should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
       "haven": "Caer Angeles, Hollywood, Santa Monica, and glamour-rich Los Angeles",
