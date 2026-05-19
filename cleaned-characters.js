@@ -2938,8 +2938,564 @@ const cleanedCharacters = [
       "roleplayingHints": "Bright Lanterns Beneath the Overpass should be treated as a functioning wu rather than a single NPC: let its leader define policy while its members express the group's directional roles and internal tensions.",
       "haven": "Koreatown, Little Tokyo, Chinatown's outer edges, Downtown, East Hollywood, the Metro lines, late-night commercial strips, transient hotels, night markets, parking lots, bus depots, and the anonymous spaces where Los Angeles forgets to look at itself",
       "influence": "To listen where courts cannot, find threats before they become crises, and make certain that no corner of Los Angeles is truly beneath the Mandarinate's notice"
-  }
+  },
 
+  {
+      "id": "hidden-kindred-sabatos",
+      "name": "The Hidden Kindred: Sabatos",
+      "clan": "Vampires",
+      "category": "Others",
+      "subtab": "Vampires",
+      "role": "Inconnu monitor of Los Angeles",
+      "imageNote": "Symbol pending for The Hidden Kindred: Sabatos",
+      "traits": {
+          "leader": "Sabatos",
+          "nature": "Inconnu Observer",
+          "allegiance": "Vampires",
+          "primaryTerritory": "Los Angeles as a whole, especially elder politics and occult convergences",
+          "knownMembers": "None listed",
+          "purpose": "Inconnu monitor of Los Angeles"
+      },
+      "attributes": {
+          "sphere": "Vampires",
+          "faction": "Others",
+          "structure": "Inconnu Observer"
+      },
+      "abilities": {
+          "territory": "Los Angeles as a whole, especially elder politics and occult convergences",
+          "members": "None listed",
+          "function": "Inconnu monitor of Los Angeles"
+      },
+      "powers": {
+          "allegiance": "Vampires",
+          "roleInTheCity": "Inconnu monitor of Los Angeles",
+          "storytellerUse": "Use The Hidden Kindred: Sabatos as the Vampires lens on Los Angeles beyond the main vampire sect war."
+      },
+      "history": [
+          "The Inconnu do not claim praxis. They do not petition Princes, threaten Barons, or barter openly with Mandarins. They watch. In Los Angeles, their eye is Sabatos.",
+          "Sabatos has monitored the city through the fall of the Free State, the Cathayan occupation, the Camarilla's return, and the Sabbat's emergence from its long burial. He has seen Los Angeles pass through more would-be masters in a few decades than most domains endure in centuries. None have impressed him. All have interested him.",
+          "Unlike many elder observers, Sabatos does not study L.A. because he believes one faction will finally win it. He studies it because Los Angeles is becoming a confluence. The city draws powers that should have remained distant from one another. Earthbound stir beneath mortal neighborhoods. Necromancers and displaced dead build quiet alliances. The Technocracy suppresses miracles with increasing violence. Cathayans and Kindred attempt coexistence while preparing to murder each other. The Sabbat mutters of prophecy. The Camarilla, having reclaimed ground, acts as though reclaiming territory and understanding it are the same thing.",
+          "Sabatos knows better.",
+          "He appears rarely, and never without purpose. When he does, it is usually as a quiet, composed stranger at the edge of a gathering, listening more than he speaks. He is most often encountered by elders who have begun asking the wrong questions, occultists who have found patterns they were not meant to notice, or ambitious Kindred whose schemes threaten to disturb something far older than sect politics. Sabatos does not give orders. He asks questions. He leaves warnings that sound like observations. On rare occasions, he offers information whose value becomes clear only after it is too late to use safely.",
+          "Those who believe him a neutral scholar misunderstand him. Sabatos is not harmless because he abstains from local rule. He is dangerous because he has no local attachments to restrain him. If Los Angeles must burn to prevent something worse from crawling free, Sabatos will not hesitate. He may even regret it.",
+          "He will simply do it."
+      ],
+      "detailSections": [],
+      "memberEntries": [],
+      "imageDescription": "Symbol or group image pending for The Hidden Kindred: Sabatos.",
+      "roleplayingHints": "The Hidden Kindred: Sabatos should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
+      "haven": "Los Angeles as a whole, especially elder politics and occult convergences",
+      "influence": "The Inconnu do not claim praxis. They do not petition Princes, threaten Barons, or barter openly with Mandarins. They watch. In Los Angeles, their eye is Sabatos. Sabatos has monitored the city through the fall of the Free State, the Cathayan occupation, the Camarilla's return, and the Sabbat's emergence from its long burial. He has seen Los Angeles pass through more would-be masters in a few decades than most domains endure in centuries. None have impressed him. All have interested him. Unlike many elder observers, Sabatos does not study L.A. because he believes one faction will finally win it. He studies it because Los Angeles is becoming a confluence. The city draws powers that should have remained distant from one another. Earthbound stir beneath mortal neighborhoods. Necromancers and displaced dead build quiet alliances. The Technocracy suppresses miracles with increasing violence. Cathayans and Kindred attempt coexistence while preparing to murder each other. The Sabbat mutters of prophecy. The Camarilla, having reclaimed ground, acts as though reclaiming territory and understanding it are the same thing."
+  },
+  {
+      "id": "the-giovanni",
+      "name": "The Giovanni",
+      "clan": "Vampires",
+      "category": "Others",
+      "subtab": "Vampires",
+      "role": "Necromantic clan power in Orange County and Los Angeles",
+      "imageNote": "Symbol pending for The Giovanni",
+      "traits": {
+          "leader": "Don Alfonso Bruno Giovanni",
+          "nature": "Independent Vampire Clan",
+          "allegiance": "Vampires",
+          "primaryTerritory": "Orange County and quiet Los Angeles holdings",
+          "knownMembers": "Don Alfonso Bruno Giovanni, Capo of Orange County; Serafina Juiliette della Passaglia Martinelli Giovanni, Emissary, Necromancer, Opportunist",
+          "purpose": "Necromantic clan power in Orange County and Los Angeles"
+      },
+      "attributes": {
+          "sphere": "Vampires",
+          "faction": "Others",
+          "structure": "Independent Vampire Clan"
+      },
+      "abilities": {
+          "territory": "Orange County and quiet Los Angeles holdings",
+          "members": "Don Alfonso Bruno Giovanni, Capo of Orange County; Serafina Juiliette della Passaglia Martinelli Giovanni, Emissary, Necromancer, Opportunist",
+          "function": "Necromantic clan power in Orange County and Los Angeles"
+      },
+      "powers": {
+          "allegiance": "Vampires",
+          "roleInTheCity": "Necromantic clan power in Orange County and Los Angeles",
+          "storytellerUse": "Use The Giovanni as the Vampires lens on Los Angeles beyond the main vampire sect war."
+      },
+      "history": [
+          "The Giovanni have no throne in Los Angeles, and they prefer it that way. A Prince must attend court. A Baron must placate gangs. A Mandarin must answer to superiors. The Giovanni require none of these burdens. They maintain holdings, cultivate mortals, negotiate with the dead, and wait for every other faction to discover that death is the only institution in the city that never loses relevance.",
+          "Their Southern California power is divided between Orange County, held with open confidence, and Los Angeles proper, where the clan moves more quietly. The wars between Camarilla, Sabbat, and New Promise never drove the Giovanni out. On the contrary, those wars created the sort of conditions in which necromancers prosper. Every violent turnover in power creates corpses. Every collapse in order creates secrets. Every refugee from the Shadowlands creates a market.",
+          "The Giovanni have no intention of abandoning such fertile ground."
+      ],
+      "detailSections": [],
+      "memberEntries": [
+          {
+              "title": "Don Alfonso Bruno Giovanni, Capo of Orange County",
+              "body": [
+                  "Don Alfonso Bruno Giovanni is the clan's sovereign face in Southern California. He does not call himself Prince, Baron, or Archbishop. He has no need. In Orange County, Giovanni interests are law wherever no stronger force has taken the trouble to say otherwise, and few are foolish enough to test where that line truly lies.",
+                  "Bruno is an elder of immense presence: proud, formal, and unashamedly aristocratic. He speaks as though most decisions were settled before others entered the room. He considers courtesy essential, obedience preferable, and hesitation contemptible. The dead respond to him more readily than the living do, though he has ample means to correct that imbalance.",
+                  "His necromantic skill is prodigious. Bruno has made a lifetime of studying the dead not as ghosts, but as structure: memory, obligation, violence, and residue shaped into tools. He commands shades, disturbs the boundary between worlds, and works the flesh and remains of the dead with the ease of a craftsman. His own appetites have become ritualized monstrosities. Bruno does not simply feed. He prepares the soul of his victim for consumption, turning predation into an act of spiritual possession. Those who know of this habit speak of it only in private, and never with certainty that he cannot hear.",
+                  "Orange County suits him. It offers wealth, gated secrecy, political access, and enough distance from central Los Angeles to let others bleed first. Yet Bruno watches L.A. closely. He knows the Sixth Great Maelstrom permanently changed the deadlands beneath Southern California. He knows desperate wraiths have begun dealing with vampires, mages, and monsters far less disciplined than his own clan. He knows that the city's supernatural powers are beginning to compete over the same resources: ghosts, relics, haunts, oil-born Nihils, and surviving routes through a wounded Shadowlands.",
+                  "Bruno's concern is not that Los Angeles will fall apart. Los Angeles has always been falling apart.",
+                  "His concern is that it may fall apart without paying him first."
+              ]
+          },
+          {
+              "title": "Serafina Juiliette della Passaglia Martinelli Giovanni, Emissary, Necromancer, Opportunist",
+              "body": [
+                  "Where Bruno embodies Giovanni dominion, Serafina Giovanni embodies Giovanni adaptability.",
+                  "Serafina walks more comfortably among foreign powers than most of her blood. She has dealt with Camarilla courts, trafficked in Cathayan secrets, and studied the deadlands with the practical eye of someone who expects every revelation to become either leverage or liability. Her lineage carries the stately pretensions of the old family, but Serafina is too clever to mistake formality for power. She treats old customs as tools. Useful tools, certainly, but tools all the same.",
+                  "To the Camarilla, she presents herself as a proper emissary under the Promise: civil, restrained, and scrupulously respectful of the clan's ancient agreements. She knows exactly how much Giovanni independence unsettles princes and how useful that discomfort can be. To the New Promise Mandarinate, she is harder to classify. Her knowledge of Cathayan affairs predates many Kindred assumptions about the so-called \"Asian invaders,\" and there are persistent whispers that she cooperated with them more closely than any loyal Giovanni should admit. Serafina neither confirms nor denies these stories. Their ambiguity serves her well.",
+                  "She is not the most powerful Giovanni in Southern California. She does not need to be. Serafina's strength is proximity. She hears things before Bruno does. She sees which Camarilla officers are panicking behind closed doors, which Kuei-jin factions are reopening old channels, which necromancers outside the clan have begun trespassing in matters the Giovanni consider proprietary. She has cultivated mortal retainers, supernatural informants, and the habit of appearing indispensable shortly before a crisis becomes obvious.",
+                  "Her interest in Los Angeles has only sharpened since the Maelstrom. More ghosts now seek patrons among the living dead. More wraiths are willing to accept contracts they would once have considered degrading. More Kindred, frightened by enemies they cannot punch, have become willing to speak to the Giovanni with respect.",
+                  "Serafina believes the clan's future in Los Angeles does not lie in conquest. It lies in becoming unavoidable."
+              ]
+          }
+      ],
+      "imageDescription": "Symbol or group image pending for The Giovanni.",
+      "roleplayingHints": "The Giovanni should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
+      "haven": "Orange County and quiet Los Angeles holdings",
+      "influence": "The Giovanni have no throne in Los Angeles, and they prefer it that way. A Prince must attend court. A Baron must placate gangs. A Mandarin must answer to superiors. The Giovanni require none of these burdens. They maintain holdings, cultivate mortals, negotiate with the dead, and wait for every other faction to discover that death is the only institution in the city that never loses relevance. Their Southern California power is divided between Orange County, held with open confidence, and Los Angeles proper, where the clan moves more quietly. The wars between Camarilla, Sabbat, and New Promise never drove the Giovanni out. On the contrary, those wars created the sort of conditions in which necromancers prosper. Every violent turnover in power creates corpses. Every collapse in order creates secrets. Every refugee from the Shadowlands creates a market. The Giovanni have no intention of abandoning such fertile ground."
+  },
+  {
+      "id": "the-changing-breeds",
+      "name": "The Changing Breeds",
+      "clan": "Werecreatures",
+      "category": "Others",
+      "subtab": "Werecreatures",
+      "role": "The broken defense of Los Angeles after the fall of the Glass Walkers",
+      "imageNote": "Symbol pending for The Changing Breeds",
+      "traits": {
+          "leader": "No unified leader",
+          "nature": "Changing Breed Network",
+          "allegiance": "Werecreatures",
+          "primaryTerritory": "Griffith Park, the tunnels, storm drains, coastal waters, and the overlooked city",
+          "knownMembers": "Ratkin; Corax; The Rokea of the Coast",
+          "purpose": "The broken defense of Los Angeles after the fall of the Glass Walkers"
+      },
+      "attributes": {
+          "sphere": "Werecreatures",
+          "faction": "Others",
+          "structure": "Changing Breed Network"
+      },
+      "abilities": {
+          "territory": "Griffith Park, the tunnels, storm drains, coastal waters, and the overlooked city",
+          "members": "Ratkin; Corax; The Rokea of the Coast",
+          "function": "The broken defense of Los Angeles after the fall of the Glass Walkers"
+      },
+      "powers": {
+          "allegiance": "Werecreatures",
+          "roleInTheCity": "The broken defense of Los Angeles after the fall of the Glass Walkers",
+          "storytellerUse": "Use The Changing Breeds as the Werecreatures lens on Los Angeles beyond the main vampire sect war."
+      },
+      "history": [
+          "There was a time when Los Angeles had defenders strong enough to pretend the city might yet be saved.",
+          "The Uktena guarded ancient places before the modern city spread across the basin. The Black Furies defended sacred ground in the west. Bone Gnawers kept watch in the ruined human underbelly. The Glass Walkers, guided by Don Leandro and those who followed him, understood the city's newer spirits better than any other tribe. They moved among laboratories, businesses, telecommunications, real estate, and water systems, speaking to the machine-souls of a city that was never going to return to wilderness.",
+          "That age is ending.",
+          "The Black Spiral Dancers of Griffith Park have expanded their reach beneath Los Angeles, and they chose their first major campaign wisely. They did not begin by attacking caerns in open war. They targeted the Glass Walkers, severing the city's most competent urban defenders from one another. Safehouses failed. Spirit allies disappeared. Kinfolk networks were compromised. A few prominent Walkers vanished outright; others died in incidents so mundane and plausible that only the surviving Garou recognized them as assassinations.",
+          "By the time the city's other Changing Breeds understood what was happening, the Glass Walker presence in Los Angeles had been shattered.",
+          "The victory did not give the Spirals open command of the city. It gave them something more valuable: room. The tunnels beneath Griffith Park now function as the heart of a growing Wyrm-tainted underworld, linked to old subterranean passages, neglected municipal infrastructure, forgotten service corridors, and spiritual ruptures leading deeper toward the Pit below. The Dancers have become more confident. Their agents move farther. Their rites grow louder in the Umbra. Their corruption no longer stays politely underground.",
+          "Los Angeles is still defended, but no longer by those once expected to defend it."
+      ],
+      "detailSections": [],
+      "memberEntries": [
+          {
+              "title": "Ratkin",
+              "body": [
+                  "The Ratkin inherited the war because no one else was fast enough, numerous enough, or angry enough to take it.",
+                  "They infest Los Angeles in every sense of the word: sewer lines, storm drains, abandoned commercial space, alleys behind restaurants, encampments beneath freeway ramps, failing apartments, warehouses, crawlspaces, and the rotting edges between neighborhoods. The Ratkin know how the city actually works because they occupy the places polite society refuses to acknowledge. They know where the city leaks, where it breaks, where it disposes of what it does not want seen.",
+                  "The Wyrm often arrives in those places first.",
+                  "Ratkin nests have become the most reliable early warning system against corruption spreading from below. They notice tainted runoff, malformed vermin, fomori hiding among the homeless, Spiral messengers moving through drainage tunnels, and strange mortal work crews digging where no permit should exist. Their methods are messy, cruel, and frequently impossible for Garou traditionalists to approve of, but there are fewer Garou left in Los Angeles who can afford disapproval.",
+                  "Hieronymous, one of the most influential Ratkin leaders in the region, has built a wary coalition among the city's swarms. He is no idealist. He has seen too many Garou arrive promising unity and depart when the consequences become difficult. His concern is Ratkin survival first, the city second, and Gaia somewhere further down the list depending on the day. Yet he understands that the Spirals beneath Griffith Park threaten every creature that nests in the shadow of Los Angeles. He will work with outsiders when needed. He will betray them if necessary. He sees no contradiction.",
+                  "Among the more approachable Ratkin is Yvgeny \"G,\" a family-minded survivor whose loyalties are narrow but fierce. Creatures like Yvgeny are often the first point of contact between Ratkin networks and other supernatural societies. They carry warnings, favors, grudges, and half-truths. Their information is rarely complete, but almost never useless.",
+                  "Los Angeles does not have a Ratkin protectorate. It has a Ratkin insurgency.",
+                  "That may be more useful."
+              ]
+          },
+          {
+              "title": "Corax",
+              "body": [
+                  "The Corax are everywhere something interesting has happened, which means they are everywhere in Los Angeles.",
+                  "They circle brush fires, police cordons, red carpet events, freeway disasters, ritual murders, studio lot scandals, and the rooftops of institutions that would prefer no one notice who enters after midnight. Most supernatural creatures underestimate them because Corax gossip sounds unserious until it proves accurate. In a city built on carefully maintained lies, they have become invaluable.",
+                  "The fall of the Glass Walkers turned Corax from informants into a dispersed intelligence service. They track Spiral movements, Technocratic retrieval teams, oil-company security anomalies, vampire body disposal, and the strange traffic of wraiths around disaster sites. They do not hold territory. They hold context.",
+                  "One of the better-known ravens along the coast is Bright-Eyes, a Corax who has served as guide, irritant, and occasional diplomatic broker between Garou, Ratkin, Bastet, and Rokea. Bright-Eyes understands better than most that Los Angeles cannot be defended by one Changing Breed claiming command of all the others. That failed already. His advice tends toward practical coalition: let those with teeth fight at sea, those with wings watch the roads, those beneath the pavement monitor the tunnels, and let anyone too proud to accept this arrangement explain their philosophy after the Pit opens.",
+                  "No one enjoys owing a Corax a favor.",
+                  "Most eventually do."
+              ]
+          },
+          {
+              "title": "The Rokea of the Coast",
+              "body": [
+                  "The sea remembers every insult.",
+                  "Off the coast of Southern California, Rokea hunt beneath water stained by industry, runoff, shipping lanes, drilling platforms, and oil infrastructure. They have no patience for the political distinctions land-dwellers consider essential. A Pentex-linked refinery, a mortal petrochemical concern, a vampire-invested terminal, and a corrupt corporate subcontractor may be very different entities on paper. To a Rokea, they are all part of the same injury.",
+                  "The shark-folk strike where the land meets the ocean. Oil refineries, harbor facilities, pipelines, offshore platforms, and service vessels have all suffered attacks blamed on equipment failure, environmental sabotage, gang violence, or terrorism. Some of those explanations are true in the narrowest possible sense. None tell the whole story.",
+                  "The Rokea do not fight for Los Angeles. They fight against what Los Angeles spills into their world.",
+                  "At times this aligns them with the city's other defenders. A coastal assault against Wyrm-tainted industry can provide cover for Ratkin infiltration or draw Spiral allies away from inland operations. The Rokea have shown limited willingness to coordinate with those who arrive humbly and speak plainly. They are not patient negotiators. They respect courage, usefulness, and proof that one's hatred of corruption is more than rhetoric.",
+                  "The vampires of Long Beach have learned to fear shapes moving beneath black water.",
+                  "They are right to."
+              ]
+          }
+      ],
+      "imageDescription": "Symbol or group image pending for The Changing Breeds.",
+      "roleplayingHints": "The Changing Breeds should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
+      "haven": "Griffith Park, the tunnels, storm drains, coastal waters, and the overlooked city",
+      "influence": "There was a time when Los Angeles had defenders strong enough to pretend the city might yet be saved. The Uktena guarded ancient places before the modern city spread across the basin. The Black Furies defended sacred ground in the west. Bone Gnawers kept watch in the ruined human underbelly. The Glass Walkers, guided by Don Leandro and those who followed him, understood the city's newer spirits better than any other tribe. They moved among laboratories, businesses, telecommunications, real estate, and water systems, speaking to the machine-souls of a city that was never going to return to wilderness. That age is ending."
+  },
+  {
+      "id": "reality-management",
+      "name": "Reality Management",
+      "clan": "Mages",
+      "category": "Others",
+      "subtab": "Mages",
+      "role": "Technocratic control and Tradition resistance in Los Angeles",
+      "imageNote": "Symbol pending for Reality Management",
+      "traits": {
+          "leader": "Umano Sallase",
+          "nature": "Mage Power Structure",
+          "allegiance": "Mages",
+          "primaryTerritory": "Disneyland, JPL, Sony Studios, and the wider Los Angeles consensus infrastructure",
+          "knownMembers": "Umano Sallase, Syndicate Operative, Lord of the Disneyland Construct",
+          "purpose": "Technocratic control and Tradition resistance in Los Angeles"
+      },
+      "attributes": {
+          "sphere": "Mages",
+          "faction": "Others",
+          "structure": "Mage Power Structure"
+      },
+      "abilities": {
+          "territory": "Disneyland, JPL, Sony Studios, and the wider Los Angeles consensus infrastructure",
+          "members": "Umano Sallase, Syndicate Operative, Lord of the Disneyland Construct",
+          "function": "Technocratic control and Tradition resistance in Los Angeles"
+      },
+      "powers": {
+          "allegiance": "Mages",
+          "roleInTheCity": "Technocratic control and Tradition resistance in Los Angeles",
+          "storytellerUse": "Use Reality Management as the Mages lens on Los Angeles beyond the main vampire sect war."
+      },
+      "history": [
+          "Los Angeles attracts magi because Los Angeles is already half-enchanted.",
+          "It is a city where identity is manufactured, where strangers arrive intending to become someone else, where images receive more reverence than truth, and where millions accept artificial stories as emotional fact. The Traditions see possibility in that looseness. The Technocratic Union sees a strategic necessity. If reality can be bent in Los Angeles, then it can be bent for the world.",
+          "The Technocracy holds the advantage.",
+          "Their grip on the city is not absolute, but it is organized, funded, and backed by institutions mortals already trust. A supernatural event in rural darkness may go unnoticed. A supernatural event in Los Angeles risks cameras, livestreams, helicopters, entertainment reporters, conspiracy channels, and instant replication across a hundred platforms. That makes the city intolerable to leave unmanaged.",
+          "The Union's policy is simple: public supernatural activity is not a local embarrassment. It is a contamination event.",
+          "Anything strange enough to make the news draws attention. A vampire massacre visible on traffic cameras. A Garou battle mistaken for an animal attack but filmed from six angles. A ghostly manifestation that survives video compression. A Fallen miracle witnessed by a crowd. Any of these may trigger Technocratic intervention. Retrieval teams move. Witness narratives change. Evidence vanishes. Agencies become cooperative. News producers lose interest. Doctors discover mundane explanations. Those responsible are marked for later correction.",
+          "In Los Angeles, the Masquerade is no longer protected only by vampires.",
+          "That fact should terrify them."
+      ],
+      "detailSections": [
+          {
+              "title": "The Union's Strongholds",
+              "body": [
+                  "The Technocratic presence in Greater Los Angeles is distributed across institutions that seem, to mortal eyes, unrelated.",
+                  "Disneyland remains one of the Union's most valuable constructs in Southern California. Publicly, it is a kingdom of sanitized fantasy, childhood memory, and carefully engineered joy. Within the Union, it is understood as something far more useful: a place where millions of Sleepers willingly submit to controlled perception, emotion, ritual movement, and environmental suggestion. Earlier Technocratic efforts focused on reality management through the Park itself. In recent years, the construct has expanded into more ambitious surveillance, tagging, and behavioral analysis. The magic kingdom watches back.",
+                  "The Jet Propulsion Laboratory in Pasadena serves as another pillar of Technocratic authority. Its official work reaches outward, charting planets and modeling the observable universe. Its classified work is more defensive. JPL monitors anomalous transmissions, unusual celestial patterns, Umbra-adjacent distortions, and impossible data that appears in instruments before disappearing under review. When the Union suspects that an event in Los Angeles is tied to forces beyond the ordinary Tellurian, Pasadena often knows first.",
+                  "Sony Studios in Culver City is a quieter but equally dangerous center of control. The Syndicate and New World Order have no shortage of interests in media, and Los Angeles media is consensus warfare by other means. Narratives are mass-produced there. Scandals are elevated or buried. Fictional imagery acclimates Sleepers to some impossibilities while rendering others absurd. Footage can be recontextualized before it ever becomes memory. Sony's Technocratic personnel do not need to erase every truth. Often, they only need to surround truth with enough manufactured unreality that no one knows what to believe.",
+                  "Together, these sites give the Union a remarkable capacity: detect, interpret, and overwrite."
+              ]
+          },
+          {
+              "title": "The Others",
+              "body": [
+                  "The Technocracy dominates the city, but it does not own every alley of reality.",
+                  "Hollow Ones and Orphans haunt the margins of the club scene, the art world, tattoo parlors, occult bookstores, and warehouse parties that seem to move each time the city looks too closely. A Verbena chantry survives in the Santa Monica Mountains, drawing strength from old currents still tangled with shapeshifter sacred ground. Along the coast, the legacy of Vali Shallar lingers through Akashic, Dreamspeaker, and spirit-bound currents whose mortal agents blend easily into immigrant communities, spiritual groups, and seaside subcultures.",
+                  "Los Angeles also remembers the New Horizon Council, born from mages who once defeated the Nephandus Jodi Blake and mistook survival for victory. Some of their ideals remain. Their unity does not.",
+                  "Tradition mages still act in the city. They rescue what they can, hide what they must, and tell themselves that the Union's vast infrastructure is brittle because it lacks soul. Perhaps that is true.",
+                  "It has not yet made the Technocracy less dangerous."
+              ]
+          }
+      ],
+      "memberEntries": [
+          {
+              "title": "Umano Sallase, Syndicate Operative, Lord of the Disneyland Construct",
+              "body": [
+                  "Umano Sallase is one of the most dangerous men in Los Angeles, though few Kindred know his name and fewer still understand what he is.",
+                  "Before coming west, Sallase was a warlord. The specific territory changes depending on who tells the story. The truth matters less than the habit it formed. He learned to think in populations, routes, informants, bottlenecks, reprisals, and manageable terror. When the Syndicate brought him into Los Angeles, they did not soften him. They gave him better tools.",
+                  "Sallase controls the Disneyland construct and the wide network of Technocratic influence radiating outward from it. He does not regard supernaturals as monsters in any religious sense. Monsters are irrational. Sallase is more clinical. Vampires are covert predators with social infrastructure. Garou are unstable para-biological combatants with insurgent tendencies. Demons are a high-risk metaphysical infection. Ghosts are post-mortem intelligence opportunities. Mages outside the Union are ideological terrorists with reality-warping capacity.",
+                  "Everything can be tagged. Everything can be categorized. Everything can be contained, redirected, or killed.",
+                  "His teams have hunted and marked supernaturals across Los Angeles for years. The first major conflict with local vampires came when smugglers attempted to run guns through territory Sallase considered his own. The Kindred involved learned that mortal security, federal scrutiny, and coincidental disaster can all be weapons in Technocratic hands. Since then, most undead with sense have treated Disneyland and its surrounding influence web as hostile ground.",
+                  "Some vampires insist Sallase was connected to the Midnight Circus. He was not. The rumor persists because it flatters the frightened imagination of the Damned. They would rather believe a Technocrat traffics in carnival nightmares than accept the plainer truth: Umano Sallase requires no such ornamentation. He is terrible enough as an administrator.",
+                  "Sallase commands enormous mortal influence, maintains powerful contacts among Technocratic operations farther west, and has cultivated a reputation for knowing about supernatural movements before local factions realize they have been observed. He is not omniscient. He is simply methodical, heavily resourced, and patient enough to build files for years before acting.",
+                  "His present concern is that Los Angeles has become too unstable to manage with old doctrine. The return of the Sabbat, the frequency of infernal incidents, displaced wraith populations, and growing cross-faction supernatural contact all suggest a city drifting toward uncontrolled revelation. Sallase is prepared to answer escalation with escalation.",
+                  "If necessary, he will turn Los Angeles into a demonstration."
+              ]
+          }
+      ],
+      "imageDescription": "Symbol or group image pending for Reality Management.",
+      "roleplayingHints": "Reality Management should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
+      "haven": "Disneyland, JPL, Sony Studios, and the wider Los Angeles consensus infrastructure",
+      "influence": "Los Angeles attracts magi because Los Angeles is already half-enchanted. It is a city where identity is manufactured, where strangers arrive intending to become someone else, where images receive more reverence than truth, and where millions accept artificial stories as emotional fact. The Traditions see possibility in that looseness. The Technocratic Union sees a strategic necessity. If reality can be bent in Los Angeles, then it can be bent for the world. The Technocracy holds the advantage."
+  },
+  {
+      "id": "the-dreaming-in-los-angeles",
+      "name": "The Dreaming in Los Angeles",
+      "clan": "Changelings",
+      "category": "Others",
+      "subtab": "Changelings",
+      "role": "Pacifica court, freeholds, glamour, and fae decay in Los Angeles",
+      "imageNote": "Symbol pending for The Dreaming in Los Angeles",
+      "traits": {
+          "leader": "Queen Aeron ap Fiona, with local nobles and freehold keepers",
+          "nature": "Changeling Court",
+          "allegiance": "Changelings",
+          "primaryTerritory": "Caer Angeles, Hollywood, Santa Monica, and glamour-rich Los Angeles",
+          "knownMembers": "None listed",
+          "purpose": "Pacifica court, freeholds, glamour, and fae decay in Los Angeles"
+      },
+      "attributes": {
+          "sphere": "Changelings",
+          "faction": "Others",
+          "structure": "Changeling Court"
+      },
+      "abilities": {
+          "territory": "Caer Angeles, Hollywood, Santa Monica, and glamour-rich Los Angeles",
+          "members": "None listed",
+          "function": "Pacifica court, freeholds, glamour, and fae decay in Los Angeles"
+      },
+      "powers": {
+          "allegiance": "Changelings",
+          "roleInTheCity": "Pacifica court, freeholds, glamour, and fae decay in Los Angeles",
+          "storytellerUse": "Use The Dreaming in Los Angeles as the Changelings lens on Los Angeles beyond the main vampire sect war."
+      },
+      "history": [
+          "Los Angeles is a kingdom built for fae and poisoned against them in equal measure.",
+          "It is a city of spectacle, impossible ambition, invented selves, ecstatic crowds, gaudy palaces, and childhood fantasies expanded until they become industries. Glamour clings to its movie theaters, music venues, animation studios, roadside attractions, beaches, mural walls, and long-promised dreams of reinvention. It also bleeds away in casting rooms, collapsing careers, commercialized wonder, cynicism, and the daily humiliation of those who came seeking magic and found a payment plan.",
+          "The changelings of Los Angeles live inside that contradiction.",
+          "The city belongs to the Kingdom of Pacifica, but L.A. has never been easy territory for nobles to govern. During the Accordance War, local Commoners resisted Sidhe intrusion fiercely and continued their opposition long after formal conquest had ended. That old resentment did not disappear when banners changed. It became etiquette. It became silence at court. It became the habit of obeying the letter of noble rule while quietly frustrating its spirit.",
+          "At the center of formal fae authority stands Caer Angeles, the great freehold-palace of the region and a residence fit for royal use should the High King come west. In practice, it serves as the regency seat of Queen Aeron ap Fiona, though the Queen's attention has drifted increasingly toward San Francisco and the company of her lover, the Satyr Hamal. Los Angeles remains important, even prestigious, but it is no longer watched closely enough to stay orderly."
+      ],
+      "detailSections": [
+          {
+              "title": "The Local Court",
+              "body": [
+                  "Los Angeles is divided among overlapping fae influences, dukedoms, freeholds, artistic circles, and old commoner enclaves that ignore noble maps whenever convenient. Formal hierarchy exists. Functional hierarchy is negotiated nightly.",
+                  "Duke Jayson of Hollywood is among the most visible local nobles. Unlike many courtiers who treat the Cathayan occupation as merely another vampire matter, Jayson has become fascinated by the Kuei-jin. Their souls do not seem to fit Western expectations. Their reactions to chimerical influence are irregular, sometimes resistant, sometimes startlingly vulnerable in ways no one can yet explain. Jayson sponsors quiet experiments to learn whether Cantrips can be reliably used against them. Some call this prudent. Others call it reckless meddling with creatures whose metaphysics were never meant to touch the Dreaming.",
+                  "At Land's End in Santa Monica, Thierry Alain Chevalier maintains a freehold whose atmosphere is far gentler than its strategic importance suggests. The Pooka keeps the place welcoming to travelers, artists, runaways, and wanderers who need a night of safety from the city's harder appetites. That hospitality gives Land's End a reputation for softness among certain nobles. Those who mistake kindness for weakness have regretted it.",
+                  "Father James, a Troll priest with roots in the Civil Rights Movement, remains one of the most respected voices in Pacifica. He is not a ruler, which is why rulers listen when he speaks. Nobles seek his counsel because he remembers struggles older than their current feuds. Commoners trust him because he does not speak of sacrifice as though only others should make it. In a court prone to theatrical outrage and personal decadence, Father James is dangerous in the rarest possible way: he is taken seriously.",
+                  "Then there is Tyria Winter of House Leanhaun.",
+                  "Tyria moves through the Los Angeles music scene like a promise whispered backstage. She encourages genius, feeds upon inspiration, and leaves behind ruin polished enough to be mistaken for artistic tragedy. Some at court suspect her Shadow Court affiliations. Others know and keep silent. The city creates enough damaged prodigies that one more burned-out singer, suicidal songwriter, or hollow-eyed composer attracts little notice. Tyria understands Los Angeles exceptionally well. It is a place where predation can wear the face of patronage and still receive applause."
+              ]
+          },
+          {
+              "title": "A Court Losing Its Center",
+              "body": [
+                  "The fae of Los Angeles are not in open crisis. That is what makes their condition dangerous.",
+                  "Caer Angeles still hosts revels. Nobles still hold titles. Freeholds still produce Glamour. Changelings still quarrel over etiquette, romance, and artistic patronage with the seriousness of nations at war. Yet Queen Aeron's distance has allowed old factional lines to widen. Commoners have begun speaking more openly of neglect. Younger nobles mistake theatricality for leadership. Shadow Court agents thrive in spaces no one wishes to inspect too closely. The encroachment of Cathayan influence, Technocratic reality management, and infernal spiritual pollution all weigh upon the Dreaming, but the court responds unevenly, as though the city's beauty might endure merely because it always has.",
+                  "Los Angeles remains one of the great glamour-rich cities of Pacifica.",
+                  "It is also becoming a place where dreams are harvested faster than they can heal."
+              ]
+          }
+      ],
+      "memberEntries": [],
+      "imageDescription": "Symbol or group image pending for The Dreaming in Los Angeles.",
+      "roleplayingHints": "The Dreaming in Los Angeles should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
+      "haven": "Caer Angeles, Hollywood, Santa Monica, and glamour-rich Los Angeles",
+      "influence": "Los Angeles is a kingdom built for fae and poisoned against them in equal measure. It is a city of spectacle, impossible ambition, invented selves, ecstatic crowds, gaudy palaces, and childhood fantasies expanded until they become industries. Glamour clings to its movie theaters, music venues, animation studios, roadside attractions, beaches, mural walls, and long-promised dreams of reinvention. It also bleeds away in casting rooms, collapsing careers, commercialized wonder, cynicism, and the daily humiliation of those who came seeking magic and found a payment plan. The changelings of Los Angeles live inside that contradiction."
+  },
+  {
+      "id": "the-dead-after-the-maelstrom",
+      "name": "The Dead After the Maelstrom",
+      "clan": "Wraiths",
+      "category": "Others",
+      "subtab": "Wraiths",
+      "role": "Post-Maelstrom Necropolis politics and desperate ghost alliances",
+      "imageNote": "Symbol pending for The Dead After the Maelstrom",
+      "traits": {
+          "leader": "Contested between Guild, Legion, and local operators",
+          "nature": "Wraith Necropolis",
+          "allegiance": "Wraiths",
+          "primaryTerritory": "The Los Angeles Shadowlands, Vernon, haunts, Nihils, and old routes of the dead",
+          "knownMembers": "Minister Caldwell, Grim Legion Operative; Nine, Masquer, Broker, Renegade; Autumn Moonchild, Oracle of the Ruined City; Dominic Herrera, Skeletal Legion Minister",
+          "purpose": "Post-Maelstrom Necropolis politics and desperate ghost alliances"
+      },
+      "attributes": {
+          "sphere": "Wraiths",
+          "faction": "Others",
+          "structure": "Wraith Necropolis"
+      },
+      "abilities": {
+          "territory": "The Los Angeles Shadowlands, Vernon, haunts, Nihils, and old routes of the dead",
+          "members": "Minister Caldwell, Grim Legion Operative; Nine, Masquer, Broker, Renegade; Autumn Moonchild, Oracle of the Ruined City; Dominic Herrera, Skeletal Legion Minister",
+          "function": "Post-Maelstrom Necropolis politics and desperate ghost alliances"
+      },
+      "powers": {
+          "allegiance": "Wraiths",
+          "roleInTheCity": "Post-Maelstrom Necropolis politics and desperate ghost alliances",
+          "storytellerUse": "Use The Dead After the Maelstrom as the Wraiths lens on Los Angeles beyond the main vampire sect war."
+      },
+      "history": [
+          "Los Angeles has always been thick with ghosts.",
+          "It is a city of unfinished lives: actors who never became famous, musicians who died before their break, immigrants buried far from home, children lost in traffic, gang dead, riot dead, suicide dead, and the countless ordinary souls who discovered too late that hope can become a chain. Before the Sixth Great Maelstrom, such spirits made the Necropolis unruly and crowded. After the storm, they made it desperate.",
+          "The Yellow Springs assault on the Los Angeles Necropolis was intended to be part of a broader eastern campaign. Instead, the Sixth Great Maelstrom tore through the Yin World, shattered support networks, destroyed experienced commanders, and left many eastern dead stranded in hostile territory. Western ghosts fared little better. Stygian authority frayed. Routes became impassable. Haunts turned unstable. Spectres moved where patrols no longer could. The deadlands became more lethal at the exact moment their inhabitants lost the institutions meant to protect them.",
+          "That wound has never fully closed.",
+          "Now wraiths from several traditions, factions, and dead empires look outward for shelter. They seek alliances with vampires who command Necromancy, mages who can perceive or bargain across the Shroud, changelings whose freeholds offer respite from despair, and even demons who promise protection at prices only the frightened agree to pay. These arrangements disgust traditionalists among the dead. They also keep some ghosts from being dragged screaming into worse places."
+      ],
+      "detailSections": [
+          {
+              "title": "The Shadowlands of Los Angeles",
+              "body": [
+                  "The Shadowlands of Los Angeles are beautiful in places and horrifying in most others.",
+                  "Old movie palaces shine with remembered applause. Studio lots echo with performances never completed. Freeways course with pale traffic that died years ago but still obeys the rhythm of commutes. The grief of neighborhoods accumulates in apartment blocks, hospitals, shelters, and police stations. Celebrity memorials attract strange currents of Memoriam, enough to empower certain star-wraiths far beyond what their personal character might deserve.",
+                  "The city's official Hierarchy citadel lies outside central Los Angeles, in Vernon, where the dead once found it easier to govern from a position slightly removed from the city's overcrowded center. Trolleys of the dead run old routes through the Necropolis, a relic of order that endures even as other systems break down.",
+                  "More dangerous are the oil wells, drilling stations, and industrial scars that manifest in the Shadowlands as Nihils. Some descend toward the Labyrinth. Others vomit cold wind, voices, and impossible debris. The living city exploited the earth. The dead city has inherited the holes."
+              ]
+          },
+          {
+              "title": "The Guilds and the Legions",
+              "body": [
+                  "Los Angeles has long been a city where Guilds act with unusual freedom. That reputation has only grown since the Maelstrom weakened centralized authority.",
+                  "The most powerful local force remains the Masquers, led by Diandra Coulson, who has spent years undermining formal Hierarchy control through favors, information, and the indispensable services only skilled Guildsmen can provide. Coulson is not universally loved. She does not need to be. She has made herself necessary to too many wraiths who cannot rely on official protection.",
+                  "Against her stands Harrison Gray Otis of the Iron Legion, backed by Stygian nobles and the conviction that Los Angeles must not be surrendered to guild influence and post-Maelstrom improvisation. Otis speaks of restoring order. His critics say he speaks chiefly of restoring obedience. Both may be true.",
+                  "The conflict between Coulson and Otis has not erupted into open war. Neither side can afford that. Yet every displaced wraith, every haunted structure, every smuggled relic, every deal with a vampire or mortal medium risks becoming another point of contest between local independence and Hierarchy restoration."
+              ]
+          }
+      ],
+      "memberEntries": [
+          {
+              "title": "Minister Caldwell, Grim Legion Operative",
+              "body": [
+                  "Minister Caldwell represents the practical new dead. He is a Hierarchy loyalist, but not a fool, and he understands that the old walls no longer hold. Caldwell has used the Arcanos of Inhabit to turn mortal technology into intelligence assets, listening through cellphones and devices when more traditional espionage would fail. He has already involved himself in defending supernatural spaces from Spectral assault when doing so served both local safety and his own agenda.",
+                  "Caldwell wants the Grim Legion taken seriously again. He believes active, organized engagement is the only path back from irrelevance. If that requires bargaining with vampires or requesting weapons delivered across the Shroud, he will do it. He does not confuse purity with usefulness."
+              ]
+          },
+          {
+              "title": "Nine, Masquer, Broker, Renegade",
+              "body": [
+                  "Nine sells access, infiltration, false appearances, and silence. Whether Nine is one wraith, a title passed among Masquers, or simply someone who enjoys making others uncertain has never been firmly established. The ambiguity helps business.",
+                  "Nine has served vampires when the price was right and has shown willingness to infiltrate the New Promise Mandarinate in exchange for destruction of rival assets in the lands of the living. Reputation matters to Nine. So does profit. Mercy appears lower on the list, though not absent.",
+                  "In Los Angeles, that is enough to seem almost principled."
+              ]
+          },
+          {
+              "title": "Autumn Moonchild, Oracle of the Ruined City",
+              "body": [
+                  "Autumn Moonchild died in a car accident on the way home from a music festival in the late 1960s. Death did not strip away her empathy. It sharpened it into a weakness others can exploit.",
+                  "Autumn offers readings, omens, and guidance to those lost in the city's supernatural confusion. She genuinely wants to help, which sets her apart from many who traffic in prophecy. It also ensures she is often disappointed. Los Angeles is full of people who ask where a loved one has gone when what they really want is permission to pursue revenge. Autumn answers as honestly as she can. Whether honesty helps is another matter."
+              ]
+          },
+          {
+              "title": "Dominic Herrera, Skeletal Legion Minister",
+              "body": [
+                  "Dominic Herrera serves the Skeletal Legion and sees diplomacy as a series of opportunities for acquisition. He is willing to consider arrangements with vampires, but not from goodwill. His price for serious cooperation has included demands as monstrous as delivery of a living Kindred across the Shroud for transport to Stygia and experimentation.",
+                  "Herrera is polite. He is patient. He is never casual.",
+                  "The Camarilla should remember that not every wraith seeking alliance is seeking friendship."
+              ]
+          }
+      ],
+      "imageDescription": "Symbol or group image pending for The Dead After the Maelstrom.",
+      "roleplayingHints": "The Dead After the Maelstrom should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
+      "haven": "The Los Angeles Shadowlands, Vernon, haunts, Nihils, and old routes of the dead",
+      "influence": "Los Angeles has always been thick with ghosts. It is a city of unfinished lives: actors who never became famous, musicians who died before their break, immigrants buried far from home, children lost in traffic, gang dead, riot dead, suicide dead, and the countless ordinary souls who discovered too late that hope can become a chain. Before the Sixth Great Maelstrom, such spirits made the Necropolis unruly and crowded. After the storm, they made it desperate. The Yellow Springs assault on the Los Angeles Necropolis was intended to be part of a broader eastern campaign. Instead, the Sixth Great Maelstrom tore through the Yin World, shattered support networks, destroyed experienced commanders, and left many eastern dead stranded in hostile territory. Western ghosts fared little better. Stygian authority frayed. Routes became impassable. Haunts turned unstable. Spectres moved where patrols no longer could. The deadlands became more lethal at the exact moment their inhabitants lost the institutions meant to protect them."
+  },
+  {
+      "id": "the-courts-of-los-angeles",
+      "name": "The Courts of Los Angeles",
+      "clan": "Demons",
+      "category": "Others",
+      "subtab": "Demons",
+      "role": "Fallen courts, Earthbound powers, and infernal politics after Lucifer",
+      "imageNote": "Symbol pending for The Courts of Los Angeles",
+      "traits": {
+          "leader": "Kishar, Anat, Spentu Mainyu, and the Three Earthbound",
+          "nature": "Infernal Courts and Earthbound",
+          "allegiance": "Demons",
+          "primaryTerritory": "The Langham Huntington, Catalina, Hollywood, South Central, elite cult networks, and infernal pressure points",
+          "knownMembers": "Belial; Enshagkushanna; Manishtusu",
+          "purpose": "Fallen courts, Earthbound powers, and infernal politics after Lucifer"
+      },
+      "attributes": {
+          "sphere": "Demons",
+          "faction": "Others",
+          "structure": "Infernal Courts and Earthbound"
+      },
+      "abilities": {
+          "territory": "The Langham Huntington, Catalina, Hollywood, South Central, elite cult networks, and infernal pressure points",
+          "members": "Belial; Enshagkushanna; Manishtusu",
+          "function": "Fallen courts, Earthbound powers, and infernal politics after Lucifer"
+      },
+      "powers": {
+          "allegiance": "Demons",
+          "roleInTheCity": "Fallen courts, Earthbound powers, and infernal politics after Lucifer",
+          "storytellerUse": "Use The Courts of Los Angeles as the Demons lens on Los Angeles beyond the main vampire sect war."
+      },
+      "history": [
+          "Everything can be tagged. Everything can be categorized. Everything can be contained, redirected, or killed.",
+          "His teams have hunted and marked supernaturals across Los Angeles for years. The first major conflict with local vampires came when smugglers attempted to run guns through territory Sallase considered his own. The Kindred involved learned that mortal security, federal scrutiny, and coincidental disaster can all be weapons in Technocratic hands. Since then, most undead with sense have treated Disneyland and its surrounding influence web as hostile ground.",
+          "Some vampires insist Sallase was connected to the Midnight Circus. He was not. The rumor persists because it flatters the frightened imagination of the Damned. They would rather believe a Technocrat traffics in carnival nightmares than accept the plainer truth: Umano Sallase requires no such ornamentation. He is terrible enough as an administrator.",
+          "Sallase commands enormous mortal influence, maintains powerful contacts among Technocratic operations farther west, and has cultivated a reputation for knowing about supernatural movements before local factions realize they have been observed. He is not omniscient. He is simply methodical, heavily resourced, and patient enough to build files for years before acting.",
+          "His present concern is that Los Angeles has become too unstable to manage with old doctrine. The return of the Sabbat, the frequency of infernal incidents, displaced wraith populations, and growing cross-faction supernatural contact all suggest a city drifting toward uncontrolled revelation. Sallase is prepared to answer escalation with escalation."
+      ],
+      "detailSections": [
+          {
+              "title": "Spentu Mainyu and the First Court",
+              "body": [
+                  "When Fallen first began arriving in Los Angeles in significant numbers, Spentu Mainyu acted before a more powerful rival could seize control. He declared himself Tyrant and assembled the city's first Infernal Court, presenting order as a necessity in a territory suddenly crowded with exiles, opportunists, and seekers of Lucifer.",
+                  "Spentu was never the strongest demon in the city. He was early, clever, and willing to claim authority while others were still deciding whether authority was necessary. For a time, that was enough.",
+                  "Then Kishar arrived.",
+                  "A more powerful Scourge with the stature to make resistance costly, Kishar displaced Spentu without shattering the structures he had built. Rather than destroy himself in a doomed confrontation, Spentu knelt. He was rewarded with authority over the Ministry of Dragons, a position that preserved much of his network while giving Kishar the appearance of orderly succession.",
+                  "It was not surrender. It was repositioning."
+              ]
+          },
+          {
+              "title": "The Blood Court",
+              "body": [
+                  "Spentu Mainyu understood quickly that serving Kishar would not satisfy him forever. To complicate the city's politics and divide attention away from his own ambitions, he encouraged Lady Anat to found a second court.",
+                  "Anat obliged.",
+                  "The Blood Court drew Faustians, high-Torment warriors, bitter survivors, and demons who found Kishar's structure too cautious or too bound to Spentu's old arrangements. Anat took Spentu as Minister of Dragons as well, accepting his counsel without fully appreciating how much of his counsel was designed to preserve his relevance across both courts.",
+                  "Thus Los Angeles achieved what many Fallen elsewhere consider absurd: two overlapping infernal governments claiming authority within the same territory without immediately descending into outright war.",
+                  "The peace endures because everyone profits from postponing the question of supremacy.",
+                  "That will not last forever."
+              ]
+          },
+          {
+              "title": "The Three Earthbound",
+              "body": [
+                  "The courts of Los Angeles understand that they are not the oldest or most powerful infernal forces in the city.",
+                  "They speak carefully of Belial, Enshagkushanna, and Manishtusu. They avoid mentioning all three in the same conversation unless there is a reason. They know these Earthbound manipulate mortal cults, occult currents, and infernal politics alike. They know the ancient beings have influenced Los Angeles for decades, in one case far longer. They know their own disputes may already be shaped by hands they cannot see.",
+                  "They continue disputing anyway."
+              ]
+          },
+          {
+              "title": "Fiddling at the End of the World",
+              "body": [
+                  "The infernal courts of Los Angeles are not ignorant. Ignorance would be comforting.",
+                  "They know the Earthbound are maneuvering. They know Lucifer's appearance altered the spiritual balance of the city. They know cults multiply, the dead grow restless, the Technocracy watches miracles with increasing alarm, and other supernatural powers are beginning to notice infernal patterns they once dismissed as rumor.",
+                  "They know all of this.",
+                  "And still they hold receptions at the Langham Huntington. They negotiate precedence. They trade favors. They seduce celebrities, recruit Faustians, resent Raveners who refuse court protocol, and argue over who has authority in Santa Monica or Hollywood as though ancient devils were not already moving pieces beneath their feet.",
+                  "Some do it because they are arrogant. Some because they are afraid. Some because they believe politics is the only shield available. Some because they have served too many masters in too many ages to recognize the moment when prudence becomes cowardice.",
+                  "The courts call it civilization.",
+                  "History may call it fiddling while the world burned."
+              ]
+          }
+      ],
+      "memberEntries": [
+          {
+              "title": "Belial",
+              "body": [
+                  "The Great Beast Belial came to Los Angeles in pursuit of Lucifer and bent other monstrous powers toward the same end. It was Belial who helped orchestrate the catastrophe of Devil's Night, using his power over ley lines to trigger the earthquake and chaos that nearly broke the city. The revelation of Lucifer's Apocalyptic Form denied Belial his prize, but not his interest.",
+                  "Belial does not rule a neighborhood or maintain a conventional court. He moves through the city by means of mobile reliquaries and hidden vessels, appearing wherever opportunity opens. His ambitions are vast and his patience inhuman. The Fallen courts tell themselves he is occupied with higher matters.",
+                  "Some say this because they believe it.",
+                  "Others say it because they need to."
+              ]
+          },
+          {
+              "title": "Enshagkushanna",
+              "body": [
+                  "Enshagkushanna has roots in Southern California older than European settlement, older than Los Angeles itself. Bound long ago through Tongva ritual history on Catalina Island, the Earthbound has watched centuries of change as passing weather. When signs of Lucifer's presence reached him, Enshagkushanna's attention turned toward the mainland with increasing hunger.",
+                  "During Devil's Night, he withdrew key resources to Catalina rather than expose himself needlessly to the chaos. Afterward, he returned stronger, spreading cultic influence among the wealthy and spiritually vacant. He understands Los Angeles as a city where rich mortals can be made to worship anything so long as it promises exclusivity. His servants move through private estates, luxury wellness circles, occult patronage networks, and elite gatherings where the difference between spiritual experience and vanity has nearly disappeared.",
+                  "Enshagkushanna grows through refinement, not spectacle.",
+                  "That may make him the most dangerous of the three."
+              ]
+          },
+          {
+              "title": "Manishtusu",
+              "body": [
+                  "Manishtusu, Lord of Murder, entered Los Angeles through bloodshed. He came seeking Lucifer and found a city already suited to his appetite. Street gangs, retaliatory violence, riots, grudges, and the endless low-grade brutality of urban desperation all gave him instruments. He cultivated mortal violence not merely for Faith, but because murder opens doors in the world and in the soul.",
+                  "The revelation during Devil's Night weakened him. Many servants and mortal connections were disrupted, lost, or shaken loose by the miraculous sight of Lucifer blazing before the city. Yet Manishtusu had prepared contingencies years earlier. His bargains did not all fail. His influence did not vanish. In South Central Los Angeles and other wounded places, his cults persist by adapting.",
+                  "Of the three Earthbound, Manishtusu is the one most likely to have touched Kindred affairs directly. The Sabbat's burial ritual, the survival of certain packs, and the bargain that spared some from Cathayan destruction all bear the stain of his interference. Few Sabbat understand what they owe him. Fewer would admit it if they did."
+              ]
+          }
+      ],
+      "imageDescription": "Symbol or group image pending for The Courts of Los Angeles.",
+      "roleplayingHints": "The Courts of Los Angeles should feel distinct from Kindred court politics. Let its own cosmology, institutions, and grudges shape how it responds to Los Angeles.",
+      "haven": "The Langham Huntington, Catalina, Hollywood, South Central, elite cult networks, and infernal pressure points",
+      "influence": "Everything can be tagged. Everything can be categorized. Everything can be contained, redirected, or killed. His teams have hunted and marked supernaturals across Los Angeles for years. The first major conflict with local vampires came when smugglers attempted to run guns through territory Sallase considered his own. The Kindred involved learned that mortal security, federal scrutiny, and coincidental disaster can all be weapons in Technocratic hands. Since then, most undead with sense have treated Disneyland and its surrounding influence web as hostile ground. Some vampires insist Sallase was connected to the Midnight Circus. He was not. The rumor persists because it flatters the frightened imagination of the Damned. They would rather believe a Technocrat traffics in carnival nightmares than accept the plainer truth: Umano Sallase requires no such ornamentation. He is terrible enough as an administrator."
+  },
 ];
 
 const dossierSlots = [];
