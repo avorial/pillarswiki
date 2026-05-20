@@ -865,15 +865,15 @@ window.PILLARS_CHRONICLE_DATA = {
       "era": "five-year-advance",
       "date": "2016",
       "sortYear": 2016.1,
-      "title": "The Perkins Survey Becomes a Death Warrant",
-      "summary": "Perkins' survey of the domain is compromised by a Malkavian infiltrator, and Madeleine Pelletier discovers a copy with a list of targets. She tries to deliver what she found, but Perkins has her executed with Pictor as the instrument. The scandal becomes one of the first buried crimes of the new court.",
+      "title": "The Perkins Survey Becomes an Assassination Attempt",
+      "summary": "Perkins' survey of the domain is compromised by a Malkavian infiltrator, and Madeleine Pelletier discovers a copy with a list of targets. She tries to deliver what she found, but Perkins attempts to have her killed with Pictor as the instrument. Madeleine survives, turning the scandal into one of the first buried crimes of the new court.",
       "spheres": ["Vampire"],
       "factions": ["Camarilla", "Brujah", "Malkavian", "Tremere", "Ventrue"],
       "locations": ["Los Angeles"],
       "npcs": ["Madeleine Pelletier", "Dafne Pictor", "Prince Perkins"],
       "sources": ["archon-bey-report", "pillars-dossiers"],
       "continuity": "pillars",
-      "impact": "Explains why Pictor's rise carries more blood and compromise than the public court record admits."
+      "impact": "Explains why Pictor's rise carries more blood and compromise than the public court record admits, while preserving Madeleine as a living witness and political actor."
     },
     {
       "id": "court-offices-reset",
@@ -881,11 +881,11 @@ window.PILLARS_CHRONICLE_DATA = {
       "date": "2016",
       "sortYear": 2016.2,
       "title": "The Court Rebuilds Its Offices",
-      "summary": "The reclaimed court settles into a new administrative shape: Yuri serves as Seneschal, Judith de Leon as Harpy, Mehmed Bey as Keeper, Hal Harrison as Sheriff, Lupo Salamanca as Scourge, and Cody West as Herald. Alexander Baird leaves the immediate Los Angeles court for Coachella, while Andy Watkins becomes the sort of field operator the domain needs more than it likes to admit.",
+      "summary": "The reclaimed court settles into a new administrative shape: Yuri serves as Seneschal, Judith de Leon as Harpy, Mehmed Bey as Keeper, Alexander Baird remains Sheriff, Lupo Salamanca serves as Scourge, and Cody West becomes Herald. Andy Watkins becomes the sort of field operator the domain needs more than it likes to admit, working beneath Baird's old-world authority.",
       "spheres": ["Vampire"],
       "factions": ["Camarilla", "Assamite", "Brujah", "Gangrel", "Malkavian", "Nosferatu", "Toreador", "Tremere", "Ventrue"],
-      "locations": ["Los Angeles", "Coachella"],
-      "npcs": ["Yuri", "Judith de Leon", "Mehmed Bey", "Hal Harrison", "Lupo Salamanca", "Cody West", "Alexander Baird", "Andy Watkins"],
+      "locations": ["Los Angeles"],
+      "npcs": ["Yuri", "Judith de Leon", "Mehmed Bey", "Alexander Baird", "Lupo Salamanca", "Cody West", "Andy Watkins"],
       "sources": ["archon-bey-report", "pillars-dossiers"],
       "continuity": "pillars",
       "impact": "Marks the court's shift from emergency conquest to daily governance, with offices becoming leverage points for later intrigue."
@@ -986,7 +986,7 @@ window.PILLARS_CHRONICLE_DATA = {
       "date": "2018",
       "sortYear": 2018.2,
       "title": "Durriken Paints the Hidden Jyhad",
-      "summary": "Durriken's visions move from general Gehenna dread toward a specific theory: demons are arranging Los Angeles' supernatural factions into collisions. As Master Harpy, he uses reputation, paintings, and suggestive questions to make the court discover pieces of the pattern itself, while his private trail toward Melvin Schact draws him deeper into Malkavian prophecy.",
+      "summary": "Durriken's visions move from general Gehenna dread toward a specific theory: demons are arranging Los Angeles' supernatural factions into collisions. As a Harpy, he uses reputation, paintings, and suggestive questions to make the court discover pieces of the pattern itself, while his private trail toward Melvin Schact draws him deeper into Malkavian prophecy.",
       "spheres": ["Vampire", "Demon", "Mage", "Changeling", "Werewolf"],
       "factions": ["Malkavian", "Camarilla", "Infernal Court"],
       "locations": ["Los Angeles"],
@@ -1026,19 +1026,19 @@ window.PILLARS_CHRONICLE_DATA = {
       "impact": "Shows the five-year advance is not only vampire politics; mage continuity is already colliding with the court's enemies."
     },
     {
-      "id": "calvin-olsen-praxis",
+      "id": "calvin-olsen-seneschal",
       "era": "five-year-advance",
       "date": "By 2020",
       "sortYear": 2020,
-      "title": "Calvin Olsen Holds Praxis",
-      "summary": "By the five-year mark, Calvin Olsen stands as Prince of Los Angeles. Pictor's emergency Tremere rule becomes the previous regime, and Ventrue institutional power returns to the center of Camarilla politics. The change does not end the war; it changes the court's preferred language for fighting it.",
+      "title": "Calvin Olsen Is Named Seneschal",
+      "summary": "By the five-year mark, Calvin Olsen is named Seneschal of Los Angeles. Pictor's Tremere praxis remains the public center of the domain, but Ventrue institutional power returns to the machinery of court through Calvin's office. The change does not end the war; it changes the court's preferred language for fighting it.",
       "spheres": ["Vampire"],
       "factions": ["Camarilla", "Ventrue", "Tremere"],
       "locations": ["Los Angeles"],
       "npcs": ["Calvin Olsen", "Dafne Pictor", "April Ueltschi", "Anna Petrovna", "Zhao \"John\" Leji"],
       "sources": ["pillars-dossiers"],
       "continuity": "pillars",
-      "impact": "Advances the political present from Pictor's immediate aftermath to the later court visible in the cleaned character dossiers."
+      "impact": "Advances the political present without removing Pictor from praxis, while giving the Ventrue a formal hand on the court's day-to-day machinery."
     },
     {
       "id": "central-oc-fae-bargain",
