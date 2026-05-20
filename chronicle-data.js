@@ -1,7 +1,7 @@
 window.PILLARS_CHRONICLE_DATA = {
   "title": "Pillars of Salt: Los Angeles World of Darkness Chronicle",
   "subtitle": "A pre-V5 citybook timeline and manuscript source",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scope": {
     "continuity": "Strict pre-V5 World of Darkness continuity with Pillars of Salt local additions.",
     "publicationGoal": "Storytellers Vault-ready PDF after a later compliance and layout pass.",
@@ -24,7 +24,13 @@ window.PILLARS_CHRONICLE_DATA = {
     { "id": "bns-met", "label": "By Night Studios MET", "type": "rules reference" },
     { "id": "killing-streets", "label": "Killing Streets", "type": "sourcebook" },
     { "id": "anarchs-unbound", "label": "Anarchs Unbound", "type": "sourcebook" },
-    { "id": "pillars-notes", "label": "Pillars of Salt local notes", "type": "local continuity" }
+    { "id": "pillars-notes", "label": "Pillars of Salt local notes", "type": "local continuity" },
+    { "id": "archon-bey-report", "label": "Report for Archon Ulgin Bey", "type": "Google Drive local report" },
+    { "id": "la-curdled-blood", "label": "Los Angeles By Night: The Curdled Blood Edition", "type": "Google Drive draft" },
+    { "id": "san-diego-history", "label": "Pillars of Salt History of San Diego", "type": "Google Drive draft" },
+    { "id": "mage-notes", "label": "Mage Notes", "type": "Google Drive notes" },
+    { "id": "fae-2020-sheet", "label": "NPC Sheet for Game 11-21-20", "type": "Google Drive play notes" },
+    { "id": "pillars-dossiers", "label": "Cleaned Pillars character dossiers", "type": "local continuity" }
   ],
   "eras": [
     {
@@ -80,6 +86,12 @@ window.PILLARS_CHRONICLE_DATA = {
       "title": "Camarilla Return and Pillars of Salt Setup",
       "range": "2015",
       "summary": "Camarilla strikes, Giovanni territorial claims, Sabbat re-emergence, and internal Camarilla betrayal create the opening conditions for the Pillars of Salt chronicle."
+    },
+    {
+      "id": "five-year-advance",
+      "title": "Five Years of Blood and Consequence",
+      "range": "2016-2020",
+      "summary": "The first five years after the Camarilla return turn Los Angeles from a fresh conquest into a grinding multi-front war. The court changes hands, the Sabbat becomes organized again, the New Promise Mandarinate survives through its wu, and older supernatural systems force the city to admit that praxis is not the same thing as control."
     }
   ],
   "events": [
@@ -832,6 +844,216 @@ window.PILLARS_CHRONICLE_DATA = {
       "sources": ["pillars-notes"],
       "continuity": "pillars",
       "impact": "Sets the immediate political frame for the Pillars of Salt chronicle."
+    },
+    {
+      "id": "domain-report-war-of-years",
+      "era": "five-year-advance",
+      "date": "2016",
+      "sortYear": 2016,
+      "title": "Archon Bey's Report Names the War",
+      "summary": "The first serious outside review of the reclaimed domain describes Los Angeles as a war of years rather than months. Prince Pictor's praxis appears workable, but the court is short on trust, the Primogen barely know how to work together, and the city's enemies are better organized than the Tower wants to admit.",
+      "spheres": ["Vampire"],
+      "factions": ["Camarilla", "Sabbat", "New Promise Mandarinate"],
+      "locations": ["Los Angeles"],
+      "npcs": ["Dafne Pictor", "Justicar Ulgahn Bey", "Prince Perkins"],
+      "sources": ["archon-bey-report", "pillars-dossiers"],
+      "continuity": "pillars",
+      "impact": "Reframes the post-2015 domain as an attrition campaign instead of a completed Camarilla victory."
+    },
+    {
+      "id": "perkins-breach-madeleine",
+      "era": "five-year-advance",
+      "date": "2016",
+      "sortYear": 2016.1,
+      "title": "The Perkins Survey Becomes a Death Warrant",
+      "summary": "Perkins' survey of the domain is compromised by a Malkavian infiltrator, and Madeleine Pelletier discovers a copy with a list of targets. She tries to deliver what she found, but Perkins has her executed with Pictor as the instrument. The scandal becomes one of the first buried crimes of the new court.",
+      "spheres": ["Vampire"],
+      "factions": ["Camarilla", "Brujah", "Malkavian", "Tremere", "Ventrue"],
+      "locations": ["Los Angeles"],
+      "npcs": ["Madeleine Pelletier", "Dafne Pictor", "Prince Perkins"],
+      "sources": ["archon-bey-report", "pillars-dossiers"],
+      "continuity": "pillars",
+      "impact": "Explains why Pictor's rise carries more blood and compromise than the public court record admits."
+    },
+    {
+      "id": "court-offices-reset",
+      "era": "five-year-advance",
+      "date": "2016",
+      "sortYear": 2016.2,
+      "title": "The Court Rebuilds Its Offices",
+      "summary": "The reclaimed court settles into a new administrative shape: Yuri serves as Seneschal, Judith de Leon as Harpy, Mehmed Bey as Keeper, Hal Harrison as Sheriff, Lupo Salamanca as Scourge, and Cody West as Herald. Alexander Baird leaves the immediate Los Angeles court for Coachella, while Andy Watkins becomes the sort of field operator the domain needs more than it likes to admit.",
+      "spheres": ["Vampire"],
+      "factions": ["Camarilla", "Assamite", "Brujah", "Gangrel", "Malkavian", "Nosferatu", "Toreador", "Tremere", "Ventrue"],
+      "locations": ["Los Angeles", "Coachella"],
+      "npcs": ["Yuri", "Judith de Leon", "Mehmed Bey", "Hal Harrison", "Lupo Salamanca", "Cody West", "Alexander Baird", "Andy Watkins"],
+      "sources": ["archon-bey-report", "pillars-dossiers"],
+      "continuity": "pillars",
+      "impact": "Marks the court's shift from emergency conquest to daily governance, with offices becoming leverage points for later intrigue."
+    },
+    {
+      "id": "san-diego-frays",
+      "era": "five-year-advance",
+      "date": "2016",
+      "sortYear": 2016.3,
+      "title": "San Diego Pushes Trouble North",
+      "summary": "Tara's San Diego continues to fray under paranoia, old Anarch resentment, and Cicatriz pressure. Her suspicion of Gangrel and other unreliable outsiders sends displaced Kindred, rumors, and useful grudges toward Los Angeles, where the new court is hungry for talent but wary of anything carrying San Diego's scent.",
+      "spheres": ["Vampire"],
+      "factions": ["Camarilla", "Anarchs", "Gangrel", "Sabbat"],
+      "locations": ["San Diego", "Los Angeles"],
+      "npcs": ["Tara", "Cicatriz", "Wade \"Trip\" Carlson III", "Andy Watkins"],
+      "sources": ["san-diego-history", "pillars-dossiers"],
+      "continuity": "pillars",
+      "impact": "Connects Los Angeles' Gangrel and refugee politics to the instability of the southern domain."
+    },
+    {
+      "id": "sabbat-packs-claim-la",
+      "era": "five-year-advance",
+      "date": "2016",
+      "sortYear": 2016.5,
+      "title": "The Sabbat Stops Being a Rumor",
+      "summary": "Don Dominic's archdiocese becomes a rallying point for surviving and arriving packs. The Liliaceae Lancers, the Answer, the Torrance Circle, Abramelin Oil, the Spear of Enoch, the Knights of St. Boris, La Petite Lunar, Aleph Null, and loose nomads give the Sword of Caine a real working shape again, even as Manishtusu's old burial debt remains unresolved beneath them.",
+      "spheres": ["Vampire", "Demon"],
+      "factions": ["Sabbat", "Earthbound", "Meester Van de Nacht", "The Answer", "Liliaceae Lancers", "The Torrance Circle", "Abramelin Oil", "Spear of Enoch", "The Knights of St. Boris", "La Petite Lunar", "Aleph Null", "Nomad Packs"],
+      "locations": ["Los Angeles", "Torrance", "South Bay"],
+      "npcs": ["Don Dominic De Guzman", "Manishtusu", "Elijah"],
+      "sources": ["pillars-dossiers", "la-curdled-blood"],
+      "continuity": "pillars",
+      "impact": "Turns the Sabbat from aftermath into an organized antagonist with multiple internal agendas."
+    },
+    {
+      "id": "npm-wu-consolidation",
+      "era": "five-year-advance",
+      "date": "2017",
+      "sortYear": 2017,
+      "title": "The New Promise Survives Through Its Wu",
+      "summary": "The New Promise Mandarinate does not vanish after the Camarilla return. It contracts into disciplined wu and affiliated houses: the Harmonious Mender of the Broken Fence, Flatbush and Stockton Posse, the Caged Sun Brotherhood, House of the Salted Crown, the Sutra of Blackened Incense, and the Bright Lanterns Beneath the Overpass. The Mandarinate's public claim weakens, but its capacity for pressure remains.",
+      "spheres": ["Kuei-jin", "Vampire"],
+      "factions": ["New Promise Mandarinate", "Harmonious Mender of the Broken Fence", "Flatbush and Stockton Posse", "The Caged Sun Brotherhood", "House of the Salted Crown", "The Sutra of Blackened Incense", "Bright Lanterns Beneath the Overpass"],
+      "locations": ["Los Angeles", "San Gabriel Valley", "San Francisco"],
+      "npcs": ["Monkey Trip Wu", "Jiejie Li", "Chiu Bao"],
+      "sources": ["pillars-dossiers", "la-curdled-blood"],
+      "continuity": "pillars",
+      "impact": "Keeps the NPM as a living political actor instead of treating it as a defeated Revised-era footnote."
+    },
+    {
+      "id": "nictuku-information-vacuum",
+      "era": "five-year-advance",
+      "date": "2017",
+      "sortYear": 2017.2,
+      "title": "The Nosferatu Leave Gaps in the Wires",
+      "summary": "Nictuku rumors force the Nosferatu to look inward and below, leaving corridors of digital intelligence strangely open. Deena HaLevi moves into the vacuum with security systems, surveillance webs, and technomantic study, while Jackie the Tail and Kirill Levonoff harden older information networks against something hunting their clan.",
+      "spheres": ["Vampire"],
+      "factions": ["Nosferatu", "Assamite", "Camarilla"],
+      "locations": ["Los Angeles", "Commerce", "Santa Monica", "Los Angeles Harbor"],
+      "npcs": ["Deena HaLevi", "Jackie the Tail", "Kirill Levonoff", "Anthony Bachman"],
+      "sources": ["pillars-dossiers"],
+      "continuity": "pillars",
+      "impact": "Explains why information power in Los Angeles becomes split between sewer intelligence, Assamite technomancy, and frightened defensive secrecy."
+    },
+    {
+      "id": "changing-breeds-underground-war",
+      "era": "five-year-advance",
+      "date": "2017",
+      "sortYear": 2017.4,
+      "title": "The Glass Walkers Break and the Under-City Answers",
+      "summary": "Black Spiral Dancers beneath Griffith Park shatter much of the Glass Walker network before the city's other defenders understand the scale of the attack. Ratkin, Corax, and Rokea become the practical early-warning system: rats in drains, ravens above disasters, and shark-folk striking where the city poisons the sea.",
+      "spheres": ["Werewolf", "Changing Breeds"],
+      "factions": ["Black Spiral Dancers", "Glass Walkers", "Ratkin", "Corax", "Rokea"],
+      "locations": ["Griffith Park", "Los Angeles", "Long Beach", "Santa Monica Bay"],
+      "npcs": ["Hieronymous", "Yvgeny \"G\"", "Bright-Eyes"],
+      "sources": ["pillars-dossiers", "la-curdled-blood"],
+      "continuity": "pillars",
+      "impact": "Shifts the non-vampire defense of Los Angeles away from Garou command and toward a messy coalition of survivors."
+    },
+    {
+      "id": "giovanni-wraith-economy",
+      "era": "five-year-advance",
+      "date": "2018",
+      "sortYear": 2018,
+      "title": "The Dead Become the City's Second Currency",
+      "summary": "The Sixth Great Maelstrom's damage continues to pay dividends for the Giovanni. Don Bruno consolidates Orange County while Serafina Giovanni makes herself useful inside Los Angeles proper. Wraiths, Guilds, and Hierarchy officers bargain with monsters because the old dead systems no longer protect them reliably.",
+      "spheres": ["Vampire", "Wraith"],
+      "factions": ["Giovanni", "Hierarchy", "Guilds", "Camarilla"],
+      "locations": ["Orange County", "Los Angeles Necropolis", "Vernon", "Los Angeles"],
+      "npcs": ["Don Alfonso Bruno Giovanni", "Serafina Giovanni", "Diandra Coulson", "Harrison Gray Otis", "Minister Caldwell", "Nine"],
+      "sources": ["pillars-dossiers", "la-curdled-blood"],
+      "continuity": "pillars",
+      "impact": "Makes necromancy and Shadowlands access central to the next phase of city politics."
+    },
+    {
+      "id": "durriken-hidden-jyhad",
+      "era": "five-year-advance",
+      "date": "2018",
+      "sortYear": 2018.2,
+      "title": "Durriken Paints the Hidden Jyhad",
+      "summary": "Durriken's visions move from general Gehenna dread toward a specific theory: demons are arranging Los Angeles' supernatural factions into collisions. As Master Harpy, he uses reputation, paintings, and suggestive questions to make the court discover pieces of the pattern itself, while his private trail toward Melvin Schact draws him deeper into Malkavian prophecy.",
+      "spheres": ["Vampire", "Demon", "Mage", "Changeling", "Werewolf"],
+      "factions": ["Malkavian", "Camarilla", "Infernal Court"],
+      "locations": ["Los Angeles"],
+      "npcs": ["Durriken", "Melvin Schact", "Mistress Isia", "Shari Rosenthal", "Isha Parikh"],
+      "sources": ["pillars-dossiers"],
+      "continuity": "pillars",
+      "impact": "Provides an in-character method for revealing the infernal metaplot without simply announcing it to the court."
+    },
+    {
+      "id": "technocracy-escalates",
+      "era": "five-year-advance",
+      "date": "2019",
+      "sortYear": 2019,
+      "title": "The Technocracy Treats LA as a Contamination Event",
+      "summary": "The Technocratic Union tightens its Los Angeles systems through Disneyland, JPL, and Sony. Umano Sallase's people tag, categorize, contain, or erase supernatural incidents before they become consensus damage. Vampires still call it Masquerade maintenance, but the city is increasingly protected by mortals who would rather vivisect the monsters than bargain with them.",
+      "spheres": ["Mage", "Vampire", "Demon", "Werewolf"],
+      "factions": ["Technocracy", "Syndicate", "New World Order", "Camarilla"],
+      "locations": ["Disneyland", "Jet Propulsion Laboratory", "Sony Studios", "Los Angeles"],
+      "npcs": ["Umano Sallase"],
+      "sources": ["pillars-dossiers", "mage-notes", "la-curdled-blood"],
+      "continuity": "pillars",
+      "impact": "Adds a modern surveillance-and-reality-control threat that constrains every supernatural faction."
+    },
+    {
+      "id": "mage-notes-jpl-breach",
+      "era": "five-year-advance",
+      "date": "2019",
+      "sortYear": 2019.2,
+      "title": "The JPL Thread Crosses the Mage Chronicle",
+      "summary": "Local mage activity brushes directly against the Los Angeles crisis: impossible phones, mirror-blood anomalies, strange scans at UCLA, a vampire attack on JPL, and Janet's eventual entry into the Technocratic Union. Marcus Willows offers ritual knowledge from a hidden path, while Oliver is identified as a reality deviant.",
+      "spheres": ["Mage", "Vampire", "Technocracy"],
+      "factions": ["Technocracy", "Traditions", "Camarilla"],
+      "locations": ["Jet Propulsion Laboratory", "UCLA", "Los Angeles", "Paris", "Iceland"],
+      "npcs": ["Janet", "Marcus Willows", "Oliver", "Andy Watkins"],
+      "sources": ["mage-notes"],
+      "continuity": "pillars",
+      "impact": "Shows the five-year advance is not only vampire politics; mage continuity is already colliding with the court's enemies."
+    },
+    {
+      "id": "calvin-olsen-praxis",
+      "era": "five-year-advance",
+      "date": "By 2020",
+      "sortYear": 2020,
+      "title": "Calvin Olsen Holds Praxis",
+      "summary": "By the five-year mark, Calvin Olsen stands as Prince of Los Angeles. Pictor's emergency Tremere rule becomes the previous regime, and Ventrue institutional power returns to the center of Camarilla politics. The change does not end the war; it changes the court's preferred language for fighting it.",
+      "spheres": ["Vampire"],
+      "factions": ["Camarilla", "Ventrue", "Tremere"],
+      "locations": ["Los Angeles"],
+      "npcs": ["Calvin Olsen", "Dafne Pictor", "April Ueltschi", "Anna Petrovna", "Zhao \"John\" Leji"],
+      "sources": ["pillars-dossiers"],
+      "continuity": "pillars",
+      "impact": "Advances the political present from Pictor's immediate aftermath to the later court visible in the cleaned character dossiers."
+    },
+    {
+      "id": "central-oc-fae-bargain",
+      "era": "five-year-advance",
+      "date": "2020",
+      "sortYear": 2020.9,
+      "title": "The Central Orange County Bargain",
+      "summary": "Sir Alexander Goodwin and the fae politics around Disneyland pull vampires, hunters, Technocrats, and Sabbat targets into the same negotiation space. Central Orange County, the Santa Monica freehold, the Santa Monica Pier prophecy, JPL's Technocrats, and the Crystal Cathedral all become pieces in a bargain no single faction fully understands.",
+      "spheres": ["Changeling", "Vampire", "Mage"],
+      "factions": ["Kingdom of Pacifica", "Camarilla", "Technocracy", "Sabbat"],
+      "locations": ["Central Orange County", "Disneyland", "Santa Monica", "Santa Monica Pier", "Jet Propulsion Laboratory", "Crystal Cathedral"],
+      "npcs": ["Sir Alexander Goodwin", "Baron Marcus Castel", "Prince Irons", "Misty Waters", "Elijah", "Grace", "Gereon", "Chadwick", "Mandable"],
+      "sources": ["fae-2020-sheet"],
+      "continuity": "pillars",
+      "impact": "Places Changeling politics and table-play consequences directly into the post-advance timeline."
     }
   ],
   "factions": [
@@ -876,6 +1098,30 @@ window.PILLARS_CHRONICLE_DATA = {
       "name": "Kingdom of Pacifica",
       "sphere": "Changeling",
       "summary": "The Changeling court overlays California with its own politics, succession wounds, and glamour debts."
+    },
+    {
+      "id": "technocracy",
+      "name": "Technocracy",
+      "sphere": "Mage",
+      "summary": "The Union treats Los Angeles as a high-risk consensus-management zone, using entertainment, aerospace, surveillance, and institutional force to contain public supernatural breaches."
+    },
+    {
+      "id": "changing-breeds",
+      "name": "Changing Breeds",
+      "sphere": "Werewolf",
+      "summary": "Garou losses leave Ratkin, Corax, Rokea, and scattered survivors to carry much of the city's anti-Wyrm warning network."
+    },
+    {
+      "id": "wraiths",
+      "name": "Los Angeles Dead",
+      "sphere": "Wraith",
+      "summary": "Post-Maelstrom ghosts, Guilds, Hierarchy agents, and displaced dead increasingly bargain with vampires and other monsters for protection."
+    },
+    {
+      "id": "inconnu",
+      "name": "Inconnu",
+      "sphere": "Vampire",
+      "summary": "Sabatos and the hidden observers do not rule Los Angeles, but they watch the city's confluence of Earthbound, Cathayans, Cainites, mages, and ghosts with dangerous patience."
     }
   ],
   "locations": [
@@ -908,6 +1154,31 @@ window.PILLARS_CHRONICLE_DATA = {
       "id": "necropolis",
       "name": "Los Angeles Necropolis",
       "summary": "The dead reflection of the city, contested during the Yellow Springs campaign and scarred by the Sixth Great Maelstrom."
+    },
+    {
+      "id": "san-diego",
+      "name": "San Diego",
+      "summary": "Tara's unstable southern court exports grudges, refugees, and strategic anxieties into Los Angeles."
+    },
+    {
+      "id": "disneyland",
+      "name": "Disneyland",
+      "summary": "A glamour-rich Changeling and Technocratic pressure point where controlled perception, fae politics, and Union surveillance overlap."
+    },
+    {
+      "id": "jpl",
+      "name": "Jet Propulsion Laboratory",
+      "summary": "A Technocratic stronghold and mage-chronicle flashpoint watching celestial, umbral, and supernatural anomalies."
+    },
+    {
+      "id": "santa-monica",
+      "name": "Santa Monica",
+      "summary": "A coastal pressure point for Tremere havens, Changeling freeholds, prophetic threats, and court intrigue."
+    },
+    {
+      "id": "central-orange-county",
+      "name": "Central Orange County",
+      "summary": "A contested buffer between Giovanni interests, Disneyland's fae and Technocratic shadows, and vampire bargaining."
     }
   ],
   "hooks": [
