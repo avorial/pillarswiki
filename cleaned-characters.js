@@ -3568,8 +3568,17 @@ let activeDossierCategory = "Camarilla";
 let activeDossierSubtab = null;
 
 document.addEventListener("DOMContentLoaded", () => {
+  applyDossierHash();
   renderDossierTabs();
   renderCleanedCharacters();
+  scrollDossierHashIntoView();
+});
+
+window.addEventListener("hashchange", () => {
+  if (!applyDossierHash()) return;
+  renderDossierTabs();
+  renderCleanedCharacters();
+  scrollDossierHashIntoView();
 });
 
 function renderDossierTabs() {
@@ -3634,6 +3643,65 @@ function renderCleanedCharacters() {
   visibleCharacters.forEach((character) => fragment.appendChild(characterDossier(character)));
   grid.replaceChildren(fragment);
   updateDossierCount(visibleCharacters.length);
+}
+
+function applyDossierHash() {
+  const hash = decodeURIComponent(window.location.hash.replace(/^#/, ""));
+  if (!hash || hash.startsWith("event=")) return false;
+
+  const params = new URLSearchParams(hash.includes("=") ? hash : `dossiers=${hash}`);
+  const rawCategory = params.get("dossiers") ?? params.get("dossier") ?? params.get("category") ?? hash;
+  const rawSubtab = params.get("subtab") ?? params.get("tab");
+  const cleanedCategory = cleanHashValue(rawCategory);
+  const cleanedSubtab = rawSubtab ? cleanHashValue(rawSubtab) : "";
+  const directCharacter = cleanedCharacters.find((character) => character.id === cleanedCategory);
+
+  if (directCharacter) {
+    activeDossierCategory = dossierCharacterCategory(directCharacter);
+    activeDossierSubtab = dossierCharacterSubtab(directCharacter);
+    return true;
+  }
+
+  const category = findDossierCategory(cleanedCategory);
+  if (!category) return false;
+
+  activeDossierCategory = category.id;
+  activeDossierSubtab = cleanedSubtab ? findDossierSubtab(category, cleanedSubtab) : null;
+  return true;
+}
+
+function scrollDossierHashIntoView() {
+  const hash = decodeURIComponent(window.location.hash.replace(/^#/, ""));
+  if (!hash || hash.startsWith("event=")) return;
+
+  const cleanedTarget = cleanHashValue(hash.includes("=") ? new URLSearchParams(hash).get("target") ?? "" : hash);
+  const targetCard = cleanedTarget ? document.getElementById(cleanedTarget) : null;
+  const target = targetCard ?? document.querySelector(".cleaned-character-band");
+  if (target) {
+    requestAnimationFrame(() => target.scrollIntoView({ block: "start" }));
+  }
+}
+
+function cleanHashValue(value) {
+  return String(value ?? "").trim().replace(/^#/, "").replace(/^\/+|\/+$/g, "");
+}
+
+function findDossierCategory(value) {
+  const slug = dossierSlug(value);
+  return dossierNavigation.find((category) => dossierSlug(category.id) === slug || dossierSlug(category.label) === slug);
+}
+
+function findDossierSubtab(category, value) {
+  const slug = dossierSlug(value);
+  return category.tabs.find((tab) => dossierSlug(tab) === slug) ?? null;
+}
+
+function dossierSlug(value) {
+  return String(value ?? "")
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 }
 
 function updateDossierCount(count) {
