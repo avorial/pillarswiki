@@ -68,5 +68,12 @@
     "alt": "Library of eyes vision",
     "caption": "Durkin Visions: Library of Eyes",
     "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Pillars-of-Salt-Logo.webp": {
+    "type": "image",
+    "path": "wiki/media/Pillars-of-Salt-Logo.webp",
+    "alt": "Pillars of Salt logo",
+    "caption": "Pillars of Salt logo",
+    "tags": ["logo", "campaign"]
   }
 }
