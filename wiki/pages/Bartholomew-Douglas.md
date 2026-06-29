@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Bartholomew_Douglas.png"
+parent: Malkavian
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Bartholomew Douglas

@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Regent_Pedro_Villalobos.png"
+parent: Tremere
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Regent Pedro Villalobos

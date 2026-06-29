@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Anna_Petrovna.png"
+parent: Toreador
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Alistair Ross

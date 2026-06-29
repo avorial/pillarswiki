@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Andy_Watkins.png"
+parent: Gangrel
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Andy Watkins

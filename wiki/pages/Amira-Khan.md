@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Amira_Khan.png"
+parent: Assamite
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Amira Khan

@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Cody_West.png"
+parent: Assamite
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Cody West

@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Deena_HaLevi.jpg"
+parent: Assamite
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Deena HaLevi

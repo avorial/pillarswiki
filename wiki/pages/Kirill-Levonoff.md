@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Kirill_Levonoff.png"
+parent: Nosferatu
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Kirill Levonoff

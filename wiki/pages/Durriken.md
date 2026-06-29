@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Durriken.png"
+parent: Malkavian
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Durriken

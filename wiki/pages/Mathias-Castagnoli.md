@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Mathias_Castagnoli.png"
+parent: Nosferatu
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Mathias Castagnoli

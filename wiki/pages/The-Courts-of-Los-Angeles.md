@@ -11,6 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+parent: Sphere-Dossiers
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # The Courts of Los Angeles

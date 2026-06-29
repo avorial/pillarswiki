@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Mehmed_Bey.png"
+parent: Assamite
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Mehmed Bey

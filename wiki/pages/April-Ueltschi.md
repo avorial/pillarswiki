@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "April_Ueltschi.png"
+parent: Ventrue
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # April Ueltschi

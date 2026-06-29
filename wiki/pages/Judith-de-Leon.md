@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Judith_de_Leon.png"
+parent: Toreador
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Judith de Leon
