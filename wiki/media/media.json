@@ -1,1 +1,72 @@
-{}
+{
+  "Durkin-Visions-01-Rose-Key.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-01-Rose-Key.png",
+    "alt": "Rose key vision",
+    "caption": "Durkin Visions: Rose Key",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-02-Giant-Wired-Figure.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-02-Giant-Wired-Figure.png",
+    "alt": "Giant wired figure vision",
+    "caption": "Durkin Visions: Giant Wired Figure",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-03-Broken-Clock-City.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-03-Broken-Clock-City.png",
+    "alt": "Broken clock over a city",
+    "caption": "Durkin Visions: Broken Clock City",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-04-Falling-Figure.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-04-Falling-Figure.png",
+    "alt": "Falling figure within black curved forms",
+    "caption": "Durkin Visions: Falling Figure",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-05-Horseman-and-Shadow.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-05-Horseman-and-Shadow.png",
+    "alt": "Horseman and shadow figure vision",
+    "caption": "Durkin Visions: Horseman and Shadow",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-06-Skull-and-Vermin.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-06-Skull-and-Vermin.png",
+    "alt": "Skull covered by vermin",
+    "caption": "Durkin Visions: Skull and Vermin",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-07-Chalice-and-Books.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-07-Chalice-and-Books.png",
+    "alt": "Chalice and open books vision",
+    "caption": "Durkin Visions: Chalice and Books",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-08-Skeletons-and-Woman.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-08-Skeletons-and-Woman.png",
+    "alt": "Skeletons and woman vision",
+    "caption": "Durkin Visions: Skeletons and Woman",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-09-Butterfly-and-Eye.png": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-09-Butterfly-and-Eye.png",
+    "alt": "Butterfly beneath an eye",
+    "caption": "Durkin Visions: Butterfly and Eye",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  },
+  "Durkin-Visions-10-Library-of-Eyes.jpg": {
+    "type": "image",
+    "path": "wiki/media/Durkin-Visions-10-Library-of-Eyes.jpg",
+    "alt": "Library of eyes vision",
+    "caption": "Durkin Visions: Library of Eyes",
+    "tags": ["Durkin Visions", "Durriken", "Malkavian", "vision"]
+  }
+}
