@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Alexander_Baird.png"
+parent: Brujah
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Alexander Baird

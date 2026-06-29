@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Marcus_Jonak.png"
+parent: Toreador
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Marcus Jonak

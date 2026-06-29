@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Wade_Trip_Carlson.png"
+parent: Gangrel
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Wade "Trip" Carlson III

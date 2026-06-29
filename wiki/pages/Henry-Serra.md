@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Henry_Serra.png"
+parent: Gangrel
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Henry Serra

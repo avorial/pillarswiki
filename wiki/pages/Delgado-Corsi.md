@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Delgado_Corsi.png"
+parent: Toreador
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Delgado Corsi

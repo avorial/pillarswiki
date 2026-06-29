@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Madeleine_Pelletier.png"
+parent: Brujah
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Madeleine Pelletier

@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Cohn_Rose.png"
+parent: Tremere
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Cohn Rose

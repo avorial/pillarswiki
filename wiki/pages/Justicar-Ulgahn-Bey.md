@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Justicar_Ulgahn_Bey.png"
+parent: Tremere
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Justicar Ulgahn Bey

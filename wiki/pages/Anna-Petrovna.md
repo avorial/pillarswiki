@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Anna_Petrovna.png"
+parent: Ventrue
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Anna Petrovna

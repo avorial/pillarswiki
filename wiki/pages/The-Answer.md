@@ -11,6 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+parent: Sabbat-Packs
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # The Answer

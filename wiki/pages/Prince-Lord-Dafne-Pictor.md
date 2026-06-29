@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Prince_Lord_Dafne_Pictor.png"
+parent: Tremere
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Prince / Lord Dafne Pictor

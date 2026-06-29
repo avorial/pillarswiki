@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Gunseli_Basar.png"
+parent: Assamite
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Gunseli Basar

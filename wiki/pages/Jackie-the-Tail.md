@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Jackie_the_Tail.png"
+parent: Nosferatu
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Jackie the Tail

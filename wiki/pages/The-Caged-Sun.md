@@ -11,6 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+parent: New-Promise-Wu
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # The Caged Sun

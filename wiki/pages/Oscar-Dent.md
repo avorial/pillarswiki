@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Oscar_Dent.png"
+parent: Brujah
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Oscar Dent

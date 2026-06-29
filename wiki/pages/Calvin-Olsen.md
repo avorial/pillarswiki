@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Calvin_Olsen.png"
+parent: Ventrue
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Calvin Olsen

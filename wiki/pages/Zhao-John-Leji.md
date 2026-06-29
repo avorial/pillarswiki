@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 cover: "Zhao_John_Leji.png"
+parent: Ventrue
 lastEditedBy: "Codex import from pillarswiki"
 ---
 # Zhao "John" Leji
