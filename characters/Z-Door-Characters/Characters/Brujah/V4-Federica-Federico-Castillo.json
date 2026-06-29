@@ -1,0 +1,2014 @@
+{
+  "source": {
+    "title": "V4-Federica-Federico-Castillo",
+    "fileName": "V4-Federica-Federico-Castillo.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Brujah\\V4-Federica-Federico-Castillo.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters",
+    "Characters",
+    "Brujah"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CHRONICLE",
+    "characterName": "Federica/Federico Castillo",
+    "playerName": "",
+    "gmailAccount": "Players Gmail Account:",
+    "clanCoordinator": "",
+    "archetype": "Fighter",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Neonate 11",
+    "clan": "Brujah"
+  },
+  "attributes": {
+    "physical": 10,
+    "social": 5,
+    "mental": 4
+  },
+  "backgrounds": {
+    "19": "CURRENT POOLS"
+  },
+  "currentPools": {},
+  "abilities": {
+    "1_0": "Survival",
+    "brawl": 4,
+    "dodge": 4,
+    "empathy": 2,
+    "firearms": 3
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [
+    "Level and Date"
+  ],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CHRONICLE",
+        "",
+        "",
+        "",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "8",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Federica/Federico Castillo",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Generation",
+        "",
+        "1.0",
+        "",
+        "",
+        "Mentor: Justicar Theo Bell has you on a short track to being one of his Archons. But for now, he's just guilding you."
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "",
+        "",
+        "",
+        "Player Name",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "",
+        "Allies"
+      ],
+      [
+        "",
+        "Fighter",
+        "",
+        "",
+        "",
+        "",
+        "Neonate",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "1.0",
+        "",
+        "",
+        "Haven: it's one of the first things you do in a new city - secure a hideout."
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "",
+        "",
+        "",
+        "Title",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Start Date",
+        "",
+        "",
+        "",
+        "Contacts"
+      ],
+      [
+        "",
+        "Neonate 11",
+        "",
+        "",
+        "",
+        "",
+        "Brujah - Stronger Beast",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        "Mentor",
+        "/ Fame",
+        "3.0",
+        "",
+        "",
+        "AI: It's not a great alias, but it's enough to get you past bouncers."
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "",
+        "",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Total XP Unspent",
+        "",
+        "",
+        "",
+        "Herd"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "INITIATIVE",
+        "10",
+        "19",
+        "CURRENT POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "",
+        "1.0",
+        "",
+        "",
+        "Hunted: the Sabbat of the Baltimore feel betrayed by your \"defection\" to the Cam. They don't understand you were infiltrating them. Either way, they want you ashed."
+      ],
+      [
+        "",
+        "Physical",
+        "10.0",
+        "Strength - (Disarm, Grapple, Knock Down, or Pierce the Heart)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Willpower",
+        "",
+        "",
+        "",
+        "",
+        "6.0",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "",
+        "",
+        "",
+        "",
+        "5.0",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Manipulation - +3 NonPower uses"
+      ],
+      [
+        "",
+        "Mental",
+        "4.0",
+        "Wits - +3 NonPower uses",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Beast Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Resources",
+        "",
+        "2.0"
+      ],
+      [
+        "PILLARS OF SALT",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Current Derangement Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 10*1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae",
+        "/ Other"
+      ],
+      [
+        "",
+        "Loyal (Fleeting)",
+        "",
+        "",
+        "",
+        "",
+        "Theo Bell",
+        "",
+        "",
+        "STARTING CHARACTER CONCEPT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "",
+        "DISCIPLINES",
+        "",
+        "4"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "You're a fighter, you don't give up. Which is why Justicar Theo Bell has you in his pocket.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Burning Wrath -2",
+        "",
+        "",
+        "",
+        "",
+        "Celerity",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Rugged -3",
+        "",
+        "",
+        "",
+        "",
+        "Potence",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Loremaster -1",
+        "",
+        "",
+        "",
+        "",
+        "Presence",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0"
+      ],
+      [
+        "",
+        "You know the status of everyone in your sect. Leadership will tell you how they got one of them. Alternative Idenity can let you earn and fake status. Maxium 5 Fleeting w/o merits."
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "26",
+        "WHAT AM I GOOD AT?"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "",
+        "1.0",
+        "Streetwise",
+        "3.0",
+        "",
+        "Being loud, being scary, and being passionate about your beliefs."
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "",
+        "Subterfuge",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hunted +4 (Sabbat)"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "1.0",
+        "Survival",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bestial Instinct +2"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "",
+        "",
+        "Performance",
+        "",
+        "",
+        "BOONS / BONDS / VINCULUM",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ABILITY SPECIALIZATIONS",
+        "",
+        "",
+        "",
+        "2",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Brawl",
+        "4.0",
+        "Lore",
+        "",
+        "2.0",
+        "",
+        "",
+        "",
+        "Name",
+        "",
+        "",
+        "Level and Date",
+        "",
+        "",
+        "",
+        "Lore: Sabbat Law, Sabbat History"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cam History, ???"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "",
+        "3.0"
+      ],
+      [
+        "",
+        "Dodge",
+        "4.0",
+        "Occult"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "2.0",
+        "Security",
+        "",
+        "3.0"
+      ],
+      [
+        "",
+        "Firearms",
+        "3.0",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON TRAIT POOLS"
+      ],
+      [
+        "",
+        "Brawl (StrPot)   16",
+        "",
+        "Dodge(D/C) 16",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee(StrP)   15",
+        "",
+        "Presence    6",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns Pull Down",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "OOO Healthy (No Effects) OOO Injured (Can be Targeted) OOO Incapacitated (No Simple Actions)  / 3 Steps Every Simple &/Or Complex",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "4.0"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "What do things cost?",
+          "",
+          "-1"
+        ],
+        [
+          "Merit: Rugged",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Merit: Burning Wrath",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Flaw: Hunted - Sabbat",
+          "Pre Game",
+          "4.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Flaw: Bestial Instinct",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Dodge 3 to 4",
+          "Pre Game",
+          "-4.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Firearms 2 to 3",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Streetwise 1 to 3",
+          "Pre Game",
+          "-5.0"
+        ],
+        [
+          "Melee 2 to 3",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Physical 7 to 10",
+          "Pre Game",
+          "-9.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Mental 3 to 4",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Resources 1 / 1 to 2",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "Alternative Identiy 1",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Merit: Loremaster",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "column_4": "What do things cost?",
+          "starting_total_xp_left": -1
+        },
+        {
+          "what_was_bought": "Merit: Rugged",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Merit: Burning Wrath",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Flaw: Hunted - Sabbat",
+          "date": "Pre Game",
+          "all_costs": 4,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Flaw: Bestial Instinct",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Dodge 3 to 4",
+          "date": "Pre Game",
+          "all_costs": -4,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Firearms 2 to 3",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Streetwise 1 to 3",
+          "date": "Pre Game",
+          "all_costs": -5
+        },
+        {
+          "what_was_bought": "Melee 2 to 3",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Physical 7 to 10",
+          "date": "Pre Game",
+          "all_costs": -9,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Mental 3 to 4",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Resources 1 / 1 to 2",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "what_was_bought": "Alternative Identiy 1",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Merit: Loremaster",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "You're a fighter, you don't give up. Which is why Justicar Theo Bell has you in his pocket.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "LAB"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "You were were born in Baltimore during the Vietnam war. Your father died overseas fighting, and your mother was barely making ends meet in one of the rougher neighborhoods. You grew up on the streets, mostly raising yourself. The early 60's were a time of great racial and social change, and you were in the thick of it: you and your gang of other discontented youths, protesting the racial segregation endemic in Baltimore. One particular protest got rough, and you barely escaped being beaten to death by a cop with a grudge.  You were found, clinging to what life you had, by one of the more outcast of your group; someone you knew, you trusted, but that kept to themselves. So you couldn't have known they were a vampire. Seeing in you the promise of a great fighter for the cause, he embraced you into a world constantly at war. He himself was a Camarilla Brujah, infiltrating the Sabbat held city of Baltimore, and brought you into his \"pack\", made up of other infiltrators pretending to be members of the Sabbat. You had no idea what you were walking into, but you went along with it, and you learned from the others, both about the sect you were nominally serving and the sect you were pretending to be. Horrified by the inhumanity on display, you felt yourself sliding further and further into depravity. Your sire didn't realize what was happening until it was almost too late. He, too, was shocked at what was happening, and sent you to stay with his superior - the Justicar, Theo Bell. Bell recognized the marks of the Beast on your soul, and gave you the space and support to make yourself whole again. At first you thought he was doing it out of brotherhood, but you've slowly come to realize that even Theo Bell has his own ulterior motives. Having once tasted the darkness and come back, Bell's confident you can resist the slide again. Is that why he's sending you to Los Angeles?"
+        ],
+        [
+          "Sire:",
+          "Big Jim Cowling",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Brujah - Stronger Beast"
+        ],
+        [
+          "Embrace Date:",
+          "1966.0",
+          "Embrace Location:",
+          "Baltimore, Maryland",
+          "",
+          "Generation",
+          "Neonate 11"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "You're a fighter, you don't give up. Which is why Justicar Theo Bell has you in his pocket.",
+          "created_by": "LAB"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "You were were born in Baltimore during the Vietnam war. Your father died overseas fighting, and your mother was barely making ends meet in one of the rougher neighborhoods. You grew up on the streets, mostly raising yourself. The early 60's were a time of great racial and social change, and you were in the thick of it: you and your gang of other discontented youths, protesting the racial segregation endemic in Baltimore. One particular protest got rough, and you barely escaped being beaten to death by a cop with a grudge.  You were found, clinging to what life you had, by one of the more outcast of your group; someone you knew, you trusted, but that kept to themselves. So you couldn't have known they were a vampire. Seeing in you the promise of a great fighter for the cause, he embraced you into a world constantly at war. He himself was a Camarilla Brujah, infiltrating the Sabbat held city of Baltimore, and brought you into his \"pack\", made up of other infiltrators pretending to be members of the Sabbat. You had no idea what you were walking into, but you went along with it, and you learned from the others, both about the sect you were nominally serving and the sect you were pretending to be. Horrified by the inhumanity on display, you felt yourself sliding further and further into depravity. Your sire didn't realize what was happening until it was almost too late. He, too, was shocked at what was happening, and sent you to stay with his superior - the Justicar, Theo Bell. Bell recognized the marks of the Beast on your soul, and gave you the space and support to make yourself whole again. At first you thought he was doing it out of brotherhood, but you've slowly come to realize that even Theo Bell has his own ulterior motives. Having once tasted the darkness and come back, Bell's confident you can resist the slide again. Is that why he's sending you to Los Angeles?"
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Big Jim Cowling",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Brujah - Stronger Beast"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1966,
+          "column_3": "Embrace Location:",
+          "column_4": "Baltimore, Maryland",
+          "column_6": "Generation",
+          "column_7": "Neonate 11"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "1",
+          "",
+          "1",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "1",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "3",
+          "0",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "1",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "1",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "0",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "0",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 1,
+          "column_5": 1,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 3,
+          "column_4": 0,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 1,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 0,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "0",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Email Address",
+          "What is your name",
+          "What is your character's name",
+          "What is your character's type (clan)",
+          "Feeding",
+          "Action 1",
+          "Action 1  Description",
+          "Action 2",
+          "Action 2  Description",
+          "Action 3",
+          "Action 3  Description",
+          "Action 4",
+          "Action 4  Description",
+          "Action 5",
+          "Action 5  Description",
+          "Action 6",
+          "Action 6  Description",
+          "XP Spends",
+          "Other Description",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Action 1  Description",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Email Address",
+          "influnce_downtimes": "What is your name",
+          "computer_downtimes": "What is your character's type (clan)",
+          "science_downtimes": "Action 1",
+          "column_9": "Action 2",
+          "column_10": "Action 2  Description",
+          "column_11": "Action 3",
+          "column_12": "Action 3  Description",
+          "column_13": "Action 4",
+          "column_14": "Action 4  Description",
+          "column_15": "Action 5",
+          "column_16": "Action 5  Description",
+          "column_17": "Action 6",
+          "column_18": "Action 6  Description",
+          "column_19": "XP Spends",
+          "column_20": "Other Description",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

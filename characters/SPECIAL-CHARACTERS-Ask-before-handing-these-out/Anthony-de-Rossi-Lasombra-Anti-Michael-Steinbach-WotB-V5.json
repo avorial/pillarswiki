@@ -1,0 +1,2569 @@
+{
+  "source": {
+    "title": "Anthony-de-Rossi-Lasombra-Anti-Michael-Steinbach-WotB-V5",
+    "fileName": "Anthony-de-Rossi-Lasombra-Anti-Michael-Steinbach-WotB-V5.xlsx",
+    "localPath": "source-sheets\\SPECIAL CHARACTERS - Ask before handing these out.\\Anthony-de-Rossi-Lasombra-Anti-Michael-Steinbach-WotB-V5.xlsx"
+  },
+  "folderPath": [
+    "SPECIAL CHARACTERS - Ask before handing these out."
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CHRONICLE",
+    "characterName": "Anthony de Rossi",
+    "playerName": "",
+    "gmailAccount": "Players Gmail Account:",
+    "clanCoordinator": "",
+    "archetype": "Mediator",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Pretender Elder 8",
+    "clan": "Lasombra"
+  },
+  "attributes": {
+    "physical": 5,
+    "social": 7,
+    "mental": 6
+  },
+  "backgrounds": {
+    "18": "CURRENT POOLS"
+  },
+  "currentPools": {},
+  "abilities": {
+    "4_0": "Streetwise",
+    "1_0": "Subterfuge",
+    "3_0": "Survival",
+    "2_0": "Clan Knowlage",
+    "brawl": 1,
+    "dodge": 1,
+    "drive": 1
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [
+    "Level and Date"
+  ],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CHRONICLE",
+        "",
+        "",
+        "",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "14",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Anthony de Rossi",
+        "",
+        "",
+        "",
+        "",
+        "Michael Steinbach",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Jennifer Wolfe",
+        "",
+        "",
+        "",
+        "Generation",
+        "",
+        "3.0",
+        "",
+        "",
+        "Elite: Catholic bureacracy"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "",
+        "",
+        "",
+        "Player Name",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "",
+        "Allies"
+      ],
+      [
+        "",
+        "Mediator",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2018-10-20 00:00:00",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "2.0",
+        "",
+        "",
+        "Retainer Gerald Farsen (all computer communication will go through him)"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "",
+        "",
+        "",
+        "Title",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Start Date",
+        "",
+        "",
+        "",
+        "Contacts"
+      ],
+      [
+        "",
+        "Pretender Elder 8",
+        "",
+        "",
+        "",
+        "",
+        "Lasombra Antitribu - No Reflection & Hunted",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "7",
+        "",
+        "",
+        "",
+        "Mentor",
+        "/ Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "",
+        "",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Total XP Unspent",
+        "",
+        "",
+        "",
+        "Herd",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "INITIATIVE",
+        "7",
+        "18",
+        "CURRENT POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "",
+        "2.0"
+      ],
+      [
+        "",
+        "Physical",
+        "5.0",
+        "Strength - (Disarm, Grapple, Knock Down, or Pierce the Heart)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Willpower",
+        "",
+        "",
+        "",
+        "",
+        "6.0",
+        "",
+        "Influence \"Elite\"",
+        "",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "",
+        "",
+        "",
+        "",
+        "5.0",
+        "",
+        "Influence \"Underworld\"",
+        "",
+        "0.0"
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "Appearance - +3 NonPower uses"
+      ],
+      [
+        "",
+        "Mental",
+        "6.0",
+        "Intelligence - +3 NonPower uses",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Beast Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Resources",
+        "",
+        "2.0"
+      ],
+      [
+        "PILLARS OF SALT",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Current Derangement Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Retainers",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 15*3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae",
+        "/ Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "STARTING CHARACTER CONCEPT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "",
+        "DISCIPLINES",
+        "",
+        "6"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grandchilde of Don Guzman, you are tasked with pushing forward the cause of the Lasombra Antitribu in the Camarilla and to earn the attention of Montano.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dominate",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bigger Boys Came -2",
+        "",
+        "",
+        "",
+        "",
+        "Potence",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Rare Clan -4",
+        "",
+        "",
+        "",
+        "",
+        "Obtenebration",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Loremaster -1",
+        "",
+        "",
+        "",
+        "",
+        "Auspex",
+        "1.0"
+      ],
+      [
+        "",
+        "You know the status of everyone in your sect. Leadership will tell you how they got one of them. Alternative Idenity can let you earn and fake status. Maxium 5 Fleeting w/o merits.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Overconfident +2"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "25",
+        "WHAT AM I GOOD AT?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hunted +4"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "",
+        "4.0",
+        "Streetwise",
+        "1.0",
+        "",
+        "Being charming - being intimidating, whichever is needed",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Prey Exclusion +1"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "1.0",
+        "Subterfuge",
+        "1.0"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "3.0",
+        "Survival"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "",
+        "2.0",
+        "Performance",
+        "",
+        "",
+        "BOONS / BONDS / VINCULUM",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ABILITY SPECIALIZATIONS",
+        "",
+        "",
+        "",
+        "4",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Brawl",
+        "1.0",
+        "Lore",
+        "",
+        "2.0",
+        "Clan Knowlage",
+        "2.0",
+        "",
+        "Name",
+        "",
+        "",
+        "Level and Date",
+        "",
+        "",
+        "",
+        "Clan Knowledge: Lasombra"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "",
+        "",
+        "Law",
+        "1.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lore: Lasombra, Golcanda,"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "",
+        "1.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Camarilla Law, Noddist Lore"
+      ],
+      [
+        "",
+        "Dodge",
+        "1.0",
+        "Occult",
+        "",
+        "3.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Languages: English, Spanish"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Science",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(Italian primary)"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "COMMON TRAIT POOLS"
+      ],
+      [
+        "",
+        "Brawl (StrPot)   8",
+        "",
+        "Dodge6",
+        "",
+        "",
+        "Auspex    7"
+      ],
+      [
+        "",
+        "Melee(StrP)   8",
+        "",
+        "Dominate    10",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns(-W)   5",
+        "",
+        "",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5.0"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "Page 107 BNS\n\nAttribute 3xp Each\n\nIn-Clan Discipline New Level x3\n\nRegain lost Humanity 10xp Each\n\nMerit = to merit rating\n\nBackground New level x2\n\nSkill New level x2\n\nOutOfClan New Level x4\n\nTechnique 20xp each\n\nInClanElderPower 18XP only 1\n\nOutOfClanElderPower 24",
+          "",
+          "0"
+        ],
+        [
+          "Brawl 1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Physical 4-5",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Dodge 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "30"
+        ],
+        [
+          "Elite 2",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Elite 3",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Law 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "6"
+        ],
+        [
+          "Herd 1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Haven 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Haven 2",
+          "Pre Game",
+          "-4.0",
+          "",
+          "",
+          "1"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "23"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "7"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Earned XP in Game",
+          "2018-10-20 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Earned Shout Out XP Game 1",
+          "2018-10-20 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Earned Voting XP",
+          "2018-11-06 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Purchase Retainer 1",
+          "2018-11-13 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2018-12-16 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Shout out",
+          "2018-12-16 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Staff Shout out Jen",
+          "2018-12-16 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Purchase Obtenebration 2",
+          "2019-01-16 00:00:00",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2019-01-19 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Player Shout out",
+          "2019-01-22 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Staff Shout out Jen",
+          "2019-01-22 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Staff Shout out Ari",
+          "2019-01-22 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Convention Game",
+          "2019-01-28 00:00:00"
+        ],
+        [
+          "Purchase Alt ID 1",
+          "2019-02-19 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Purchase Alt ID 2",
+          "2019-02-19 00:00:00",
+          "",
+          "",
+          "4.0"
+        ],
+        [
+          "Purchase Streetwise",
+          "2019-02-19 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2019-02-23 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Game 5 Shout Out",
+          "2019-02-23 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Auspex 1 (Learned from Alex)",
+          "2019-03-09 00:00:00",
+          "",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2019-03-18 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "player Shout out",
+          "2019-03-20 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "6 Game Bonus",
+          "2019-04-07 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "1 Mental",
+          "2019-04-17 00:00:00",
+          "",
+          "",
+          "3.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "column_4": "Page 107 BNS\n\nAttribute 3xp Each\n\nIn-Clan Discipline New Level x3\n\nRegain lost Humanity 10xp Each\n\nMerit = to merit rating\n\nBackground New level x2\n\nSkill New level x2\n\nOutOfClan New Level x4\n\nTechnique 20xp each\n\nInClanElderPower 18XP only 1\n\nOutOfClanElderPower 24",
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Brawl 1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Physical 4-5",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Dodge 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 30
+        },
+        {
+          "what_was_bought": "Elite 2",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Elite 3",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Law 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 6
+        },
+        {
+          "what_was_bought": "Herd 1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Haven 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Haven 2",
+          "date": "Pre Game",
+          "all_costs": -4,
+          "starting_total_xp_left": 1
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 23
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 7
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2018-10-20 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Earned Shout Out XP Game 1",
+          "date": "2018-10-20 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Earned Voting XP",
+          "date": "2018-11-06 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Purchase Retainer 1",
+          "date": "2018-11-13 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2018-12-16 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Shout out",
+          "date": "2018-12-16 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Staff Shout out Jen",
+          "date": "2018-12-16 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Purchase Obtenebration 2",
+          "date": "2019-01-16 00:00:00",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2019-01-19 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Player Shout out",
+          "date": "2019-01-22 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Staff Shout out Jen",
+          "date": "2019-01-22 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Staff Shout out Ari",
+          "date": "2019-01-22 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2019-01-28 00:00:00"
+        },
+        {
+          "what_was_bought": "Purchase Alt ID 1",
+          "date": "2019-02-19 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Purchase Alt ID 2",
+          "date": "2019-02-19 00:00:00",
+          "column_5": 4
+        },
+        {
+          "what_was_bought": "Purchase Streetwise",
+          "date": "2019-02-19 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2019-02-23 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Game 5 Shout Out",
+          "date": "2019-02-23 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Auspex 1 (Learned from Alex)",
+          "date": "2019-03-09 00:00:00",
+          "column_5": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2019-03-18 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "player Shout out",
+          "date": "2019-03-20 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "6 Game Bonus",
+          "date": "2019-04-07 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "1 Mental",
+          "date": "2019-04-17 00:00:00",
+          "column_5": 3
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Grandchilde of Don Guzman, you are tasked with pushing forward the cause of the Lasombra Antitribu in the Camarilla and to earn the attention of Montano.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Jenn Wolfe"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "A long time ago, your family were nobles in Italy, one of many such petty princely families, and you can claim most of the more famous ones as ancestors. Consequentally, you've had more than a few of them in the church, because all noble families needed ties there, and you've had more than a few fill in the bureacratic roles needed to make the power of God on Earth run; priests, bishops, a cardinal or two. You were headed there yourself, frankly, with a head for law and a mind for working the system, it only made sense. It was the role you were born to. But fate and war intervened. As Europe descended into chaos, one of your ancient ancestors found you and decided to utilize your talent for her own purposes.\n\nLife as a vampire has proven to be just even more complicated than life in the church, and you've found yourself in the precarious situation of serving a lineage of powerful Sabbat vampires while declaring your allegiances to the hunted Lasombra Antitribu. But you are serving a greater purpose, fulfilling your grandsire Don Guzman's greater calling for the clan, but to do it, you have to use all your abilities and intellect as a mediator on the other side of the equation. Your sire, Rina, has asked that you push forward the cause of the Lasombra Antitribu in the Camarilla. Given the dark times and the threat on the horizon, the Camarilla branch needs to ensure their position in the relative safety of the Ivory Tower, and your role is to ensure that they do so without antagonizing the other clans - particularly the Ventrue, who have been the least inclined to the Keepers. More than that, however, you are to use this position to start gaining the attention of the most powerful of the Antitribu, Montano. Don Guzman is convinced that there are secrets the Methuselah has, ones that he feels will answer his own questions and perhaps may lead to a survival of the blood during the dark times ahead.\n\nMost recently you have been in the court of Milan under Prince Giangaleazzo, a very, very distant relative and the Lasombra Antitribu Prince of Milan and former Sabbat Archbishop. The threat of the Inquisition has had many reconsider temporary relocation. Your sire and grandsire have had ties in Los Angeles, admittedly on the Sabbat side, but you've heard strange things about the city and know that there are rumors there of all sorts of strange things; demons, angels, those who have found true redemption of the curse of Caine, those who whisper that Gehenna is at hand. Perhaps, if anywhere, you can find some of the answers you and your bloodline seek in Los Angeles. At worst, Los Angeles is just enough of a free-wheeling sort of domain that the acceptance of a Lasombra Antitribu by the prince may not cause too many political waves as it would in a more traditional Camarilla city. Beside, Don Guzman has had the Sabbat at heel in the city for decades and you should be relatively safe there....you hope."
+        ],
+        [
+          "Sire:",
+          "Catarina Sforza \"Rina\"",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Lasombra Antitribu - No Reflection & Hunted"
+        ],
+        [
+          "Embrace Date:",
+          "1941.0",
+          "Embrace Location:",
+          "Milan, Italy",
+          "",
+          "Generation",
+          "Pretender Elder 8"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Don Guzman",
+          "Prisicus in the Sabbat"
+        ],
+        [
+          "Rina",
+          "Your sire, Don Guzman's childe, who is nominally Sabbat with more than a few antitribu leanings (like a lot) - and is in no way humane."
+        ],
+        [
+          "Anna Petrovna",
+          "Ventrue Prince who has agreed to allow you to stay in her domain at the behest of your grandsire after some string pulling - just how did that deal work anyway?"
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "It would not be seemily to your host or her clan to stomp of Ventrue pride. You are a Keeper, but you don't need titles to prove your value. You can prove yourself a leader and influencer in the Camarilla by using your other skills."
+        ],
+        [
+          "Use your growing influence to try and build connections to Montano - as daunting as that is."
+        ],
+        [
+          "Your grandsire is a Noddist scholar with an interest in Golconda. Any tidbits of information or lore to share would be of supreme use to him."
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Grandchilde of Don Guzman, you are tasked with pushing forward the cause of the Lasombra Antitribu in the Camarilla and to earn the attention of Montano.",
+          "created_by": "Jenn Wolfe"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "A long time ago, your family were nobles in Italy, one of many such petty princely families, and you can claim most of the more famous ones as ancestors. Consequentally, you've had more than a few of them in the church, because all noble families needed ties there, and you've had more than a few fill in the bureacratic roles needed to make the power of God on Earth run; priests, bishops, a cardinal or two. You were headed there yourself, frankly, with a head for law and a mind for working the system, it only made sense. It was the role you were born to. But fate and war intervened. As Europe descended into chaos, one of your ancient ancestors found you and decided to utilize your talent for her own purposes.\n\nLife as a vampire has proven to be just even more complicated than life in the church, and you've found yourself in the precarious situation of serving a lineage of powerful Sabbat vampires while declaring your allegiances to the hunted Lasombra Antitribu. But you are serving a greater purpose, fulfilling your grandsire Don Guzman's greater calling for the clan, but to do it, you have to use all your abilities and intellect as a mediator on the other side of the equation. Your sire, Rina, has asked that you push forward the cause of the Lasombra Antitribu in the Camarilla. Given the dark times and the threat on the horizon, the Camarilla branch needs to ensure their position in the relative safety of the Ivory Tower, and your role is to ensure that they do so without antagonizing the other clans - particularly the Ventrue, who have been the least inclined to the Keepers. More than that, however, you are to use this position to start gaining the attention of the most powerful of the Antitribu, Montano. Don Guzman is convinced that there are secrets the Methuselah has, ones that he feels will answer his own questions and perhaps may lead to a survival of the blood during the dark times ahead.\n\nMost recently you have been in the court of Milan under Prince Giangaleazzo, a very, very distant relative and the Lasombra Antitribu Prince of Milan and former Sabbat Archbishop. The threat of the Inquisition has had many reconsider temporary relocation. Your sire and grandsire have had ties in Los Angeles, admittedly on the Sabbat side, but you've heard strange things about the city and know that there are rumors there of all sorts of strange things; demons, angels, those who have found true redemption of the curse of Caine, those who whisper that Gehenna is at hand. Perhaps, if anywhere, you can find some of the answers you and your bloodline seek in Los Angeles. At worst, Los Angeles is just enough of a free-wheeling sort of domain that the acceptance of a Lasombra Antitribu by the prince may not cause too many political waves as it would in a more traditional Camarilla city. Beside, Don Guzman has had the Sabbat at heel in the city for decades and you should be relatively safe there....you hope."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Catarina Sforza \"Rina\"",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Lasombra Antitribu - No Reflection & Hunted"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1941,
+          "column_3": "Embrace Location:",
+          "column_4": "Milan, Italy",
+          "column_6": "Generation",
+          "column_7": "Pretender Elder 8"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Don Guzman",
+          "column_2": "Prisicus in the Sabbat"
+        },
+        {
+          "staff_generated_concept": "Rina",
+          "column_2": "Your sire, Don Guzman's childe, who is nominally Sabbat with more than a few antitribu leanings (like a lot) - and is in no way humane."
+        },
+        {
+          "staff_generated_concept": "Anna Petrovna",
+          "column_2": "Ventrue Prince who has agreed to allow you to stay in her domain at the behest of your grandsire after some string pulling - just how did that deal work anyway?"
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "It would not be seemily to your host or her clan to stomp of Ventrue pride. You are a Keeper, but you don't need titles to prove your value. You can prove yourself a leader and influencer in the Camarilla by using your other skills."
+        },
+        {
+          "staff_generated_concept": "Use your growing influence to try and build connections to Montano - as daunting as that is."
+        },
+        {
+          "staff_generated_concept": "Your grandsire is a Noddist scholar with an interest in Golconda. Any tidbits of information or lore to share would be of supreme use to him."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "",
+          "",
+          "0",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_5": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ],
+        [
+          "My intent was to keep this church movement from bombing him. And, in theory, it would take 5 Elite actions from the same source to note that he was even manipulating the church into not looking at him. (Each Elite Block requires 2 actions to bypass, so the 5th action would actually get the information that he had influence over the church in the first place.)",
+          "2018-11-13 00:00:00",
+          "Jenn"
+        ],
+        [
+          "1 DT Defending his Haven",
+          "2018-11-13 00:00:00",
+          "Jenn"
+        ],
+        [
+          "Chatted with Rina about the situations with the Camarilla and Sabbat and is aware the elders are calling together conventions to discuss.",
+          "2018-11-13 00:00:00",
+          "Jenn"
+        ]
+      ],
+      "records": [
+        {
+          "personal_plot_objects": "My intent was to keep this church movement from bombing him. And, in theory, it would take 5 Elite actions from the same source to note that he was even manipulating the church into not looking at him. (Each Elite Block requires 2 actions to bypass, so the 5th action would actually get the information that he had influence over the church in the first place.)",
+          "date": "2018-11-13 00:00:00",
+          "st_for_the_plot": "Jenn"
+        },
+        {
+          "personal_plot_objects": "1 DT Defending his Haven",
+          "date": "2018-11-13 00:00:00",
+          "st_for_the_plot": "Jenn"
+        },
+        {
+          "personal_plot_objects": "Chatted with Rina about the situations with the Camarilla and Sabbat and is aware the elders are calling together conventions to discuss.",
+          "date": "2018-11-13 00:00:00",
+          "st_for_the_plot": "Jenn"
+        }
+      ]
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "3",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Email Address",
+          "What is your name",
+          "What is your character's name",
+          "What is your character's type (clan)",
+          "Feeding",
+          "Action 1",
+          "Action 1  Description",
+          "Action 2",
+          "Action 2  Description",
+          "Action 3",
+          "Action 3  Description",
+          "Action 4",
+          "Action 4  Description",
+          "Action 5",
+          "Action 5  Description",
+          "Action 6",
+          "Action 6  Description",
+          "XP Spends",
+          "Other Description",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ],
+        [
+          "2018-11-08 20:52:27.301000",
+          "michael_p_steinbach@hotmail.com",
+          "Michael Steinbach",
+          "Anthony de Rossi",
+          "Other",
+          "Personal herd use (1 Herd)",
+          "Background - I am using a background to start or modify an action.",
+          "1 Elite Influence to keep myself off the Church's radar.\n2 Elite Influence's to block anyone finding out I'm manipulating the Church.",
+          "I am spending a DT",
+          "1 DT - Defense of Haven - Put properties in shell names.  (I will be spending 1 or more actions every month to help hide myself)",
+          "I am spending a DT",
+          "1 DT - Contact Rina (if she's still around) to try to get info on what's happening from the Sabbat perspective.  Have they lost a city? Have they been attacked?  Did their faith connection seem to help or hurt them any?  Any of their prophets or magic users discover anything?",
+          "I am spending a DT",
+          "1 DT - Lost to Hunted Flaw",
+          "Done - I am not doing any more actions.",
+          "",
+          "",
+          "",
+          "2 - Retainer - Gerald Farsen (Computer) - All phone calls and emails will go through him."
+        ],
+        [
+          "2019-01-03 14:35:34.397000",
+          "michael_p_steinbach@hotmail.com",
+          "",
+          "Anthony de Rossi",
+          "Other",
+          "Personal herd use (1 Herd)",
+          "I am spending a DT",
+          "1 General DT to defend myself",
+          "I am spending a DT",
+          "1 General DT - Investigating General (looking for any small/side plot hooks)",
+          "I am spending a DT",
+          "1 General DT list to Hunted Flaw",
+          "Background - I am using a background to start or modify an action.",
+          "1 Elite to Block anyone investigating me.\n1 Elite Level 2 Action: Gossip and Insider Trading\n1 Elite Level 3 Action: Bureaucratic Error - some of the paperwork that might lead to my haven (having already been adjusted two months ago) goes missing.",
+          "Background - I am using a background to start or modify an action.",
+          "Retainer 1 - Continues electronic communication “cut out” activities.",
+          "Done - I am not doing any more actions.",
+          "",
+          "6 xp- Obtenebration 2"
+        ],
+        [
+          "2019-01-23 11:55:14.470000",
+          "michael_p_steinbach@hotmail.com",
+          "",
+          "Anthony di Rossi",
+          "Other",
+          "Personal herd use (1 Herd)",
+          "Background - I am using a background to start or modify an action.",
+          "1 Elite Action: Block\n1 Elite Action: Gossip & Insider Trading - Attempt to find a business that may be a front for the Giovanni in OC.\n1 Elite Action: Gossip & Insider Trading - Try to get a mental picture of LA's political and Influence picture leading up to the death of Petrova.  Looking for clues as to why the Assault on LA failed.  Fully aware that it might take several months of actions to find anything of value on this line of questioning, if there's even anything to find.",
+          "I am spending a DT",
+          "DT to protect my Retainer who handles all my electronic communication.",
+          "Background - I am using a background to start or modify an action.",
+          "Retainer is trashing all his old computer equipment and phones and getting new ones.  I have Resources 2.",
+          "I am spending a DT",
+          "DT to travel safely back and forth to the Conclave. (I'm \"Hunted\" after all.)",
+          "I am spending a DT",
+          "Lose 1 DT to Hunted Flaw.",
+          "Done - I am not doing any more actions.",
+          "",
+          "6 xp - Alt ID 1, 2 - \"Anthony di Rossi\" Member of the Inconnu\n2 xp - Streetwise (should be harder to follow now.)"
+        ],
+        [
+          "2019-03-02 22:27:27.217000",
+          "michael_p_steinbach@hotmail.com",
+          "",
+          "Anthony",
+          "Other",
+          "Personal herd use (1 Herd)",
+          "I am spending a DT",
+          "Hunted Flaw",
+          "I am spending a DT",
+          "Send a letter to Independant Alliance, Anarchs (likely Fortier), and a NPM rep staring:\n I, Anthony de Rossi, will assure that representatives from other factions will be safe while visiting the Camarilla Elysium while I am operating with the Authority of the Keeper of Elysium. \nI take this action to provide a space that Kindred can meet to discuss external threats to our way of life.\nThere will be a stiff screening process to ensure all parties are there to talk about issues as they view them.”\nThis will go out as my Inconnu AI with my “Bigger Boys Came” merit to dissuade anyone who tries to prove me as not Inconnu.",
+          "I am spending a DT",
+          "DT to learn Auspec from a Toreador",
+          "Background - I am using a background to start or modify an action.",
+          "2 Elite actions to Defend Elysium\n1 Elite action to Defend other Rlite Actions.",
+          "Background - I am using a background to start or modify an action.",
+          "Retainer - Computer defense action",
+          "Done - I am not doing any more actions.",
+          "",
+          "4 xp Auspex 1"
+        ],
+        [
+          "2019-03-18 14:33:23.982000",
+          "michael_p_steinbach@hotmail.com",
+          "",
+          "Anthony di Rossi",
+          "Other",
+          "Personal herd use (1 Herd)",
+          "I am spending a DT",
+          "1 DT lost to Hunted Flaw",
+          "I am spending a DT",
+          "Contact Abbas of Taledo to discuss Montano",
+          "I am spending a DT",
+          "Of the historic Elysium in LA, I’d like to research which sites may have experienced Kindred violence in the past and may justifiably be argue as to be ineligible of being an Elysium moving forward (like Fox theatre had a wall knocked down when the Sheriff attacked a Kindred at an Elysium.)",
+          "Background - I am using a background to start or modify an action.",
+          "2 Elite actions to build the defenses of Elysia in LA\n1 Elite to block anyone from finding out it was my actions",
+          "Background - I am using a background to start or modify an action.",
+          "Retainer - Swapping out his gear for a new set (resources 2)",
+          "Done - I am not doing any more actions.",
+          "",
+          "3 XP - Mental x1"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Action 1  Description",
+          "3": "What is your character's name",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Email Address",
+          "influnce_downtimes": "What is your name",
+          "computer_downtimes": "What is your character's type (clan)",
+          "science_downtimes": "Action 1",
+          "column_9": "Action 2",
+          "column_10": "Action 2  Description",
+          "column_11": "Action 3",
+          "column_12": "Action 3  Description",
+          "column_13": "Action 4",
+          "column_14": "Action 4  Description",
+          "column_15": "Action 5",
+          "column_16": "Action 5  Description",
+          "column_17": "Action 6",
+          "column_18": "Action 6  Description",
+          "column_19": "XP Spends",
+          "column_20": "Other Description",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        },
+        {
+          "0": "1 Elite Influence to keep myself off the Church's radar.\n2 Elite Influence's to block anyone finding out I'm manipulating the Church.",
+          "3": "Anthony de Rossi",
+          "genaral_towntimes": "2018-11-08 20:52:27.301000",
+          "3_0": "michael_p_steinbach@hotmail.com",
+          "influnce_downtimes": "Michael Steinbach",
+          "computer_downtimes": "Other",
+          "science_downtimes": "Background - I am using a background to start or modify an action.",
+          "column_9": "I am spending a DT",
+          "column_10": "1 DT - Defense of Haven - Put properties in shell names.  (I will be spending 1 or more actions every month to help hide myself)",
+          "column_11": "I am spending a DT",
+          "column_12": "1 DT - Contact Rina (if she's still around) to try to get info on what's happening from the Sabbat perspective.  Have they lost a city? Have they been attacked?  Did their faith connection seem to help or hurt them any?  Any of their prophets or magic users discover anything?",
+          "column_13": "I am spending a DT",
+          "column_14": "1 DT - Lost to Hunted Flaw",
+          "column_15": "Done - I am not doing any more actions.",
+          "column_19": "2 - Retainer - Gerald Farsen (Computer) - All phone calls and emails will go through him."
+        },
+        {
+          "0": "1 General DT to defend myself",
+          "3": "Anthony de Rossi",
+          "genaral_towntimes": "2019-01-03 14:35:34.397000",
+          "3_0": "michael_p_steinbach@hotmail.com",
+          "computer_downtimes": "Other",
+          "science_downtimes": "I am spending a DT",
+          "column_9": "I am spending a DT",
+          "column_10": "1 General DT - Investigating General (looking for any small/side plot hooks)",
+          "column_11": "I am spending a DT",
+          "column_12": "1 General DT list to Hunted Flaw",
+          "column_13": "Background - I am using a background to start or modify an action.",
+          "column_14": "1 Elite to Block anyone investigating me.\n1 Elite Level 2 Action: Gossip and Insider Trading\n1 Elite Level 3 Action: Bureaucratic Error - some of the paperwork that might lead to my haven (having already been adjusted two months ago) goes missing.",
+          "column_15": "Background - I am using a background to start or modify an action.",
+          "column_16": "Retainer 1 - Continues electronic communication “cut out” activities.",
+          "column_17": "Done - I am not doing any more actions.",
+          "column_19": "6 xp- Obtenebration 2"
+        },
+        {
+          "0": "1 Elite Action: Block\n1 Elite Action: Gossip & Insider Trading - Attempt to find a business that may be a front for the Giovanni in OC.\n1 Elite Action: Gossip & Insider Trading - Try to get a mental picture of LA's political and Influence picture leading up to the death of Petrova.  Looking for clues as to why the Assault on LA failed.  Fully aware that it might take several months of actions to find anything of value on this line of questioning, if there's even anything to find.",
+          "3": "Anthony di Rossi",
+          "genaral_towntimes": "2019-01-23 11:55:14.470000",
+          "3_0": "michael_p_steinbach@hotmail.com",
+          "computer_downtimes": "Other",
+          "science_downtimes": "Background - I am using a background to start or modify an action.",
+          "column_9": "I am spending a DT",
+          "column_10": "DT to protect my Retainer who handles all my electronic communication.",
+          "column_11": "Background - I am using a background to start or modify an action.",
+          "column_12": "Retainer is trashing all his old computer equipment and phones and getting new ones.  I have Resources 2.",
+          "column_13": "I am spending a DT",
+          "column_14": "DT to travel safely back and forth to the Conclave. (I'm \"Hunted\" after all.)",
+          "column_15": "I am spending a DT",
+          "column_16": "Lose 1 DT to Hunted Flaw.",
+          "column_17": "Done - I am not doing any more actions.",
+          "column_19": "6 xp - Alt ID 1, 2 - \"Anthony di Rossi\" Member of the Inconnu\n2 xp - Streetwise (should be harder to follow now.)"
+        },
+        {
+          "0": "Hunted Flaw",
+          "3": "Anthony",
+          "genaral_towntimes": "2019-03-02 22:27:27.217000",
+          "3_0": "michael_p_steinbach@hotmail.com",
+          "computer_downtimes": "Other",
+          "science_downtimes": "I am spending a DT",
+          "column_9": "I am spending a DT",
+          "column_10": "Send a letter to Independant Alliance, Anarchs (likely Fortier), and a NPM rep staring:\n I, Anthony de Rossi, will assure that representatives from other factions will be safe while visiting the Camarilla Elysium while I am operating with the Authority of the Keeper of Elysium. \nI take this action to provide a space that Kindred can meet to discuss external threats to our way of life.\nThere will be a stiff screening process to ensure all parties are there to talk about issues as they view them.”\nThis will go out as my Inconnu AI with my “Bigger Boys Came” merit to dissuade anyone who tries to prove me as not Inconnu.",
+          "column_11": "I am spending a DT",
+          "column_12": "DT to learn Auspec from a Toreador",
+          "column_13": "Background - I am using a background to start or modify an action.",
+          "column_14": "2 Elite actions to Defend Elysium\n1 Elite action to Defend other Rlite Actions.",
+          "column_15": "Background - I am using a background to start or modify an action.",
+          "column_16": "Retainer - Computer defense action",
+          "column_17": "Done - I am not doing any more actions.",
+          "column_19": "4 xp Auspex 1"
+        },
+        {
+          "0": "1 DT lost to Hunted Flaw",
+          "3": "Anthony di Rossi",
+          "genaral_towntimes": "2019-03-18 14:33:23.982000",
+          "3_0": "michael_p_steinbach@hotmail.com",
+          "computer_downtimes": "Other",
+          "science_downtimes": "I am spending a DT",
+          "column_9": "I am spending a DT",
+          "column_10": "Contact Abbas of Taledo to discuss Montano",
+          "column_11": "I am spending a DT",
+          "column_12": "Of the historic Elysium in LA, I’d like to research which sites may have experienced Kindred violence in the past and may justifiably be argue as to be ineligible of being an Elysium moving forward (like Fox theatre had a wall knocked down when the Sheriff attacked a Kindred at an Elysium.)",
+          "column_13": "Background - I am using a background to start or modify an action.",
+          "column_14": "2 Elite actions to build the defenses of Elysia in LA\n1 Elite to block anyone from finding out it was my actions",
+          "column_15": "Background - I am using a background to start or modify an action.",
+          "column_16": "Retainer - Swapping out his gear for a new set (resources 2)",
+          "column_17": "Done - I am not doing any more actions.",
+          "column_19": "3 XP - Mental x1"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

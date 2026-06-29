@@ -1,0 +1,1192 @@
+{
+  "source": {
+    "title": "Francine-Davis-Toreador",
+    "fileName": "Francine-Davis-Toreador.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Toreador\\Francine-Davis-Toreador.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters",
+    "Characters",
+    "Toreador"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CHRONICLE",
+    "characterName": "Francine Davis",
+    "playerName": "Heather Zerby",
+    "gmailAccount": "",
+    "clanCoordinator": "Laura Bishop",
+    "archetype": "Monster",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla 9",
+    "clan": "Toreador \"Volgirre\" - Entranced by Art"
+  },
+  "attributes": {
+    "physical": 5,
+    "social": 7,
+    "mental": 5
+  },
+  "backgrounds": {
+    "generation": 2,
+    "haven": 3,
+    "resources": 3
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "subterfuge": 1,
+    "awareness": 1,
+    "linguistics": 1,
+    "performance": 3,
+    "computer": 1,
+    "medicine": 2,
+    "crafts": 4,
+    "melee": 3,
+    "dodge": 2,
+    "empathy": 1
+  },
+  "status": [],
+  "meritsAndFlaws": [
+    "Artist’s Blessing -1",
+    "Bloodline: Volgirre -2",
+    "Unbondable  -4"
+  ],
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "value": 1
+    },
+    {
+      "name": "Celerity",
+      "value": 1
+    },
+    {
+      "name": "Presence",
+      "value": 2
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Languages: English, French (n)",
+    "Performance: Oratory, Accents,",
+    "Dance",
+    "Crafts: Fleshcraft, Sculpting,",
+    "Woodwork, Pottery"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CHRONICLE",
+        "",
+        "Players Gmail Account: pyrategirlx@yahoo.com",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "48"
+      ],
+      [
+        "",
+        "Francine Davis",
+        "",
+        "Heather Zerby",
+        "",
+        "Laura Bishop",
+        "",
+        "",
+        "Generation",
+        "2.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Monster",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 12*2"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Ancilla 9",
+        "",
+        "Toreador \"Volgirre\" - Entranced by Art",
+        "",
+        "",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "",
+        "Haven (Security, Location, Geards)"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "3.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd"
+      ],
+      [
+        "",
+        "Physical",
+        "5.0",
+        "Dexterity - (Burst of Speed, Disarm, Fighting Blind, or Quick Draw)",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "Charisma - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Mental",
+        "5.0",
+        "Perception - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "3.0"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Artist’s Blessing -1",
+        "",
+        "",
+        "",
+        "Auspex",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bloodline: Volgirre -2",
+        "",
+        "",
+        "",
+        "Celerity",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Unbondable  -4",
+        "",
+        "",
+        "",
+        "Presence",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vicissitude",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "",
+        "Streetwise"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "Subterfuge",
+        "1.0"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "Survival",
+        "",
+        "",
+        "Probationary Sect Member +4"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Linguistics",
+        "1.0",
+        "Performance",
+        "3.0",
+        "",
+        "False Amarath +3"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Medicine",
+        "2.0",
+        "",
+        "",
+        "",
+        "Languages: English, French (n)"
+      ],
+      [
+        "",
+        "Crafts",
+        "4.0",
+        "Melee",
+        "3.0",
+        "",
+        "",
+        "",
+        "Performance: Oratory, Accents,"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "",
+        "",
+        "",
+        "",
+        "Dance"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science",
+        "",
+        "",
+        "",
+        "",
+        "Crafts: Fleshcraft, Sculpting,"
+      ],
+      [
+        "",
+        "Empathy",
+        "1.0",
+        "Security",
+        "",
+        "",
+        "",
+        "",
+        "Woodwork, Pottery"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    5",
+        "",
+        "Dodge    7",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    8",
+        "",
+        "Presence    7",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (No Wits)   5",
+        "",
+        "Auspex    5",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.1"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "3"
+        ],
+        [
+          "Vicissitude (up to 2)",
+          "Pre Game",
+          "-12.0"
+        ],
+        [
+          "Haven",
+          "Pre Game",
+          "-10.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "linguistics",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "phys 4 and 5",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Probationary Sect Member",
+          "Pre Game",
+          "4.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "False Amaranth",
+          "Pre Game",
+          "3.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Unbondable",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 3
+        },
+        {
+          "what_was_bought": "Vicissitude (up to 2)",
+          "date": "Pre Game",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Haven",
+          "date": "Pre Game",
+          "all_costs": -10,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "linguistics",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "phys 4 and 5",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Probationary Sect Member",
+          "date": "Pre Game",
+          "all_costs": 4,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "False Amaranth",
+          "date": "Pre Game",
+          "all_costs": 3,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Unbondable",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "A rather foppish artist, Embraced when your sire was captivated by your paintings. You are a good painter, sculptor, musician, speaker, and gnerally skilled artistic dilettante. You come from the Pyreneese courts... That is your cover at least. You are a serial killer who seeks to capture the ultimate agony in sculpture. The worst part of your passion is that the medium you are fascinated with (marble) is so stable, and the model you work from is so weak (flesh). You may have to discover a way to break the wall blocking your studies of flesh and bone, and start to sculpt entire creatures into beautiful beings. You are one of the Volgirre that left the Sabbat and came to the Camarilla. You did not focus on the rites of the sect, and over the years you have felt your bonds of Vaulderie fade. The Camarilla has many merits, such as being able to focus on art vs if your pack mate wants your Blood. But there are many skills the Sabbat have that should not be lost. You see yourself as a man to unite the clans, if not all vampires. Your last court of Marseilles, you had many Sabbat friends. But the relationships gradually came to light. Other Volgirre recommended you go to a battleground city, so the rules would not be as strict as a classic European city. You traveled slowly, exploring city by city when you heard the call to come to Los Angeles by the Justicars. It seemed like a great opportunity to learn while getting a good reputation. You are not a traitor, but you are very sympathetic to the Sabbat cause"
+        ],
+        [
+          "Sire:",
+          "Joseph Drekks",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Toreador \"Volgirre\" - Entranced by Art"
+        ],
+        [
+          "Embrace Date:",
+          "1743.0",
+          "Embrace Location:",
+          "Freiburg, Switzerland",
+          "",
+          "Generation",
+          "Ancilla 9"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Cody West",
+          "An Assamite. One of the Sabbat you met had a photo of Cody. They are looking for him, but don't have his name."
+        ],
+        [
+          "Mohammed Al-Muthlim",
+          "NPC. He was a Sabbat in LA until the NPM had them kicked out of the city. He's currently in TJ, though you got his number through some ghouls"
+        ],
+        [
+          "Alexander de Veracruz",
+          "A Ventrue with a history of fighting Sabbat. Make sure you befriend him so he would never believe your history."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Find a teacher of Viscissitude beyond fleshcrafting"
+        ],
+        [
+          "Make contacts and friends in the Sabbat, but don't let them hurt the Camarilla. There is still so much to teach."
+        ],
+        [
+          "Gain an important position in the court to make sure people don't suspect your desires."
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "A rather foppish artist, Embraced when your sire was captivated by your paintings. You are a good painter, sculptor, musician, speaker, and gnerally skilled artistic dilettante. You come from the Pyreneese courts... That is your cover at least. You are a serial killer who seeks to capture the ultimate agony in sculpture. The worst part of your passion is that the medium you are fascinated with (marble) is so stable, and the model you work from is so weak (flesh). You may have to discover a way to break the wall blocking your studies of flesh and bone, and start to sculpt entire creatures into beautiful beings. You are one of the Volgirre that left the Sabbat and came to the Camarilla. You did not focus on the rites of the sect, and over the years you have felt your bonds of Vaulderie fade. The Camarilla has many merits, such as being able to focus on art vs if your pack mate wants your Blood. But there are many skills the Sabbat have that should not be lost. You see yourself as a man to unite the clans, if not all vampires. Your last court of Marseilles, you had many Sabbat friends. But the relationships gradually came to light. Other Volgirre recommended you go to a battleground city, so the rules would not be as strict as a classic European city. You traveled slowly, exploring city by city when you heard the call to come to Los Angeles by the Justicars. It seemed like a great opportunity to learn while getting a good reputation. You are not a traitor, but you are very sympathetic to the Sabbat cause"
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Joseph Drekks",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Toreador \"Volgirre\" - Entranced by Art"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1743,
+          "column_3": "Embrace Location:",
+          "column_4": "Freiburg, Switzerland",
+          "column_6": "Generation",
+          "column_7": "Ancilla 9"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Cody West",
+          "column_2": "An Assamite. One of the Sabbat you met had a photo of Cody. They are looking for him, but don't have his name."
+        },
+        {
+          "staff_generated_concept": "Mohammed Al-Muthlim",
+          "column_2": "NPC. He was a Sabbat in LA until the NPM had them kicked out of the city. He's currently in TJ, though you got his number through some ghouls"
+        },
+        {
+          "staff_generated_concept": "Alexander de Veracruz",
+          "column_2": "A Ventrue with a history of fighting Sabbat. Make sure you befriend him so he would never believe your history."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Find a teacher of Viscissitude beyond fleshcrafting"
+        },
+        {
+          "staff_generated_concept": "Make contacts and friends in the Sabbat, but don't let them hurt the Camarilla. There is still so much to teach."
+        },
+        {
+          "staff_generated_concept": "Gain an important position in the court to make sure people don't suspect your desires."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "0",
+          "Computer Downtimes",
+          "1",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "1": "Hunting Actions",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

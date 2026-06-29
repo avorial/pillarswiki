@@ -1,0 +1,1037 @@
+{
+  "source": {
+    "title": "Serafina-Giovanni-Giovanni-Laura-Bee",
+    "fileName": "Serafina-Giovanni-Giovanni-Laura-Bee.xlsx",
+    "localPath": "source-sheets\\NPC\\Giovanni NPC\\Serafina-Giovanni-Giovanni-Laura-Bee.xlsx"
+  },
+  "folderPath": [
+    "NPC",
+    "Giovanni NPC"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER",
+    "characterName": "Serafina Giovanni",
+    "playerName": "Laura Bee",
+    "gmailAccount": "",
+    "clanCoordinator": "Pillars of Salt",
+    "archetype": "Bully",
+    "title": "Elder",
+    "characterStartDate": "",
+    "generationLabel": "Master Elder 7",
+    "clan": "Giovanni"
+  },
+  "attributes": {
+    "physcial": 3,
+    "social": 7,
+    "mental": 5
+  },
+  "backgrounds": {
+    "generation": 4,
+    "haven": 1,
+    "herd": 3,
+    "resources": 1,
+    "retainers": 2
+  },
+  "currentPools": {},
+  "abilities": {
+    "academics": 1,
+    "occult": 4,
+    "intimidation": 2,
+    "awareness": 2,
+    "brawl": 1,
+    "linguistics": 3,
+    "subterfuge": 2,
+    "lore": 3,
+    "dodge": 1,
+    "medicine": 1,
+    "starting_xp": 34,
+    "unspent_xp": 4,
+    "spent_xp": -2
+  },
+  "status": [],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Languages: Italian, English,",
+    "Cantonese, French",
+    "Lore: Cathaians, Wraith,",
+    "Giovanni, Camarilla,",
+    "Sabbat, 1 MORE"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Serafina Giovanni",
+        "",
+        "Laura Bee",
+        "",
+        "Pillars of Salt",
+        "",
+        "",
+        "Generation",
+        "4.0",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "Current Blood Points * Per Turn",
+        "20*4"
+      ],
+      [
+        "",
+        "Bully",
+        "",
+        "Elder",
+        "",
+        "",
+        "",
+        "",
+        "Alternitive Identity",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archtype",
+        "",
+        "Title",
+        "",
+        "Coterie/Faction",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Master Elder 7",
+        "",
+        "Giovanni",
+        "",
+        "Painful Feeding",
+        "",
+        "",
+        "Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "Clan Flaw",
+        "",
+        "",
+        "Haven",
+        "1.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Total",
+        "",
+        "Focus",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Physcial",
+        "3.0",
+        "",
+        "",
+        "Dexterity",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "",
+        "",
+        "Manipulation",
+        "",
+        "",
+        "Resources",
+        "1.0"
+      ],
+      [
+        "",
+        "Mental",
+        "5.0",
+        "",
+        "",
+        "Perception",
+        "",
+        "",
+        "Retainers",
+        "2.0",
+        "",
+        "DISCIPLINES & RITUALS & OTHER POWERS"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERIT & FLAWS"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Path of Death & the Soul",
+        "",
+        "",
+        "Potence",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Necromantic Expertise",
+        "",
+        "",
+        "Dominate",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Loremaster",
+        "",
+        "",
+        "Necromancy: The Sepulchre Path",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Emissary to the Camarilla",
+        "",
+        "",
+        "Necromancy: The Ash Path",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Empathy",
+        "",
+        "Occult",
+        "4.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "",
+        "Science",
+        "",
+        "",
+        "Dark Secret -"
+      ],
+      [
+        "",
+        "Atheltics",
+        "",
+        "Intimidation",
+        "2.0",
+        "Security",
+        "",
+        "",
+        "Cathian Connections"
+      ],
+      [
+        "",
+        "Awareness",
+        "2.0",
+        "Investigation",
+        "",
+        "Stealth",
+        "",
+        "",
+        "Inbred"
+      ],
+      [
+        "",
+        "Brawl",
+        "1.0",
+        "Leadership",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "ABILITES FOCUS"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Linguistics",
+        "3.0",
+        "Subterfuge",
+        "2.0",
+        "",
+        "Languages: Italian, English,"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "3.0",
+        "Survival",
+        "",
+        "",
+        "Cantonese, French"
+      ],
+      [
+        "",
+        "Dodge",
+        "1.0",
+        "Medicine",
+        "1.0",
+        "Performance"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Lore: Cathaians, Wraith,"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Giovanni, Camarilla,"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sabbat, 1 MORE"
+      ],
+      [
+        "",
+        "EXPERINCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "34",
+        "",
+        "",
+        "Unspent XP",
+        "4"
+      ],
+      [
+        "",
+        "Spent XP",
+        "-2",
+        "",
+        "",
+        "Merit Points Spent",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritual: Call of the Hungry Dead",
+        "1.0"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character +4 From Madeleine's Death XP",
+          "Pre Game",
+          "34.0",
+          "",
+          "",
+          "4"
+        ],
+        [
+          "Background Herd 3",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Background Gen 4",
+          "Pre Game",
+          "-8.0"
+        ],
+        [
+          "Background Retainers 1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Background Retainers 2",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Background Resources 1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Merit Uncommon Clan",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Merit Emissary to the Camarilla",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Merit Path Death & Soul",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Merit Loremaster",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Merit Necromatic Expertise - Ash",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Flaw Dark Secret - History of working with Cathaians",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "Flaw Fragile Bones",
+          "Pre Game",
+          "4.0"
+        ],
+        [
+          "Flaw Inbread - Hemophilia: Every time BP is spent Healing, 1/2 of BP oozes out.",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Discipline Ash 1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Discipline Ash 2",
+          "Pre Game",
+          "-8.0"
+        ],
+        [],
+        [
+          "Earned XP in Game",
+          "2016-01-24 00:00:00",
+          "4.0",
+          "4.0"
+        ],
+        [
+          "Defined Lores",
+          "2016-02-04 00:00:00",
+          "0.0",
+          "0.0"
+        ],
+        [
+          "Feb Convention 2016 3XP",
+          "2016-02-13 00:00:00",
+          "3.0",
+          "3.0"
+        ],
+        [
+          "Buying Haven 1",
+          "2016-02-22 00:00:00",
+          "-2.0",
+          "",
+          "-2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-02-29 00:00:00",
+          "3.0",
+          "3.0"
+        ],
+        [
+          "Buying Ritual: Call of the Hungry Dead",
+          "2016-03-24 00:00:00",
+          "-2.0"
+        ],
+        [
+          "Buying Sepulcher Path Rank 3",
+          "2016-03-24 00:00:00",
+          "-6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-03-26 00:00:00",
+          "4.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character +4 From Madeleine's Death XP",
+          "date": "Pre Game",
+          "all_costs": 34,
+          "total_xp_left": 4
+        },
+        {
+          "what_was_bought": "Background Herd 3",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Background Gen 4",
+          "date": "Pre Game",
+          "all_costs": -8
+        },
+        {
+          "what_was_bought": "Background Retainers 1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Background Retainers 2",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Background Resources 1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Merit Uncommon Clan",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Merit Emissary to the Camarilla",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Merit Path Death & Soul",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Merit Loremaster",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Merit Necromatic Expertise - Ash",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Flaw Dark Secret - History of working with Cathaians",
+          "date": "Pre Game",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "Flaw Fragile Bones",
+          "date": "Pre Game",
+          "all_costs": 4
+        },
+        {
+          "what_was_bought": "Flaw Inbread - Hemophilia: Every time BP is spent Healing, 1/2 of BP oozes out.",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Discipline Ash 1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Discipline Ash 2",
+          "date": "Pre Game",
+          "all_costs": -8
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-01-24 00:00:00",
+          "all_costs": 4,
+          "earned": 4
+        },
+        {
+          "what_was_bought": "Defined Lores",
+          "date": "2016-02-04 00:00:00",
+          "all_costs": 0,
+          "earned": 0
+        },
+        {
+          "what_was_bought": "Feb Convention 2016 3XP",
+          "date": "2016-02-13 00:00:00",
+          "all_costs": 3,
+          "earned": 3
+        },
+        {
+          "what_was_bought": "Buying Haven 1",
+          "date": "2016-02-22 00:00:00",
+          "all_costs": -2,
+          "spent": -2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-02-29 00:00:00",
+          "all_costs": 3,
+          "earned": 3
+        },
+        {
+          "what_was_bought": "Buying Ritual: Call of the Hungry Dead",
+          "date": "2016-03-24 00:00:00",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Buying Sepulcher Path Rank 3",
+          "date": "2016-03-24 00:00:00",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-03-26 00:00:00",
+          "all_costs": 4
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:"
+        ],
+        [
+          "Serafina Juiliette della Passaglia Martinelli Giovanni"
+        ],
+        [
+          "Sire:",
+          "",
+          "Embrace Date:",
+          "",
+          "Embrace Location:"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "Serafina Juiliette della Passaglia Martinelli Giovanni"
+        },
+        {
+          "staff_generated_history": "Sire:",
+          "created_by": "Embrace Date:",
+          "column_5": "Embrace Location:"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    },
+    "Documents": {
+      "rows": [
+        [
+          "The Promise (pg 32, MET)"
+        ],
+        [
+          "The Promise of 1528 was the founding document of the peace between the Giovanni and the Camarilla, as signed by Claudius Giovanni and Raphael de Corazon. The exact text is long and detailed, and covers many topics; the following summary is not an attempt to present it word-for-word. A few (but not all) of the basic premises established by the treaty were as follows:\n• The Camarilla recognizes the temporal rights of the Giovanni clan over the city of Venice. In return, the Giovanni clan officially recognizes all Camarilla domains.\n• The Camarilla agrees that the Giovanni are free to conduct their business as they see fit.  In exchange, the Giovanni agree to take no direct part in Camarilla politics.\n• The Giovanni may accept, give, and do business in boons. Such boons are to be respected as formal contracts. Boon-breakers on either side are considered in violation of the Promise, and may be punished by those to whom they have become forsworn.\n• A group of elders, one of each Camarilla clan, will come to Venice every 13 years to inspect operations. This dictum was first upheld in 1530, two years after the Promise was signed."
+        ]
+      ],
+      "records": [
+        {
+          "the_promise_pg_32_met": "The Promise of 1528 was the founding document of the peace between the Giovanni and the Camarilla, as signed by Claudius Giovanni and Raphael de Corazon. The exact text is long and detailed, and covers many topics; the following summary is not an attempt to present it word-for-word. A few (but not all) of the basic premises established by the treaty were as follows:\n• The Camarilla recognizes the temporal rights of the Giovanni clan over the city of Venice. In return, the Giovanni clan officially recognizes all Camarilla domains.\n• The Camarilla agrees that the Giovanni are free to conduct their business as they see fit.  In exchange, the Giovanni agree to take no direct part in Camarilla politics.\n• The Giovanni may accept, give, and do business in boons. Such boons are to be respected as formal contracts. Boon-breakers on either side are considered in violation of the Promise, and may be punished by those to whom they have become forsworn.\n• A group of elders, one of each Camarilla clan, will come to Venice every 13 years to inspect operations. This dictum was first upheld in 1530, two years after the Promise was signed."
+        }
+      ]
+    }
+  }
+}

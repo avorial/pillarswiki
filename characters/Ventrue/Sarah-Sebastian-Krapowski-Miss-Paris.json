@@ -1,0 +1,1999 @@
+{
+  "source": {
+    "title": "Sarah-Sebastian-Krapowski-Miss-Paris",
+    "fileName": "Sarah-Sebastian-Krapowski-Miss-Paris.xlsx",
+    "localPath": "source-sheets\\Ventrue\\Sarah-Sebastian-Krapowski-Miss-Paris.xlsx"
+  },
+  "folderPath": [
+    "Ventrue"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CHRONICLE",
+    "characterName": "Sarah/Sebastian Krapowski",
+    "playerName": "",
+    "gmailAccount": "Players Gmail Account:",
+    "clanCoordinator": "",
+    "archetype": "Innovator",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla *10",
+    "clan": "Ventrue"
+  },
+  "attributes": {
+    "physical": 3,
+    "social": 5,
+    "mental": 7
+  },
+  "backgrounds": {
+    "15": "CURRENT POOLS"
+  },
+  "currentPools": {},
+  "abilities": {
+    "academics": 1,
+    "2_0": "Streetwise",
+    "3_0": "Survival",
+    "1_0": "Performance",
+    "computer": 4,
+    "dodge": 1,
+    "firearms": 1
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [
+    "Level and Date"
+  ],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CHRONICLE",
+        "",
+        "",
+        "",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "12",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Sarah/Sebastian Krapowski",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Aurea Stichter",
+        "",
+        "",
+        "",
+        "Generation",
+        "",
+        "2.0",
+        "",
+        "",
+        "Elite: Tech Industry Developers & Insiders"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "",
+        "",
+        "",
+        "Player Name",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "",
+        "Allies"
+      ],
+      [
+        "",
+        "Innovator",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "",
+        "Contacts: Dohun \"Danny\" Choi, fellow developer with ear to the ground."
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "",
+        "",
+        "",
+        "Title",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Start Date",
+        "",
+        "",
+        "",
+        "Contacts",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Ancilla *10",
+        "",
+        "",
+        "",
+        "",
+        "Ventrue - Feeding Preference",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        "Mentor",
+        "/ Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "",
+        "",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Total XP Unspent",
+        "",
+        "",
+        "",
+        "Herd"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "INITIATIVE",
+        "7",
+        "15",
+        "CURRENT POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Physical",
+        "3.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Willpower",
+        "",
+        "",
+        "",
+        "",
+        "6.0",
+        "",
+        "Influence \"Elite\"",
+        "",
+        "4.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "",
+        "",
+        "",
+        "",
+        "5.0",
+        "",
+        "Influence \"Underworld\"",
+        "",
+        "0.0"
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Manipulation - +3 NonPower uses"
+      ],
+      [
+        "",
+        "Mental",
+        "7.0",
+        "Wits - +3 NonPower uses",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Beast Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Resources",
+        "",
+        "4.0"
+      ],
+      [
+        "PILLARS OF SALT",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Current Derangement Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 12*2",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae",
+        "/ Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "STARTING CHARACTER CONCEPT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "",
+        "DISCIPLINES",
+        "",
+        "4"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Software app mogul who is up and up on technology and how it is getting used.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Self Confident -5",
+        "",
+        "",
+        "",
+        "",
+        "Dominate",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eidetic Memory -2",
+        "",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lesser Generation +1",
+        "",
+        "",
+        "",
+        "",
+        "Presence",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dark Secret +1"
+      ],
+      [
+        "",
+        "You know the status of everyone in your sect. Leadership will tell you how they got one of them. Alternative Idenity can let you earn and fake status. Maxium 5 Fleeting w/o merits.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vainglorius +1"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "20",
+        "WHAT AM I GOOD AT?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Overconfident +2"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Intimidation",
+        "",
+        "2.0",
+        "Streetwise",
+        "",
+        "",
+        "Computers, something that older vampires are suprisingly bad at.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Impatient +2"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "",
+        "Subterfuge",
+        "2.0"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "3.0",
+        "Survival"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "",
+        "1.0",
+        "Performance",
+        "",
+        "",
+        "BOONS / BONDS / VINCULUM",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ABILITY SPECIALIZATIONS",
+        "",
+        "",
+        "",
+        "2",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "",
+        "",
+        "Computer Hacking",
+        "3.0",
+        "",
+        "Name",
+        "",
+        "",
+        "Level and Date",
+        "",
+        "",
+        "",
+        "Linguistics: Mandarin"
+      ],
+      [
+        "",
+        "Computer",
+        "4.0",
+        "Medicine"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee"
+      ],
+      [
+        "",
+        "Dodge",
+        "1.0",
+        "Occult"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "",
+        "2.0"
+      ],
+      [
+        "",
+        "Firearms",
+        "1.0",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON TRAIT POOLS"
+      ],
+      [
+        "",
+        "Brawl   3",
+        "",
+        "Dodge4",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    3",
+        "",
+        "Dominate    9",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns(-W)   4",
+        "",
+        "Presence    8",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5.0"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "Page 107 BNS\n\nAttribute 3xp Each\n\nIn-Clan Discipline New Level x3\n\nRegain lost Humanity 10xp Each\n\nMerit = to merit rating\n\nBackground New level x2\n\nSkill New level x2\n\nOutOfClan New Level x4\n\nTechnique 12xp each",
+          "",
+          "0"
+        ],
+        [
+          "Elite 2",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Elite 3",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Elite 4",
+          "Pre Game",
+          "-8.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Haven 1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Resources 4",
+          "Pre Game",
+          "-8.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Contacts 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "column_4": "Page 107 BNS\n\nAttribute 3xp Each\n\nIn-Clan Discipline New Level x3\n\nRegain lost Humanity 10xp Each\n\nMerit = to merit rating\n\nBackground New level x2\n\nSkill New level x2\n\nOutOfClan New Level x4\n\nTechnique 12xp each",
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Elite 2",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Elite 3",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Elite 4",
+          "date": "Pre Game",
+          "all_costs": -8,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Haven 1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Resources 4",
+          "date": "Pre Game",
+          "all_costs": -8,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Contacts 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Software app mogul who is up and up on technology and how it is getting used.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Jenn"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "You are a true millenial. You grew up with computers and the internet and had a whole lot of free time and a mind for programming. You created your first app as a teen and it exploded. You weren't too sorry selling it, because you had more money than you knew what to do with before you were 18. You created another during college and this one you spun into a company that you nurtured for a bit, but then sold off, keeping some stocks and investing your money in another idea. Your name soon became hot in the coffee shops and pick up board rooms for the burgeoning development industry, and you were cocky enough to take on projects, build them up and nurture them till they earned you a tidy profit, then pass them along to others who would have to deal with the grind of actually running companies.\n\nStill, you had a golden touch, and you caught the eye of Faith Dartois, a Ventrue from Los Angeles who thought you were a tempting prize. She embraced you and cultivated you, and while she didn't stay in Seattle, you two stayed in touch. Last you heard of her, she was off traveling and planned to return to Los Angeles and the court there for a time. That was well over a month ago and you haven't heard from her since.\n\nWorse, you've been noticing things - dangerous things - in your field. You've always been keyed into the internet and development, it's what you've done for years, after all, how else can you develop anything if you don't know how it works? You've seen in the hidden corners of the web (the darker places, if you know what I mean) that there are groups coallescing, discussing openly things you know are open Masquerade breeches and worse. You've followed a few threads, hell, you've tracked people you know and they seem to be well aware of what is going on. There is something dangerous brewing out there and you know it, and you aren't sure if Faith is caught up in it or not. You have the skills, know how, and more than enough swagger to motivate an entire board room full of investors to give you money - now can you motivate a bunch of bloodthirsty vampires to listen to you that the fix is in?\n\nDark Secret - In you investigations, you've discovered that, unbeknownst to you, many of the key softwares you have developed or had a hand in are now being used by the Second Inquisition to hunt down vampires. In fact, you've directly had ties developing a lot of their stuff, even though you didn't know that was what it was going to be used for. Should this get out, few Kindred are going to be particularly forgiving or understanding of the situation."
+        ],
+        [
+          "Sire:",
+          "Faith Dartois",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Ventrue - Feeding Preference"
+        ],
+        [
+          "Embrace Date:",
+          "2008.0",
+          "Embrace Location:",
+          "Seattle, WA",
+          "",
+          "Generation",
+          "Ancilla *10"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Faith has gone missing. She was supposed to be returning to Los Angeles, but no one has seen her. As she has championed you with the clan, see what you can about what has happened."
+        ],
+        [
+          "You know that there is a movement coallescing on the internet searching for vampires. You have a skill set to find this information, perhaps help prevent the worst of it, if you can find others to work with you."
+        ],
+        [
+          "Surpress the information that you had ANYTHING to do with the tools being used to hunt down Kindred."
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Software app mogul who is up and up on technology and how it is getting used.",
+          "created_by": "Jenn"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "You are a true millenial. You grew up with computers and the internet and had a whole lot of free time and a mind for programming. You created your first app as a teen and it exploded. You weren't too sorry selling it, because you had more money than you knew what to do with before you were 18. You created another during college and this one you spun into a company that you nurtured for a bit, but then sold off, keeping some stocks and investing your money in another idea. Your name soon became hot in the coffee shops and pick up board rooms for the burgeoning development industry, and you were cocky enough to take on projects, build them up and nurture them till they earned you a tidy profit, then pass them along to others who would have to deal with the grind of actually running companies.\n\nStill, you had a golden touch, and you caught the eye of Faith Dartois, a Ventrue from Los Angeles who thought you were a tempting prize. She embraced you and cultivated you, and while she didn't stay in Seattle, you two stayed in touch. Last you heard of her, she was off traveling and planned to return to Los Angeles and the court there for a time. That was well over a month ago and you haven't heard from her since.\n\nWorse, you've been noticing things - dangerous things - in your field. You've always been keyed into the internet and development, it's what you've done for years, after all, how else can you develop anything if you don't know how it works? You've seen in the hidden corners of the web (the darker places, if you know what I mean) that there are groups coallescing, discussing openly things you know are open Masquerade breeches and worse. You've followed a few threads, hell, you've tracked people you know and they seem to be well aware of what is going on. There is something dangerous brewing out there and you know it, and you aren't sure if Faith is caught up in it or not. You have the skills, know how, and more than enough swagger to motivate an entire board room full of investors to give you money - now can you motivate a bunch of bloodthirsty vampires to listen to you that the fix is in?\n\nDark Secret - In you investigations, you've discovered that, unbeknownst to you, many of the key softwares you have developed or had a hand in are now being used by the Second Inquisition to hunt down vampires. In fact, you've directly had ties developing a lot of their stuff, even though you didn't know that was what it was going to be used for. Should this get out, few Kindred are going to be particularly forgiving or understanding of the situation."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Faith Dartois",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Ventrue - Feeding Preference"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 2008,
+          "column_3": "Embrace Location:",
+          "column_4": "Seattle, WA",
+          "column_6": "Generation",
+          "column_7": "Ancilla *10"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Faith has gone missing. She was supposed to be returning to Los Angeles, but no one has seen her. As she has championed you with the clan, see what you can about what has happened."
+        },
+        {
+          "staff_generated_concept": "You know that there is a movement coallescing on the internet searching for vampires. You have a skill set to find this information, perhaps help prevent the worst of it, if you can find others to work with you."
+        },
+        {
+          "staff_generated_concept": "Surpress the information that you had ANYTHING to do with the tools being used to hunt down Kindred."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "",
+          "",
+          "0",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_5": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "4",
+          "Computer Downtimes",
+          "4",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Email Address",
+          "What is your name",
+          "What is your character's name",
+          "What is your character's type (clan)",
+          "Feeding",
+          "Action 1",
+          "Action 1  Description",
+          "Action 2",
+          "Action 2  Description",
+          "Action 3",
+          "Action 3  Description",
+          "Action 4",
+          "Action 4  Description",
+          "Action 5",
+          "Action 5  Description",
+          "Action 6",
+          "Action 6  Description",
+          "XP Spends",
+          "Other Description",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Action 1  Description",
+          "4": "Feeding",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Email Address",
+          "influnce_downtimes": "What is your name",
+          "computer_downtimes": "What is your character's type (clan)",
+          "science_downtimes": "Action 1",
+          "column_9": "Action 2",
+          "column_10": "Action 2  Description",
+          "column_11": "Action 3",
+          "column_12": "Action 3  Description",
+          "column_13": "Action 4",
+          "column_14": "Action 4  Description",
+          "column_15": "Action 5",
+          "column_16": "Action 5  Description",
+          "column_17": "Action 6",
+          "column_18": "Action 6  Description",
+          "column_19": "XP Spends",
+          "column_20": "Other Description",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

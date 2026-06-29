@@ -1,0 +1,2266 @@
+{
+  "source": {
+    "title": "Zip-Manning-Caitiff-V5-Character-Sheet",
+    "fileName": "Zip-Manning-Caitiff-V5-Character-Sheet.xlsx",
+    "localPath": "source-sheets\\Caitiff & Thin-Blood\\PC\\Zip-Manning-Caitiff-V5-Character-Sheet.xlsx"
+  },
+  "folderPath": [
+    "Caitiff & Thin-Blood",
+    "PC"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CHRONICLE",
+    "characterName": "Zip Manning",
+    "playerName": "",
+    "gmailAccount": "Players Gmail Account:",
+    "clanCoordinator": "",
+    "archetype": "Fighter",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla 9",
+    "clan": "Caitiff & Thin-Blood"
+  },
+  "attributes": {
+    "physical": 9,
+    "social": 5,
+    "mental": 6
+  },
+  "backgrounds": {
+    "20": "CURRENT POOLS"
+  },
+  "currentPools": {},
+  "abilities": {
+    "2_0": "Streetwise",
+    "1_0": "Subterfuge",
+    "athletics": 1,
+    "awareness": 1,
+    "crafts": 1,
+    "dodge": 3,
+    "drive": 1
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [
+    "Level and Date"
+  ],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CHRONICLE",
+        "",
+        "",
+        "",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "8",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Zip Manning",
+        "",
+        "",
+        "",
+        "",
+        "Morgan",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Aurea Stichter",
+        "",
+        "",
+        "",
+        "Generation",
+        "",
+        "2.0",
+        "",
+        "",
+        "Herd: Fetlife BloodDollas"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "",
+        "",
+        "",
+        "Player Name",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "",
+        "Allies"
+      ],
+      [
+        "",
+        "Fighter",
+        "",
+        "",
+        "",
+        "",
+        "Ancillae",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2019-03-18 00:00:00",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "",
+        "Undworld: Organ Trafficers"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "",
+        "",
+        "",
+        "Title",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Start Date",
+        "",
+        "",
+        "",
+        "Contacts"
+      ],
+      [
+        "",
+        "Ancilla 9",
+        "",
+        "",
+        "",
+        "",
+        "Caitiff - \"Pander\" - Weak Blood",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "11",
+        "",
+        "",
+        "",
+        "Mentor",
+        "/ Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "",
+        "",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Total XP Unspent",
+        "",
+        "",
+        "",
+        "Herd",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "INITIATIVE",
+        "9",
+        "20",
+        "CURRENT POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Physical",
+        "9.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Willpower",
+        "",
+        "",
+        "",
+        "",
+        "6.0",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "",
+        "",
+        "",
+        "",
+        "5.0",
+        "",
+        "Influence \"Underworld\"",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Manipulation - +3 NonPower uses"
+      ],
+      [
+        "",
+        "Mental",
+        "6.0",
+        "Wits - +3 NonPower uses",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Beast Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Resources",
+        "",
+        "3.0"
+      ],
+      [
+        "PILLARS OF SALT",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Current Derangement Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 10*1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae",
+        "/ Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "STARTING CHARACTER CONCEPT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "",
+        "DISCIPLINES",
+        "",
+        "6"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ex-Sabbat Pander who has left the sect in the wake of the civil war and been an independent and is joining the Camarilla for his own reasons..",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vestiges of Greatness -3",
+        "",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Unbondable  -4",
+        "",
+        "",
+        "",
+        "",
+        "Obtenebration",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Potence",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Obfuscate",
+        "1.0"
+      ],
+      [
+        "",
+        "You know the status of everyone in your sect. Leadership will tell you how they got one of them. Alternative Idenity can let you earn and fake status. Maxium 5 Fleeting w/o merits.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Overconfident +2",
+        "",
+        "",
+        "",
+        "",
+        "Presence",
+        "1.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "24",
+        "WHAT AM I GOOD AT?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eerie Presence +1"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "",
+        "2.0",
+        "Streetwise",
+        "1.0",
+        "",
+        "Not getting caught?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eerie Presence +1"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "1.0",
+        "Subterfuge",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dark Secret +1"
+      ],
+      [
+        "",
+        "Athletics",
+        "1.0",
+        "Leadership",
+        "",
+        "",
+        "Survival",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Infertal Vitae +2"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Linguistics",
+        "",
+        "",
+        "Performance",
+        "",
+        "",
+        "BOONS / BONDS / VINCULUM",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ABILITY SPECIALIZATIONS",
+        "",
+        "",
+        "",
+        "3",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "",
+        "2.0",
+        "",
+        "",
+        "",
+        "Name",
+        "",
+        "",
+        "Level and Date",
+        "",
+        "",
+        "",
+        "Crafts: Mechanics"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "",
+        "2.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lore: Discipline, Sabbat"
+      ],
+      [
+        "",
+        "Crafts",
+        "1.0",
+        "Melee",
+        "",
+        "4.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Technique: Will to Survive"
+      ],
+      [
+        "",
+        "Dodge",
+        "3.0",
+        "Occult",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dark Secret: Ex-Sabbat Pander"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Science",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eerie Presence: No Reflection"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "",
+        "2.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eerie Presence: Animate Shadow"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth",
+        "",
+        "3.0"
+      ],
+      [
+        "",
+        "COMMON TRAIT POOLS"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Dodge Pull Down"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "",
+        "Dominate    8"
+      ],
+      [
+        "",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5.0"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "",
+          "Pre Game",
+          "45",
+          "What do things cost?",
+          "",
+          "0"
+        ],
+        [
+          "Lore 1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Physicals 9",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Social 6",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "15"
+        ],
+        [
+          "Investigation 1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Lore 2",
+          "Pre Game",
+          "-4.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Streetwise 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "7"
+        ],
+        [
+          "Obfuscate 1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Presence 1",
+          "Pre Game",
+          "-4.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Will to Survive",
+          "Pre Game",
+          "-12.0",
+          "",
+          "",
+          "1.166666667"
+        ],
+        [
+          "Mental 6",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "4"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "11"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent",
+          "Note for Records: Darren is a Recruit for Morgan.  Check games for Darren for XP Bumps"
+        ],
+        [
+          "XP Banked from Nos Character",
+          "Feb",
+          "",
+          "1.0"
+        ],
+        [
+          "Convention Game"
+        ],
+        [
+          "Earned XP in Game"
+        ],
+        [
+          "Earned XP in Game"
+        ],
+        [
+          "Earned XP in Game"
+        ],
+        [
+          "Earned XP in Game"
+        ],
+        [
+          "Earned XP in Game",
+          "2019-02-18 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Player Shout out (Played a Ventrue Archon)",
+          "2019-02-19 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2019-03-18 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Player Shout out",
+          "2019-03-20 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "6 Game Bonus",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Herd 1",
+          "2019-04-13 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Underworld Influence 1",
+          "2019-04-13 00:00:00",
+          "",
+          "",
+          "2.0"
+        ]
+      ],
+      "records": [
+        {
+          "date": "Pre Game",
+          "all_costs": 45,
+          "column_4": "What do things cost?",
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Lore 1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Physicals 9",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Social 6",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": 15
+        },
+        {
+          "what_was_bought": "Investigation 1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Lore 2",
+          "date": "Pre Game",
+          "all_costs": -4,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Streetwise 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 7
+        },
+        {
+          "what_was_bought": "Obfuscate 1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Presence 1",
+          "date": "Pre Game",
+          "all_costs": -4,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Will to Survive",
+          "date": "Pre Game",
+          "all_costs": -12,
+          "starting_total_xp_left": 1.166666667
+        },
+        {
+          "what_was_bought": "Mental 6",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 4
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 11
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent",
+          "starting_total_xp_left": "Note for Records: Darren is a Recruit for Morgan.  Check games for Darren for XP Bumps"
+        },
+        {
+          "what_was_bought": "XP Banked from Nos Character",
+          "date": "Feb",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Convention Game"
+        },
+        {
+          "what_was_bought": "Earned XP in Game"
+        },
+        {
+          "what_was_bought": "Earned XP in Game"
+        },
+        {
+          "what_was_bought": "Earned XP in Game"
+        },
+        {
+          "what_was_bought": "Earned XP in Game"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2019-02-18 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Player Shout out (Played a Ventrue Archon)",
+          "date": "2019-02-19 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2019-03-18 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Player Shout out",
+          "date": "2019-03-20 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "6 Game Bonus",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Herd 1",
+          "date": "2019-04-13 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Underworld Influence 1",
+          "date": "2019-04-13 00:00:00",
+          "column_5": 2
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Ex-Sabbat Pander who has left the sect in the wake of the civil war and been an independent and is joining the Camarilla for his own reasons.."
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "Zip Manning. There was a time, years ago, when that name would bring up memories of panicked terror, splattering blood and the nightmarish sound of a chainsaw tearing through flesh. But now, all those that remembered were dead. Enemies and allies both, long since turned to ash.\nThe well earned reputation faded away and forgotten.\n        He really didn’t mind too much.\n\n        Embraced in 1993 as a disposable soldier for the Sword of Caine, the man that would become Zip Manning exceeded all expectations of brutality and combat effectiveness from the moment he burst  from a shallow grave and tore open the throat of the fool that had checked the recently disturbed earth, up until the day the last member of his original pack died in the burst of an incendiary grenade. For nearly twenty years, he traveled the southwest with his pack as a prized Executioner, but as the years grew and his packmates died, his loyalty to the sect faded. It had taken him years to understand why he never felt the bliss his friends described when they spoke of the Vaulderie. Some defect of his embrace had rendered him immune to the lesser bonds, even if he wanted them. But despite that flaw, his friends accepted him and helped him hide the fact from the Sabbat at large. Twisted though it was, the family they provided was a delight compared to the one he’d known as a mortal and his loyalty was theirs to command. Once they were gone though… well. He didn’t really have a reason to stay. It was during the Nights of Turmoil that he lost the last members of his pack. The lone survivor of a failed war party, he took the opportunity to disappear and search for a new purpose in unlife."
+        ],
+        [
+          "Sire:",
+          "Unknown",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Caitiff - \"Pander\" - Weak Blood"
+        ],
+        [
+          "Embrace Date:",
+          "Unknown",
+          "Embrace Location:",
+          "Unknown",
+          "",
+          "Generation",
+          "Ancilla 9"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Locate the final resting place of your mother and confirm she’s actually dead. Maybe piss on the abusive witch’s grave once you’re done."
+        ],
+        [
+          "Your mother was a powerful Hollywood producer who secretly supplied the “talent,” yourself included, for child molesters in the wealthy, elite circles of Los Angeles. You were too afraid of her to act. But now that she’s dead, you want to find her client list and tear them apart, limb from limb."
+        ],
+        [
+          "Since your embrace, your shadow has had a life of it’s own. Most of the time, it feels like the only friend you have left. Rarely, it seems to act with an alien malevolence. But in recent years, it’s been acting increasingly on it’s own and towards goals you can’t fathom. Can you find anyone to help you understand why? More importantly, can you find anyone you can trust enough to ask?"
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Ex-Sabbat Pander who has left the sect in the wake of the civil war and been an independent and is joining the Camarilla for his own reasons.."
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "Zip Manning. There was a time, years ago, when that name would bring up memories of panicked terror, splattering blood and the nightmarish sound of a chainsaw tearing through flesh. But now, all those that remembered were dead. Enemies and allies both, long since turned to ash.\nThe well earned reputation faded away and forgotten.\n        He really didn’t mind too much.\n\n        Embraced in 1993 as a disposable soldier for the Sword of Caine, the man that would become Zip Manning exceeded all expectations of brutality and combat effectiveness from the moment he burst  from a shallow grave and tore open the throat of the fool that had checked the recently disturbed earth, up until the day the last member of his original pack died in the burst of an incendiary grenade. For nearly twenty years, he traveled the southwest with his pack as a prized Executioner, but as the years grew and his packmates died, his loyalty to the sect faded. It had taken him years to understand why he never felt the bliss his friends described when they spoke of the Vaulderie. Some defect of his embrace had rendered him immune to the lesser bonds, even if he wanted them. But despite that flaw, his friends accepted him and helped him hide the fact from the Sabbat at large. Twisted though it was, the family they provided was a delight compared to the one he’d known as a mortal and his loyalty was theirs to command. Once they were gone though… well. He didn’t really have a reason to stay. It was during the Nights of Turmoil that he lost the last members of his pack. The lone survivor of a failed war party, he took the opportunity to disappear and search for a new purpose in unlife."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Unknown",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Caitiff - \"Pander\" - Weak Blood"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": "Unknown",
+          "column_3": "Embrace Location:",
+          "column_4": "Unknown",
+          "column_6": "Generation",
+          "column_7": "Ancilla 9"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Locate the final resting place of your mother and confirm she’s actually dead. Maybe piss on the abusive witch’s grave once you’re done."
+        },
+        {
+          "staff_generated_concept": "Your mother was a powerful Hollywood producer who secretly supplied the “talent,” yourself included, for child molesters in the wealthy, elite circles of Los Angeles. You were too afraid of her to act. But now that she’s dead, you want to find her client list and tear them apart, limb from limb."
+        },
+        {
+          "staff_generated_concept": "Since your embrace, your shadow has had a life of it’s own. Most of the time, it feels like the only friend you have left. Rarely, it seems to act with an alien malevolence. But in recent years, it’s been acting increasingly on it’s own and towards goals you can’t fathom. Can you find anyone to help you understand why? More importantly, can you find anyone you can trust enough to ask?"
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "",
+          "",
+          "0",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_5": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ],
+        [
+          "$10,000 in cash and jewelery (DT Spent to squirel away)",
+          "2019-04-13 00:00:00",
+          "Aurea Stichter"
+        ],
+        [
+          "Defends Haven with 2 DTAs w/ Skills to Divert stalkers to K-Town",
+          "2019-04-13 00:00:00",
+          "Aurea Stichter"
+        ]
+      ],
+      "records": [
+        {
+          "personal_plot_objects": "$10,000 in cash and jewelery (DT Spent to squirel away)",
+          "date": "2019-04-13 00:00:00",
+          "st_for_the_plot": "Aurea Stichter"
+        },
+        {
+          "personal_plot_objects": "Defends Haven with 2 DTAs w/ Skills to Divert stalkers to K-Town",
+          "date": "2019-04-13 00:00:00",
+          "st_for_the_plot": "Aurea Stichter"
+        }
+      ]
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "1",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Email Address",
+          "What is your name",
+          "What is your character's name",
+          "What is your character's type (clan)",
+          "Feeding",
+          "Action 1",
+          "Action 1  Description",
+          "Action 2",
+          "Action 2  Description",
+          "Action 3",
+          "Action 3  Description",
+          "Action 4",
+          "Action 4  Description",
+          "Action 5",
+          "Action 5  Description",
+          "Action 6",
+          "Action 6  Description",
+          "XP Spends",
+          "Other Description",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ],
+        [
+          "2019-03-29 05:48:20.601000",
+          "mrretsej@gmail.com",
+          "",
+          "Zip Manning",
+          "Caitiff/Thin-blood",
+          "Other, I'm going to feed in another way and it will be explained in the notes.",
+          "I am spending a DT",
+          "Cover: Anticipating that the Prince's flunkies will try and keep him under observation, Zip will be going to excessive lengths (Stealth 3, Streetwise 1, Drive 1) to avoid being tracked this month in order to prevent anyone from locating his Haven.",
+          "I am spending a DT",
+          "Second Cover action: Zip will go to extreme lengths to prevent anyone from locating his Haven, even going so far as to lead any tails to assume he's staying somewhere in Koreatown.",
+          "I am spending a DT",
+          "Zip will be stockpiling his surplus money this month ($10,000 after expenses).",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Herd 1 (FetLife Blood dolls) - 2xp\nUnderworld 1 (Black Market Organ Traffickers) - 2xp",
+          "Zip will be paying Miles (Marcus Chan) $10,000 for access to Miles' Herd for the month."
+        ]
+      ],
+      "records": [
+        {
+          "0": "Action 1  Description",
+          "1": "What is your character's name",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Email Address",
+          "influnce_downtimes": "What is your name",
+          "computer_downtimes": "What is your character's type (clan)",
+          "science_downtimes": "Action 1",
+          "column_9": "Action 2",
+          "column_10": "Action 2  Description",
+          "column_11": "Action 3",
+          "column_12": "Action 3  Description",
+          "column_13": "Action 4",
+          "column_14": "Action 4  Description",
+          "column_15": "Action 5",
+          "column_16": "Action 5  Description",
+          "column_17": "Action 6",
+          "column_18": "Action 6  Description",
+          "column_19": "XP Spends",
+          "column_20": "Other Description",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        },
+        {
+          "0": "Cover: Anticipating that the Prince's flunkies will try and keep him under observation, Zip will be going to excessive lengths (Stealth 3, Streetwise 1, Drive 1) to avoid being tracked this month in order to prevent anyone from locating his Haven.",
+          "1": "Zip Manning",
+          "genaral_towntimes": "2019-03-29 05:48:20.601000",
+          "3_0": "mrretsej@gmail.com",
+          "computer_downtimes": "Caitiff/Thin-blood",
+          "science_downtimes": "I am spending a DT",
+          "column_9": "I am spending a DT",
+          "column_10": "Second Cover action: Zip will go to extreme lengths to prevent anyone from locating his Haven, even going so far as to lead any tails to assume he's staying somewhere in Koreatown.",
+          "column_11": "I am spending a DT",
+          "column_12": "Zip will be stockpiling his surplus money this month ($10,000 after expenses).",
+          "column_19": "Herd 1 (FetLife Blood dolls) - 2xp\nUnderworld 1 (Black Market Organ Traffickers) - 2xp",
+          "column_20": "Zip will be paying Miles (Marcus Chan) $10,000 for access to Miles' Herd for the month."
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

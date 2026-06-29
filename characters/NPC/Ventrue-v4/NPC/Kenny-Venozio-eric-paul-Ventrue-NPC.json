@@ -1,0 +1,846 @@
+{
+  "source": {
+    "title": "Kenny-Venozio-eric-paul-Ventrue-NPC",
+    "fileName": "Kenny-Venozio-eric-paul-Ventrue-NPC.xlsx",
+    "localPath": "source-sheets\\NPC\\Ventrue v4\\NPC\\Kenny-Venozio-eric-paul-Ventrue-NPC.xlsx"
+  },
+  "folderPath": [
+    "NPC",
+    "Ventrue v4",
+    "NPC"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER",
+    "characterName": "Kenny Venozio",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Pillars of Salt",
+    "archetype": "Mediator",
+    "title": "Elder",
+    "characterStartDate": "",
+    "generationLabel": "Pretender Elder 8",
+    "clan": "Ventrue"
+  },
+  "attributes": {
+    "physcial": 10,
+    "social": 7,
+    "mental": 5
+  },
+  "backgrounds": {
+    "generation": 3,
+    "contacts": 1,
+    "resources": 2
+  },
+  "currentPools": {},
+  "abilities": {
+    "academics": 1,
+    "occult": 3,
+    "firearms": 2,
+    "security": 1,
+    "stealth": 1,
+    "brawl": 3,
+    "computer": 1,
+    "linguistics": 2,
+    "dodge": 4,
+    "melee": 2,
+    "starting_xp": 0,
+    "unspent_xp": 0,
+    "spent_xp": 0
+  },
+  "status": [],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Kenny Venozio",
+        "",
+        "",
+        "",
+        "Pillars of Salt",
+        "",
+        "",
+        "Generation",
+        "3.0",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "Current Blood Points * Per Turn",
+        "15*3"
+      ],
+      [
+        "",
+        "Mediator",
+        "",
+        "Elder",
+        "",
+        "",
+        "",
+        "",
+        "Alternitive Identity",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archtype",
+        "",
+        "Title",
+        "",
+        "Coterie/Faction",
+        "",
+        "",
+        "Contacts",
+        "1.0",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Pretender Elder 8",
+        "",
+        "Ventrue",
+        "",
+        "Feeding Preferance",
+        "",
+        "",
+        "Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "Clan Flaw",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Total",
+        "",
+        "Focus",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Physcial",
+        "10.0",
+        "",
+        "",
+        "Stamina",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "",
+        "",
+        "Apperance",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "Mental",
+        "5.0",
+        "",
+        "",
+        "Wits",
+        "",
+        "",
+        "Retainers",
+        "",
+        "",
+        "DISCIPLINES & RITUALS & OTHER POWERS"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERIT & FLAWS"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgic Training",
+        "",
+        "",
+        "Dominate",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "*Trophy*",
+        "",
+        "",
+        "Fortitude",
+        "4.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Servant of the Ephorate",
+        "",
+        "",
+        "Presence",
+        "1.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Lure of Flames",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Empathy",
+        "",
+        "Occult",
+        "3.0",
+        "",
+        "",
+        "",
+        "",
+        "Potence",
+        "2.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "2.0",
+        "Science"
+      ],
+      [
+        "",
+        "Atheltics",
+        "",
+        "Intimidation",
+        "",
+        "Security",
+        "1.0"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Investigation",
+        "",
+        "Stealth",
+        "1.0"
+      ],
+      [
+        "",
+        "Brawl",
+        "3.0",
+        "Leadership",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "ABILITES FOCUS"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Linguistics",
+        "2.0",
+        "Subterfuge"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "",
+        "Survival"
+      ],
+      [
+        "",
+        "Dodge",
+        "4.0",
+        "Medicine",
+        "",
+        "Performance"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee",
+        "2.0"
+      ],
+      [],
+      [],
+      [
+        "",
+        "EXPERINCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "0",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Total XP Left"
+        ],
+        [
+          "Starting XP (50) Point Character",
+          "Pre Game",
+          "50.0"
+        ],
+        [
+          "Thaumaturgy Lure of Flames 1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Thaumaturgy Lure of Flames 2",
+          "Pre Game",
+          "-8.0"
+        ],
+        [
+          "Fortitude 2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Thaumaturgical Training",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Servant of the Ephorate",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Ritual of Winds Passing (Archon's ritual/ immunne to range damage)",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Fortitude 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Fortitude 4",
+          "Pre Game",
+          "-12.0"
+        ],
+        [
+          "Physcial Trait",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "",
+          "0"
+        ],
+        [],
+        [],
+        [
+          "Game Earned XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (50) Point Character",
+          "date": "Pre Game",
+          "all_costs": 50
+        },
+        {
+          "what_was_bought": "Thaumaturgy Lure of Flames 1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Thaumaturgy Lure of Flames 2",
+          "date": "Pre Game",
+          "all_costs": -8
+        },
+        {
+          "what_was_bought": "Fortitude 2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Thaumaturgical Training",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Servant of the Ephorate",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Ritual of Winds Passing (Archon's ritual/ immunne to range damage)",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Fortitude 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Fortitude 4",
+          "date": "Pre Game",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Physcial Trait",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "all_costs": 0
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:",
+          "Patric Thomas"
+        ],
+        [],
+        [
+          "Sire:",
+          "Lois Focault",
+          "Embrace Date:",
+          "",
+          "Embrace Location:"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "Sire:",
+          "column_2": "Lois Focault",
+          "created_by": "Embrace Date:",
+          "column_5": "Embrace Location:"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

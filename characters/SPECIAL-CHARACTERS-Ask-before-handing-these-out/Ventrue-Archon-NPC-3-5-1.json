@@ -1,0 +1,1613 @@
+{
+  "source": {
+    "title": "Ventrue-Archon-NPC-3-5-1",
+    "fileName": "Ventrue-Archon-NPC-3-5-1.xlsx",
+    "localPath": "source-sheets\\SPECIAL CHARACTERS - Ask before handing these out.\\Ventrue-Archon-NPC-3-5-1.xlsx"
+  },
+  "folderPath": [
+    "SPECIAL CHARACTERS - Ask before handing these out."
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "",
+    "archetype": "Bully",
+    "title": "",
+    "characterStartDate": "2016-11-25 00:00:00",
+    "generationLabel": "Ancilla 9",
+    "clan": "Ventrue - Feeding Preference"
+  },
+  "attributes": {
+    "physical": 7,
+    "social": 7,
+    "mental": 10
+  },
+  "backgrounds": {
+    "generation": 2,
+    "alternate_identity": 3,
+    "haven": 1,
+    "herd": 1,
+    "influence_elite": 1,
+    "influence_underworld": 3,
+    "resources": 2
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "intimidation": 4,
+    "streetwise": 2,
+    "subterfuge": 4,
+    "linguistics": 2,
+    "brawl": 2,
+    "lore": 1,
+    "computer": 1,
+    "melee": 2,
+    "dodge": 2,
+    "occult": 1,
+    "firearms": 3,
+    "stealth": 3
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Auspicious -1",
+    "Blasé -3",
+    "Prestigious Sire -1"
+  ],
+  "disciplines": [
+    {
+      "name": "Obfuscate",
+      "value": 2
+    },
+    {
+      "name": "Dominate",
+      "value": 3
+    },
+    {
+      "name": "Fortitude",
+      "value": 1
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Linguistics: German, French",
+    "Lore: Anarchs",
+    "Academics: Political Science"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CAMARILLA: LA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "70"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Generation",
+        "2.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Bully",
+        "",
+        "",
+        "",
+        "2016-11-25 00:00:00",
+        "",
+        "",
+        "Alternate Identity",
+        "3.0",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 12*2"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Ancilla 9",
+        "",
+        "Ventrue - Feeding Preference",
+        "",
+        "",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "",
+        "Auspicious (Rugged)"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "1.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd",
+        "1.0",
+        "",
+        "",
+        "Prestigious Sire: For our purposes, we will say it was someone in Berlin."
+      ],
+      [
+        "",
+        "Physical",
+        "7.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\"",
+        "1.0"
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "Appearance - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\"",
+        "3.0",
+        "",
+        "",
+        "Haven: Location"
+      ],
+      [
+        "",
+        "Mental",
+        "10.0",
+        "Wits - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Retainers",
+        "",
+        "",
+        "",
+        "Alt ID: Anarch"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "Confirmed (Ancilla)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "Loyal (Fleeting)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Auspicious -1",
+        "",
+        "",
+        "",
+        "Obfuscate",
+        "2.0"
+      ],
+      [
+        "",
+        "Commander and Noble (Archon)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Blasé -3",
+        "",
+        "",
+        "",
+        "Dominate",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Prestigious Sire -1",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "1.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Monopoly -1",
+        "",
+        "",
+        "",
+        "Presence",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "4.0",
+        "Streetwise",
+        "2.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "Subterfuge",
+        "4.0"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "Survival",
+        "",
+        "",
+        "Prestation Debt +4"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "2.0",
+        "Performance",
+        "",
+        "",
+        "Curiosity +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "2.0",
+        "Lore",
+        "1.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Medicine",
+        "",
+        "",
+        "",
+        "",
+        "Linguistics: German, French"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "2.0",
+        "",
+        "",
+        "",
+        "Lore: Anarchs"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "1.0",
+        "",
+        "",
+        "",
+        "Academics: Political Science"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security"
+      ],
+      [
+        "",
+        "Firearms",
+        "3.0",
+        "Stealth",
+        "3.0"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    9",
+        "",
+        "Dodge    9",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    9",
+        "",
+        "Dominate    14",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (Wits)   13",
+        "",
+        "Obfuscate    13",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.1"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "3"
+        ],
+        [
+          "Auspicious 1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Infernal Power 3",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Prestigious Sire 1",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "35"
+        ],
+        [
+          "Dominate 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Obfuscate 2",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Mental 8",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "6"
+        ],
+        [
+          "Influence Underworld 1, 2, 3",
+          "Pre Game",
+          "-12.0"
+        ],
+        [
+          "Monopoly",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "1"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "55"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "Prestation Debt 4 to Landulpho Aquino",
+          "Pre Game",
+          "4",
+          "",
+          "",
+          "-20"
+        ],
+        [
+          "Curiousity",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-11-25 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-12-05 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Herd 1",
+          "2017-01-15 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Resource 1",
+          "2017-01-15 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Resource 2",
+          "2017-01-15 00:00:00",
+          "",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-02-14 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-03-25 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-04-29 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-05-13 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "6 Game Bonus",
+          "2017-05-13 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "18.0"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "(38 additional XP)"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "9.0",
+          "47 additional XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 3
+        },
+        {
+          "what_was_bought": "Auspicious 1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Infernal Power 3",
+          "date": "Pre Game",
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Prestigious Sire 1",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 35
+        },
+        {
+          "what_was_bought": "Dominate 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Obfuscate 2",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Mental 8",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": 6
+        },
+        {
+          "what_was_bought": "Influence Underworld 1, 2, 3",
+          "date": "Pre Game",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Monopoly",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 1
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 55
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "what_was_bought": "Prestation Debt 4 to Landulpho Aquino",
+          "date": "Pre Game",
+          "all_costs": 4,
+          "starting_total_xp_left": -20
+        },
+        {
+          "what_was_bought": "Curiousity",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-11-25 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-12-05 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Herd 1",
+          "date": "2017-01-15 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Resource 1",
+          "date": "2017-01-15 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Resource 2",
+          "date": "2017-01-15 00:00:00",
+          "column_5": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-02-14 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-03-25 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-04-29 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-05-13 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "6 Game Bonus",
+          "date": "2017-05-13 00:00:00",
+          "column_4": 6
+        },
+        {
+          "column_5": 18
+        },
+        {
+          "column_5": 6
+        },
+        {
+          "column_5": 6
+        },
+        {
+          "column_5": 6
+        },
+        {
+          "column_5": 2,
+          "starting_total_xp_left": "(38 additional XP)"
+        },
+        {
+          "column_5": 9,
+          "starting_total_xp_left": "47 additional XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By: KK"
+        ],
+        [],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "Your unlife is a lie.  You were embraced in New York City and you never met your sire.  You have no idea who your true Sire was, but in 1982 you met Landulpho Aquino and he changed your unlife forever.  You were an undead art school drop out and he was a powerful Ventrue elder of the Camarilla but for some reason he found it amusing to parade you as his progeny at Elysium.  Fooling uppity Tremere and forcing snobbish Toreador to bow to a thin blood was his idea of a great joke.  After almost a decade of such fun, he returned to London but left you in his debt.  He agreed to be your sire in name as long as you never betrayed him and even though the blood bond he once forced upon you is long gone, your natural affection for the scheming old man remains. Now you trade upon his name and your knowledge of modern art to deal in stolen sculptures and paintings.  Indirectly you also met your Demonic master Belial though landulpho.  One of the antique paintings he gifted to you before leaving for London contained a fragment of the Demon's power and through it you learned of the great power to be gained by serving Belial. Although you lost the painting long ago, you sense that Belial has a greater mission for you and greater power.  You made your way to LA partly because you sense that his power is greater here and that the time is ripe to begin seeking other vampires who might be tempted by his gifts."
+        ],
+        [
+          "Sire:",
+          "Landulpho Aquino",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Ventrue - Feeding Preference"
+        ],
+        [
+          "Embrace Date:",
+          "1933.0",
+          "Embrace Location:",
+          "Roccasecca, Italy",
+          "",
+          "Generation",
+          "Ancilla 9"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Landulf Aquino",
+          "Your adopted sire, a Ventrue Elder residing in London. You owe him a great debt for helping you create your identity as a Ventrue and you suspect he is also an infernalist."
+        ],
+        [
+          "April Ueltschi (Ventrue)",
+          "The Ventrue Harpy and shrewd member of the LA Camarilla. She has made a career as a Ventrue geneaologist."
+        ],
+        [
+          "Franklin Richards (Tremere)",
+          "He's got a reputation for being good with demonology. Either he's already made a pact with another demon and is therefore a rival of your master's (and so a rival of yours), or he's savvy enough to figure out what you're up to. Figure out which one it is, but carefully."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Become an asset to the Ventrue Clan, do nothing to undermine your identity within the Clan"
+        ],
+        [
+          "Carefully and slowly find those in the city willing to enter into an infernal compact with you."
+        ],
+        [
+          "Undermine the work of those trying to rid the city of Los Angeles of demonic power, but do not reveal yourself"
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "Your unlife is a lie.  You were embraced in New York City and you never met your sire.  You have no idea who your true Sire was, but in 1982 you met Landulpho Aquino and he changed your unlife forever.  You were an undead art school drop out and he was a powerful Ventrue elder of the Camarilla but for some reason he found it amusing to parade you as his progeny at Elysium.  Fooling uppity Tremere and forcing snobbish Toreador to bow to a thin blood was his idea of a great joke.  After almost a decade of such fun, he returned to London but left you in his debt.  He agreed to be your sire in name as long as you never betrayed him and even though the blood bond he once forced upon you is long gone, your natural affection for the scheming old man remains. Now you trade upon his name and your knowledge of modern art to deal in stolen sculptures and paintings.  Indirectly you also met your Demonic master Belial though landulpho.  One of the antique paintings he gifted to you before leaving for London contained a fragment of the Demon's power and through it you learned of the great power to be gained by serving Belial. Although you lost the painting long ago, you sense that Belial has a greater mission for you and greater power.  You made your way to LA partly because you sense that his power is greater here and that the time is ripe to begin seeking other vampires who might be tempted by his gifts."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Landulpho Aquino",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Ventrue - Feeding Preference"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1933,
+          "column_3": "Embrace Location:",
+          "column_4": "Roccasecca, Italy",
+          "column_6": "Generation",
+          "column_7": "Ancilla 9"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Landulf Aquino",
+          "column_2": "Your adopted sire, a Ventrue Elder residing in London. You owe him a great debt for helping you create your identity as a Ventrue and you suspect he is also an infernalist."
+        },
+        {
+          "staff_generated_concept": "April Ueltschi (Ventrue)",
+          "column_2": "The Ventrue Harpy and shrewd member of the LA Camarilla. She has made a career as a Ventrue geneaologist."
+        },
+        {
+          "staff_generated_concept": "Franklin Richards (Tremere)",
+          "column_2": "He's got a reputation for being good with demonology. Either he's already made a pact with another demon and is therefore a rival of your master's (and so a rival of yours), or he's savvy enough to figure out what you're up to. Figure out which one it is, but carefully."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Become an asset to the Ventrue Clan, do nothing to undermine your identity within the Clan"
+        },
+        {
+          "staff_generated_concept": "Carefully and slowly find those in the city willing to enter into an infernal compact with you."
+        },
+        {
+          "staff_generated_concept": "Undermine the work of those trying to rid the city of Los Angeles of demonic power, but do not reveal yourself"
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "General Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "4",
+          "Computer Downtimes",
+          "1",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ],
+        [
+          "2016-11-27 21:38:00",
+          "",
+          "Faith Dartois",
+          "Ventrue",
+          "Caroline Smeby",
+          "I am actively choosing not to hunt, to save that downtime.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "I would like to invetigate a \"lost Van Gogh\" painting I heard about, Delgado Corsi ((Kevin Hill)) showed Me a sword that bleeds and keeps in a guitar case on his back and I would like to research it, search of ottomon furniture for April the Harpy"
+        ],
+        [
+          "2017-01-13 23:32:00",
+          "",
+          "Faith Dartois",
+          "Ventrue",
+          "Caroline Smeby",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Level 3 illegal favors: collect and liquidate black market art for resources, Level 3 illegal favors: acquire a (hopefully swanky) car, Level 2 word on the street: based on the information recieved from Delgado Corsi, seek information to arrange meeting with Ms. Polite",
+          "",
+          "",
+          "How I found books for Durriken in text rp",
+          "",
+          "",
+          "Purchase auction of ottoman furniture for The Harpy as directed by Theo, research locations depicted in durrikens last painting (New York and Los Angeles), search for Calvin Olsen's lost armoire/wardrobe",
+          "",
+          "1 rank herd, 2 ranks resources",
+          "2xp for 1 rank herd, 6xp for 2 ranks resources"
+        ],
+        [
+          "2017/03/18 9:02:29 PM MDT",
+          "midnight_rocket@yahoo.com",
+          "Faith Dartois",
+          "Ventrue",
+          "Caroline Smeby",
+          "Herd (of my own) (no downtimes)",
+          "Artists",
+          "Long Beach (Camarilla)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Level 3 illegal favors: plant evidence that Carl Zimmer is involved in a money laundering scheme and leak to media. Level 3 illegal favors: acquire gun. Level 3 illegal favors: acquire gun.",
+          "",
+          "",
+          "Research art market to determine most profitable trends",
+          "",
+          "",
+          "",
+          "Find more demonic lore books for durriken, a little darker this time. Continue to look for Calvin's armoire from Lilyhammer."
+        ],
+        [
+          "2017/04/15 11:02:22 AM MDT",
+          "midnight_rocket@yahoo.com",
+          "Faith Dartois",
+          "Ventrue",
+          "Caroline Smeby",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "Long Beach (Camarilla)",
+          "",
+          "Whittier / Norwalk (Camarilla)",
+          "Look for infernalist activity in Long Beach",
+          "",
+          "",
+          "",
+          "Level 2 word on the street: Keep looking for the Armoire for calvin in auctions, Level 3 illegal favors: liquidate neoclassical style art for profit, Using 1 underworld influence to add defense to long beach",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Research Durriken's clock painting to find more corresponding buildings"
+        ],
+        [
+          "2017-05-06 23:11:38",
+          "0.0",
+          "Faith Dartois",
+          "Ventrue",
+          "Caroline Smeby",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "Long Beach (Camarilla)",
+          "",
+          "Long Beach (Camarilla)",
+          "Patrol - Long Beach - Current Defenses - Use Dominate Powers to question various groups and discover their true loyalties\n Defense - Long Beach - Use Mesmerism to get mortals to report suspicious activity\n Defense - Long Beach - Use Forgetful Mind to cover up for Ventrue Interests",
+          "",
+          "",
+          "Underworld Influence (Hackers) - Long Beach Defense - White-Hat secure Ventrue interests\n Underworld Influence (Antiquity Thieves) - Long Beach Defense - Bring in rare assets that improve the reputation of Ventrue interests \n Underworld Influence (Money Launderer) - Ensure Ventrue-controlled interests have a clean ledger",
+          "",
+          "",
+          "Patrol / Investigation - Current Defenses - South Bay\n Patrol / Investigation - Current Defenses - South L.A.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "midnight_rocket@yahoo.com"
+        ],
+        [
+          "2017-06-10 14:17:00",
+          "",
+          "Faith Dartois",
+          "Ventrue",
+          "Caroline Smeby",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "Long Beach (Camarilla)",
+          "South Los Angeles (Sabbat)",
+          "Long Beach (Camarilla)",
+          "South Los Angeles Assault: Assist Sheriff, Long Beach Defense: Maintain and add defense to long beach",
+          "",
+          "",
+          "Illegal Favors level 3: Antiquity Thieves: acquire equipment, vehicle and storage space to move a large object and store no questions asked. Defense action: add defense to south los angeles, Defense action: add defense to south los angeles",
+          "",
+          "",
+          "Patrol: Current defenses south bay, Patrol Current defenses Beverly hills",
+          "",
+          "",
+          "Assist Harpy's smuggling operation, use truck and storage acquired through underworld influences.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "midnight_rocket@yahoo.com"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "1": "Hunting Actions",
+          "4": "What clan (or supernatural) does your character belong?",
+          "general_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        },
+        {
+          "1": "I am actively choosing not to hunt, to save that downtime.",
+          "4": "Ventrue",
+          "general_towntimes": "2016-11-27 21:38:00",
+          "influnce_downtimes": "Faith Dartois",
+          "computer_downtimes": "Caroline Smeby",
+          "column_20": "I would like to invetigate a \"lost Van Gogh\" painting I heard about, Delgado Corsi ((Kevin Hill)) showed Me a sword that bleeds and keeps in a guitar case on his back and I would like to research it, search of ottomon furniture for April the Harpy"
+        },
+        {
+          "1": "Herd (of my own) (no downtimes)",
+          "4": "Ventrue",
+          "general_towntimes": "2017-01-13 23:32:00",
+          "influnce_downtimes": "Faith Dartois",
+          "computer_downtimes": "Caroline Smeby",
+          "column_14": "Level 3 illegal favors: collect and liquidate black market art for resources, Level 3 illegal favors: acquire a (hopefully swanky) car, Level 2 word on the street: based on the information recieved from Delgado Corsi, seek information to arrange meeting with Ms. Polite",
+          "column_17": "How I found books for Durriken in text rp",
+          "column_20": "Purchase auction of ottoman furniture for The Harpy as directed by Theo, research locations depicted in durrikens last painting (New York and Los Angeles), search for Calvin Olsen's lost armoire/wardrobe",
+          "column_22": "1 rank herd, 2 ranks resources",
+          "column_23": "2xp for 1 rank herd, 6xp for 2 ranks resources"
+        },
+        {
+          "0": "Long Beach (Camarilla)",
+          "1": "Herd (of my own) (no downtimes)",
+          "4": "Ventrue",
+          "general_towntimes": "2017/03/18 9:02:29 PM MDT",
+          "3_0": "midnight_rocket@yahoo.com",
+          "influnce_downtimes": "Faith Dartois",
+          "computer_downtimes": "Caroline Smeby",
+          "science_downtimes": "Artists",
+          "column_15": "Level 3 illegal favors: plant evidence that Carl Zimmer is involved in a money laundering scheme and leak to media. Level 3 illegal favors: acquire gun. Level 3 illegal favors: acquire gun.",
+          "column_18": "Research art market to determine most profitable trends",
+          "column_22": "Find more demonic lore books for durriken, a little darker this time. Continue to look for Calvin's armoire from Lilyhammer."
+        },
+        {
+          "0": "Long Beach (Camarilla)",
+          "1": "Herd (of my own) (no downtimes)",
+          "4": "Ventrue",
+          "general_towntimes": "2017/04/15 11:02:22 AM MDT",
+          "3_0": "midnight_rocket@yahoo.com",
+          "influnce_downtimes": "Faith Dartois",
+          "computer_downtimes": "Caroline Smeby",
+          "column_10": "Whittier / Norwalk (Camarilla)",
+          "column_11": "Look for infernalist activity in Long Beach",
+          "column_15": "Level 2 word on the street: Keep looking for the Armoire for calvin in auctions, Level 3 illegal favors: liquidate neoclassical style art for profit, Using 1 underworld influence to add defense to long beach",
+          "column_22": "Research Durriken's clock painting to find more corresponding buildings"
+        },
+        {
+          "0": "Long Beach (Camarilla)",
+          "1": "Herd (of my own) (no downtimes)",
+          "4": "Ventrue",
+          "general_towntimes": "2017-05-06 23:11:38",
+          "3_0": 0,
+          "influnce_downtimes": "Faith Dartois",
+          "computer_downtimes": "Caroline Smeby",
+          "column_10": "Long Beach (Camarilla)",
+          "column_11": "Patrol - Long Beach - Current Defenses - Use Dominate Powers to question various groups and discover their true loyalties\n Defense - Long Beach - Use Mesmerism to get mortals to report suspicious activity\n Defense - Long Beach - Use Forgetful Mind to cover up for Ventrue Interests",
+          "column_14": "Underworld Influence (Hackers) - Long Beach Defense - White-Hat secure Ventrue interests\n Underworld Influence (Antiquity Thieves) - Long Beach Defense - Bring in rare assets that improve the reputation of Ventrue interests \n Underworld Influence (Money Launderer) - Ensure Ventrue-controlled interests have a clean ledger",
+          "column_17": "Patrol / Investigation - Current Defenses - South Bay\n Patrol / Investigation - Current Defenses - South L.A.",
+          "column_27": "midnight_rocket@yahoo.com"
+        },
+        {
+          "0": "Long Beach (Camarilla)",
+          "1": "Herd (of my own) (no downtimes)",
+          "4": "Ventrue",
+          "general_towntimes": "2017-06-10 14:17:00",
+          "influnce_downtimes": "Faith Dartois",
+          "computer_downtimes": "Caroline Smeby",
+          "column_9": "South Los Angeles (Sabbat)",
+          "column_10": "Long Beach (Camarilla)",
+          "column_11": "South Los Angeles Assault: Assist Sheriff, Long Beach Defense: Maintain and add defense to long beach",
+          "column_14": "Illegal Favors level 3: Antiquity Thieves: acquire equipment, vehicle and storage space to move a large object and store no questions asked. Defense action: add defense to south los angeles, Defense action: add defense to south los angeles",
+          "column_17": "Patrol: Current defenses south bay, Patrol Current defenses Beverly hills",
+          "column_20": "Assist Harpy's smuggling operation, use truck and storage acquired through underworld influences.",
+          "column_27": "midnight_rocket@yahoo.com"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

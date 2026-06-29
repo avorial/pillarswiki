@@ -1,0 +1,174 @@
+{
+  "source": {
+    "title": "Dalmazio-Giovanni",
+    "fileName": "Dalmazio-Giovanni.xlsx",
+    "localPath": "source-sheets\\NPC\\Giovanni NPC\\Dalmazio-Giovanni.xlsx"
+  },
+  "folderPath": [
+    "NPC",
+    "Giovanni NPC"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "Dalmazio Giovanni",
+    "playerName": "15*3",
+    "gmailAccount": "",
+    "clanCoordinator": "Giovanni - Painful Feeding",
+    "archetype": "Sociopath",
+    "title": "Pretender Elder 8",
+    "characterStartDate": "Elder",
+    "generationLabel": "ATTRIBUTES / COMMON POOLS",
+    "clan": "Giovanni"
+  },
+  "attributes": {},
+  "backgrounds": {},
+  "currentPools": {},
+  "abilities": {},
+  "status": [],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CAMARILLA: LA"
+      ],
+      [
+        "",
+        "Dalmazio Giovanni",
+        "",
+        "15*3",
+        "",
+        "Giovanni - Painful Feeding"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Blood / Per Turn",
+        "",
+        "Clan"
+      ],
+      [
+        "",
+        "Sociopath",
+        "",
+        "Pretender Elder 8",
+        "",
+        "Elder"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Generation",
+        "",
+        "Title / Political Faction"
+      ],
+      [
+        "",
+        "ATTRIBUTES / COMMON POOLS"
+      ],
+      [
+        "",
+        "Physical",
+        "10.0",
+        "Agressive P",
+        "17.0",
+        "Defensive P",
+        "",
+        "18.0"
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Agressive S",
+        "5.0",
+        "Defensive S",
+        "",
+        "5.0"
+      ],
+      [
+        "",
+        "Mental",
+        "5.0",
+        "Agressive M",
+        "5.0",
+        "Defensive M",
+        "",
+        "5.0"
+      ],
+      [
+        "",
+        "DISIPLINES/ POWERS"
+      ],
+      [
+        "",
+        "Dominate - 1 (one word Command,  - Test pool = 8)"
+      ],
+      [
+        "",
+        "Celerity - 5 (+5 Init, +5 Exceptional, +2 actions, +2 damage exceptional )"
+      ],
+      [
+        "",
+        "Necro - Sepulchre - 1 (dont bother)"
+      ],
+      [
+        "",
+        "Fortitude 1 ( No wound Penalties)"
+      ],
+      [],
+      [
+        "",
+        "CONCEPT / HISTORY"
+      ],
+      [
+        "",
+        "You were a gunman in the late 1800's, your family had money, you liked killing people, your guns make you happy, people do not. You act nice, but they mean nothing to you but yet another notched bullet in your drawer. Your to protect the Family, that is what you gain power and authority from doing, shoot the enemies of the family and the powerful elders do not destroy you, you have no problem with that."
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        "",
+        "GOALS"
+      ],
+      [
+        "",
+        "Watch for Danger"
+      ],
+      [
+        "",
+        "Report Danger"
+      ],
+      [
+        "",
+        "Deal with Danger by killing it"
+      ],
+      [
+        "",
+        "Determine who the fighters are in the Camarilla so you know to kill them first"
+      ],
+      [
+        "",
+        "NON PLAYER CHARACTER SHEET 1.0"
+      ]
+    ],
+    "Disipline Reference": {
+      "rows": [
+        [
+          "Animalism\nBy drawing on this feral instinct and predatory drive, a vampire can communicate with and control animals, It can be used on birds, mammals, marsupials, and fish. It cannot be used on insects, nor on creatures whose minds are too simple to understand rudimentary communication.\nAnimalism Test Pool: Social attribute + Animal Ken versus the target’s Social attribute + Willpower.\n \n● Feral Whispers\nYou can communicate with animals by murmuring to them in growls and using body language. Although an animal is not forced to obey you, it tends to respond favorably to individuals using this power.\nSystem: To ask questions of an animal, consult your Storyteller. You may speak to a specific animal, or you may use Feral Whispers to interrogate all local wildlife within hearing.\nFocus [Charisma]: You don’t need to growl or gesture to make yourself understood. Your Beast can communicate directly with the minds of nearby animals..\n \n●● Beckoning\nBy uttering a howl, a series of chirrups, or some other identifiable animal noise, you summon animals to your location. You can select the size and type of animal common to the area. \nSystem: Spend 1 Blood and a standard action to summon (your choice) up to five small, three medium, or one large animal. The animals arrive over the course of the next 10 minutes if common to the area. The animals will attempt to obey you and work for you until dawn, or until they take damage equal to their NPC rating. Beckoning cannot be used to control animals that are currently under the effect of another practitioner’s use of the Animalism. Animals summoned with Beckoning are created using the Retainer rules, with the following additional guidelines:\nSmall Animals: 1-point Retainers. Small animals may possess one unusual movement ability that allows them to climb, swim, fly, or burrow at their normal movement rate. Small animals include small dogs, cats, and squirrels, as well as most birds, fish, or moles.\nMedium Animals: Use the rules for 3-point Retainers. This category includes larger dogs, brown bears, coyotes, and bobcats.\nLarge Animals: Use the rules for a 5-point Retainer. The summoner might Beckon a horse, a stag, or a grizzly bear.\nBefore going to sleep or entering torpor, you can spend 1 Blood to activate this power. Animals summoned by this power will guard your resting place until they are killed or you wake.\nFocus [Charisma]: You may also soothe a target’s emotions into a sleepy peacefulness. \nSystem: The target must be capable of frenzy. When you are the focus of another character’s attention (as per Gaze and Focus), you can spend 1 Blood, expend a standard action, and make an opposed challenge using the Animalism test pool. If the target was in frenzy when this power was successfully used, she immediately falls out of frenzy.\nIf the target was not in frenzy, she becomes incapable of entering frenzy for the next hour. Her Willpower is sapped, and must spend 2 Willpower to retest challenges for the remainder of this and the next full turn. For the next five minutes, she must continue to spend 2 Willpower instead of 1 to retest challenges.\nCharacters with merits or powers that allow them to make retests without spending Willpower can use those merits normally. Quell the Beast cannot be used on yourself.\nExceptional Success: The Willpower-sapping effect of Quell the Beast lasts for the rest of this turn and for the next two full turns (rather than one).\nFocus [Manipulation]: The victim is unable to use Willpower retests at all for the duration of this power.\n \n●●● Subsume the Spirit\nThe Beast is a palpable thing, capable of influencing the minds and spirits of other animals. Not only can you cause lesser creatures to be cowed, you can actually send your consciousness into an animal’s body, subsuming it completely. The animal’s\nWhen you summon creatures using this power, apply one of the following additional effects. If you summon more than one creature, the chosen effect applies to each creature you have summoned (all are cunning, or can fly, and so forth).\nUnusual Movement: You may summon a group of medium-sized creatures that possess the ability to swim or fly at normal speeds (such as a vulture, eagle, or salmon); a single large-sized creature that possesses the ability to swim at normal speeds (such as a shark or dolphin).\nCunning: You can Beckon an animal with extraordinary cunning capable of understanding and following more complex instructions. This animal is a standard example of its type for all other purposes.\nSwarm: You summon a large number of small animals. A swarm is built using the normal Retainer rules, and a swarm is considered a single creature for the purpose of combat. A swarm moves slowly (one step per action), and killing a single animal has little effect on the overall swarm. You must inflict twice the normal amount of damage necessary to defeat a standard Retainer of its size. \n\n●●●● Quell the Beast\nThe target becomes wholly compliant to your will, and you can utilize it as though it were your natural form. While using this powerl, your own physical form falls into a comatose state. Although you can utilize the full scope of your intelligence, cunning, and memories, you are limited by the physical capabilities of the animal.\nSystem: Spend 1 Blood and use a standard action to stare into the eyes of an animal; make an opposed challenge against the animal. If successful, your consciousness is transferred into the target’s body, its mind enters a fugue. The character’s body falls into a torpid state and can neither act or defend itself. The body retains Fortitude or other powers that are always active. You always know the direction and distance of your real body.\nNormal and ghouled animals can be targeted, supernatural creatures cannot. Ghouled animals hold up to 5 points of vampiric Blood that can be used towards their physical Disciplines. The vampire may spend this Blood at a rate of 1 per turn. The vampire cannot use their own Disciplines.\nThe character uses her own Mental attributes and focuses, Social attributes and focuses, Skills, and Backgrounds in challenges and the Physical attribute of the animal for any Physical challenges. This attribute is equal to double that animal’s NPC rating. If the animal you are controlling has the power to fly or is adapted to aquatic life (like a fish), you gain its ability to fly or swim at normal speeds. \nSubsume the Spirit lasts the night and ends immediately if the character travels more than 10 miles away from her native body, if the character’s native body takes damage, or if the animal she’s controlling takes damage. A vampire with Beast traits still risks frenzy. \nFocus [Manipulation]: You can use the first 2 dots of your Mental and Social in-clan disciplines. If you are controlling a ghouled animal, you can spend up to 5 Blood to fuel these in-clan disciplines, at the rate of 1 Blood a turn, regardless of the character’s generation. \n \n●●●●● Drawing Out the Beast\nThrough your keen understanding of your own predatory nature and instincts, you have reached a communion with your Beast. \nSystem: Spend 1 Blood and expend a simple action to immediately cause your character to fall out of frenzy. Alternately, you may spend 1 Blood and expend a simple action to instantly launch your character into a rage frenzy.\nFocus [Manipulation]: You can enter frenzy, even when you would otherwise be unable to do so. Additionally, while in a rage frenzy, your character receives a +3 bonus to all Physical attack test pools. Your character still suffers the standard -2 penalty to Physical defense pools while in frenzy.",
+          "Auspex\nA predator’s senses must be acute to track prey - and Auspex allows those senses to be sharpened. Higher levels of Auspex allow supernatural levels of perception. \nAuspex Test Pool: Mental attribute + Investigation versus the target’s Mental attribute + Willpower.\nHeightened vs. Supernatural Concealment: Target may use Mental attribute + Stealth as a defensive test pool instead of Mental attribute + Willpower. \nHeightened vs. Illusion: Target may use Social attribute + Subterfuge as a defensive test pool instead of Social attribute + Willpower.\n\n● Heightened Senses\nYou can extend any or all of your physical senses - sight, hearing, touch, smell and taste. You may see in the dark, eavesdrop on conversations across the room and sense supernaturally concealed beings standing within two steps. You may also spend 1 Blood and take 1 Standard ACtion to notice any mundanely hidden objects within your line of sight - make an opposed challenge to discern any details. \nExceptional Success: If you attempt the same challenge against the character, you automatically succeed for the next hour. \nFocus [Perception]: Sharpening your senses takes a simple action. \n\n●● Aura Perception\nEvery living (or unliving) creature is surrounded by an aura which reveals important information about them. Spend 1 Blood and 1 Standard action, make an opposed challenge. On a success, you can read your target’s aura. You know their creature type (vampire, ghoul, mortal, other), general mood, any immediately violent inclination and if your target has diablerized in the past year. If your target consents to have their aura read, you need not spend blood. \nExceptional Success: You may continue you read your subject’s aura for another hour without Blood or a challenge. If the target’s mood shifts, you know. You may act before them if combat occurs. \nFocus [Perception]: If your target is within three steps, your character spends no Blood, whether the target is willing or not. If the target is unwilling, you must still make an opposed challenge.\n\n●●● Spirit’s Touch\nPhysical objects carry traces of those who most recently handled them. This power allows you to absorb those impressions. This does not work on living (or unliving) creatures. You must make skin contact with the item and spend 1 Blood and a standard action. You may then ask one fo the following: \nShow me the last person who handled the object.\nHow did the individual die? \nWhen (or how) was the object last used? \nAre there any strong emotions attached to this object?\nFocus [Perception]: When you activate Spirit’s Touch, you may ask three question.\n\n●●●● Telepathy\nSpend 1 point of Blood, and you may immediately make mental contact with a willing target within 50 miles. You require 1 Blood and an opposed challenge for unwilling targets (your opponent may make an opposed Awareness challenge to find out who you are). This lasts for one hour, and you may not use any other powers while using Telepathy. On a success, your target must answer one of the following (2 for an exceptional success):   \nWhat are you currently thinking about?\nWhat does that person or thing you just described look like?\nWhere is the person or object you were just talking about located?\nDo you like or dislike the person you’re currently talking to?\nWhat are you planning to do in the next few minutes?\nFocus [Wits]: You can maintain Telepathy with up to three willing targets at once, interconnected. Spend 1 Blood per target. \n\n●●●●● Psychic Projection\nNo longer confined to the physical plane, you can project your senses and awareness outside of your body. Without the concerns of mass and matter, you easily pass through any physical barrier and move at the speed of thought to any place under the gaze of the moon.\nSystem: Spend 1 point of Blood and a standard action meditating. You project your awareness outside of her physical form. While in psychic form, your body lies in a torpor-like state. If you take damage, the Psychic Projection automatically ends. A psychic form travels at roughly 50 miles per hour and can pass through solid objects, but cannot interact with the physical world in any way. The only powers you can use while in psychic form are the first 4 dots of Auspex.\nA psychic form is invisible to those without Heightened Senses or similar supernatural abilities. You can spend 1 Blood to make yourself visible for one turn. A manifested character can be targeted by Mental and Social powers by those in the material world. Individuals with Heightened Senses or similar supernatural abilities can see the vague outline of an individual in Psychic Projection even when that individual has not manifested, but the observer cannot make out details, see gestures, or hear the projected character’s voice unless she manifests.\nTwo individuals in Psychic Projection can interact normally. A successful blow from another psychic individual costs the victim 1 Willpower as damage. If the victim runs out of Willpower, her Psychic Projection immediately ends and cannot be reactivated for 10 minutes. \nFocus [Wits]: You may utilize the first 2 dots of any Mental or Social in-clan discipline you possess. Your character uses these powers normally when targeting others in the psychic plane. If your character manifests, she can also use these disciplines on targets in the material world while she is manifested.",
+          "Celerity\nThroughout history, myths have described vampires as having preternatural speed and reflexes. They move in a blur, travel across surfaces that shouldn’t be able to hold their weight, and strike between heartbeats when fighting.\nCelerity allows you to take additional actions. \nYou can only take Physical actions during a Celerity round.\nYou must spend 1 Blood point to activate Celerity for the turn. That expenditure activates all Celerity powers you possess. \nActivating Celerity doesn’t require an action and can be done at any time (even before your turn in the initiative order). \nEach dot of Celerity represents an additional increase in physical speed, and each dot stacks with all mechanical bonuses granted by other dots of this discipline. If a character has Rapidity (Celerity ●●●), she has the bonuses granted by Rapidity, and also the bonuses granted by Alacrity (Celerity ●) and Swiftness (Celerity ●●), which she must possess to reach Rapidity.\nUsing Celerity at the Rapidity level or beyond is a breach of the Masquerade, should it be seen by mortals.\n \nFocus [Dexterity]:\nAnytime you activate Celerity, your character gains +2 to Dodge-based defensive test pools.\n \n●  Alacrity\nWhen you spend Blood to activate Celerity, your initiative increases by the sum of all of the Celerity powers you possess, including Celerity elder powers and Celerity-based techniques.\n\n● ●  Swiftness\nWhen making a ranged attack, you gain a +5 bonus to determine whether or not the attack scores an exceptional success. Additionally, when dodging, you receive a +5 bonus to your test pool for the purpose of comparing attributes to determine if your attacker has achieved an exceptional success.\n\n● ● ●  Rapidity\nWhen you activate Celerity, you gain an extra round of actions (one simple action and one standard action). Resolve these actions during the first Celerity round.\n\n● ● ● ●  Legerity\nAll of your Dodge-based defensive test pools receive a +2 wild card bonus while Celerity is active. This bonus stacks with the +2 Dodge bonuses granted by the Dexterity attribute focus. Additionally, when you score an exceptional success with a mundane ranged attack (one not related to any supernatural discipline) while Celerity is active, your character inflicts 2 additional points of damage instead of the standard 1 additional point.\n\n● ● ● ● ●  Fleetness\nWhen you activate Celerity, you gain an extra round of actions (one simple action and one standard action).\nResolve these actions during the second Celerity round."
+        ]
+      ],
+      "records": []
+    }
+  }
+}

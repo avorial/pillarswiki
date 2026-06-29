@@ -1,0 +1,2198 @@
+{
+  "source": {
+    "title": "Norris Michaud (Toreador) Cy Terrin (V.3.5.4)",
+    "fileName": "Norris Michaud (Toreador) Cy Terrin (V.3.5.4).xlsx",
+    "localPath": "source-sheets\\Drive V.3.5.4 Search\\Norris Michaud (Toreador) Cy Terrin (V.3.5.4).xlsx"
+  },
+  "folderPath": [
+    "Drive V.3.5.4 Search"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "Norris Michaud",
+    "playerName": "Cy Terrin",
+    "gmailAccount": "",
+    "clanCoordinator": "Theo Strinz",
+    "archetype": "Con Artist",
+    "title": "Neonate",
+    "characterStartDate": "2017-03-25 00:00:00",
+    "generationLabel": "Neonate 11",
+    "clan": "Toreador - Entranced by Art"
+  },
+  "attributes": {
+    "physical": 5,
+    "social": 7,
+    "mental": 5
+  },
+  "backgrounds": {
+    "generation": 1,
+    "contacts_fame": 1,
+    "haven": 2,
+    "influence_elite": 3,
+    "influence_underworld": 2,
+    "resources": 2,
+    "retainers": 3
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "investigation": 4,
+    "subterfuge": 3,
+    "leadership": 2,
+    "awareness": 1,
+    "performance": 3,
+    "lore": 2,
+    "computer": 4,
+    "crafts": 2,
+    "occult": 2,
+    "drive": 1,
+    "empathy": 2,
+    "security": 2
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Absent Sway -3",
+    "Slippery Customer -2"
+  ],
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "value": 2
+    },
+    {
+      "name": "Celerity",
+      "value": 1
+    },
+    {
+      "name": "Presence",
+      "value": 4
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Crafts: Photography, Painting",
+    "Lore; Camarilla Law, Hunters",
+    "Performance: Dance, Acting, Recital"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CAMARILLA: LA",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "67"
+      ],
+      [
+        "",
+        "Norris Michaud",
+        "",
+        "Cy Terrin",
+        "",
+        "Theo Strinz",
+        "",
+        "",
+        "Generation",
+        "1.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Con Artist",
+        "",
+        "Neonate",
+        "",
+        "2017-03-25 00:00:00",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 10*1"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts / Fame",
+        "1.0",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Neonate 11",
+        "",
+        "Toreador - Entranced by Art",
+        "",
+        "",
+        "",
+        "",
+        "Mentor / Herd",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "2.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\"",
+        "3.0"
+      ],
+      [
+        "",
+        "Physical",
+        "5.0",
+        "Dexterity - (Burst of Speed, Disarm, Fighting Blind, or Quick Draw)",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\"",
+        "2.0"
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "Manipulation - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "Mental",
+        "5.0",
+        "Wits - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Retainers",
+        "3.0"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Ritae"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Absent Sway -3",
+        "",
+        "",
+        "",
+        "Auspex",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Slippery Customer -2",
+        "",
+        "",
+        "",
+        "Celerity",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Presence",
+        "4.0"
+      ],
+      [
+        "",
+        "ABILITES"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "",
+        "Streetwise"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "4.0",
+        "Subterfuge",
+        "3.0"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "2.0",
+        "Survival",
+        "",
+        "",
+        "Overconfident +2"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Linguistics",
+        "",
+        "Performance",
+        "3.0",
+        "",
+        "Weak Stomach aka Bulima +3"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "2.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "4.0",
+        "Medicine",
+        "",
+        "",
+        "",
+        "",
+        "Crafts: Photography, Painting"
+      ],
+      [
+        "",
+        "Crafts",
+        "2.0",
+        "Melee"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Occult",
+        "2.0",
+        "",
+        "",
+        "",
+        "Lore; Camarilla Law, Hunters"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "2.0",
+        "Security",
+        "2.0",
+        "",
+        "",
+        "",
+        "Performance: Dance, Acting, Recital"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    5",
+        "",
+        "Dodge    5",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    5",
+        "",
+        "Auspex    9",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (No Wits)   5",
+        "",
+        "Presence    9",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.3"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Auspex x2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Presence x3",
+          "Pre Game",
+          "-9.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Haven x2",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "44"
+        ],
+        [
+          "Herd x1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Influence: Elite x2",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Influence: Underworld x1",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "7"
+        ],
+        [
+          "Contacts x1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Mental x2",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "1.166666667"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "34"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-03-25 00:00:00",
+          "",
+          "7.0"
+        ],
+        [
+          "INF Elite lvl 3 (Agape Church)",
+          "2017-04-25 00:00:00",
+          "",
+          "",
+          "3.0",
+          "*Needs Writeup"
+        ],
+        [
+          "Occult lvl 1",
+          "2017-04-25 00:00:00",
+          "",
+          "",
+          "1.0"
+        ],
+        [
+          "Awareness lvl 1",
+          "2017-04-25 00:00:00",
+          "",
+          "",
+          "1.0"
+        ],
+        [
+          "Computer lvl 2",
+          "2017-04-25 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-04-29 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-05-13 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Convention Game",
+          "2017-05-27 00:00:00",
+          "3.0",
+          "4.0"
+        ],
+        [
+          "inf: underworld lvl 2 (escorts)",
+          "2017-06-22 00:00:00",
+          "",
+          "",
+          "2.0",
+          "*diamond platinum services"
+        ],
+        [
+          "computer lvl 3",
+          "2017-06-22 00:00:00",
+          "",
+          "",
+          "3.0"
+        ],
+        [
+          "security lvl 2",
+          "2017-06-22 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-06-24 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Workshop - Camarilla Politics",
+          "2017-06-24 00:00:00",
+          "1.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-07-29 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "6 Game XP Bump",
+          "2017-07-29 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-08-28 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Occult 2",
+          "2017-09-20 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Lore 2 - Hunters",
+          "2017-09-20 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Presence 4",
+          "2017-09-20 00:00:00",
+          "",
+          "",
+          "12.0"
+        ],
+        [
+          "Computers 4",
+          "2017-09-20 00:00:00",
+          "",
+          "",
+          "4.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Auspex x2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Presence x3",
+          "date": "Pre Game",
+          "all_costs": -9,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Haven x2",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": 44
+        },
+        {
+          "what_was_bought": "Herd x1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Influence: Elite x2",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Influence: Underworld x1",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 7
+        },
+        {
+          "what_was_bought": "Contacts x1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Mental x2",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 1.166666667
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 34
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 10
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-03-25 00:00:00",
+          "column_4": 7
+        },
+        {
+          "what_was_bought": "INF Elite lvl 3 (Agape Church)",
+          "date": "2017-04-25 00:00:00",
+          "column_5": 3,
+          "starting_total_xp_left": "*Needs Writeup"
+        },
+        {
+          "what_was_bought": "Occult lvl 1",
+          "date": "2017-04-25 00:00:00",
+          "column_5": 1
+        },
+        {
+          "what_was_bought": "Awareness lvl 1",
+          "date": "2017-04-25 00:00:00",
+          "column_5": 1
+        },
+        {
+          "what_was_bought": "Computer lvl 2",
+          "date": "2017-04-25 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-04-29 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-05-13 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2017-05-27 00:00:00",
+          "all_costs": 3,
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "inf: underworld lvl 2 (escorts)",
+          "date": "2017-06-22 00:00:00",
+          "column_5": 2,
+          "starting_total_xp_left": "*diamond platinum services"
+        },
+        {
+          "what_was_bought": "computer lvl 3",
+          "date": "2017-06-22 00:00:00",
+          "column_5": 3
+        },
+        {
+          "what_was_bought": "security lvl 2",
+          "date": "2017-06-22 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-06-24 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Workshop - Camarilla Politics",
+          "date": "2017-06-24 00:00:00",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-07-29 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "6 Game XP Bump",
+          "date": "2017-07-29 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-08-28 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Occult 2",
+          "date": "2017-09-20 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Lore 2 - Hunters",
+          "date": "2017-09-20 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Presence 4",
+          "date": "2017-09-20 00:00:00",
+          "column_5": 12
+        },
+        {
+          "what_was_bought": "Computers 4",
+          "date": "2017-09-20 00:00:00",
+          "column_5": 4
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Patricidal Toreador",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "RJ"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "You had everything going for you. Fresh out of art school, you had gotten lucky already with having your work shown in galleries. Just small ones, but you were being courted by several agents who promised you bigger and better things to come. You went to classy gallery openings, decadent dinner parties and galas large and small in between furthering your craft. You were on top of the world. And then your world came crashing down when one of your favorite patrons revealed themselves as a vampire of the Toreador. She asked you specifically if you wanted the Embrace, and you said yes. It's only in retrospect, after learning about the Blood Bond, that you realize how your sire tricked you. This life, this unlife, is the opposite of what you want. You hate feeling dead inside, you hate not being able to see the sun, you hate the hypocrisy of vampire culture. The only thing that drives you now is a desire for revenge. You want your sire dead. And, ideally, the Prince who allowed your Embrace. But you're smart enough to know that's not a thing to speak of openly. So you've moved, just a city away from your sire, with the intention of becoming powerful enough in your own right, of playing the political game, to the point where you'll be able to kill your sire (or have her killed)."
+        ],
+        [
+          "Sire:",
+          "Therese Marten",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Toreador - Entranced by Art"
+        ],
+        [
+          "Embrace Date:",
+          "1979.0",
+          "Embrace Location:",
+          "Riverside, CA",
+          "",
+          "Generation",
+          "Neonate 11"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Therese Marten (Toreador) (NPC)",
+          "Your sire. You don't think she knows how much you hate her. You stay in contact just enough to keep tabs on her. She thinks you're moving to Los Angeles to help her, which means you'll have to kick her information or other resources from time to time. But you can ask for the same in return."
+        ],
+        [
+          "Lupo Salamanca (Brujah) (Brodie Aberson)",
+          "The Scourge of Los Angeles. You've heard he's a scrapper and always up for a fight. Cultivate him as either a teacher or an ally to help you with what you want."
+        ],
+        [
+          "Cohn Rose (Tremere) (Gerard Gully)",
+          "A political Tremere, he's good at what he does. Another good ally to cultivate and help you figure out how to use the system to get what you want."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Killing another vampire is a big deal. You'll need to petition for Right of Destruction, which means either framing your sire for breaking a Tradition or getting a big enough favor from someone powerful enough to let you get away with it."
+        ],
+        [
+          "Of course, once you have achieved that goal, you'll need some way to bring your sire down. Learn to fight, or cultivate violent allies, who can help you when the night comes."
+        ],
+        [
+          "Find some way to cope with what you've become. The neonates of Riverside were no help to you, just thrilled that they were finally Superheroes With Fangs. Maybe someone in Los Angeles can help you through this."
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Patricidal Toreador",
+          "created_by": "RJ"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "You had everything going for you. Fresh out of art school, you had gotten lucky already with having your work shown in galleries. Just small ones, but you were being courted by several agents who promised you bigger and better things to come. You went to classy gallery openings, decadent dinner parties and galas large and small in between furthering your craft. You were on top of the world. And then your world came crashing down when one of your favorite patrons revealed themselves as a vampire of the Toreador. She asked you specifically if you wanted the Embrace, and you said yes. It's only in retrospect, after learning about the Blood Bond, that you realize how your sire tricked you. This life, this unlife, is the opposite of what you want. You hate feeling dead inside, you hate not being able to see the sun, you hate the hypocrisy of vampire culture. The only thing that drives you now is a desire for revenge. You want your sire dead. And, ideally, the Prince who allowed your Embrace. But you're smart enough to know that's not a thing to speak of openly. So you've moved, just a city away from your sire, with the intention of becoming powerful enough in your own right, of playing the political game, to the point where you'll be able to kill your sire (or have her killed)."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Therese Marten",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Toreador - Entranced by Art"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1979,
+          "column_3": "Embrace Location:",
+          "column_4": "Riverside, CA",
+          "column_6": "Generation",
+          "column_7": "Neonate 11"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Therese Marten (Toreador) (NPC)",
+          "column_2": "Your sire. You don't think she knows how much you hate her. You stay in contact just enough to keep tabs on her. She thinks you're moving to Los Angeles to help her, which means you'll have to kick her information or other resources from time to time. But you can ask for the same in return."
+        },
+        {
+          "staff_generated_concept": "Lupo Salamanca (Brujah) (Brodie Aberson)",
+          "column_2": "The Scourge of Los Angeles. You've heard he's a scrapper and always up for a fight. Cultivate him as either a teacher or an ally to help you with what you want."
+        },
+        {
+          "staff_generated_concept": "Cohn Rose (Tremere) (Gerard Gully)",
+          "column_2": "A political Tremere, he's good at what he does. Another good ally to cultivate and help you figure out how to use the system to get what you want."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Killing another vampire is a big deal. You'll need to petition for Right of Destruction, which means either framing your sire for breaking a Tradition or getting a big enough favor from someone powerful enough to let you get away with it."
+        },
+        {
+          "staff_generated_concept": "Of course, once you have achieved that goal, you'll need some way to bring your sire down. Learn to fight, or cultivate violent allies, who can help you when the night comes."
+        },
+        {
+          "staff_generated_concept": "Find some way to cope with what you've become. The neonates of Riverside were no help to you, just thrilled that they were finally Superheroes With Fangs. Maybe someone in Los Angeles can help you through this."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "1",
+          "",
+          "1",
+          "Type of Background",
+          "INF - ELITE",
+          "",
+          "",
+          "",
+          "Type of NPC",
+          "Contact"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC",
+          "SAG-AFTRA"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "1",
+          "0",
+          "",
+          "1 - Art Galleries",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "0",
+          "1",
+          "",
+          "2 - Philanthropists",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "2",
+          "0",
+          "",
+          "3 - AGAPE Church, Culver City",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "3",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "2",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "2",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "3",
+          "0",
+          "",
+          "Type of Background",
+          "INF - Underworld",
+          "",
+          "",
+          "",
+          "Type of NPC",
+          "Retainer"
+        ],
+        [
+          "",
+          "Ritae",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level",
+          "3.0"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1- Meth Cooks",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "Primary Haven",
+          "",
+          "",
+          "2 -Diamond Platinum Services",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "1223 W 81st Pl, Los Angeles, CA 90044",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "Guards",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "Location",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "Security*",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 1,
+          "column_5": 1,
+          "background_expantions_1": "Type of Background",
+          "column_7": "INF - ELITE",
+          "background_npc_1": "Type of NPC",
+          "column_12": "Contact"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC",
+          "column_12": "SAG-AFTRA"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": "1 - Art Galleries",
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 0,
+          "column_4": 1,
+          "background_expantions_1": "2 - Philanthropists",
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 2,
+          "column_4": 0,
+          "background_expantions_1": "3 - AGAPE Church, Culver City",
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 3,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 2,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 2,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 3,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "column_7": "INF - Underworld",
+          "background_npc_1": "Type of NPC",
+          "column_12": "Retainer"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level",
+          "column_12": 3
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": "1- Meth Cooks",
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "column_3": "Primary Haven",
+          "background_expantions_1": "2 -Diamond Platinum Services",
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "column_3": "1223 W 81st Pl, Los Angeles, CA 90044",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "column_3": "Guards",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "column_3": "Location",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "column_3": "Security*",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "4",
+          "Computer Downtimes",
+          "4",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ],
+        [
+          "2017/04/15 6:46:00 PM MDT",
+          "cyterrin@gmail.com",
+          "Norris Michaud",
+          "Toreador",
+          "Cy Terrin",
+          "Herd (of my own) (no downtimes)",
+          "None",
+          "Hollywood (Camarilla)",
+          "",
+          "West Los Angeles (Camarilla)",
+          "evaluate the martial integrity of Hollywood",
+          "None",
+          "2 General Downtime action using Crafting skill to raise Resources level by 1",
+          "Level 2 - Defend West LA",
+          "Level 1 - Defend West LA",
+          "None",
+          "None",
+          "1 Computer Downtime action to Investigate the current plot",
+          "None",
+          "None",
+          "No",
+          "None",
+          "No",
+          "Influence \"Elite\": +1 dot (influence in Agape Church) (new level = 3)\n Skill (Computer): +1 dot (new level = 2)\n Skill (Occult): +1 dot (new level = 1)\n Skill (Awareness): +1 dot (new level = 1)",
+          "Background (Influence \"Elite\"): New Level (3) x1 = 3\n Skill (Computer): New Level (2) x1 = 2\n Skill (Occult): New Level (1) x1 = 1\n Skill (Awareness): New Level (1) x1 = 1",
+          "None"
+        ],
+        [
+          "2017-09-19 02:26:14.685000",
+          "cyterrin@gmail.com",
+          "CyTerrin",
+          "Norris Michaud",
+          "Toreador",
+          "Personal herd use (1 Herd)",
+          "Ability - Computer/science/ect that this is giving me a downtime.",
+          "finalize securing communication channels for all Los angeles Toreador",
+          "I am spending a DT",
+          "use Craft skill to create artistic photographs of the night food market in Downtown LA and call it \"through the predator's eyes\" (which shows a shot of food and human in juxtaposition) printed in extra large format",
+          "I am spending a DT",
+          "Use Craft skill to sell artistic photo in extra format called \"through the predator's eyes\" (temporality raises resource level to 3) up $20,000 in liquid cash??",
+          "I am spending a DT",
+          "Procure two (2) \"rugged\" & \"concealable\" protective armor \nhttp://www.bulletblocker.com/bulletblocker-nij-iiia-bulletproof-brown-plaid-wool-sportscoat.html",
+          "Background - I am using a background to start or modify an action.",
+          "Using one (1) underworld influence to procure a \"Superior\" & \"Customized\" high end laptop computer for defending against virtual intruders & hacking -similar to a GETAC X500",
+          "Background - I am using a background to start or modify an action.",
+          "use four (4) remaining influences to Defend South-East Los Angeles",
+          "Skill [Occult]:+1 dot - new level (2) x1 = 2xp\nSkill [Lore]:+1 dot - new level (2) x1 = 2xp  [Hunters]\nTotal XP spend = 4 xp",
+          "it appears that my character sheet is out of date.... and some of the calculations of xp spend is off."
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "4": "Hunting Actions",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        },
+        {
+          "0": "Hollywood (Camarilla)",
+          "4": "Herd (of my own) (no downtimes)",
+          "genaral_towntimes": "2017/04/15 6:46:00 PM MDT",
+          "3_0": "cyterrin@gmail.com",
+          "influnce_downtimes": "Norris Michaud",
+          "computer_downtimes": "Cy Terrin",
+          "science_downtimes": "None",
+          "column_10": "West Los Angeles (Camarilla)",
+          "column_11": "evaluate the martial integrity of Hollywood",
+          "column_12": "None",
+          "column_13": "2 General Downtime action using Crafting skill to raise Resources level by 1",
+          "column_14": "Level 2 - Defend West LA",
+          "column_15": "Level 1 - Defend West LA",
+          "column_16": "None",
+          "column_17": "None",
+          "column_18": "1 Computer Downtime action to Investigate the current plot",
+          "column_19": "None",
+          "column_20": "None",
+          "column_21": "No",
+          "column_22": "None",
+          "column_23": "No",
+          "column_24": "Influence \"Elite\": +1 dot (influence in Agape Church) (new level = 3)\n Skill (Computer): +1 dot (new level = 2)\n Skill (Occult): +1 dot (new level = 1)\n Skill (Awareness): +1 dot (new level = 1)",
+          "column_25": "Background (Influence \"Elite\"): New Level (3) x1 = 3\n Skill (Computer): New Level (2) x1 = 2\n Skill (Occult): New Level (1) x1 = 1\n Skill (Awareness): New Level (1) x1 = 1",
+          "column_26": "None"
+        },
+        {
+          "0": "finalize securing communication channels for all Los angeles Toreador",
+          "4": "Personal herd use (1 Herd)",
+          "genaral_towntimes": "2017-09-19 02:26:14.685000",
+          "3_0": "cyterrin@gmail.com",
+          "influnce_downtimes": "CyTerrin",
+          "computer_downtimes": "Toreador",
+          "science_downtimes": "Ability - Computer/science/ect that this is giving me a downtime.",
+          "column_9": "I am spending a DT",
+          "column_10": "use Craft skill to create artistic photographs of the night food market in Downtown LA and call it \"through the predator's eyes\" (which shows a shot of food and human in juxtaposition) printed in extra large format",
+          "column_11": "I am spending a DT",
+          "column_12": "Use Craft skill to sell artistic photo in extra format called \"through the predator's eyes\" (temporality raises resource level to 3) up $20,000 in liquid cash??",
+          "column_13": "I am spending a DT",
+          "column_14": "Procure two (2) \"rugged\" & \"concealable\" protective armor \nhttp://www.bulletblocker.com/bulletblocker-nij-iiia-bulletproof-brown-plaid-wool-sportscoat.html",
+          "column_15": "Background - I am using a background to start or modify an action.",
+          "column_16": "Using one (1) underworld influence to procure a \"Superior\" & \"Customized\" high end laptop computer for defending against virtual intruders & hacking -similar to a GETAC X500",
+          "column_17": "Background - I am using a background to start or modify an action.",
+          "column_18": "use four (4) remaining influences to Defend South-East Los Angeles",
+          "column_19": "Skill [Occult]:+1 dot - new level (2) x1 = 2xp\nSkill [Lore]:+1 dot - new level (2) x1 = 2xp  [Hunters]\nTotal XP spend = 4 xp",
+          "column_20": "it appears that my character sheet is out of date.... and some of the calculations of xp spend is off."
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1896 @@
+{
+  "source": {
+    "title": "Copy of Dante Sandoval (Tremere) (V.3.5.4)",
+    "fileName": "Copy of Dante Sandoval (Tremere) (V.3.5.4).xlsx",
+    "localPath": "source-sheets\\Drive V.3.5.4 Search\\Copy of Dante Sandoval (Tremere) (V.3.5.4).xlsx"
+  },
+  "folderPath": [
+    "Drive V.3.5.4 Search"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CHRONICLE",
+    "characterName": "Dante Sandoval",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Khaldoun Khelil",
+    "archetype": "Free Spirit",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla 9",
+    "clan": "Tremere - Easily Bound"
+  },
+  "attributes": {
+    "physical": 3,
+    "social": 5,
+    "mental": 7
+  },
+  "backgrounds": {
+    "generation": 2,
+    "allies": 4
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "academics": 1,
+    "streetwise": 1,
+    "investigation": 2,
+    "awareness": 1,
+    "linguistics": 3,
+    "lore": 3,
+    "dodge": 2,
+    "occult": 4,
+    "drive": 1,
+    "science": 2
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Talisman -3",
+    "Thaumaturgic Expertise -1",
+    "Daredevil -2"
+  ],
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "value": 0
+    },
+    {
+      "name": "Dominate",
+      "value": 0
+    },
+    {
+      "name": "Thaumaturgy: Path of Blood (C)",
+      "value": 3
+    }
+  ],
+  "ritualsRitaeOther": [
+    "Rite of Introduction - 1",
+    "Burning Blade - 2",
+    "Flesh of Fiery Touch -3"
+  ],
+  "abilitySpecializations": [
+    "Linguistics: English, Enochian,",
+    "Greek, Latin",
+    "Lore: Mage Traditions, True Magic,",
+    "Death"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CHRONICLE",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "45"
+      ],
+      [
+        "",
+        "Dante Sandoval",
+        "",
+        "",
+        "",
+        "Khaldoun Khelil",
+        "",
+        "",
+        "Generation",
+        "2.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "4.0",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Free Spirit",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 12*2"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts / Fame",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Ancilla 9",
+        "",
+        "Tremere - Easily Bound",
+        "",
+        "",
+        "",
+        "",
+        "Mentor / Herd",
+        "",
+        "1.0",
+        "",
+        "Allies: Mage [Determine Tradition w/CC]"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "Physical",
+        "3.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Charisma - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources"
+      ],
+      [
+        "",
+        "Mental",
+        "7.0",
+        "Perception - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Ritae"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Talisman -3",
+        "",
+        "",
+        "",
+        "Auspex",
+        "0.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgic Expertise -1",
+        "",
+        "",
+        "",
+        "Dominate",
+        "0.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Daredevil -2",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Path of Blood (C)",
+        "3.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Lure of Flames (C)",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Intimidation",
+        "",
+        "Streetwise",
+        "1.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "2.0",
+        "Subterfuge"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "Survival",
+        "",
+        "",
+        "Dark Secret +1"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Linguistics",
+        "3.0",
+        "Performance",
+        "",
+        "",
+        "Mage Blood +5"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "3.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "",
+        "",
+        "",
+        "",
+        "Linguistics: English, Enochian,",
+        "",
+        "",
+        "",
+        "Rite of Introduction - 1"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Greek, Latin",
+        "",
+        "",
+        "",
+        "Burning Blade - 2"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "4.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Flesh of Fiery Touch -3"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Science",
+        "2.0",
+        "",
+        "",
+        "",
+        "Lore: Mage Traditions, True Magic,"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "",
+        "",
+        "",
+        "",
+        "Death"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Science: Physics, Chemistry"
+      ],
+      [
+        "",
+        "Brawl    3",
+        "",
+        "Dodge    5",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    3",
+        "",
+        "Thaumaturgy +Tals   13",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "",
+        "Academics: Theology"
+      ],
+      [
+        "",
+        "Guns (No Wits)   3",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.3"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "1"
+        ],
+        [
+          "Mage Blood",
+          "Pre Game",
+          "5.0"
+        ],
+        [
+          "Talisman",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Thaumaturgic Expertise",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Daredevil",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Rite of Introduction",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Thaum: Lure of Flames x1, x2",
+          "Pre Game",
+          "-9.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Burning Blade",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Flesh of Fiery Touch",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Allies x4",
+          "Pre Game",
+          "-8.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Dark Secret",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 1
+        },
+        {
+          "what_was_bought": "Mage Blood",
+          "date": "Pre Game",
+          "all_costs": 5
+        },
+        {
+          "what_was_bought": "Talisman",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Thaumaturgic Expertise",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Daredevil",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Rite of Introduction",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Thaum: Lure of Flames x1, x2",
+          "date": "Pre Game",
+          "all_costs": -9,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Burning Blade",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Flesh of Fiery Touch",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Allies x4",
+          "date": "Pre Game",
+          "all_costs": -8,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Dark Secret",
+          "date": "Pre Game",
+          "all_costs": 1
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "2",
+          "",
+          "2",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "4",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "0",
+          "1",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "0",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "0",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "0",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "0",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 2,
+          "column_5": 2,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 4,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 0,
+          "column_4": 1,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 0,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 0,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Euthantos Embracee, you have tried to connect with the tremere highericy but can't your self destructive nature has had you move to the war front. Maybe you will find a sense of conection in the war. (Source: Mage)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "POS/RJ"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "You grew up on the frontier, the child of an undertaker and a midwife. When death came to your tiny town, you would help your father embalm and dress the dead. And when life came, you would take your mother to the homes of birthing women. And though you were never allowed in the room itself, you learned how to be helpful in other ways, and always enjoyed hearing a baby cry out its first breath. The juxtaposition left an impression on your young mind. New babies and old men had the same squished, wrinkly faces. People cried at birth, and at death. As for you, you went into the seminary as a young boy, your mind fixed on these topics. But it wasn't until you were thrown from a train that you really felt death, and in that moment, you Awakened. The Euthanatos were a natural fit for someone with your inclinations, and you happily joined them, taking to their philosophy like a fish to water. But then the unthinkable happened. Some Tremere asshole thought you'd be perfect for the War Effort, and brought you over into the clan. You raged for several years, your superiors content to let you have your tantrum as long as they were allowed to study your mage blood. However, with your Avatar replaced by a Beast, you lost the tranquil peace you had found as a Euthanatos. Your resolve and fatalism became a love of chaos and destruction. You still try to hold to the ethics of your former order, though you often find this pushes you more into the 'death' sphere than the 'life' or 'rebirth' ones. As a result, your superiors aren't sure what to do with your destructive tendencies. Unwilling (yet) to end a valuable asset, they're sending you to LA where they hope you can be of use to the war effort."
+        ],
+        [
+          "Sire:",
+          "Geraldine",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Tremere - Easily Bound"
+        ],
+        [
+          "Embrace Date:",
+          "1914.0",
+          "Embrace Location:",
+          "London",
+          "",
+          "Generation",
+          "Ancilla 9"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Cody West (Assamite)",
+          "You were always interested in the Assamites, the clan of Assassins, but could never get close to them until recently. Now that they're in the Camarilla, you're interested in talking to them about death and undeath. Cody is the name you keep hearing."
+        ],
+        [
+          "Susan Grimm (Brujah)",
+          "A Brujah chemist with her own chemistry lab? What's not to like?"
+        ],
+        [
+          "Alistair Ross (Toreador)",
+          "You've heard rumors that he's been involved in explosions and he might be useful as an ally."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "You know that you are running out the patience of your superiors. You try, but you just can't make it work with the hierarchy. Do what you can to make Los Angeles work for you (you've heard they're lax with rules)"
+        ],
+        [
+          "You have a secret friend, someone who still has their Avatar. Cultivate that relationship, it could be valuable."
+        ],
+        [
+          "You have figured out that the clan keeps alive those who are useful. Perhaps you can translate your knowledge of Euthanatos magic into a new ritual or even Path?"
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Euthantos Embracee, you have tried to connect with the tremere highericy but can't your self destructive nature has had you move to the war front. Maybe you will find a sense of conection in the war. (Source: Mage)",
+          "created_by": "POS/RJ"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "You grew up on the frontier, the child of an undertaker and a midwife. When death came to your tiny town, you would help your father embalm and dress the dead. And when life came, you would take your mother to the homes of birthing women. And though you were never allowed in the room itself, you learned how to be helpful in other ways, and always enjoyed hearing a baby cry out its first breath. The juxtaposition left an impression on your young mind. New babies and old men had the same squished, wrinkly faces. People cried at birth, and at death. As for you, you went into the seminary as a young boy, your mind fixed on these topics. But it wasn't until you were thrown from a train that you really felt death, and in that moment, you Awakened. The Euthanatos were a natural fit for someone with your inclinations, and you happily joined them, taking to their philosophy like a fish to water. But then the unthinkable happened. Some Tremere asshole thought you'd be perfect for the War Effort, and brought you over into the clan. You raged for several years, your superiors content to let you have your tantrum as long as they were allowed to study your mage blood. However, with your Avatar replaced by a Beast, you lost the tranquil peace you had found as a Euthanatos. Your resolve and fatalism became a love of chaos and destruction. You still try to hold to the ethics of your former order, though you often find this pushes you more into the 'death' sphere than the 'life' or 'rebirth' ones. As a result, your superiors aren't sure what to do with your destructive tendencies. Unwilling (yet) to end a valuable asset, they're sending you to LA where they hope you can be of use to the war effort."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Geraldine",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Tremere - Easily Bound"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1914,
+          "column_3": "Embrace Location:",
+          "column_4": "London",
+          "column_6": "Generation",
+          "column_7": "Ancilla 9"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Cody West (Assamite)",
+          "column_2": "You were always interested in the Assamites, the clan of Assassins, but could never get close to them until recently. Now that they're in the Camarilla, you're interested in talking to them about death and undeath. Cody is the name you keep hearing."
+        },
+        {
+          "staff_generated_concept": "Susan Grimm (Brujah)",
+          "column_2": "A Brujah chemist with her own chemistry lab? What's not to like?"
+        },
+        {
+          "staff_generated_concept": "Alistair Ross (Toreador)",
+          "column_2": "You've heard rumors that he's been involved in explosions and he might be useful as an ally."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "You know that you are running out the patience of your superiors. You try, but you just can't make it work with the hierarchy. Do what you can to make Los Angeles work for you (you've heard they're lax with rules)"
+        },
+        {
+          "staff_generated_concept": "You have a secret friend, someone who still has their Avatar. Cultivate that relationship, it could be valuable."
+        },
+        {
+          "staff_generated_concept": "You have figured out that the clan keeps alive those who are useful. Perhaps you can translate your knowledge of Euthanatos magic into a new ritual or even Path?"
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "0",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "2"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Hunting Actions",
+          "2": "Investigation / Patrol Actions",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

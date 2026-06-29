@@ -1,0 +1,955 @@
+{
+  "source": {
+    "title": "Copy-of-Trece-Nicktuku-San-Diego-NPC",
+    "fileName": "Copy-of-Trece-Nicktuku-San-Diego-NPC.xlsx",
+    "localPath": "source-sheets\\AA Convention (San Diego) Venue\\(Old) May 2016\\Copy-of-Trece-Nicktuku-San-Diego-NPC.xlsx"
+  },
+  "folderPath": [
+    "AA Convention (San Diego) Venue",
+    "(Old) May 2016"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER ~ PILLARS OF SALT",
+    "characterName": "Trece",
+    "playerName": "NPC",
+    "gmailAccount": "",
+    "clanCoordinator": "Camarilla ~ SD",
+    "archetype": "Bully",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Master Elder 7",
+    "clan": "Nicktuku - Strenth for beauty"
+  },
+  "attributes": {
+    "physcial": 15,
+    "social": 3,
+    "mental": 8,
+    "animal_ken": 2,
+    "awareness": 1,
+    "brawl": 4,
+    "dodge": 3,
+    "starting_xp": -40,
+    "spent_xp": 0
+  },
+  "backgrounds": {
+    "generation": 4,
+    "haven": 1,
+    "retainers": 3
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_blood_points_per_turn": "30*5",
+    "current_humanity": 5
+  },
+  "abilities": {
+    "animal_ken": 2,
+    "firearms": 2,
+    "intimidation": 2,
+    "security": 1,
+    "awareness": 1,
+    "investigation": 1,
+    "stealth": 3,
+    "brawl": 4,
+    "linguistics": 1,
+    "dodge": 3,
+    "starting_xp": -40,
+    "unspent_xp": 0,
+    "spent_xp": 0
+  },
+  "status": [],
+  "meritsAndFlaws": [
+    "Unnatural Adaptation -4",
+    "Iron Will -3"
+  ],
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "value": 1
+    },
+    {
+      "name": "Celerity",
+      "value": 3
+    },
+    {
+      "name": "Potence",
+      "value": 4
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Languages: English, Spanish"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER ~ PILLARS OF SALT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Trece",
+        "",
+        "NPC",
+        "",
+        "Camarilla ~ SD",
+        "",
+        "",
+        "Generation",
+        "4.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn",
+        "30*5"
+      ],
+      [
+        "",
+        "Bully",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Politcal Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Master Elder 7",
+        "",
+        "Nicktuku - Strenth for beauty",
+        "",
+        "",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "Unnatural Adaptation: Gaping Maw (Can Bite w/o Grapple, drain 2 pts of Blood instead of 1). Iron Will: Gain free retest against Animalism, Auspex, Dominate.  Awkward Movement: 2 steps per action instead of 3. Magic Susceptibility: No retests vs Thaum or Necro"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "1.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "CLAN STATUS",
+        "",
+        "",
+        "Herd"
+      ],
+      [
+        "",
+        "Physcial",
+        "15.0",
+        "Strength",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Social",
+        "3.0",
+        "Manipulation",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Mental",
+        "8.0",
+        "Wits",
+        "",
+        "",
+        "",
+        "",
+        "Resources"
+      ],
+      [
+        "",
+        "Titles / Abiding / Innate Status",
+        "",
+        "Fleeting Status",
+        "",
+        "Negative Status",
+        "",
+        "",
+        "Retainers",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Unnatural Adaptation -4",
+        "",
+        "",
+        "",
+        "Auspex",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Iron Will -3",
+        "",
+        "",
+        "",
+        "Celerity",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Potence",
+        "4.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Empathy",
+        "",
+        "Occult",
+        "",
+        "",
+        "Failed Generation (less blood)",
+        "",
+        "",
+        "",
+        "Dominate",
+        "1.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "2.0",
+        "Firearms",
+        "2.0",
+        "Science",
+        "",
+        "",
+        "Magic Susceptibility +2"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Intimidation",
+        "2.0",
+        "Security",
+        "1.0"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Investigation",
+        "1.0",
+        "Stealth",
+        "3.0",
+        "",
+        "Awkward Movement +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "4.0",
+        "Leadership",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Linguistics",
+        "1.0",
+        "Subterfuge",
+        "",
+        "",
+        "Languages: English, Spanish"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "",
+        "Survival"
+      ],
+      [
+        "",
+        "Dodge",
+        "3.0",
+        "Medicine",
+        "",
+        "Performance"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee"
+      ],
+      [],
+      [],
+      [],
+      [
+        "",
+        "EXPERIENCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "-40",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.3"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "-40"
+        ],
+        [
+          "Celerity x3",
+          "Pre Game",
+          "-15.0"
+        ],
+        [
+          "Potence x4",
+          "Pre Game",
+          "-21.0",
+          "",
+          "",
+          "Game XP Total"
+        ],
+        [
+          "Physical Traits x3",
+          "Pre Game",
+          "-9.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Fortitude x2",
+          "Pre Game",
+          "-12.0"
+        ],
+        [
+          "Dominate x1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Mental Traits x3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "Game Earned XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": -40
+        },
+        {
+          "what_was_bought": "Celerity x3",
+          "date": "Pre Game",
+          "all_costs": -15
+        },
+        {
+          "what_was_bought": "Potence x4",
+          "date": "Pre Game",
+          "all_costs": -21,
+          "starting_total_xp_left": "Game XP Total"
+        },
+        {
+          "what_was_bought": "Physical Traits x3",
+          "date": "Pre Game",
+          "all_costs": -9,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Fortitude x2",
+          "date": "Pre Game",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Dominate x1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Mental Traits x3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:"
+        ],
+        [],
+        [
+          "Sire:",
+          "",
+          "Embrace Date:",
+          "",
+          "Embrace Location:"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "Sire:",
+          "created_by": "Embrace Date:",
+          "column_5": "Embrace Location:"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1003 @@
+{
+  "source": {
+    "title": "OLD-Milicent-Myles-Ducheski-Tremere",
+    "fileName": "OLD-Milicent-Myles-Ducheski-Tremere.xlsx",
+    "localPath": "source-sheets\\Tremere\\Old\\OLD-Milicent-Myles-Ducheski-Tremere.xlsx"
+  },
+  "folderPath": [
+    "Tremere",
+    "Old"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER ~ PILLARS OF SALT",
+    "characterName": "Anna Ducheski",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Camarilla ~ LA",
+    "archetype": "Loner",
+    "title": "Apprentice 1",
+    "characterStartDate": "2016-03-26 00:00:00",
+    "generationLabel": "Neonate 11",
+    "clan": "Tremere"
+  },
+  "attributes": {
+    "physcial": 5,
+    "social": 3,
+    "mental": 8,
+    "awareness": 1,
+    "starting_xp": -7,
+    "spent_xp": 0
+  },
+  "backgrounds": {
+    "generation": 1,
+    "haven": 3,
+    "herd": 2,
+    "retainers": 2
+  },
+  "currentPools": {},
+  "abilities": {
+    "occult": 4,
+    "science": 2,
+    "intimidation": 2,
+    "security": 1,
+    "awareness": 1,
+    "investigation": 3,
+    "leadership": 3,
+    "linguistics": 1,
+    "lore": 2,
+    "starting_xp": -7,
+    "unspent_xp": 0,
+    "spent_xp": 0,
+    "merit_points_spent": 5
+  },
+  "status": [],
+  "meritsAndFlaws": [
+    "Thaumaturgic Expertise -1",
+    "Natural Vicissitude -4"
+  ],
+  "disciplines": [
+    {
+      "name": "2.0",
+      "value": null
+    },
+    {
+      "name": "1.0",
+      "value": null
+    },
+    {
+      "name": "1.0",
+      "value": null
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Language: English, Enochian",
+    "Lore: Ducheski, Tremere"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER ~ PILLARS OF SALT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Anna Ducheski",
+        "",
+        "",
+        "",
+        "Camarilla ~ LA",
+        "",
+        "",
+        "Generation",
+        "1.0",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "Current Blood Points * Per Turn",
+        "10*1"
+      ],
+      [
+        "",
+        "Loner",
+        "",
+        "Apprentice 1",
+        "",
+        "2016-03-26 00:00:00",
+        "",
+        "",
+        "Alternitive Identity",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archtype",
+        "",
+        "Title / Politcal Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Neonate 11",
+        "",
+        "Tremere",
+        "",
+        "Easily Bound",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "Haven: Built by Bachmann- \nTraits: Size, Library, Occult,\nSecurity (Free)\n\nRetainer 2: Ducheski Revenant"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "Clan Flaw",
+        "",
+        "",
+        "Haven",
+        "3.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "CLAN STATUS",
+        "",
+        "",
+        "Herd",
+        "2.0"
+      ],
+      [
+        "",
+        "Physcial",
+        "5.0",
+        "Dexterity",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Social",
+        "3.0",
+        "NONE",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Mental",
+        "8.0",
+        "Perception",
+        "",
+        "",
+        "",
+        "",
+        "Resources"
+      ],
+      [
+        "",
+        "Titles / Abiding / Innate Status",
+        "",
+        "Fleeting Status",
+        "",
+        "Negative Status",
+        "",
+        "",
+        "Retainers",
+        "2.0"
+      ],
+      [
+        "",
+        "Accepted (Special)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgic Expertise -1",
+        "",
+        "",
+        "Auspex",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Natural Vicissitude -4",
+        "",
+        "",
+        "Vicissitude",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Path of Blood",
+        "1.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Path of Conjuring",
+        "3.0"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Empathy",
+        "",
+        "Occult",
+        "4.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "",
+        "Science",
+        "2.0",
+        "",
+        "Cloistered +2"
+      ],
+      [
+        "",
+        "Atheltics",
+        "",
+        "Intimidation",
+        "2.0",
+        "Security",
+        "1.0",
+        "",
+        "Stolen Potential +3"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Investigation",
+        "3.0",
+        "Stealth",
+        "",
+        "",
+        "Dull +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Leadership",
+        "3.0",
+        "Streetwise",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "RITUALS & OTHER POWERS"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Linguistics",
+        "1.0",
+        "Subterfuge",
+        "",
+        "",
+        "Language: English, Enochian",
+        "",
+        "",
+        "Rite of Introduction - 1"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "2.0",
+        "Survival",
+        "",
+        "",
+        "Lore: Ducheski, Tremere",
+        "",
+        "",
+        "Banish Big Brother -2"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Medicine",
+        "",
+        "Performance"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee"
+      ],
+      [],
+      [
+        "",
+        "EXPERIENCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "-7",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent",
+        "5.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.2"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Merit: Thaumaturgic Expertise (Path of Conjuring)",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Merit: Natural Vicissitude",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Discipline: Path of Conjuring 1",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Discipline: Path of Conjuring 2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Discipline: Path of Conjuring 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Background: Retainer 1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Background: Retainer 2",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Ritual: Rite of Introduction",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Ritual: Banish Big Brother",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Attribute: Mental (to 8)",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Ability: Lore 2 (Tremere Lore)",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Flaw: Dull",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Flaw: Stolen Potential",
+          "Pre Game",
+          "3.0"
+        ],
+        [
+          "Flaw: Cloistered",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Game Earned XP"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-03-26 00:00:00",
+          "3.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Merit: Thaumaturgic Expertise (Path of Conjuring)",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Merit: Natural Vicissitude",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Discipline: Path of Conjuring 1",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Discipline: Path of Conjuring 2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Discipline: Path of Conjuring 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Background: Retainer 1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Background: Retainer 2",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Ritual: Rite of Introduction",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Ritual: Banish Big Brother",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Attribute: Mental (to 8)",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Ability: Lore 2 (Tremere Lore)",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Flaw: Dull",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Flaw: Stolen Potential",
+          "date": "Pre Game",
+          "all_costs": 3
+        },
+        {
+          "what_was_bought": "Flaw: Cloistered",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-03-26 00:00:00",
+          "all_costs": 3
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:"
+        ],
+        [
+          "You have been a dutiful Revenant to Justicar di Zagreb for decades.  You have served him faithfully.  You would always get him whatever he needs, and be ready for anything he might ask of you.  But\nyou never left his side when he had to travel abroad.  You've never felt comfortable around anyone outside of the Chantries of Clan Tremere, though.  A few months ago, after nearly 50 years of dutiful \nservice, di Zagreb rewarded you with the embrace of one of his childer.  You feel honored about this, but now you know the responsibilities are greater, knowing any misstep can cause harm to you and to\nyour Masters.  Maybe keeping your head down and doing your job is rewarding, but it's time to try out those new opportunities given to you.  You may not be best suited for social situations, but Tremere\ncannot succeed if they don't try."
+        ],
+        [
+          "Sire:",
+          "",
+          "Embrace Date:",
+          "2015.0",
+          "Embrace Location:",
+          "Vienna"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Anthony Bachmann (Nosferatu) - He helped build you a strong and beautiful Manse for fellow Ducheski Revenants.  He has always treated you well."
+        ],
+        [
+          "Archon Bey (Tremere) - Before you worked for Zagreb you worked for him. He handed you off as a show of respect. Bey is more powerful then Zagreb but for some reason submits to him."
+        ],
+        [
+          "Judith de Leon (Toreador) - You've handled much of her work that has come through di Zagreb. She has been very polite to you."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Find out if there are other Ducheski Revenants in Los Angeles, and if they're being taken care of well."
+        ],
+        [
+          "Attend to di Zagreb's work, and make sure his business goes smoothly in Los Angeles."
+        ],
+        [
+          "See if there are options of moving to Los Angeles permanently. I like and respect my work with di Zagreb, but a change of scenery may be good for me."
+        ],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "You have been a dutiful Revenant to Justicar di Zagreb for decades.  You have served him faithfully.  You would always get him whatever he needs, and be ready for anything he might ask of you.  But\nyou never left his side when he had to travel abroad.  You've never felt comfortable around anyone outside of the Chantries of Clan Tremere, though.  A few months ago, after nearly 50 years of dutiful \nservice, di Zagreb rewarded you with the embrace of one of his childer.  You feel honored about this, but now you know the responsibilities are greater, knowing any misstep can cause harm to you and to\nyour Masters.  Maybe keeping your head down and doing your job is rewarding, but it's time to try out those new opportunities given to you.  You may not be best suited for social situations, but Tremere\ncannot succeed if they don't try."
+        },
+        {
+          "staff_generated_history": "Sire:",
+          "created_by": "Embrace Date:",
+          "column_4": 2015,
+          "column_5": "Embrace Location:",
+          "column_6": "Vienna"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Anthony Bachmann (Nosferatu) - He helped build you a strong and beautiful Manse for fellow Ducheski Revenants.  He has always treated you well."
+        },
+        {
+          "staff_generated_history": "Archon Bey (Tremere) - Before you worked for Zagreb you worked for him. He handed you off as a show of respect. Bey is more powerful then Zagreb but for some reason submits to him."
+        },
+        {
+          "staff_generated_history": "Judith de Leon (Toreador) - You've handled much of her work that has come through di Zagreb. She has been very polite to you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Find out if there are other Ducheski Revenants in Los Angeles, and if they're being taken care of well."
+        },
+        {
+          "staff_generated_history": "Attend to di Zagreb's work, and make sure his business goes smoothly in Los Angeles."
+        },
+        {
+          "staff_generated_history": "See if there are options of moving to Los Angeles permanently. I like and respect my work with di Zagreb, but a change of scenery may be good for me."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

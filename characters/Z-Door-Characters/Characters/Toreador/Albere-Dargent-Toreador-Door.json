@@ -1,0 +1,1230 @@
+{
+  "source": {
+    "title": "Albere-Dargent-Toreador-Door",
+    "fileName": "Albere-Dargent-Toreador-Door.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Toreador\\Albere-Dargent-Toreador-Door.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters",
+    "Characters",
+    "Toreador"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "Albere D'argent",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Laura Bishop",
+    "archetype": "Cultured",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla 9",
+    "clan": "Toreador - Entranced by Art"
+  },
+  "attributes": {
+    "physical": 6,
+    "social": 8,
+    "mental": 3
+  },
+  "backgrounds": {
+    "generation": 2,
+    "influence_elite": 3,
+    "retainers": 1
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "academics": 2,
+    "investigation": 2,
+    "leadership": 4,
+    "linguistics": 1,
+    "etiquette": 1,
+    "crafts": 3,
+    "dodge": 2,
+    "science": 1,
+    "empathy": 1,
+    "firearms": 3
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Absent Sway -3",
+    "Artist’s Blessing -1",
+    "Personal Masquerade -1"
+  ],
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "value": 1
+    },
+    {
+      "name": "Celerity",
+      "value": 3
+    },
+    {
+      "name": "Presence",
+      "value": 3
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Crafts: Cooking, Presentation",
+    "Dessertier",
+    "Academics: Haute Culture, Chodolate",
+    "Science: Chemistry",
+    "Language: French"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CAMARILLA: LA",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "50"
+      ],
+      [
+        "",
+        "Albere D'argent",
+        "",
+        "",
+        "",
+        "Laura Bishop",
+        "",
+        "",
+        "Generation",
+        "2.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Cultured",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 12*2"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Ancilla 9",
+        "",
+        "Toreador - Entranced by Art",
+        "",
+        "",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "",
+        "Artist's Blessing (Crafts)"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd",
+        "",
+        "",
+        "",
+        "Prey Exclusion: (Children)"
+      ],
+      [
+        "",
+        "Physical",
+        "6.0",
+        "Dexterity - (Burst of Speed, Disarm, Fighting Blind, or Quick Draw)",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\"",
+        "3.0"
+      ],
+      [
+        "",
+        "Social",
+        "8.0",
+        "Appearance - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\"",
+        "",
+        "",
+        "",
+        "Influence Elite: Fancy Hotels, Celebrities,  Five Star Restaurants"
+      ],
+      [
+        "",
+        "Mental",
+        "3.0",
+        "Perception - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Retainers",
+        "1.0",
+        "",
+        "",
+        "Retainer:  Amanda NPC 1, Presence 1"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "Confirmed (Ancilla)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Absent Sway -3",
+        "",
+        "",
+        "",
+        "Auspex",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Artist’s Blessing -1",
+        "",
+        "",
+        "",
+        "Celerity",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Personal Masquerade -1",
+        "",
+        "",
+        "",
+        "Presence",
+        "3.0"
+      ],
+      [
+        "",
+        "ABILITES"
+      ],
+      [
+        "",
+        "Academics",
+        "2.0",
+        "Intimidation",
+        "",
+        "Streetwise"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "2.0",
+        "Subterfuge",
+        "",
+        "",
+        "Curiosity +2"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "4.0",
+        "Survival",
+        "",
+        "",
+        "Deep Sleeper  +2"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "1.0",
+        "Performance",
+        "",
+        "",
+        "Prey Exclusion +1"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "",
+        "Etiquette",
+        "1.0",
+        "",
+        "Crafts: Cooking, Presentation"
+      ],
+      [
+        "",
+        "Crafts",
+        "3.0",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Dessertier"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "",
+        "",
+        "",
+        "",
+        "Academics: Haute Culture, Chodolate"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science",
+        "1.0",
+        "",
+        "",
+        "",
+        "Science: Chemistry"
+      ],
+      [
+        "",
+        "Empathy",
+        "1.0",
+        "Security",
+        "",
+        "",
+        "",
+        "",
+        "Language: French"
+      ],
+      [
+        "",
+        "Firearms",
+        "3.0",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    6",
+        "",
+        "Dodge (Dex/Cel2)    10 +5ES",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    6",
+        "",
+        "Auspex    5",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (Cel2/No Wits)   9 +5ES",
+        "",
+        "Presence    12",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.1"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Absent Sway 3",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Artist's blessing 1",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "personal masquerade 1",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Celerity 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Presence 2",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Presence 3",
+          "Pre Game",
+          "-9.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Physical 6",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Social 8",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "Curiousity 2",
+          "Pre Game",
+          "2.0",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "Deep Sleeper 2",
+          "Pre Game",
+          "2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Prey exclusion 1",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Absent Sway 3",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Artist's blessing 1",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "personal masquerade 1",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Celerity 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Presence 2",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Presence 3",
+          "date": "Pre Game",
+          "all_costs": -9,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Physical 6",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Social 8",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "Curiousity 2",
+          "date": "Pre Game",
+          "all_costs": 2,
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "what_was_bought": "Deep Sleeper 2",
+          "date": "Pre Game",
+          "all_costs": 2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Prey exclusion 1",
+          "date": "Pre Game",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "KK"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "You were a master chocolatier in Paris. In 1809 it was only the money and patronage of an influential woman that drew you to Marsielle.  Marie L'Enfant would enslave you for a century, as her ghoul you were treated creully and produced soem of your finest creations.  It was doubly cruel that your art would rot on the table as the vapid vampires gossipped and cavorted in pools of their own blood.  You hoped your embrace would free you, but your sire was able to use your affection for another ghoul, Amanda, to keep you in line.  It wasn't until 2003 that you and Amanda weere able to escape to America, you're certain that the power of your love broke Amanda's blood bond.  Now in Los Angeles, you must make a new life with each other.  You keep Amanda away from court but feed her your blood to keep her young.  Your love is true and you're glad that she hasn't fallen prey to the slavish feelings created by the blood bound.  Instead you find yourself doing whatever you can to see to her needs with money and lavish gifts. But still she's often unhappy and when she gets into her moods you sufffer, she never really hurts you beyond your ability to heal of course, but you know you must do better."
+        ],
+        [
+          "Sire:",
+          "Maire L'Enfant",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Toreador - Entranced by Art"
+        ],
+        [
+          "Embrace Date:",
+          "1902.0",
+          "Embrace Location:",
+          "Marseille, France",
+          "",
+          "Generation",
+          "Ancilla 9"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Helen Jaeger",
+          "The Toreador Primogen.  A Rare beauty"
+        ],
+        [
+          "Marie Alvarado",
+          "A Toreador elder with a taste for the finer things"
+        ],
+        [
+          "Marcus Jonak",
+          "A Toreador movie producer, he knows everyone"
+        ],
+        [
+          "April",
+          "The Ventrue Harpy.  She is known throw lavish parties"
+        ],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Perfect your craft.  Just becasue your dead doesn't mean you ave to stop living!"
+        ],
+        [
+          "Find away to incorporate blood in your cooking"
+        ],
+        [
+          "Reconnect with your French culture.  All this time in America has dulled your apprecaition of the finer things"
+        ],
+        [
+          "Keep other vampires away from Amanda and do what you can to please her."
+        ],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "created_by": "KK"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "You were a master chocolatier in Paris. In 1809 it was only the money and patronage of an influential woman that drew you to Marsielle.  Marie L'Enfant would enslave you for a century, as her ghoul you were treated creully and produced soem of your finest creations.  It was doubly cruel that your art would rot on the table as the vapid vampires gossipped and cavorted in pools of their own blood.  You hoped your embrace would free you, but your sire was able to use your affection for another ghoul, Amanda, to keep you in line.  It wasn't until 2003 that you and Amanda weere able to escape to America, you're certain that the power of your love broke Amanda's blood bond.  Now in Los Angeles, you must make a new life with each other.  You keep Amanda away from court but feed her your blood to keep her young.  Your love is true and you're glad that she hasn't fallen prey to the slavish feelings created by the blood bound.  Instead you find yourself doing whatever you can to see to her needs with money and lavish gifts. But still she's often unhappy and when she gets into her moods you sufffer, she never really hurts you beyond your ability to heal of course, but you know you must do better."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Maire L'Enfant",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Toreador - Entranced by Art"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1902,
+          "column_3": "Embrace Location:",
+          "column_4": "Marseille, France",
+          "column_6": "Generation",
+          "column_7": "Ancilla 9"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Helen Jaeger",
+          "column_2": "The Toreador Primogen.  A Rare beauty"
+        },
+        {
+          "staff_generated_concept": "Marie Alvarado",
+          "column_2": "A Toreador elder with a taste for the finer things"
+        },
+        {
+          "staff_generated_concept": "Marcus Jonak",
+          "column_2": "A Toreador movie producer, he knows everyone"
+        },
+        {
+          "staff_generated_concept": "April",
+          "column_2": "The Ventrue Harpy.  She is known throw lavish parties"
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Perfect your craft.  Just becasue your dead doesn't mean you ave to stop living!"
+        },
+        {
+          "staff_generated_concept": "Find away to incorporate blood in your cooking"
+        },
+        {
+          "staff_generated_concept": "Reconnect with your French culture.  All this time in America has dulled your apprecaition of the finer things"
+        },
+        {
+          "staff_generated_concept": "Keep other vampires away from Amanda and do what you can to please her."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "3",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "1"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Hunting Actions",
+          "1": "Investigation / Patrol Actions",
+          "3": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2146 @@
+{
+  "source": {
+    "title": "Copy of Beckett (Gangrel) Mark Rein-Hagen (V.3.5.4)",
+    "fileName": "Copy of Beckett (Gangrel) Mark Rein-Hagen (V.3.5.4).xlsx",
+    "localPath": "source-sheets\\Drive V.3.5.4 Search\\Copy of Beckett (Gangrel) Mark Rein-Hagen (V.3.5.4).xlsx"
+  },
+  "folderPath": [
+    "Drive V.3.5.4 Search"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "Beckett",
+    "playerName": "Mark Rein*Hagen",
+    "gmailAccount": "",
+    "clanCoordinator": "Jennifer Wolfe",
+    "archetype": "Visionary",
+    "title": "Independents",
+    "characterStartDate": "2004-01-10 00:00:00",
+    "generationLabel": "Pretender Elder 8",
+    "clan": "Gangrel - Animalistic Beast"
+  },
+  "attributes": {
+    "physical": 4,
+    "social": 5,
+    "mental": 10
+  },
+  "backgrounds": {
+    "generation": 3,
+    "mentor_herd": 1,
+    "haven": 2,
+    "resources": 1,
+    "retainers": 1
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "academics": 2,
+    "investigation": 3,
+    "survival": 1,
+    "awareness": 2,
+    "linguistics": 3,
+    "brawl": 1,
+    "lore": 5,
+    "cryptography": 1,
+    "occult": 3,
+    "security": 1
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Loremaster -1",
+    "Natural Linguist -1",
+    "Sorcerous Dabbler -2"
+  ],
+  "disciplines": [
+    {
+      "name": "Animalism",
+      "value": 1
+    },
+    {
+      "name": "Fortitude",
+      "value": 2
+    },
+    {
+      "name": "Protean",
+      "value": 3
+    }
+  ],
+  "ritualsRitaeOther": [
+    "Defense of the Sacred Haven - 1",
+    "Banish Big Brother -2"
+  ],
+  "abilitySpecializations": [
+    "Academics: Archaeology,",
+    "Anthropology",
+    "Linguistics: (English), Latin,  French",
+    "Greek, Old Norse, Hebrew, Aramaic"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CAMARILLA: LA",
+        "",
+        "Players Gmail Account: beckett@schreck.net",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "55"
+      ],
+      [
+        "",
+        "Beckett",
+        "",
+        "Mark Rein*Hagen",
+        "",
+        "Jennifer Wolfe",
+        "",
+        "",
+        "Generation",
+        "3.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Visionary",
+        "",
+        "Independents",
+        "",
+        "2004-01-10 00:00:00",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 15*3"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts / Fame",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Pretender Elder 8",
+        "",
+        "Gangrel - Animalistic Beast",
+        "",
+        "",
+        "",
+        "",
+        "Mentor / Herd",
+        "1.0",
+        "",
+        "",
+        "Haven: Jet (Mobile, Security)"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "2.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\"",
+        "",
+        "",
+        "",
+        "Retainer: Cesare (Alcoholic Pilot)"
+      ],
+      [
+        "",
+        "Physical",
+        "4.0",
+        "Dexterity - (Burst of Speed, Disarm, Fighting Blind, or Quick Draw)",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Charisma - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "1.0",
+        "",
+        "",
+        "Mentor: Aristotle de Laurent (Loremaster)"
+      ],
+      [
+        "",
+        "Mental",
+        "10.0",
+        "Intelligence - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Retainers",
+        "1.0"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Ritae",
+        "",
+        "",
+        "",
+        "Allies: Los Angeles Cabdrivers"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Loremaster -1",
+        "",
+        "",
+        "",
+        "Animalism",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Natural Linguist -1",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sorcerous Dabbler -2",
+        "",
+        "",
+        "",
+        "Protean",
+        "3.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Skald -2",
+        "",
+        "",
+        "",
+        "Auspex",
+        "1.0"
+      ],
+      [
+        "",
+        "Academics",
+        "2.0",
+        "Intimidation",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dementation",
+        "2.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "3.0",
+        "Subterfuge"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "Survival",
+        "1.0",
+        "",
+        "Dark Secret +1"
+      ],
+      [
+        "",
+        "Awareness",
+        "2.0",
+        "Linguistics",
+        "3.0",
+        "Performance",
+        "",
+        "",
+        "Child, Vengeful +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "1.0",
+        "Lore",
+        "5.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "",
+        "Cryptography",
+        "1.0",
+        "",
+        "Academics: Archaeology,",
+        "",
+        "",
+        "",
+        "Defense of the Sacred Haven - 1"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Anthropology",
+        "",
+        "",
+        "",
+        "Banish Big Brother -2"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Occult",
+        "3.0"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science",
+        "",
+        "",
+        "",
+        "",
+        "Linguistics: (English), Latin,  French"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "1.0",
+        "",
+        "",
+        "",
+        "Greek, Old Norse, Hebrew, Aramaic"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lore: Caine, Gehenna, Vampires,"
+      ],
+      [
+        "",
+        "Brawl    5",
+        "",
+        "Dodge    4",
+        "",
+        "Dementation    5",
+        "",
+        "",
+        "Vampire History, Book of Nod"
+      ],
+      [
+        "",
+        "Melee    4",
+        "",
+        "Animalism    5",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "",
+        "Camarilla, Sabbat, Anarchs"
+      ],
+      [
+        "",
+        "Guns (No Wits)   4",
+        "",
+        "Auspex    13",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "",
+        "Camarilla Secrets, Kindred Lineages"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.3"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Childe, Vengeful",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Dark Secret",
+          "Pre Game",
+          "1.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Loremaster",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "42"
+        ],
+        [
+          "Natural Linguist",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Skald",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Sorcerous Dabbler",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "9"
+        ],
+        [
+          "Protean x3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Mental x3",
+          "Pre Game",
+          "-9.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Mentor x1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "1.5"
+        ],
+        [
+          "Auspex x1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Physical x1",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "38"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "4"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Earned XP in Game",
+          "2004-01-10 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Resources x1",
+          "2004-02-10 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2004-02-14 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2004-03-26 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2005-04-25 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2004-05-30 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Lore x5",
+          "2004-06-07 00:00:00",
+          "",
+          "",
+          "10.0"
+        ],
+        [
+          "Linguistics x3",
+          "2004-06-07 00:00:00",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Convention Game",
+          "2004-06-12 00:00:00",
+          "3.0",
+          "3.0"
+        ],
+        [
+          "Dementation x1",
+          "2004-06-17 00:00:00",
+          "",
+          "",
+          "4.0",
+          "Jeanette V. is teacher"
+        ],
+        [
+          "Earned XP in Game",
+          "2004-06-20 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "6 Game Bonus XP",
+          "2004-06-20 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Dementation x2",
+          "2004-07-20 00:00:00",
+          "",
+          "",
+          "8.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2004-07-21 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Fortitude x2",
+          "2004-08-17 00:00:00",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2004-08-22 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Allies x1: Los Angeles Cabdrivers",
+          "2004-09-23 00:00:00",
+          "",
+          "",
+          "2.0",
+          "Still needs writeup"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Childe, Vengeful",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Dark Secret",
+          "date": "Pre Game",
+          "all_costs": 1,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Loremaster",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 42
+        },
+        {
+          "what_was_bought": "Natural Linguist",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Skald",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Sorcerous Dabbler",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 9
+        },
+        {
+          "what_was_bought": "Protean x3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Mental x3",
+          "date": "Pre Game",
+          "all_costs": -9,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Mentor x1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 1.5
+        },
+        {
+          "what_was_bought": "Auspex x1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Physical x1",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 38
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 4
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2004-01-10 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Resources x1",
+          "date": "2004-02-10 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2004-02-14 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2004-03-26 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2005-04-25 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2004-05-30 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Lore x5",
+          "date": "2004-06-07 00:00:00",
+          "column_5": 10
+        },
+        {
+          "what_was_bought": "Linguistics x3",
+          "date": "2004-06-07 00:00:00",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2004-06-12 00:00:00",
+          "all_costs": 3,
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Dementation x1",
+          "date": "2004-06-17 00:00:00",
+          "column_5": 4,
+          "starting_total_xp_left": "Jeanette V. is teacher"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2004-06-20 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "6 Game Bonus XP",
+          "date": "2004-06-20 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Dementation x2",
+          "date": "2004-07-20 00:00:00",
+          "column_5": 8
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2004-07-21 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Fortitude x2",
+          "date": "2004-08-17 00:00:00",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2004-08-22 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Allies x1: Los Angeles Cabdrivers",
+          "date": "2004-09-23 00:00:00",
+          "column_5": 2,
+          "starting_total_xp_left": "Still needs writeup"
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "3",
+          "",
+          "3",
+          "Type of Background",
+          "Allies",
+          "",
+          "",
+          "",
+          "Type of NPC",
+          "Pilot"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC",
+          "Cesare"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level",
+          "1.0"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1 Los Angeles Cabdrivers",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1",
+          "Drive: Aircraft"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "1",
+          "0",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "2",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "0",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "1",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "1",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "Jet",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "Santa Monica Airport (current)",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "Mobile",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "Secure",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "Aristotle de Laurent",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "Loremaster",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 3,
+          "column_5": 3,
+          "background_expantions_1": "Type of Background",
+          "column_7": "Allies",
+          "background_npc_1": "Type of NPC",
+          "column_12": "Pilot"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC",
+          "column_12": "Cesare"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level",
+          "column_12": 1
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "1 Los Angeles Cabdrivers",
+          "background_npc_1": "Specializations 1",
+          "column_12": "Drive: Aircraft"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 2,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 0,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 1,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "column_3": "Jet",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "column_3": "Santa Monica Airport (current)",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "column_3": "Mobile",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "column_3": "Secure",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "column_3": "Aristotle de Laurent",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "column_3": "Loremaster",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Vampire Archaeologist",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "JA"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "Like most Gangrel, your Embrace came as a surprise and you were rather left to your own devices for your first few nights. As you figured out how to survive, you became aware of the different factions of vampires, particularly the Camarilla and the Sabbat. After some study and reflection, you decided to join neither sect and would instead strike out on your own. Your curiosity as to your own origins has made you want to understand the origin of all vampires. You've also heard rumors of something called Gehenna, which sounds terrifying. As such, you've devoted your unlife to uncovering the secrets and lore which most others would prefer remain hidden. This hasn't earned you many friends - after discovering Hardestadt's secret, he sent Theo Bell to try and kill you. You got away, but you know it's only a matter of time before he tries again. You also have to keep your head up for your childe, Marie, who resents her Embrace. Recently, you've heard of an important artifact which has surfaced in Los Angeles and is of obvious vampiric origin. You have to know more!"
+        ],
+        [
+          "Sire:",
+          "Unknown",
+          "Reference: (If any)",
+          "http://whitewolf.wikia.com/wiki/Beckett",
+          "",
+          "Clan",
+          "Gangrel - Animalistic Beast"
+        ],
+        [
+          "Embrace Date:",
+          "1704.0",
+          "Embrace Location:",
+          "London",
+          "",
+          "Generation",
+          "Pretender Elder 8"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Sebastian La Croix (Ventrue) (Andy Milder)",
+          "The Ventrue Prince of Los Angeles. While you're not a Camarilla member, it's worthwhile to stay on his good side for as long as you want to stay in the city."
+        ],
+        [
+          "Smiling Jack (Brujah) (John DiMaggio)",
+          "A local Anarch leader who spends most of his time downtown at a place called the Last Round. If you want to get in good with the Anarchs, you'll need to get Smiling Jack and his ally Nines Rodriguez on your side."
+        ],
+        [
+          "Jeanette Voerman (Malkavian) (Grey DeLisle)",
+          "She and her (broodmate? sire? you're unsure of the exact nature of their relationship) Therese run a club together in Santa Monica. Though they're often at each other's throats, they're a formidable team when they work together. The club would be useful for you to start to build your base within the city."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "You have come to LA pursuing rumors of an artifact called the Ankaran Sarcophagus. It's entirely likely that a sleeping Methuselah, or even Antediluvan, is in there. Find out what you can about what's inside before you risk opening it (and if it is an ancient, don't let Sebastian eat it)"
+        ],
+        [
+          "You've heard rumors of an illegal Embrace. The sire was killed, but the childe is now some kind of lackey or agent for pretty much everyone in the city - and they're surprisingly effective. Help the new childe if you can."
+        ],
+        [
+          "Cathayans have set up shop in Los Angeles, led by a woman named Ming-Xiao. Make contact, and see if you can come to some kind of deal for information exchange."
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Vampire Archaeologist",
+          "created_by": "JA"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "Like most Gangrel, your Embrace came as a surprise and you were rather left to your own devices for your first few nights. As you figured out how to survive, you became aware of the different factions of vampires, particularly the Camarilla and the Sabbat. After some study and reflection, you decided to join neither sect and would instead strike out on your own. Your curiosity as to your own origins has made you want to understand the origin of all vampires. You've also heard rumors of something called Gehenna, which sounds terrifying. As such, you've devoted your unlife to uncovering the secrets and lore which most others would prefer remain hidden. This hasn't earned you many friends - after discovering Hardestadt's secret, he sent Theo Bell to try and kill you. You got away, but you know it's only a matter of time before he tries again. You also have to keep your head up for your childe, Marie, who resents her Embrace. Recently, you've heard of an important artifact which has surfaced in Los Angeles and is of obvious vampiric origin. You have to know more!"
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Unknown",
+          "column_3": "Reference: (If any)",
+          "column_4": "http://whitewolf.wikia.com/wiki/Beckett",
+          "column_6": "Clan",
+          "column_7": "Gangrel - Animalistic Beast"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1704,
+          "column_3": "Embrace Location:",
+          "column_4": "London",
+          "column_6": "Generation",
+          "column_7": "Pretender Elder 8"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Sebastian La Croix (Ventrue) (Andy Milder)",
+          "column_2": "The Ventrue Prince of Los Angeles. While you're not a Camarilla member, it's worthwhile to stay on his good side for as long as you want to stay in the city."
+        },
+        {
+          "staff_generated_concept": "Smiling Jack (Brujah) (John DiMaggio)",
+          "column_2": "A local Anarch leader who spends most of his time downtown at a place called the Last Round. If you want to get in good with the Anarchs, you'll need to get Smiling Jack and his ally Nines Rodriguez on your side."
+        },
+        {
+          "staff_generated_concept": "Jeanette Voerman (Malkavian) (Grey DeLisle)",
+          "column_2": "She and her (broodmate? sire? you're unsure of the exact nature of their relationship) Therese run a club together in Santa Monica. Though they're often at each other's throats, they're a formidable team when they work together. The club would be useful for you to start to build your base within the city."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "You have come to LA pursuing rumors of an artifact called the Ankaran Sarcophagus. It's entirely likely that a sleeping Methuselah, or even Antediluvan, is in there. Find out what you can about what's inside before you risk opening it (and if it is an ancient, don't let Sebastian eat it)"
+        },
+        {
+          "staff_generated_concept": "You've heard rumors of an illegal Embrace. The sire was killed, but the childe is now some kind of lackey or agent for pretty much everyone in the city - and they're surprisingly effective. Help the new childe if you can."
+        },
+        {
+          "staff_generated_concept": "Cathayans have set up shop in Los Angeles, led by a woman named Ming-Xiao. Make contact, and see if you can come to some kind of deal for information exchange."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ],
+        [
+          "2004-06-17 00:00:00",
+          "Jeanette Voerman",
+          "",
+          "1BB: Infatuation ~ (Lasts a year w/o seeing regnant)"
+        ]
+      ],
+      "records": [
+        {
+          "date": "2004-06-17 00:00:00",
+          "name": "Jeanette Voerman",
+          "current_level": "1BB: Infatuation ~ (Lasts a year w/o seeing regnant)"
+        }
+      ]
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "1",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "1": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

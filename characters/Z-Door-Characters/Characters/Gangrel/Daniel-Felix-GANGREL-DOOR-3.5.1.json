@@ -1,0 +1,1245 @@
+{
+  "source": {
+    "title": "Daniel-Felix-GANGREL-DOOR-3.5.1",
+    "fileName": "Daniel-Felix-GANGREL-DOOR-3.5.1.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Gangrel\\Daniel-Felix-GANGREL-DOOR-3.5.1.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters",
+    "Characters",
+    "Gangrel"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "Daniel Felix",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Jennifer Wolfe",
+    "archetype": "Mercenary",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla 9",
+    "clan": "Gangrel - Animalistic Beast"
+  },
+  "attributes": {
+    "physical": 6,
+    "social": 3,
+    "mental": 8
+  },
+  "backgrounds": {
+    "generation": 2,
+    "influence_underworld": 3,
+    "resources": 3,
+    "retainers": 1
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "academics": 3,
+    "intimidation": 4,
+    "streetwise": 1,
+    "animal_ken": 2,
+    "subterfuge": 1,
+    "linguistics": 2,
+    "brawl": 3,
+    "computer": 1,
+    "dodge": 2,
+    "security": 1
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Protean Blood -1",
+    "Slippery Customer -2",
+    "Additional Common Discipline -4"
+  ],
+  "disciplines": [
+    {
+      "name": "Animalism",
+      "value": 1
+    },
+    {
+      "name": "Fortitude",
+      "value": 1
+    },
+    {
+      "name": "Protean",
+      "value": 2
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Academics: Finance, Investing,",
+    "Money Laundering",
+    "Linguistics: Italian, French",
+    "Influence Underworld: LA Mafia,",
+    "Drug Smugglers, Sex Workers"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CAMARILLA: LA",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "50"
+      ],
+      [
+        "",
+        "Daniel Felix",
+        "",
+        "",
+        "",
+        "Jennifer Wolfe",
+        "",
+        "",
+        "Generation",
+        "2.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Mercenary",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 12*2"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Ancilla 9",
+        "",
+        "Gangrel - Animalistic Beast",
+        "",
+        "",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "",
+        "Retainer: Sal the Stockbroker, Fortitude 1"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd",
+        "",
+        "",
+        "",
+        "Add'l Discipline (Dominate)"
+      ],
+      [
+        "",
+        "Physical",
+        "6.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "Social",
+        "3.0",
+        "Charisma - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\"",
+        "3.0",
+        "",
+        "",
+        "Intolerence (Straight Arrows, Goody 2 Shoes, Lawmen), Addiction (Alcohol)"
+      ],
+      [
+        "",
+        "Mental",
+        "8.0",
+        "Intelligence - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "3.0"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Retainers",
+        "1.0",
+        "",
+        "",
+        "Cursed (Linguistics):  You stutter and forget words when you handle money and valuables"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "Confirmed (Ancilla)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Protean Blood -1",
+        "",
+        "",
+        "",
+        "Animalism",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Slippery Customer -2",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Additional Common Discipline -4",
+        "",
+        "",
+        "",
+        "Protean",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dominate",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "3.0",
+        "Intimidation",
+        "4.0",
+        "Streetwise",
+        "1.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "2.0",
+        "Investigation",
+        "",
+        "Subterfuge",
+        "1.0",
+        "",
+        "Addiction +2"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "Survival",
+        "",
+        "",
+        "Cursed +1"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "2.0",
+        "Performance",
+        "",
+        "",
+        "Intolerance +1"
+      ],
+      [
+        "",
+        "Brawl",
+        "3.0",
+        "Lore",
+        "",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Medicine",
+        "",
+        "",
+        "",
+        "",
+        "Academics: Finance, Investing,"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Money Laundering"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "",
+        "",
+        "",
+        "",
+        "Linguistics: Italian, French"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "1.0",
+        "",
+        "",
+        "",
+        "Influence Underworld: LA Mafia,"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth",
+        "",
+        "",
+        "",
+        "",
+        "Drug Smugglers, Sex Workers"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    9",
+        "",
+        "Dodge    11",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    6",
+        "",
+        "Animalism    5",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (No Wits)   6",
+        "",
+        "Dominate    12",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.1"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "add common discipline 4",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "protean blood 1",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "slipper customer 2",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Influence, underworld 1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Influence, underworld 2",
+          "Pre Game",
+          "-4.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Influence, underworld 3",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Physical 6",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Mental 8",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "dominate 1",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "dominate 2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "addiction 2",
+          "Pre Game",
+          "2.0",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "cursed 1",
+          "Pre Game",
+          "1.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "intolerence 1",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "add common discipline 4",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "protean blood 1",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "slipper customer 2",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Influence, underworld 1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Influence, underworld 2",
+          "date": "Pre Game",
+          "all_costs": -4,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Influence, underworld 3",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Physical 6",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Mental 8",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "dominate 1",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "dominate 2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "addiction 2",
+          "date": "Pre Game",
+          "all_costs": 2,
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "what_was_bought": "cursed 1",
+          "date": "Pre Game",
+          "all_costs": 1,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "intolerence 1",
+          "date": "Pre Game",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Former mob banker, originally from New York, then Vegas",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "KK"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "In life you had a knack for hiding things.  You dropped out of high school but you learned how to hide money from your father. He'd been a tax lawyer, but he was disbarred when you were still in diapers. That's when he started making his living moving money around for bookies, drug dealers and pimps.  When he had got on the wrong side of the Goth crime he ran for it and left you and your mother behind.  You never forgave him for abandoning you, but you used the skills he'd given you to keep your family alive... and you were better at it then he ever wise. In fact it was the Goth's who gave you your big break, handling the family's 'off the books' books.  Getting shot full of holes by a rival mob wasn't part of the plan though.  Luckily, the boss himself scooped you up off the street and gave you his own blood. Your embrace was a breach of something the Camarilla called the Masquerade so you had to leave New York to run the Goth's operations in Las Vegas. It was tough leaving your family, but being a vampire you figured it was for the best.  In Las Vegas things didn't go so smooth.  The Giovanni and Setites were running everything, the Camarilla was just a cutout for their operations. After a few decades of hustling and losses in Vegas the bosses in NYC were getting suspicious of you, so you knew it was time to strike out on your own. Now you're in LA, an independent operator looking to start your own operation and hide your own money and some you skimmed off the top."
+        ],
+        [
+          "Sire:",
+          "Luther the Goth",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Gangrel - Animalistic Beast"
+        ],
+        [
+          "Embrace Date:",
+          "1929.0",
+          "Embrace Location:",
+          "New York, NY",
+          "",
+          "Generation",
+          "Ancilla 9"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Hal",
+          "The Gangrel Sheriff, he's the Prince's pawn"
+        ],
+        [
+          "Elof",
+          "The Gangrel primogen.  He's an elder of great age but doesn't seem to know what's going on around him"
+        ],
+        [
+          "Lupo",
+          "The Brujah Primogen, he serves the Prince but his clan is always lloking for way to operate more independently"
+        ],
+        [
+          "The Scourge",
+          "A Ventrue social climber"
+        ],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Grow your criminal network"
+        ],
+        [
+          "Expand the domain of the Gangrel clan into more urban areas, especially financial districts"
+        ],
+        [
+          "Undermine efforts to increase authority over othr vampires and the power of law/order in LA in general"
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Former mob banker, originally from New York, then Vegas",
+          "created_by": "KK"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "In life you had a knack for hiding things.  You dropped out of high school but you learned how to hide money from your father. He'd been a tax lawyer, but he was disbarred when you were still in diapers. That's when he started making his living moving money around for bookies, drug dealers and pimps.  When he had got on the wrong side of the Goth crime he ran for it and left you and your mother behind.  You never forgave him for abandoning you, but you used the skills he'd given you to keep your family alive... and you were better at it then he ever wise. In fact it was the Goth's who gave you your big break, handling the family's 'off the books' books.  Getting shot full of holes by a rival mob wasn't part of the plan though.  Luckily, the boss himself scooped you up off the street and gave you his own blood. Your embrace was a breach of something the Camarilla called the Masquerade so you had to leave New York to run the Goth's operations in Las Vegas. It was tough leaving your family, but being a vampire you figured it was for the best.  In Las Vegas things didn't go so smooth.  The Giovanni and Setites were running everything, the Camarilla was just a cutout for their operations. After a few decades of hustling and losses in Vegas the bosses in NYC were getting suspicious of you, so you knew it was time to strike out on your own. Now you're in LA, an independent operator looking to start your own operation and hide your own money and some you skimmed off the top."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Luther the Goth",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Gangrel - Animalistic Beast"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1929,
+          "column_3": "Embrace Location:",
+          "column_4": "New York, NY",
+          "column_6": "Generation",
+          "column_7": "Ancilla 9"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Hal",
+          "column_2": "The Gangrel Sheriff, he's the Prince's pawn"
+        },
+        {
+          "staff_generated_concept": "Elof",
+          "column_2": "The Gangrel primogen.  He's an elder of great age but doesn't seem to know what's going on around him"
+        },
+        {
+          "staff_generated_concept": "Lupo",
+          "column_2": "The Brujah Primogen, he serves the Prince but his clan is always lloking for way to operate more independently"
+        },
+        {
+          "staff_generated_concept": "The Scourge",
+          "column_2": "A Ventrue social climber"
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Grow your criminal network"
+        },
+        {
+          "staff_generated_concept": "Expand the domain of the Gangrel clan into more urban areas, especially financial districts"
+        },
+        {
+          "staff_generated_concept": "Undermine efforts to increase authority over othr vampires and the power of law/order in LA in general"
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "3",
+          "Computer Downtimes",
+          "1",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "1": "Hunting Actions",
+          "3": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

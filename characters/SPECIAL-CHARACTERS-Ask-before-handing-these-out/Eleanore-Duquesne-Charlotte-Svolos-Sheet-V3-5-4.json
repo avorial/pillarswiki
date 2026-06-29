@@ -1,0 +1,2082 @@
+{
+  "source": {
+    "title": "Eleanore-Duquesne-Charlotte-Svolos-Sheet-V3-5-4",
+    "fileName": "Eleanore-Duquesne-Charlotte-Svolos-Sheet-V3-5-4.xlsx",
+    "localPath": "source-sheets\\SPECIAL CHARACTERS - Ask before handing these out.\\Eleanore-Duquesne-Charlotte-Svolos-Sheet-V3-5-4.xlsx"
+  },
+  "folderPath": [
+    "SPECIAL CHARACTERS - Ask before handing these out."
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CHRONICLE",
+    "characterName": "Eleanor Dusquene",
+    "playerName": "Charlotte Svolos",
+    "gmailAccount": "",
+    "clanCoordinator": "",
+    "archetype": "Cultured",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla 9",
+    "clan": "Followers of Set - Light Sensitivity"
+  },
+  "attributes": {
+    "physical": 5,
+    "social": 8,
+    "mental": 9
+  },
+  "backgrounds": {
+    "generation": 2,
+    "haven": 3,
+    "influence_elite": 1,
+    "resources": 3
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "intimidation": 1,
+    "streetwise": 3,
+    "subterfuge": 2,
+    "leadership": 3,
+    "survival": 2,
+    "linguistics": 1,
+    "lore": 1,
+    "medicine": 1,
+    "occult": 4,
+    "drive": 1,
+    "stealth": 2
+  },
+  "status": [],
+  "meritsAndFlaws": [
+    "Setite Sorcery -4",
+    "Addictive Blood -3",
+    "Beacon of the Unholy +3"
+  ],
+  "disciplines": [
+    {
+      "name": "Obfuscate",
+      "value": 1
+    },
+    {
+      "name": "Presence",
+      "value": 4
+    },
+    {
+      "name": "Serpentis",
+      "value": 2
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Lore: Setite",
+    "Linguistics: English",
+    "(Occitan is 1st - though I'll give you the",
+    "ability to understand French, not speak)"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CHRONICLE",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "59"
+      ],
+      [
+        "",
+        "Eleanor Dusquene",
+        "",
+        "Charlotte Svolos",
+        "",
+        "",
+        "",
+        "",
+        "Generation",
+        "2.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Cultured",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 10*1"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts / Fame",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Ancilla 9",
+        "",
+        "Followers of Set - Light Sensitivity",
+        "",
+        "",
+        "",
+        "",
+        "Mentor / Herd",
+        "",
+        "",
+        "",
+        "Prestation Debt - You owe a hefty blood boon to Prince Benedic for the allowance of your clan temple in Las Vegas."
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "3.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\"",
+        "1.0",
+        "",
+        "",
+        "Haven:  Tao Nightclub at the Venetian"
+      ],
+      [
+        "",
+        "Physical",
+        "5.0",
+        "Dexterity - (Burst of Speed, Disarm, Fighting Blind, or Quick Draw)",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "8.0",
+        "Charisma - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "3.0",
+        "",
+        "",
+        "Elite: Guests at Nightclub"
+      ],
+      [
+        "",
+        "Mental",
+        "9.0",
+        "Perception - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Ritae"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Setite Sorcery -4",
+        "",
+        "",
+        "",
+        "Obfuscate",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Addictive Blood -3",
+        "",
+        "",
+        "",
+        "Presence",
+        "4.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Beacon of the Unholy +3",
+        "",
+        "",
+        "",
+        "Serpentis",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Prestation Debt +4",
+        "",
+        "",
+        "",
+        "Akhu: Path of Corruption (The False Heart) (C)",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "1.0",
+        "Streetwise",
+        "3.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Akhu: Soul of the Serpent (C)",
+        "2.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "Subterfuge",
+        "2.0"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "3.0",
+        "Survival",
+        "2.0"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "1.0",
+        "Performance"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "1.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "1.0",
+        "",
+        "",
+        "",
+        "Lore: Setite"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Linguistics: English"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Occult",
+        "4.0",
+        "",
+        "",
+        "",
+        "(Occitan is 1st - though I'll give you the"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Science",
+        "",
+        "",
+        "",
+        "",
+        "ability to understand French, not speak)"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth",
+        "2.0"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    5",
+        "",
+        "Dodge    5",
+        "",
+        "Serpentis    10"
+      ],
+      [
+        "",
+        "Melee    5",
+        "",
+        "Presence    11",
+        "",
+        "Thaumaturgy -Tals   13"
+      ],
+      [
+        "",
+        "Guns (No Wits)   5",
+        "",
+        "Obfuscate    11",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.3"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "1"
+        ],
+        [
+          "Path of Corruption 1",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Soul of the Serpant",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Mental 2",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "62"
+        ],
+        [
+          "Social 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Physicals 2",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Influence: Elite 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "52"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "ST Creation XP - 300 + years old - 51 pts (carry over 1 XP)",
+          "",
+          "",
+          "51.0"
+        ],
+        [
+          "Medicine 1",
+          "",
+          "",
+          "",
+          "3.0"
+        ],
+        [
+          "Resources 2",
+          "",
+          "",
+          "",
+          "4.0"
+        ],
+        [
+          "Resources 3",
+          "",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Presence 2",
+          "",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Presence 3",
+          "",
+          "",
+          "",
+          "9.0"
+        ],
+        [
+          "Presence 4",
+          "",
+          "",
+          "",
+          "12.0"
+        ],
+        [
+          "Path of Corruption 2",
+          "",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Soul of the Serpant 2",
+          "",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "ST Crreation XP + 1 to even XP",
+          "",
+          "",
+          "1.0"
+        ],
+        [],
+        [
+          "Earned XP Game 1",
+          "2018-10-20 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Earned Shout Out XP Game 1",
+          "2018-10-20 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Earned Voting XP",
+          "2018-11-06 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Earned XP Game 4",
+          "2019-01-19 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Player Shout out",
+          "2019-01-22 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Staff Shout out Jen",
+          "2019-01-22 00:00:00",
+          "",
+          "1.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 1
+        },
+        {
+          "what_was_bought": "Path of Corruption 1",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Soul of the Serpant",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Mental 2",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": 62
+        },
+        {
+          "what_was_bought": "Social 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Physicals 2",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Influence: Elite 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 52
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 10
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "ST Creation XP - 300 + years old - 51 pts (carry over 1 XP)",
+          "column_4": 51
+        },
+        {
+          "what_was_bought": "Medicine 1",
+          "column_5": 3
+        },
+        {
+          "what_was_bought": "Resources 2",
+          "column_5": 4
+        },
+        {
+          "what_was_bought": "Resources 3",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Presence 2",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Presence 3",
+          "column_5": 9
+        },
+        {
+          "what_was_bought": "Presence 4",
+          "column_5": 12
+        },
+        {
+          "what_was_bought": "Path of Corruption 2",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Soul of the Serpant 2",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "ST Crreation XP + 1 to even XP",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Earned XP Game 1",
+          "date": "2018-10-20 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Earned Shout Out XP Game 1",
+          "date": "2018-10-20 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Earned Voting XP",
+          "date": "2018-11-06 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Earned XP Game 4",
+          "date": "2019-01-19 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Player Shout out",
+          "date": "2019-01-22 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Staff Shout out Jen",
+          "date": "2019-01-22 00:00:00",
+          "column_4": 1
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "2",
+          "",
+          "2",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "0",
+          "0",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "3",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "1",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "3",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "0",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 2,
+          "column_5": 2,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 3,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 1,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 3,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Jenn"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "You have seen what religion does to people.\n\nYou family were Huegenots, devote Protestants, trapped in the wars with the Catholic authority, lied to again and again by those in power. You hid in Cévennes, where you thought you were safe, but they hunted your family as protestors and traitors. First your father, then your brothers, until you and a sister were left standing, two girls on your own. You were young and pretty enough, and had to put something in your belly. Prostitute was a sin, but it was a sin for a greater good as far as you were concerned. It was a life that opened your eyes to the horrors of reality, that was for certain, but it also showed you its pleasures. You learned quickly that everyone has something they desire, something so rare or so outrageous, they could never speak about it. You quickly learned if you could pinpoint those desires and trade on them, you could add to the gold in your purse. Soon, you became a courtesan of high renown amongs French country nobles with coin to pay and desires they needed filled. And that was when Ibrahim found you. You had merely been in the market for something exotic for a client, a gentleman who preferred young, pretty foreign boys. He seemed to fit the bill. But, Ibrahim was far older and wiser than appearances, and he liked the potential he found in you. He introduced you to Set and his mysteries and you accepted it, finding a home for the first time since you lost your family. After all, this sinful, dark world was ripe for destruction, for Hellfire to be rained down on it, for the slate to be wiped clean of the vileness you saw in every corner of it. You were only too happy to serve and to bring Set's dark vision in to fruition.\n\nOf course, the Camarilla has always taken a dim view of your people, much as the Catholics did, and you've roamed through Europe and North Africa before settling in the US in the 20th century. New York was fun while it lasted, and Los Angeles was pleasant until the Anarchs ran it all to shit. But Las Vegas was prime real estate, growing like a blossom out of the desert. For many years you had harbored the hope of founding a Temple of your own, free to further Set's will on this world, and Vegas promised to be the answer to that. Unfortunately, you weren't the first comer. Already, the Camarilla and the Giovanni had staked out claims. You had known a Giovanni or two in your time and knew they could at least be reasoned with, but the Camarilla! You swallowed your pride and approached the Ventrue Prince, Benedic, who graced you with his presence (a rare thing, so you've found). He stated he would agree to allow you in Las Vegas, for a price. You owe him a blood boon for the allowance of your blood there, unmolested, with the caveat you provided him with what he needed. It appears he has a bit of a thing for descendants of violently murdered nobility. You aren't one to judge, but the hefty price you have to pay to track down the bastard offspring of long dead kings and princes at least allows you to afford the most exclusie nightclub in the domain that serves as your Temple.\n\nYou've drawn others to you, and while not all are as ardent followers of Lord Set as you, they all have their uses in his service. You have a good thing here in Las Vegas and you are loathe to give that up. Where others have struggled in tumultuous domains, you've thrived, and you know it's in part to the Giovanni's influence on the Camarilla. After all, that's part of why you signed the treaty with the old degenerate Jew, Schlomo Rothstein. As independents, the Setites have always found the Giovanni useful tools in their work, and frankly, they've always been fairly good allies. That being said, the Tremere have their uses as well, and you've found Irene Elvonia most helpful and enlightening in exchanges of magical research. But, let's be honest, your money is made off of the Camarilla. They like their dirty secrets and lies, just as the nobles did when you were young, and much as you despise them for it, they also give you the ability to do what you do. Benedic's disappearance is most concerning, as he is how you have the protections you do. You have a hunch his esoteric taste may have something to do with it, but the question is, is he valuable enough to you to get him back? Maybe the Giovanni can offer a sweeter deal. Then again, the Camarilla may come forward with something even better. Hard to say."
+        ],
+        [
+          "Sire:",
+          "Ibrahim the Beautiful",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Followers of Set - Light Sensitivity"
+        ],
+        [
+          "Embrace Date:",
+          "1715.0",
+          "Embrace Location:",
+          "Tolouse, France",
+          "",
+          "Generation",
+          "Ancilla 9"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Anthony Sand",
+          "Toreador, you've known Anthony since he was a wandering, struggling architect who had lost his way after his Embrace. While he hasn't fallen prey to your charms, you do know he's ambitious and has a vision for the domain."
+        ],
+        [
+          "Geoffrey Montrose",
+          "Nosferatu, he's the Seneschal of the domain and the person you've had to deal with the most. You and he already have a good working relationship, and he may be willing to have things status quo."
+        ],
+        [
+          "Schlomo Rothstein",
+          "Giovanni, between you two, you helped in the architecture of the treaty of alliance between your two clans. He's always had your back for leverage."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Jenn"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "You have seen what religion does to people.\n\nYou family were Huegenots, devote Protestants, trapped in the wars with the Catholic authority, lied to again and again by those in power. You hid in Cévennes, where you thought you were safe, but they hunted your family as protestors and traitors. First your father, then your brothers, until you and a sister were left standing, two girls on your own. You were young and pretty enough, and had to put something in your belly. Prostitute was a sin, but it was a sin for a greater good as far as you were concerned. It was a life that opened your eyes to the horrors of reality, that was for certain, but it also showed you its pleasures. You learned quickly that everyone has something they desire, something so rare or so outrageous, they could never speak about it. You quickly learned if you could pinpoint those desires and trade on them, you could add to the gold in your purse. Soon, you became a courtesan of high renown amongs French country nobles with coin to pay and desires they needed filled. And that was when Ibrahim found you. You had merely been in the market for something exotic for a client, a gentleman who preferred young, pretty foreign boys. He seemed to fit the bill. But, Ibrahim was far older and wiser than appearances, and he liked the potential he found in you. He introduced you to Set and his mysteries and you accepted it, finding a home for the first time since you lost your family. After all, this sinful, dark world was ripe for destruction, for Hellfire to be rained down on it, for the slate to be wiped clean of the vileness you saw in every corner of it. You were only too happy to serve and to bring Set's dark vision in to fruition.\n\nOf course, the Camarilla has always taken a dim view of your people, much as the Catholics did, and you've roamed through Europe and North Africa before settling in the US in the 20th century. New York was fun while it lasted, and Los Angeles was pleasant until the Anarchs ran it all to shit. But Las Vegas was prime real estate, growing like a blossom out of the desert. For many years you had harbored the hope of founding a Temple of your own, free to further Set's will on this world, and Vegas promised to be the answer to that. Unfortunately, you weren't the first comer. Already, the Camarilla and the Giovanni had staked out claims. You had known a Giovanni or two in your time and knew they could at least be reasoned with, but the Camarilla! You swallowed your pride and approached the Ventrue Prince, Benedic, who graced you with his presence (a rare thing, so you've found). He stated he would agree to allow you in Las Vegas, for a price. You owe him a blood boon for the allowance of your blood there, unmolested, with the caveat you provided him with what he needed. It appears he has a bit of a thing for descendants of violently murdered nobility. You aren't one to judge, but the hefty price you have to pay to track down the bastard offspring of long dead kings and princes at least allows you to afford the most exclusie nightclub in the domain that serves as your Temple.\n\nYou've drawn others to you, and while not all are as ardent followers of Lord Set as you, they all have their uses in his service. You have a good thing here in Las Vegas and you are loathe to give that up. Where others have struggled in tumultuous domains, you've thrived, and you know it's in part to the Giovanni's influence on the Camarilla. After all, that's part of why you signed the treaty with the old degenerate Jew, Schlomo Rothstein. As independents, the Setites have always found the Giovanni useful tools in their work, and frankly, they've always been fairly good allies. That being said, the Tremere have their uses as well, and you've found Irene Elvonia most helpful and enlightening in exchanges of magical research. But, let's be honest, your money is made off of the Camarilla. They like their dirty secrets and lies, just as the nobles did when you were young, and much as you despise them for it, they also give you the ability to do what you do. Benedic's disappearance is most concerning, as he is how you have the protections you do. You have a hunch his esoteric taste may have something to do with it, but the question is, is he valuable enough to you to get him back? Maybe the Giovanni can offer a sweeter deal. Then again, the Camarilla may come forward with something even better. Hard to say."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Ibrahim the Beautiful",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Followers of Set - Light Sensitivity"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1715,
+          "column_3": "Embrace Location:",
+          "column_4": "Tolouse, France",
+          "column_6": "Generation",
+          "column_7": "Ancilla 9"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Anthony Sand",
+          "column_2": "Toreador, you've known Anthony since he was a wandering, struggling architect who had lost his way after his Embrace. While he hasn't fallen prey to your charms, you do know he's ambitious and has a vision for the domain."
+        },
+        {
+          "staff_generated_concept": "Geoffrey Montrose",
+          "column_2": "Nosferatu, he's the Seneschal of the domain and the person you've had to deal with the most. You and he already have a good working relationship, and he may be willing to have things status quo."
+        },
+        {
+          "staff_generated_concept": "Schlomo Rothstein",
+          "column_2": "Giovanni, between you two, you helped in the architecture of the treaty of alliance between your two clans. He's always had your back for leverage."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ],
+        [
+          "Benedic's disappearance makes things difficult for everyone who had a special understanding with him. You aren't so sure that whoever comes into power will like having the GIovanni or the Setites around. Make sure that you get the best deal for your people."
+        ],
+        [
+          "As for where Benedic went, you don't know. You know he had some strange feeding habits that you helped him supply. Seems he could only feed from a rare bloodline of European royalty, which can be found, but not cheaply. He paid you nicely for it, it's part of how you got your temple, and it was how you were paying off the boon. Of course, if he's gone, you don't have to worry about that boon, but you have to admit, it was a bit strange. He has 2 childer in the city, neither of which has shown their face, and a bevvy of ghouls in the domain, resources you could collect on if you chose."
+        ],
+        [
+          "You've long been interested in building ties with the other blood mages of the domain. Look into connecting with them. After all, how powerful would a Tremere/Giovanni/Setite block be? Maybe you can petition for an Assamite one as well?"
+        ],
+        [
+          "Has made contact with Nigel Walpole, Setite in OC. Is establishing a new temple along the OC/LA County borders.",
+          "2018-11-16 00:00:00",
+          "Jenn"
+        ]
+      ],
+      "records": [
+        {
+          "personal_plot_objects": "Benedic's disappearance makes things difficult for everyone who had a special understanding with him. You aren't so sure that whoever comes into power will like having the GIovanni or the Setites around. Make sure that you get the best deal for your people."
+        },
+        {
+          "personal_plot_objects": "As for where Benedic went, you don't know. You know he had some strange feeding habits that you helped him supply. Seems he could only feed from a rare bloodline of European royalty, which can be found, but not cheaply. He paid you nicely for it, it's part of how you got your temple, and it was how you were paying off the boon. Of course, if he's gone, you don't have to worry about that boon, but you have to admit, it was a bit strange. He has 2 childer in the city, neither of which has shown their face, and a bevvy of ghouls in the domain, resources you could collect on if you chose."
+        },
+        {
+          "personal_plot_objects": "You've long been interested in building ties with the other blood mages of the domain. Look into connecting with them. After all, how powerful would a Tremere/Giovanni/Setite block be? Maybe you can petition for an Assamite one as well?"
+        },
+        {
+          "personal_plot_objects": "Has made contact with Nigel Walpole, Setite in OC. Is establishing a new temple along the OC/LA County borders.",
+          "date": "2018-11-16 00:00:00",
+          "st_for_the_plot": "Jenn"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "3",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ],
+        [
+          "2018-11-10 22:57:29.164000",
+          "charlottesvolos@gmail.com",
+          "Charlotte Svolos",
+          "Eleanor Dusquene",
+          "Other",
+          "Feeding in my sect's domain (1 DT)",
+          "I am spending a DT",
+          "Contact Giovanni and arrange to talk",
+          "I am spending a DT",
+          "Getting familiar with local occult scene",
+          "I am spending a DT",
+          "Working on establishing a cult",
+          "Background - I am using a background to start or modify an action.",
+          "Getting a nightclub up and running",
+          "Done - I am not doing any more actions."
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "3": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        },
+        {
+          "0": "Contact Giovanni and arrange to talk",
+          "3": "Eleanor Dusquene",
+          "genaral_towntimes": "2018-11-10 22:57:29.164000",
+          "3_0": "charlottesvolos@gmail.com",
+          "influnce_downtimes": "Charlotte Svolos",
+          "computer_downtimes": "Other",
+          "science_downtimes": "I am spending a DT",
+          "column_9": "I am spending a DT",
+          "column_10": "Getting familiar with local occult scene",
+          "column_11": "I am spending a DT",
+          "column_12": "Working on establishing a cult",
+          "column_13": "Background - I am using a background to start or modify an action.",
+          "column_14": "Getting a nightclub up and running",
+          "column_15": "Done - I am not doing any more actions."
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

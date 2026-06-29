@@ -1,0 +1,848 @@
+{
+  "source": {
+    "title": "OLD-Alfonso-Alma-Luna-Gangrel-Reclaimed-Door",
+    "fileName": "OLD-Alfonso-Alma-Luna-Gangrel-Reclaimed-Door.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Gangrel\\Old\\OLD-Alfonso-Alma-Luna-Gangrel-Reclaimed-Door.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters",
+    "Characters",
+    "Gangrel",
+    "Old"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER",
+    "characterName": "Alfonso/Alma Luna",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Pillars of Salt",
+    "archetype": "Curious",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Ancilla",
+    "clan": "Gangrel"
+  },
+  "attributes": {
+    "physcial": 7,
+    "social": 3,
+    "mental": 5
+  },
+  "backgrounds": {
+    "generation": 2,
+    "herd": 1,
+    "resources": 3,
+    "retainers": 1
+  },
+  "currentPools": {},
+  "abilities": {
+    "atheltics": 1,
+    "awareness": 2,
+    "investigation": 2,
+    "stealth": 2,
+    "brawl": 4,
+    "streetwise": 1,
+    "linguistics": 1,
+    "subterfuge": 1,
+    "lore": 1,
+    "survival": 3,
+    "dodge": 3,
+    "drive": 1,
+    "starting_xp": 35,
+    "unspent_xp": 3
+  },
+  "status": [
+    "Accepted (Special)"
+  ],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Lore: ? Player Decide"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Alfonso/Alma Luna",
+        "",
+        "",
+        "",
+        "Pillars of Salt",
+        "",
+        "",
+        "Generation",
+        "2.0",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "Current Blood Points",
+        "12.0"
+      ],
+      [
+        "",
+        "Curious",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternitive Identity",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archtype",
+        "",
+        "Title",
+        "",
+        "",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Ancilla",
+        "",
+        "Gangrel",
+        "",
+        "",
+        "",
+        "",
+        "Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "Clan Flaw",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Total",
+        "",
+        "Focus",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Physcial",
+        "7.0",
+        "",
+        "",
+        "Stamina",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "3.0",
+        "",
+        "",
+        "Manipulation",
+        "",
+        "",
+        "Resources",
+        "3.0"
+      ],
+      [
+        "",
+        "Mental",
+        "5.0",
+        "",
+        "",
+        "Perception",
+        "",
+        "",
+        "Retainers",
+        "1.0",
+        "",
+        "DISCIPLINES & RITUALS & OTHER POWERS"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERIT & FLAWS"
+      ],
+      [
+        "",
+        "Accepted (Special)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Shape of Beasts Wraith",
+        "",
+        "",
+        "Animalism",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Calm Heart",
+        "",
+        "",
+        "Fortitude",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Efficient Digestion",
+        "",
+        "",
+        "Protean",
+        "3.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Potence",
+        "1.0"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Empathy",
+        "",
+        "Occult"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Atheltics",
+        "1.0",
+        "Intimidation",
+        "",
+        "Security"
+      ],
+      [
+        "",
+        "Awareness",
+        "2.0",
+        "Investigation",
+        "2.0",
+        "Stealth",
+        "2.0"
+      ],
+      [
+        "",
+        "Brawl",
+        "4.0",
+        "Leadership",
+        "",
+        "Streetwise",
+        "1.0",
+        "",
+        "ABILITES FOCUS"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Linguistics",
+        "1.0",
+        "Subterfuge",
+        "1.0",
+        "",
+        "Lore: ? Player Decide"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "1.0",
+        "Survival",
+        "3.0"
+      ],
+      [
+        "",
+        "Dodge",
+        "3.0",
+        "Medicine",
+        "",
+        "Performance"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Melee"
+      ],
+      [],
+      [],
+      [
+        "",
+        "EXPERINCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "35",
+        "",
+        "",
+        "Unspent XP",
+        "3"
+      ],
+      [
+        "",
+        "Spent XP",
+        "",
+        "",
+        "",
+        "Merit Points Spent"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "Cost",
+          "",
+          "",
+          "Total XP Left"
+        ],
+        [
+          "2 xp Subterfuge",
+          "Pre Game",
+          "2.0",
+          "",
+          "",
+          "3"
+        ],
+        [
+          "Streetwise lvl 1",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "15xp Protean 2, 3",
+          "Pre Game",
+          "15.0"
+        ],
+        [
+          "4 xp Potence 1",
+          "Pre Game",
+          "4.0"
+        ],
+        [
+          "4 xp Auspex 1",
+          "Pre Game",
+          "4.0"
+        ],
+        [
+          "3 xp Shape of the beasts wrath",
+          "Pre Game",
+          "3.0"
+        ],
+        [
+          "1 xp Calm Heart",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "1xp Efficient Digestion",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [],
+        [
+          "Earned in Game XP",
+          "2015-11-07 00:00:00",
+          "3.0"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Game Earned XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "2 xp Subterfuge",
+          "date": "Pre Game",
+          "cost": 2,
+          "total_xp_left": 3
+        },
+        {
+          "what_was_bought": "Streetwise lvl 1",
+          "date": "Pre Game",
+          "cost": 2
+        },
+        {
+          "what_was_bought": "15xp Protean 2, 3",
+          "date": "Pre Game",
+          "cost": 15
+        },
+        {
+          "what_was_bought": "4 xp Potence 1",
+          "date": "Pre Game",
+          "cost": 4
+        },
+        {
+          "what_was_bought": "4 xp Auspex 1",
+          "date": "Pre Game",
+          "cost": 4
+        },
+        {
+          "what_was_bought": "3 xp Shape of the beasts wrath",
+          "date": "Pre Game",
+          "cost": 3
+        },
+        {
+          "what_was_bought": "1 xp Calm Heart",
+          "date": "Pre Game",
+          "cost": 1
+        },
+        {
+          "what_was_bought": "1xp Efficient Digestion",
+          "date": "Pre Game",
+          "cost": 1
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "Earned in Game XP",
+          "date": "2015-11-07 00:00:00",
+          "cost": 3
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History"
+        ],
+        [
+          "\"Mexican by birth, Manny , came to the US to work the fields on the circuit up and down the Pacific Coast with the seasons.  It was what he knew as a child and it was what he knew as an adult.  One day, he stayed in the orchard tool long and someone attacked him, and he was embraced.  She said she was sorry but she was so hungry, and then instead of letting you die, she said she was lonely too.  She took you around for a year and showed you how to live, you had a whirlwind friendship, your first, and then one evening she was gone.  Forever.  You have not seen her in 37 years, but you are still looking, Theresa is still around, you are always too late, but you have evidence of where she has been and are always following. You have met many people but people just seem to want you for your physcial ablibies, You miss that friendship you had. You don't mind combat but you need brothers, true friends. Everyone just seems to manuplate you. You came to LA, because you have a photo of her getting off the train at Union two months ago . . . with an asian man, your antisocial not dumb, you know about the cathayans in LA.  Your here now, you got to find out whats going on, and fuck, you got to find Theresa again, see if she needs rescuing or what?\" Your begining to wonder though if she is also playing you.. how can you know if anyone is truly a friend"
+        ],
+        [
+          "Sire:",
+          "Theresa",
+          "Embrace Date:",
+          "1977.0",
+          "Embrace Location:",
+          "Washington State"
+        ],
+        [],
+        [
+          "Who you Know"
+        ],
+        [
+          "#1 Find Theresa"
+        ],
+        [
+          "#2 Find out what she would be doing with the asian vampires."
+        ],
+        [
+          "#3 Look for real friendships, don't be a pawn anymore. This does not mean you wont help someone out, just dont have it always be one sided."
+        ],
+        [],
+        [
+          "Starting Goals"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History"
+        ],
+        [],
+        [],
+        [
+          "Background RP Submits",
+          "",
+          "For what Backgrounds"
+        ]
+      ],
+      "records": [
+        {
+          "sire": "Who you Know"
+        },
+        {
+          "sire": "#1 Find Theresa"
+        },
+        {
+          "sire": "#2 Find out what she would be doing with the asian vampires."
+        },
+        {
+          "sire": "#3 Look for real friendships, don't be a pawn anymore. This does not mean you wont help someone out, just dont have it always be one sided."
+        },
+        {
+          "sire": "Starting Goals"
+        },
+        {
+          "sire": "Player Submited History"
+        },
+        {
+          "sire": "Background RP Submits",
+          "embrace_date": "For what Backgrounds"
+        }
+      ]
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

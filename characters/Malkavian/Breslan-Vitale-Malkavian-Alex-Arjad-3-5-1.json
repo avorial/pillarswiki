@@ -1,0 +1,1964 @@
+{
+  "source": {
+    "title": "Breslan-Vitale-Malkavian-Alex-Arjad-3-5-1",
+    "fileName": "Breslan-Vitale-Malkavian-Alex-Arjad-3-5-1.xlsx",
+    "localPath": "source-sheets\\Malkavian\\Breslan-Vitale-Malkavian-Alex-Arjad-3-5-1.xlsx"
+  },
+  "folderPath": [
+    "Malkavian"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "Breslan Vitale",
+    "playerName": "Alex Arjad",
+    "gmailAccount": "",
+    "clanCoordinator": "Charlotte Svolos",
+    "archetype": "Bully",
+    "title": "Neonate",
+    "characterStartDate": "2016-01-23 00:00:00",
+    "generationLabel": "Neonate 11",
+    "clan": "Malkavians - Permanent Derangement"
+  },
+  "attributes": {
+    "physical": 5,
+    "social": 3,
+    "mental": 11
+  },
+  "backgrounds": {
+    "generation": 1,
+    "contacts": 2,
+    "herd": 2,
+    "influence_elite": 5,
+    "influence_underworld": 1,
+    "resources": 2
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "academics": 2,
+    "investigation": 2,
+    "subterfuge": 1,
+    "linguistics": 2,
+    "brawl": 3,
+    "computer": 5,
+    "malk_time": 5,
+    "crafts": 2,
+    "dodge": 2,
+    "drive": 1,
+    "science": 3,
+    "empathy": 1,
+    "security": 1,
+    "firearms": 3,
+    "stealth": 3
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Expanded Consciousness -1",
+    "Personal Masquerade -1",
+    "Whisper of Life -1"
+  ],
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "value": 2
+    },
+    {
+      "name": "Dementation",
+      "value": 1
+    },
+    {
+      "name": "Obfuscate",
+      "value": 2
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Academics:",
+    "Crafts: Robotics,",
+    "Embedded Computer Programming",
+    "Linguistics: (Russian), English,",
+    "German"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CAMARILLA: LA",
+        "",
+        "Gmail Account: MrMorden81@gmail.com",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "83"
+      ],
+      [
+        "",
+        "Breslan Vitale",
+        "",
+        "Alex Arjad",
+        "",
+        "Charlotte Svolos",
+        "",
+        "",
+        "Generation",
+        "1.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Bully",
+        "",
+        "Neonate",
+        "",
+        "2016-01-23 00:00:00",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "3.0",
+        "",
+        "Current Blood Points * Per Turn ~ 10*1"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "2.0",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Neonate 11",
+        "",
+        "Malkavians - Permanent Derangement",
+        "",
+        "",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "",
+        "Alternate Idenity - You have a background that will get you in to any Cam city"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "",
+        "2.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd",
+        "2.0",
+        "",
+        "",
+        "Influnce Elite - Comp Sci Academics, Mathemiticians, CalTech, Academic Administrators"
+      ],
+      [
+        "",
+        "Physical",
+        "5.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\"",
+        "5.0"
+      ],
+      [
+        "",
+        "Social",
+        "3.0",
+        "Manipulation - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\"",
+        "1.0",
+        "",
+        "",
+        "Haven (Library, Size)      Contacts-Drone Fleet x2"
+      ],
+      [
+        "",
+        "Mental",
+        "11.0",
+        "Intelligence and Wits",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Retainers",
+        "",
+        "5.0",
+        "",
+        "Underworld- Black hat hacker buddies"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "Favored (Fleeting)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "Favored (Fleeting)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Expanded Consciousness -1",
+        "",
+        "",
+        "",
+        "Auspex",
+        "2.0"
+      ],
+      [
+        "",
+        "Favored (Fleeting)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Personal Masquerade -1",
+        "",
+        "",
+        "",
+        "Dementation",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Whisper of Life -1",
+        "",
+        "",
+        "",
+        "Obfuscate",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Blood Magic Training -4",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Path of Technomancy (C)",
+        "1.0"
+      ],
+      [
+        "",
+        "Academics",
+        "2.0",
+        "Intimidation",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "Dark Secret +1"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "2.0",
+        "Subterfuge",
+        "1.0",
+        "",
+        "Bad Sight +2"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "Survival",
+        "",
+        "",
+        "Prey Exclusion +1"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "2.0",
+        "Performance"
+      ],
+      [
+        "",
+        "Brawl",
+        "3.0",
+        "Lore",
+        "",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "5.0",
+        "Medicine",
+        "",
+        "Malk Time",
+        "5.0",
+        "",
+        "Academics:"
+      ],
+      [
+        "",
+        "Crafts",
+        "2.0",
+        "Melee"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "",
+        "",
+        "",
+        "",
+        "Crafts: Robotics,"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Science",
+        "3.0",
+        "",
+        "",
+        "",
+        "Embedded Computer Programming"
+      ],
+      [
+        "",
+        "Empathy",
+        "1.0",
+        "Security",
+        "1.0",
+        "",
+        "",
+        "",
+        "Linguistics: (Russian), English,"
+      ],
+      [
+        "",
+        "Firearms",
+        "3.0",
+        "Stealth",
+        "3.0",
+        "",
+        "",
+        "",
+        "German"
+      ],
+      [
+        "",
+        "COMMON POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Science: Physics, Nuclear Physics,"
+      ],
+      [
+        "",
+        "Brawl    8",
+        "",
+        "Dodge    7",
+        "",
+        "Obfuscate    14",
+        "",
+        "",
+        "Chemistry"
+      ],
+      [
+        "",
+        "Melee    5",
+        "",
+        "Auspex    13",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (Wits)   14",
+        "",
+        "Dementation    4",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.1"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Expanded Consciousness",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Personal Masquerade",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Whisper of Life",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "106"
+        ],
+        [
+          "Versatile",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Dark Secret",
+          "Pre Game",
+          "1.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Bad Sight",
+          "Pre Game",
+          "1.0",
+          "",
+          "",
+          "17"
+        ],
+        [
+          "Prey Exclusion (Academics)",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "Mental 8-11",
+          "Pre Game",
+          "-12.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Investigation 2",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "2.833333333"
+        ],
+        [
+          "Alternate Identity 1 and 2",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "82"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "24"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Starting Unspent XP",
+          "Creation",
+          "",
+          "10.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-01-23 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Influence: Elite 4",
+          "2016-02-22 00:00:00",
+          "",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-03-26 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Herd 1",
+          "2016-04-30 00:00:00",
+          "",
+          "",
+          "1.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-04-30 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-05-21 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Convention Game",
+          "2016-05-27 00:00:00",
+          "3.0",
+          "3.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-06-25 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "6 Game Bonus XP",
+          "2016-06-25 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Influence: Elite 5",
+          "2016-07-19 00:00:00",
+          "",
+          "",
+          "5.0"
+        ],
+        [
+          "Resources 2",
+          "2016-07-19 00:00:00",
+          "",
+          "",
+          "3.0"
+        ],
+        [
+          "Crafts 1 and 2",
+          "2016-07-19 00:00:00",
+          "",
+          "",
+          "3.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-07-24 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-08-28 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Security lvl 1",
+          "2016-08-24 00:00:00",
+          "",
+          "",
+          "1.0"
+        ],
+        [
+          "Influence Underworld (Black Hat Hacker Buddies)",
+          "2016-08-24 00:00:00",
+          "",
+          "",
+          "1.0"
+        ],
+        [
+          "Alternate ID 3",
+          "2016-09-24 00:00:00",
+          "",
+          "",
+          "3.0"
+        ],
+        [
+          "Herd 2",
+          "2016-09-24 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-09-24 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-11-25 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Contacts- Drone Fleet x2",
+          "2016-11-29 00:00:00",
+          "",
+          "",
+          "3.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-12-05 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Remove Versatile",
+          "2017-01-24 00:00:00",
+          "",
+          "0.0"
+        ],
+        [
+          "Blood Magic training",
+          "2017-01-24 00:00:00",
+          "",
+          "",
+          "4.0"
+        ],
+        [
+          "Technomancy",
+          "2017-01-24 00:00:00",
+          "",
+          "",
+          "4.0"
+        ],
+        [
+          "Obfuscate 2",
+          "2017-01-24 00:00:00",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-02-14 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "6 Game Bonus XP",
+          "2017-02-14 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Convention Game",
+          "2017-02-20 00:00:00",
+          "6.0",
+          "6.0"
+        ],
+        [
+          "3 DT spent",
+          "2017-03-20 00:00:00",
+          "-3.0"
+        ],
+        [
+          "Retainer 1-5",
+          "2017-03-20 00:00:00",
+          "",
+          "",
+          "15.0"
+        ],
+        [
+          "Firearms 1-3",
+          "2017-03-20 00:00:00",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Stealth 1-3",
+          "2017-03-20 00:00:00",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-04-29 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-05-13 00:00:00",
+          "",
+          "8.0"
+        ],
+        [
+          "Convention Game",
+          "2017-05-27 00:00:00",
+          "3.0",
+          "4.0"
+        ],
+        [
+          "Malk time1-5",
+          "",
+          "",
+          "",
+          "15.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-06-24 00:00:00",
+          "",
+          "7.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 10
+        },
+        {
+          "what_was_bought": "Expanded Consciousness",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Personal Masquerade",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Whisper of Life",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 106
+        },
+        {
+          "what_was_bought": "Versatile",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Dark Secret",
+          "date": "Pre Game",
+          "all_costs": 1,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Bad Sight",
+          "date": "Pre Game",
+          "all_costs": 1,
+          "starting_total_xp_left": 17
+        },
+        {
+          "what_was_bought": "Prey Exclusion (Academics)",
+          "date": "Pre Game",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "Mental 8-11",
+          "date": "Pre Game",
+          "all_costs": -12,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Investigation 2",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 2.833333333
+        },
+        {
+          "what_was_bought": "Alternate Identity 1 and 2",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 82
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 24
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Starting Unspent XP",
+          "date": "Creation",
+          "column_4": 10
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-01-23 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Influence: Elite 4",
+          "date": "2016-02-22 00:00:00",
+          "column_5": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-03-26 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Herd 1",
+          "date": "2016-04-30 00:00:00",
+          "column_5": 1
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-04-30 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-05-21 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2016-05-27 00:00:00",
+          "all_costs": 3,
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-06-25 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "6 Game Bonus XP",
+          "date": "2016-06-25 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Influence: Elite 5",
+          "date": "2016-07-19 00:00:00",
+          "column_5": 5
+        },
+        {
+          "what_was_bought": "Resources 2",
+          "date": "2016-07-19 00:00:00",
+          "column_5": 3
+        },
+        {
+          "what_was_bought": "Crafts 1 and 2",
+          "date": "2016-07-19 00:00:00",
+          "column_5": 3
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-07-24 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-08-28 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Security lvl 1",
+          "date": "2016-08-24 00:00:00",
+          "column_5": 1
+        },
+        {
+          "what_was_bought": "Influence Underworld (Black Hat Hacker Buddies)",
+          "date": "2016-08-24 00:00:00",
+          "column_5": 1
+        },
+        {
+          "what_was_bought": "Alternate ID 3",
+          "date": "2016-09-24 00:00:00",
+          "column_5": 3
+        },
+        {
+          "what_was_bought": "Herd 2",
+          "date": "2016-09-24 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-09-24 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-11-25 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Contacts- Drone Fleet x2",
+          "date": "2016-11-29 00:00:00",
+          "column_5": 3
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-12-05 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Remove Versatile",
+          "date": "2017-01-24 00:00:00",
+          "column_4": 0
+        },
+        {
+          "what_was_bought": "Blood Magic training",
+          "date": "2017-01-24 00:00:00",
+          "column_5": 4
+        },
+        {
+          "what_was_bought": "Technomancy",
+          "date": "2017-01-24 00:00:00",
+          "column_5": 4
+        },
+        {
+          "what_was_bought": "Obfuscate 2",
+          "date": "2017-01-24 00:00:00",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-02-14 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "6 Game Bonus XP",
+          "date": "2017-02-14 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2017-02-20 00:00:00",
+          "all_costs": 6,
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "3 DT spent",
+          "date": "2017-03-20 00:00:00",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Retainer 1-5",
+          "date": "2017-03-20 00:00:00",
+          "column_5": 15
+        },
+        {
+          "what_was_bought": "Firearms 1-3",
+          "date": "2017-03-20 00:00:00",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Stealth 1-3",
+          "date": "2017-03-20 00:00:00",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-04-29 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-05-13 00:00:00",
+          "column_4": 8
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2017-05-27 00:00:00",
+          "all_costs": 3,
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Malk time1-5",
+          "column_5": 15
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-06-24 00:00:00",
+          "column_4": 7
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "A diehard Mathematician, graduated from Moscow University in the 1930's, he worked with several prominent physicists on projects through the soviet space program and nuclear program. He was embraced in the mid 1950's by a sire who was captivated by the beauty of numbers. This was during a time, that vampire travel to the eastern block states was stopped by the powers of Baba Yaga. By talking though intermediaries, he made a deal that in exchange for teaching them how to defuse weapons, they would let him travel. He traveled for years, until all the intermediaries just stopped being around?\n\nRecently he came to LA as part of his world tour of schools famous for their mathematics professors and programs (cal tech in this case). He usually spends two years exploring all the school has to offer before looking to move on. While he is here he has been contacted by a mysterious man and presented a conundrum, he murdered the seneschal of Prague in a frenzy in 1994 during a debate on prime numbers. He was never accused of the crime and was able to move on successfully, but now he has been shown a video of the act that which clearly identifies him. He does not know who is blackmailing or for what yet.\n\nIs this one of the intermediaries of Baba Yaga or something even more mysterious?"
+        ],
+        [
+          "Sire:",
+          "",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Malkavians - Permanent Derangement"
+        ],
+        [
+          "Embrace Date:",
+          "",
+          "Embrace Location:",
+          "",
+          "",
+          "Generation",
+          "Neonate 11"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Yuri Luzhko (Nosferantu) A servant of baba yaga back in the day, you never were under him but you had heard of his name."
+        ],
+        [
+          "Hal Harris (Gangrel) A expert at getting people in and out of citys, A imporant contact for you to make."
+        ],
+        [
+          "Gloria Edwards (Tremere) While running though papers at CalTech, you found a document (A professior, put this name as who he wanted to get insurance money if he died) It might be something to check out."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "#1 Gain physical support to let you study in peace at Cal Tech"
+        ],
+        [
+          "#2 Survive your blackmailer, find out what they want, and get them taken care of or destroy them as needed."
+        ],
+        [
+          "#3 Embrace a like minded people to futher a school of learned immortals"
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "A diehard Mathematician, graduated from Moscow University in the 1930's, he worked with several prominent physicists on projects through the soviet space program and nuclear program. He was embraced in the mid 1950's by a sire who was captivated by the beauty of numbers. This was during a time, that vampire travel to the eastern block states was stopped by the powers of Baba Yaga. By talking though intermediaries, he made a deal that in exchange for teaching them how to defuse weapons, they would let him travel. He traveled for years, until all the intermediaries just stopped being around?\n\nRecently he came to LA as part of his world tour of schools famous for their mathematics professors and programs (cal tech in this case). He usually spends two years exploring all the school has to offer before looking to move on. While he is here he has been contacted by a mysterious man and presented a conundrum, he murdered the seneschal of Prague in a frenzy in 1994 during a debate on prime numbers. He was never accused of the crime and was able to move on successfully, but now he has been shown a video of the act that which clearly identifies him. He does not know who is blackmailing or for what yet.\n\nIs this one of the intermediaries of Baba Yaga or something even more mysterious?"
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Malkavians - Permanent Derangement"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_3": "Embrace Location:",
+          "column_6": "Generation",
+          "column_7": "Neonate 11"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Yuri Luzhko (Nosferantu) A servant of baba yaga back in the day, you never were under him but you had heard of his name."
+        },
+        {
+          "staff_generated_concept": "Hal Harris (Gangrel) A expert at getting people in and out of citys, A imporant contact for you to make."
+        },
+        {
+          "staff_generated_concept": "Gloria Edwards (Tremere) While running though papers at CalTech, you found a document (A professior, put this name as who he wanted to get insurance money if he died) It might be something to check out."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "#1 Gain physical support to let you study in peace at Cal Tech"
+        },
+        {
+          "staff_generated_concept": "#2 Survive your blackmailer, find out what they want, and get them taken care of or destroy them as needed."
+        },
+        {
+          "staff_generated_concept": "#3 Embrace a like minded people to futher a school of learned immortals"
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "6",
+          "Computer Downtimes",
+          "5",
+          "Science Downtimes",
+          "3"
+        ],
+        [],
+        [
+          "Timestamp",
+          "email",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ],
+        [
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Elite influence 5: No Party Crashers affecting only the machine shop itself.  (CalTech, academic administrators)\nElite influence 1: A friend in need for usage of the machine shop to build the drones. (CalTech, academic administrators)\nElite influence 4: Smooth over in case someone is curious about why the CalTech machine shop is utterly inaccessible (CalTech, academic administrators) All goes according to plan and drones are in production.",
+          "",
+          "",
+          "",
+          "Spend 3 computer downtimes to disrupt Sabbat activity in South Bay\nSpend 2 computer downtimes to research additional computer components, also spending as much as 2,500 dollars towards obtaining a desktop computer capable specialized for hacking. Actions complete on disrupting SB Sabbat activity. What type of information are you getting on computer components? $2500 buys you a good computer but it is not specialized beyond what you can buy at a store.",
+          "I wish to contact Patric's Anarch baron NPC.  As far as I know, Patric is still incapacitated, so I'm willing to work with him whenever he's ready. Send a ticket",
+          "",
+          "I wish to build 2 observation drones (no weapon capabilities) with 2 standard downtime actions.",
+          "",
+          "Influence: Underworld 1 (black hat hackers)\nCraft 1-2\nSecurity 1 (Also gaining the \"secure\" feature for my haven.)\nAlternate Identity 3\nHerd 2",
+          "10.0"
+        ],
+        [
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "Herd (of my own) (no downtimes) Yay fed"
+        ],
+        [
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "Herd (of my own) (no downtimes) Yay fed"
+        ],
+        [
+          "2016-11-26 22:41:02.033000",
+          "0.0",
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Spend computer downtime actions towards helping the Scourge building a database of the various territories and their status.",
+          "",
+          "",
+          "Spend 3 regular downtime actions to build drones in the CalTech machine shop.",
+          "",
+          "",
+          "Spend 3 xp to acquire Contacts: Drone Fleet lvl 2",
+          "",
+          "Spend 1 elite downtime to secure CalTech machine shop with \"No Party Crashers\"\nSpend 1 elite downtime action to remove inconvenient reports of security with \"smooth over.\"\nSpend 3 elite downtime actions in support of building the supernatural cult...CalTech has plenty of academics."
+        ],
+        [
+          "2017-01-04 18:15:40",
+          "",
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Contacts 2 (Drone fleet): I wish to have my drone fleet shadow my group of Malkavians as we move to our temporary housing and watch for potential ambushes.  I wish to keep the cameras pointed away from our actual mode of transport to complicate tracking us, and will turn them off one mile from our destination.\n\nResources 2: spend ~$1000 dollars on a Google Pixel",
+          "",
+          "",
+          "",
+          "I wish to assemble and configure a database that contains data about the territories of Los Angeles, who holds each one, and what the current strength of those areas are as per the request of the Scourge's office.  Since I do not have the hardware to run that database, I would like to put it onto a flash drive that will install a recent flavor of Linux on boot as well as the database in question.",
+          "Meet with Baron Greg Fasser at the CalTech machine shop",
+          "No",
+          "Spend 1 Downtime to meet with Baron Greg Fasser and become initiated into Technomancy\n\nSpend 1 Downtime to move my haven.",
+          "No",
+          "Remove Versatile, sacrificing Perception focus\nPurchase blood magic training\nPurchase Technomancy 1\nObfuscate 2",
+          "Remove versatile: -3\nBlood magic training: 4\nTechnomancy 1: 4\nObfuscate 2: 6",
+          "Greg Fasser",
+          "Elite influence 5 - No party crashers (CalTech).  Lock down the machine shop at CalTech so Baron Greg and I can meet safely.\n\nElite influence 4 - smooth over (CalTech): Suppress any stories or gossip about the CalTech machine shop being down.\n\nElite Influence 1 - A friend in need (Computer science academics) - Rent a grad student for a few hours to install secure software on the Pixel."
+        ],
+        [
+          "2017/02/04 4:53:04 PM PST",
+          "MrMorden81@gmail.com",
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "This downtime being loaned by Tasmin Verdin (Tali Stein)\n\nTasmin has sent a cell phone to me for analysis.  After receiving the phone, I will use Technomancy: Analyze on it to get its complete hardware specs, then compare that against the specs the phone SHOULD have based on its make and model number.  Because I am Intelligence focused, I can also get a complete list of software installed on the phone, including malware, if any.  I also wish to use this same method to read the contents of the video Tasmin mentioned.  I will not be turning the phone on at any time in this process.  Furthermore, I wish to carry out the tecnomantic analysis on my way to CalTech, say while driving through El Monte or Baldwin Park on the 605.    I also wish to hack into the phone company's logs and see if I can figure out as much as I can about who sent that video.  Finally, I will turn on the phone while at CalTech for about five minutes, then turn it off before returning to Montebello.\n\nMe?  Paranoid?  Nahhhh....okay maybe."
+        ],
+        [
+          "2017/04/13 10:26:46 PM MDT",
+          "MrMorden81@gmail.com",
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "Whittier / Norwalk (Camarilla)",
+          "",
+          "",
+          "Searching for enemy incursions or other aggressive actions in Whittier/Norwalk.  I am using a bonus action for this purpose."
+        ],
+        [
+          "May",
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "MrMorden81@gmail.com",
+          "Herd (of my own) (no downtimes)",
+          "Will not feed on academics",
+          "Whittier / Norwalk (Camarilla)",
+          "",
+          "Whittier / Norwalk (Camarilla)",
+          "I am personally patrolling the Whittier/Norwalk to learn the current defense of that territory, also to improve the defense of that territory.",
+          "",
+          "",
+          "I am using Contacts: Drone Fleet (2) to patrol and learn the defense ratings of San Gabirel and Chinatown.",
+          "I've got Black Hat hacker buddies for Underworld influence. Does Underworld Influence 1: Safe Passage apply to cyberspace?",
+          "Elite Influence 1, A Friend In Need (Computer science academics): At the very least, I need a computer and a secure internet connection that can't be readily traced back to me. Ideally, I would like to get a computer outfitted with \"security software\" (read: hacking tools), the kind of which computer security researchers occasionally need to use. I won't be at CalTech because of the no-go situation there, I'll just pick some community college.",
+          "",
+          "",
+          "Using the computer facilities acquired from my Elite Influence actions, I will be hacking into the local telecoms and searching for Korean and/or Chinese language chatter, particularly SMS traffic going through cell towers in or around the Chinese embassy. Internet traffic coming out of the Chinese embassy would also be of interest. I do not intend to breach any of the Chinese embassy's intranet systems.",
+          "",
+          "No",
+          "I am spending 1 regular DTs and 4 bonus DTs to represent the meditation necessary to develop 5 dots in the Malkavian Time skill.",
+          "No",
+          "Malkavian time 1-5",
+          "Malkavian Time 1 (1 xp)"
+        ],
+        [
+          "2017-06-09 20:47:04.484000",
+          "0.0",
+          "Breslan Vitale",
+          "Malkavians",
+          "Alex Arjad",
+          "Herd (of my own) (no downtimes)",
+          "Can't eat academics",
+          "Whittier / Norwalk (Camarilla)",
+          "",
+          "Whittier / Norwalk (Camarilla)",
+          "I will be burning 2 bonus DTs to do two additional Domain Patrol/Investigation actions in Whittier/Norwalk, in addition to spending 1 regular DT on Domain Patrol and 1 regular DT on Domain Defense\n\nWith the three total Domain patrol/investigations, I wish to learn the current defense of the domain, if anyone has fed in the domain, and any relevant plot points in the domain.  I will basically be spending a lot of time hitting the pavement, watching the interwebs for unusual activity in Whittier/Norwalk, and perhaps sending the occasional drone overhead to check out potential hotspots.\n\nMy Domain Defense action will be me hitting the pavement some more and making sure things are okay, warning away potential na'er-do-wells from our territory and so forth.",
+          "",
+          "Drone fleet (level 2)\n\nI am using my drone fleet for surveillance of South LA.  I'm interested in numbers of vampires, and if I can swing it, identifying gathering points and havens for Sabbat vampires.",
+          "",
+          "",
+          "",
+          "I wish to hack into the US Coast Guard servers and look for evidence of Sabbat smuggling or other activities.",
+          "I need to meet with Archon Hale to discuss the terms of repayment from Malkavian for their intervention in the Morris affair.  I would like this to be handled by Theo.  The time I propose is Tuesday July 13 at 6:30 PM.",
+          "Yes",
+          "",
+          "No",
+          "I wish to purchase Malkavian time 1-5.  I will be learning it from Dan Pipoly's NPC.",
+          "Malkavian Time 1 (1 xp)\nMalkavian Time 2 (2 xp)\nMalkavian Time 3 (3 xp)\nMalkavian Time 4 (4 xp)\nMalkavian Time 5 (5 xp)",
+          "",
+          "Influence 1: A friend in need (Academic administrators) I wish to borrow a computer lab from a community college while I do my computer downtime\n\nInfluence 5: No party crashers (Comp sci academics) I wish to have said computer lab entirely to myself\n\nInfluence 4: Smooth over (Academic administrators): I wish to have any news stories about unusual computer usage disappear from student and/or local newspapers. \n\nInfluence 2: Gossip and insider trading (CalTech): Anything ususual happen at CalTech?\n\nInfluence 2: Gossip and insider trading (Comp sci academics): Anything unusual happening the world of computer science?",
+          "",
+          "MrMorden81@gmail.com"
+        ]
+      ],
+      "records": [
+        {
+          "3": "Investigation / Patrol Actions",
+          "5": "Hunting Actions",
+          "6": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "email",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        },
+        {
+          "6": "Herd (of my own) (no downtimes)",
+          "genaral_towntimes": "Breslan Vitale",
+          "3_0": "Malkavians",
+          "influnce_downtimes": "Alex Arjad",
+          "column_11": "Elite influence 5: No Party Crashers affecting only the machine shop itself.  (CalTech, academic administrators)\nElite influence 1: A friend in need for usage of the machine shop to build the drones. (CalTech, academic administrators)\nElite influence 4: Smooth over in case someone is curious about why the CalTech machine shop is utterly inaccessible (CalTech, academic administrators) All goes according to plan and drones are in production.",
+          "column_15": "Spend 3 computer downtimes to disrupt Sabbat activity in South Bay\nSpend 2 computer downtimes to research additional computer components, also spending as much as 2,500 dollars towards obtaining a desktop computer capable specialized for hacking. Actions complete on disrupting SB Sabbat activity. What type of information are you getting on computer components? $2500 buys you a good computer but it is not specialized beyond what you can buy at a store.",
+          "column_16": "I wish to contact Patric's Anarch baron NPC.  As far as I know, Patric is still incapacitated, so I'm willing to work with him whenever he's ready. Send a ticket",
+          "column_18": "I wish to build 2 observation drones (no weapon capabilities) with 2 standard downtime actions.",
+          "column_20": "Influence: Underworld 1 (black hat hackers)\nCraft 1-2\nSecurity 1 (Also gaining the \"secure\" feature for my haven.)\nAlternate Identity 3\nHerd 2",
+          "column_21": 10
+        },
+        {
+          "6": "Herd (of my own) (no downtimes) Yay fed",
+          "genaral_towntimes": "Breslan Vitale",
+          "3_0": "Malkavians",
+          "influnce_downtimes": "Alex Arjad"
+        },
+        {
+          "6": "Herd (of my own) (no downtimes) Yay fed",
+          "genaral_towntimes": "Breslan Vitale",
+          "3_0": "Malkavians",
+          "influnce_downtimes": "Alex Arjad"
+        },
+        {
+          "5": "Herd (of my own) (no downtimes)",
+          "6": "Malkavians",
+          "genaral_towntimes": "2016-11-26 22:41:02.033000",
+          "3_0": 0,
+          "influnce_downtimes": "Breslan Vitale",
+          "computer_downtimes": "Alex Arjad",
+          "column_17": "Spend computer downtime actions towards helping the Scourge building a database of the various territories and their status.",
+          "column_20": "Spend 3 regular downtime actions to build drones in the CalTech machine shop.",
+          "column_23": "Spend 3 xp to acquire Contacts: Drone Fleet lvl 2",
+          "column_25": "Spend 1 elite downtime to secure CalTech machine shop with \"No Party Crashers\"\nSpend 1 elite downtime action to remove inconvenient reports of security with \"smooth over.\"\nSpend 3 elite downtime actions in support of building the supernatural cult...CalTech has plenty of academics."
+        },
+        {
+          "5": "Herd (of my own) (no downtimes)",
+          "6": "Malkavians",
+          "genaral_towntimes": "2017-01-04 18:15:40",
+          "influnce_downtimes": "Breslan Vitale",
+          "computer_downtimes": "Alex Arjad",
+          "column_13": "Contacts 2 (Drone fleet): I wish to have my drone fleet shadow my group of Malkavians as we move to our temporary housing and watch for potential ambushes.  I wish to keep the cameras pointed away from our actual mode of transport to complicate tracking us, and will turn them off one mile from our destination.\n\nResources 2: spend ~$1000 dollars on a Google Pixel",
+          "column_17": "I wish to assemble and configure a database that contains data about the territories of Los Angeles, who holds each one, and what the current strength of those areas are as per the request of the Scourge's office.  Since I do not have the hardware to run that database, I would like to put it onto a flash drive that will install a recent flavor of Linux on boot as well as the database in question.",
+          "column_18": "Meet with Baron Greg Fasser at the CalTech machine shop",
+          "column_19": "No",
+          "column_20": "Spend 1 Downtime to meet with Baron Greg Fasser and become initiated into Technomancy\n\nSpend 1 Downtime to move my haven.",
+          "column_21": "No",
+          "column_22": "Remove Versatile, sacrificing Perception focus\nPurchase blood magic training\nPurchase Technomancy 1\nObfuscate 2",
+          "column_23": "Remove versatile: -3\nBlood magic training: 4\nTechnomancy 1: 4\nObfuscate 2: 6",
+          "column_24": "Greg Fasser",
+          "column_25": "Elite influence 5 - No party crashers (CalTech).  Lock down the machine shop at CalTech so Baron Greg and I can meet safely.\n\nElite influence 4 - smooth over (CalTech): Suppress any stories or gossip about the CalTech machine shop being down.\n\nElite Influence 1 - A friend in need (Computer science academics) - Rent a grad student for a few hours to install secure software on the Pixel."
+        },
+        {
+          "5": "Herd (of my own) (no downtimes)",
+          "6": "Malkavians",
+          "genaral_towntimes": "2017/02/04 4:53:04 PM PST",
+          "3_0": "MrMorden81@gmail.com",
+          "influnce_downtimes": "Breslan Vitale",
+          "computer_downtimes": "Alex Arjad",
+          "column_18": "This downtime being loaned by Tasmin Verdin (Tali Stein)\n\nTasmin has sent a cell phone to me for analysis.  After receiving the phone, I will use Technomancy: Analyze on it to get its complete hardware specs, then compare that against the specs the phone SHOULD have based on its make and model number.  Because I am Intelligence focused, I can also get a complete list of software installed on the phone, including malware, if any.  I also wish to use this same method to read the contents of the video Tasmin mentioned.  I will not be turning the phone on at any time in this process.  Furthermore, I wish to carry out the tecnomantic analysis on my way to CalTech, say while driving through El Monte or Baldwin Park on the 605.    I also wish to hack into the phone company's logs and see if I can figure out as much as I can about who sent that video.  Finally, I will turn on the phone while at CalTech for about five minutes, then turn it off before returning to Montebello.\n\nMe?  Paranoid?  Nahhhh....okay maybe."
+        },
+        {
+          "3": "Whittier / Norwalk (Camarilla)",
+          "5": "Herd (of my own) (no downtimes)",
+          "6": "Malkavians",
+          "genaral_towntimes": "2017/04/13 10:26:46 PM MDT",
+          "3_0": "MrMorden81@gmail.com",
+          "influnce_downtimes": "Breslan Vitale",
+          "computer_downtimes": "Alex Arjad",
+          "column_11": "Searching for enemy incursions or other aggressive actions in Whittier/Norwalk.  I am using a bonus action for this purpose."
+        },
+        {
+          "3": "Whittier / Norwalk (Camarilla)",
+          "5": "Herd (of my own) (no downtimes)",
+          "6": "Alex Arjad",
+          "genaral_towntimes": "May",
+          "3_0": "Breslan Vitale",
+          "influnce_downtimes": "Malkavians",
+          "computer_downtimes": "MrMorden81@gmail.com",
+          "science_downtimes": "Will not feed on academics",
+          "column_10": "Whittier / Norwalk (Camarilla)",
+          "column_11": "I am personally patrolling the Whittier/Norwalk to learn the current defense of that territory, also to improve the defense of that territory.",
+          "column_14": "I am using Contacts: Drone Fleet (2) to patrol and learn the defense ratings of San Gabirel and Chinatown.",
+          "column_15": "I've got Black Hat hacker buddies for Underworld influence. Does Underworld Influence 1: Safe Passage apply to cyberspace?",
+          "column_16": "Elite Influence 1, A Friend In Need (Computer science academics): At the very least, I need a computer and a secure internet connection that can't be readily traced back to me. Ideally, I would like to get a computer outfitted with \"security software\" (read: hacking tools), the kind of which computer security researchers occasionally need to use. I won't be at CalTech because of the no-go situation there, I'll just pick some community college.",
+          "column_19": "Using the computer facilities acquired from my Elite Influence actions, I will be hacking into the local telecoms and searching for Korean and/or Chinese language chatter, particularly SMS traffic going through cell towers in or around the Chinese embassy. Internet traffic coming out of the Chinese embassy would also be of interest. I do not intend to breach any of the Chinese embassy's intranet systems.",
+          "column_21": "No",
+          "column_22": "I am spending 1 regular DTs and 4 bonus DTs to represent the meditation necessary to develop 5 dots in the Malkavian Time skill.",
+          "column_23": "No",
+          "column_24": "Malkavian time 1-5",
+          "column_25": "Malkavian Time 1 (1 xp)"
+        },
+        {
+          "3": "Whittier / Norwalk (Camarilla)",
+          "5": "Herd (of my own) (no downtimes)",
+          "6": "Malkavians",
+          "genaral_towntimes": "2017-06-09 20:47:04.484000",
+          "3_0": 0,
+          "influnce_downtimes": "Breslan Vitale",
+          "computer_downtimes": "Alex Arjad",
+          "science_downtimes": "Can't eat academics",
+          "column_10": "Whittier / Norwalk (Camarilla)",
+          "column_11": "I will be burning 2 bonus DTs to do two additional Domain Patrol/Investigation actions in Whittier/Norwalk, in addition to spending 1 regular DT on Domain Patrol and 1 regular DT on Domain Defense\n\nWith the three total Domain patrol/investigations, I wish to learn the current defense of the domain, if anyone has fed in the domain, and any relevant plot points in the domain.  I will basically be spending a lot of time hitting the pavement, watching the interwebs for unusual activity in Whittier/Norwalk, and perhaps sending the occasional drone overhead to check out potential hotspots.\n\nMy Domain Defense action will be me hitting the pavement some more and making sure things are okay, warning away potential na'er-do-wells from our territory and so forth.",
+          "column_13": "Drone fleet (level 2)\n\nI am using my drone fleet for surveillance of South LA.  I'm interested in numbers of vampires, and if I can swing it, identifying gathering points and havens for Sabbat vampires.",
+          "column_17": "I wish to hack into the US Coast Guard servers and look for evidence of Sabbat smuggling or other activities.",
+          "column_18": "I need to meet with Archon Hale to discuss the terms of repayment from Malkavian for their intervention in the Morris affair.  I would like this to be handled by Theo.  The time I propose is Tuesday July 13 at 6:30 PM.",
+          "column_19": "Yes",
+          "column_21": "No",
+          "column_22": "I wish to purchase Malkavian time 1-5.  I will be learning it from Dan Pipoly's NPC.",
+          "column_23": "Malkavian Time 1 (1 xp)\nMalkavian Time 2 (2 xp)\nMalkavian Time 3 (3 xp)\nMalkavian Time 4 (4 xp)\nMalkavian Time 5 (5 xp)",
+          "column_25": "Influence 1: A friend in need (Academic administrators) I wish to borrow a computer lab from a community college while I do my computer downtime\n\nInfluence 5: No party crashers (Comp sci academics) I wish to have said computer lab entirely to myself\n\nInfluence 4: Smooth over (Academic administrators): I wish to have any news stories about unusual computer usage disappear from student and/or local newspapers. \n\nInfluence 2: Gossip and insider trading (CalTech): Anything ususual happen at CalTech?\n\nInfluence 2: Gossip and insider trading (Comp sci academics): Anything unusual happening the world of computer science?",
+          "column_27": "MrMorden81@gmail.com"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}
