@@ -1,0 +1,27 @@
+name: "Pillars of Salt"
+gameType: "Vampire: The Masquerade"
+categories:
+  - id: npc
+    label: "Dossiers"
+  - id: organization
+    label: "Factions"
+  - id: location
+    label: "Locations"
+  - id: event
+    label: "Timeline"
+  - id: item
+    label: "Sources"
+  - id: lore
+    label: "Lore"
+  - id: game
+    label: "Citybook"
+visibility:
+  default: players
+approvals:
+  aiDefault: approved
+theme:
+  preset: vampire
+  accent: "#b83232"
+  accent2: "#7d5cff"
+  displayFont: "Fraunces"
+  banner: ""
