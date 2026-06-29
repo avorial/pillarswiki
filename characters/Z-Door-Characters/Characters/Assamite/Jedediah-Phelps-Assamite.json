@@ -1,0 +1,935 @@
+{
+  "source": {
+    "title": "Jedediah-Phelps-Assamite",
+    "fileName": "Jedediah-Phelps-Assamite.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Assamite\\Jedediah-Phelps-Assamite.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters",
+    "Characters",
+    "Assamite"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER ~ PILLARS OF SALT",
+    "characterName": "Jedediah Phelps",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Camarilla ~ SD",
+    "archetype": "Bully",
+    "title": "Neonate",
+    "characterStartDate": "",
+    "generationLabel": "Neonate 11",
+    "clan": "Assamite \"Warrior\""
+  },
+  "attributes": {
+    "physcial": 9,
+    "social": 5,
+    "mental": 3
+  },
+  "backgrounds": {
+    "generation": 1,
+    "allies": 3,
+    "contacts": 3,
+    "haven": 2,
+    "herd": 2,
+    "influnce_elite": 2,
+    "influnce_underworld": 2,
+    "resources": 2,
+    "retainers": 1
+  },
+  "currentPools": {},
+  "abilities": {
+    "academics": 1,
+    "occult": 2,
+    "atheltics": 1,
+    "intimidation": 3,
+    "security": 1,
+    "awareness": 1,
+    "stealth": 1,
+    "leadership": 2,
+    "streetwise": 1,
+    "computer": 1,
+    "subterfuge": 2,
+    "lore": 1,
+    "dodge": 3,
+    "melee": 4,
+    "starting_xp": 0,
+    "unspent_xp": 0,
+    "spent_xp": 0,
+    "merit_points_spent": 7
+  },
+  "status": [
+    "Acknowlaged"
+  ],
+  "meritsAndFlaws": [],
+  "disciplines": [
+    {
+      "name": "2.0",
+      "value": null
+    },
+    {
+      "name": "2.0",
+      "value": null
+    },
+    {
+      "name": "2.0",
+      "value": null
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Academics: Psuedo-Religous",
+    "History (Note, this is the",
+    "Westboro Version, and",
+    "if you really want some",
+    "talking points go talk to Jenn)"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "Martin",
+        "MINDS EYE THEATER ~ PILLARS OF SALT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Jedediah Phelps",
+        "",
+        "",
+        "",
+        "Camarilla ~ SD",
+        "",
+        "",
+        "Generation",
+        "1.0",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "3.0",
+        "",
+        "Current Blood Points * Per Turn",
+        "10*1"
+      ],
+      [
+        "",
+        "Bully",
+        "",
+        "Neonate",
+        "",
+        "",
+        "",
+        "",
+        "Alternitive Identity",
+        "",
+        "",
+        "Current Humanity",
+        "3.0"
+      ],
+      [
+        "",
+        "Archtype",
+        "",
+        "Title",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "3.0",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Neonate 11",
+        "",
+        "Assamite \"Warrior\"",
+        "",
+        "Addicted To Vite",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "Haven: Size, Staff, Security"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "Clan Flaw",
+        "",
+        "",
+        "Haven",
+        "2.0",
+        "",
+        "Allies: Westboro Church Members"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "CLAN STATUS",
+        "",
+        "",
+        "Herd",
+        "2.0",
+        "",
+        "Herd: Westboro Church Members"
+      ],
+      [
+        "",
+        "",
+        "#",
+        "Focus",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Elite\"",
+        "2.0",
+        "",
+        "Retainers: Reverend Kyle Phelps"
+      ],
+      [
+        "",
+        "Physcial",
+        "9.0",
+        "Dexterity",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Underworld\"",
+        "2.0",
+        "",
+        "Influ: Under = Dirty SD Cops, Racist Border Patrol"
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Manipulation",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0",
+        "",
+        "Influ: Elite = Intolerant Baptist Churches SD"
+      ],
+      [
+        "",
+        "Mental",
+        "3.0",
+        "Perception",
+        "",
+        "",
+        "",
+        "",
+        "Retainers",
+        "1.0",
+        "",
+        "Christian Alliance against Allah Non-Profit"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERIT & FLAWS",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "Acknowlaged",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Uncommon Clan -2",
+        "",
+        "",
+        "Celerity",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bloodline: Warrior - 2",
+        "",
+        "",
+        "Obfuscate",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Awakening the Steel -3",
+        "",
+        "",
+        "Quietus",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Empathy",
+        "",
+        "Occult",
+        "2.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "",
+        "Science",
+        "",
+        "",
+        "Intolerance +1"
+      ],
+      [
+        "",
+        "Atheltics",
+        "1.0",
+        "Intimidation",
+        "3.0",
+        "Security",
+        "1.0",
+        "",
+        "Short Fuse +2"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Investigation",
+        "",
+        "Stealth",
+        "1.0",
+        "",
+        "Notoriety +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Leadership",
+        "2.0",
+        "Streetwise",
+        "1.0",
+        "",
+        "Lesser Generation 2 +2"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Linguistics",
+        "",
+        "Subterfuge",
+        "2.0",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "RITUALS & OTHER POWERS"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "1.0",
+        "Survival",
+        "",
+        "",
+        "Academics: Psuedo-Religous"
+      ],
+      [
+        "",
+        "Dodge",
+        "3.0",
+        "Medicine",
+        "",
+        "Performance",
+        "",
+        "",
+        "History (Note, this is the"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee",
+        "4.0",
+        "",
+        "",
+        "",
+        "Westboro Version, and"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "if you really want some"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "talking points go talk to Jenn)"
+      ],
+      [
+        "",
+        "EXPERIENCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "0",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent",
+        "7.0",
+        "",
+        "Lore: Camarilla"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Abiliites 4 at lvl 1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Physical x 2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Mertis",
+          "Pre Game",
+          "-7.0"
+        ],
+        [
+          "Flaws",
+          "Pre Game",
+          "7.0"
+        ],
+        [
+          "Contacts lvl 3",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Haven lvl 2",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Herd lvl 1 and 2",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Resources lvl 1 and 2",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Retainers lvl 1 and 2",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Influence: Underworld lvl 1 and 2",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Influence: Elite lvl 1 and 2",
+          "Pre Game",
+          "-3.0"
+        ],
+        [],
+        [],
+        [],
+        [
+          "Game Earned XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Abiliites 4 at lvl 1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Physical x 2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Mertis",
+          "date": "Pre Game",
+          "all_costs": -7
+        },
+        {
+          "what_was_bought": "Flaws",
+          "date": "Pre Game",
+          "all_costs": 7
+        },
+        {
+          "what_was_bought": "Contacts lvl 3",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Haven lvl 2",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Herd lvl 1 and 2",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Resources lvl 1 and 2",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Retainers lvl 1 and 2",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Influence: Underworld lvl 1 and 2",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Influence: Elite lvl 1 and 2",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:"
+        ],
+        [
+          "If only Father knew the truth of the world and the real evil in the shadows. One of the middle children of Fred Philips brood, you were raised in the rhetoric of Westboro Baptist Church, convinced of the many evils of the world, such as gays, Hollywood, Communists, Jews, Catholics, most modern Evangelicals (because they all were blasphemers you see) and pretty much anyone who didn't adhere to your father's hyper-Calvinist understanding of the world. You hatred of everything you saw as blasphemous meant you joined in on several protests, including a protest of a military funeral in Arizona when you were Embraced by the very war hero whose funeral you were interrupting. In a fit of irritation with you, he turned you into a vampire, like him, damning you in the same horrific way he was. Now you are a creature of the damned, worse, of all the clans you could be, you are now a part of a clan that is famous as assassins and magic users, where most all of them are godless-heathen Muslim terrorists. Trapped in your new existence, in prayer you threw yourself at the mercy of God, hoping he would still hear your prayers enough to give you some guidance as to what to do. God works in mysterious ways, and one, horrific night, it occurred to you what your existence was all about. God had chosen you, pre-destined you to serve as his hand, as the means by which he can exact his holy vengence on the sinful, Kindred world. Through your ties to your father's church, you've worked your way into a church in San Diego who shares your intolerant views. You've developed influences with the border patrol and dirty cops, using their influence to plot against the evil of both the Camarilla and Sabbat. Few in Tara's court are fond of you, most of them, even within your own clan, take you seriously, not that you care. they are all godless heathens, (especially those Tremere, who you know are demon spawn with their magics). You care little about the politics, in the end, but you suppose that if you have to put up with anyone, Tara is the worst of all evils, as she has yet to kick you out of her court. As far as you are concerned, this only means that you hope God strikes her down last. Your hope is to cleanse this city of all its evils, but you have to be careful in doing it. Move to fast or to hard, and they will rise against you, and while you are convinced God is on your side, you also know they can overwhelm you if you are't careful. Stay firm in your beliefs, but step carefully as well. You are a brow-beatng crusader, and one day, you will either convince them to repent or see them all burn."
+        ],
+        [
+          "Sire:",
+          "Jeremy Philips, PFC",
+          "Embrace Date:",
+          "2003.0",
+          "Embrace Location:"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "If only Father knew the truth of the world and the real evil in the shadows. One of the middle children of Fred Philips brood, you were raised in the rhetoric of Westboro Baptist Church, convinced of the many evils of the world, such as gays, Hollywood, Communists, Jews, Catholics, most modern Evangelicals (because they all were blasphemers you see) and pretty much anyone who didn't adhere to your father's hyper-Calvinist understanding of the world. You hatred of everything you saw as blasphemous meant you joined in on several protests, including a protest of a military funeral in Arizona when you were Embraced by the very war hero whose funeral you were interrupting. In a fit of irritation with you, he turned you into a vampire, like him, damning you in the same horrific way he was. Now you are a creature of the damned, worse, of all the clans you could be, you are now a part of a clan that is famous as assassins and magic users, where most all of them are godless-heathen Muslim terrorists. Trapped in your new existence, in prayer you threw yourself at the mercy of God, hoping he would still hear your prayers enough to give you some guidance as to what to do. God works in mysterious ways, and one, horrific night, it occurred to you what your existence was all about. God had chosen you, pre-destined you to serve as his hand, as the means by which he can exact his holy vengence on the sinful, Kindred world. Through your ties to your father's church, you've worked your way into a church in San Diego who shares your intolerant views. You've developed influences with the border patrol and dirty cops, using their influence to plot against the evil of both the Camarilla and Sabbat. Few in Tara's court are fond of you, most of them, even within your own clan, take you seriously, not that you care. they are all godless heathens, (especially those Tremere, who you know are demon spawn with their magics). You care little about the politics, in the end, but you suppose that if you have to put up with anyone, Tara is the worst of all evils, as she has yet to kick you out of her court. As far as you are concerned, this only means that you hope God strikes her down last. Your hope is to cleanse this city of all its evils, but you have to be careful in doing it. Move to fast or to hard, and they will rise against you, and while you are convinced God is on your side, you also know they can overwhelm you if you are't careful. Stay firm in your beliefs, but step carefully as well. You are a brow-beatng crusader, and one day, you will either convince them to repent or see them all burn."
+        },
+        {
+          "staff_generated_history": "Sire:",
+          "column_2": "Jeremy Philips, PFC",
+          "created_by": "Embrace Date:",
+          "column_4": 2003,
+          "column_5": "Embrace Location:"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

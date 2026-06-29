@@ -1,0 +1,2568 @@
+{
+  "source": {
+    "title": "Anna Petrovna (Ventrue) Charlotte Svolos V.3.5.4",
+    "fileName": "Anna Petrovna (Ventrue) Charlotte Svolos V.3.5.4.xlsx",
+    "localPath": "source-sheets\\Drive V.3.5.4 Search\\Anna Petrovna (Ventrue) Charlotte Svolos V.3.5.4.xlsx"
+  },
+  "folderPath": [
+    "Drive V.3.5.4 Search"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "Anna Petrovna",
+    "playerName": "Charlotte Svolos",
+    "gmailAccount": "",
+    "clanCoordinator": "Michael Steinbech",
+    "archetype": "Capitalist",
+    "title": "",
+    "characterStartDate": "2017-02-17 00:00:00",
+    "generationLabel": "Master Elder 7",
+    "clan": "Ventrue - Feeding Preference"
+  },
+  "attributes": {
+    "physical": 3,
+    "social": 9,
+    "mental": 9
+  },
+  "backgrounds": {
+    "generation": 4,
+    "influence_elite": 1,
+    "influence_underworld": 1,
+    "resources": 6
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "academics": 2,
+    "subterfuge": 1,
+    "leadership": 3,
+    "awareness": 1,
+    "linguistics": 4,
+    "lore": 2,
+    "computer": 1,
+    "finance": 1,
+    "melee": 1,
+    "economics": 2,
+    "firearms": 3
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Paragon -3",
+    "Prestigious Sire -1",
+    "Machiavellian Prodigy -1"
+  ],
+  "disciplines": [
+    {
+      "name": "Fortitude",
+      "value": 1
+    },
+    {
+      "name": "Dominate",
+      "value": 3
+    },
+    {
+      "name": "Presence",
+      "value": 3
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Linguistics- English, French, Italian",
+    "Swedish (Russian native)",
+    "Lore-Cam Law, Kindred geneology"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "Anna",
+        "CAMARILLA: LA",
+        "",
+        "Players Gmail Account: charlottesvolos@gmail.com",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "62"
+      ],
+      [
+        "",
+        "Anna Petrovna",
+        "",
+        "Charlotte Svolos",
+        "",
+        "Michael Steinbech",
+        "",
+        "",
+        "Generation",
+        "4.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Capitalist",
+        "",
+        "",
+        "",
+        "2017-02-17 00:00:00",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 20*4"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts / Fame",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Master Elder 7",
+        "",
+        "Ventrue - Feeding Preference",
+        "",
+        "",
+        "",
+        "",
+        "Mentor / Herd",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\"",
+        "1.0"
+      ],
+      [
+        "",
+        "Physical",
+        "3.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\"",
+        "1.0"
+      ],
+      [
+        "",
+        "Social",
+        "9.0",
+        "Manipulation - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "6.0"
+      ],
+      [
+        "",
+        "Mental",
+        "9.0",
+        "Intelligence - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Ritae"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Other"
+      ],
+      [
+        "",
+        "Confirmed, Established, and Privileged (Elder)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Paragon -3",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Prestigious Sire -1",
+        "",
+        "",
+        "",
+        "Dominate",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Machiavellian Prodigy -1",
+        "",
+        "",
+        "",
+        "Presence",
+        "3.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Unbroken Lineage  (Minor) -1"
+      ],
+      [
+        "",
+        "Academics",
+        "2.0",
+        "Intimidation",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "Aura of Command -1"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "Subterfuge",
+        "1.0",
+        "",
+        "Cannot Cross Running Water +2"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "3.0",
+        "Survival",
+        "",
+        "",
+        "Vainglorius +1"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Linguistics",
+        "4.0",
+        "Performance",
+        "",
+        "",
+        "Uncommon Vitae Preference +4"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "2.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Medicine",
+        "",
+        "Finance",
+        "1.0",
+        "",
+        "Linguistics- English, French, Italian"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "1.0",
+        "Economics",
+        "2.0",
+        "",
+        "Swedish (Russian native)"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Occult",
+        "",
+        "",
+        "",
+        "",
+        "Lore-Cam Law, Kindred geneology"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security"
+      ],
+      [
+        "",
+        "Firearms",
+        "3.0",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    3",
+        "",
+        "Dodge    3",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    4",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (No Wits)   6",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.4"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "How much do things cost?",
+          "",
+          "0"
+        ],
+        [
+          "Generation 4",
+          "Pre Game",
+          "-8.0"
+        ],
+        [
+          "Resources 3",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Resources 4",
+          "Pre Game",
+          "-8.0",
+          "",
+          "",
+          "62"
+        ],
+        [
+          "Cannot cross water",
+          "Pre Game",
+          "2"
+        ],
+        [
+          "Vainglorious",
+          "Pre Game",
+          "1.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Uncommon Vitae Preference",
+          "Pre Game",
+          "4.0",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Paragon",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Prestigious Sire",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Unbroken Lineage",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "1.666666667"
+        ],
+        [
+          "Machiavellian Prodigy",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Aura of Command",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "Resources 5",
+          "Pre Game",
+          "-10.0",
+          "",
+          "",
+          "62"
+        ],
+        [
+          "Deficit buy back",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-02-17 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Convention Game",
+          "2017-02-20 00:00:00",
+          "6.0",
+          "6.0"
+        ],
+        [
+          "Pay back Creation Deficit",
+          "2017-03-20 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-03-25 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Resources 6",
+          "2017-04-17 00:00:00",
+          "",
+          "",
+          "12.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-04-29 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Elite 1",
+          "2017-05-06 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Underworld 1",
+          "2017-05-06 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Mental Trait",
+          "2017-05-06 00:00:00",
+          "",
+          "",
+          "3.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-05-13 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Convention Game",
+          "2017-05-27 00:00:00",
+          "3.0",
+          "4.0"
+        ],
+        [
+          "6 Game Bonus XP",
+          "2017-05-27 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Dominate 3",
+          "",
+          "",
+          "",
+          "9.0"
+        ],
+        [
+          "Mental x1",
+          "",
+          "",
+          "",
+          "3.0"
+        ],
+        [
+          "Awareness",
+          "",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-06-24 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Workshop - Camarilla Politics",
+          "2017-06-24 00:00:00",
+          "1.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-07-29 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-08-28 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Mental x2",
+          "2017-09-20 00:00:00",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Social x2",
+          "2017-09-20 00:00:00",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-09-23 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game (Shout Out Post)",
+          "2017-09-23 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Presence 2 and 3",
+          "2017-10-16 00:00:00",
+          "",
+          "",
+          "15.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "column_4": "How much do things cost?",
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Generation 4",
+          "date": "Pre Game",
+          "all_costs": -8
+        },
+        {
+          "what_was_bought": "Resources 3",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Resources 4",
+          "date": "Pre Game",
+          "all_costs": -8,
+          "starting_total_xp_left": 62
+        },
+        {
+          "what_was_bought": "Cannot cross water",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Vainglorious",
+          "date": "Pre Game",
+          "all_costs": 1,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Uncommon Vitae Preference",
+          "date": "Pre Game",
+          "all_costs": 4,
+          "starting_total_xp_left": 10
+        },
+        {
+          "what_was_bought": "Paragon",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Prestigious Sire",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Unbroken Lineage",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 1.666666667
+        },
+        {
+          "what_was_bought": "Machiavellian Prodigy",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Aura of Command",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "what_was_bought": "Resources 5",
+          "date": "Pre Game",
+          "all_costs": -10,
+          "starting_total_xp_left": 62
+        },
+        {
+          "what_was_bought": "Deficit buy back",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-02-17 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2017-02-20 00:00:00",
+          "all_costs": 6,
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Pay back Creation Deficit",
+          "date": "2017-03-20 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-03-25 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Resources 6",
+          "date": "2017-04-17 00:00:00",
+          "column_5": 12
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-04-29 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Elite 1",
+          "date": "2017-05-06 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Underworld 1",
+          "date": "2017-05-06 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Mental Trait",
+          "date": "2017-05-06 00:00:00",
+          "column_5": 3
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-05-13 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2017-05-27 00:00:00",
+          "all_costs": 3,
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "6 Game Bonus XP",
+          "date": "2017-05-27 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Dominate 3",
+          "column_5": 9
+        },
+        {
+          "what_was_bought": "Mental x1",
+          "column_5": 3
+        },
+        {
+          "what_was_bought": "Awareness",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-06-24 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Workshop - Camarilla Politics",
+          "date": "2017-06-24 00:00:00",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-07-29 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-08-28 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Mental x2",
+          "date": "2017-09-20 00:00:00",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Social x2",
+          "date": "2017-09-20 00:00:00",
+          "column_5": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-09-23 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game (Shout Out Post)",
+          "date": "2017-09-23 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Presence 2 and 3",
+          "date": "2017-10-16 00:00:00",
+          "column_5": 15
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANSION 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "4",
+          "",
+          "4",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "0",
+          "1",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "0",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "1",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "1",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "6",
+          "",
+          "",
+          "BACKGROUND EXPANSION 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "0",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 4,
+          "column_5": 4,
+          "background_expansion_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expansion_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expansion_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 0,
+          "column_4": 1,
+          "background_expansion_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expansion_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 1,
+          "background_expansion_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 1,
+          "background_expansion_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 6,
+          "background_expansion_1": "BACKGROUND EXPANSION 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expansion_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expansion_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expansion_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expansion_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expansion_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expansion_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expansion_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expansion_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expansion_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expansion_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expansion_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expansion_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expansion_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expansion_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expansion_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expansion_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expansion_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expansion_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expansion_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expansion_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expansion_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expansion_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expansion_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "You were the illegitamate eldest daughter of Catherine and Peter. Even though they were married in 1712, this unfortunate fact kept you from the crown. You were denied the title of Tsesarevna(crown princess) and given the lesser title of Tsarevna(princess). You were made for greatness. You accepted your fate gracefully, married and had a child. Your Swedish husband the Duke was cruel and bitter after being expelled from Russia thus changing you from sweet and shy person you once were. The puerperal infection after childbirth would have claimed your life had your sire not snatched you from the jaws of death. You took to your new life as if you were made for it. You were taken to Constantinople and tought the ways of kindred. You travelled wherever needed providing the resources to support efforts of the clan. You influencedd history to make certain your child Peter ruled Russia as Peter III regaining for your line what was stolen. Your bloodline and ruthless efficiency awarded you elder status a century early. As the modern nights approached the thirst for acquisition and business accumen swelled. You made yourself even more rich from seeing weakness and capitalizing on it. You continue to provide finance and backing to the Ventrue being named Tribune for your efforts. At times you needed to be physically intimidating as well and learned some basic combat. You have been sent to add resources to further give support to the war effort and to regain honor for the Ventrue in Los Angeles"
+        ],
+        [
+          "Sire:",
+          "Helena the Armenian",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Ventrue - Feeding Preference"
+        ],
+        [
+          "Embrace Date:",
+          "1728.0",
+          "Embrace Location:",
+          "Stockholm, Sweden",
+          "",
+          "Generation",
+          "Master Elder 7"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Alexander DeVeracruz",
+          "cousin of the same brood"
+        ],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ],
+        [
+          "Antonius, Belisarius, Helena the Armenian"
+        ],
+        [
+          "Basically the herd is people on her investment consulting business which she has done background checks on for birth circumstances"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "You were the illegitamate eldest daughter of Catherine and Peter. Even though they were married in 1712, this unfortunate fact kept you from the crown. You were denied the title of Tsesarevna(crown princess) and given the lesser title of Tsarevna(princess). You were made for greatness. You accepted your fate gracefully, married and had a child. Your Swedish husband the Duke was cruel and bitter after being expelled from Russia thus changing you from sweet and shy person you once were. The puerperal infection after childbirth would have claimed your life had your sire not snatched you from the jaws of death. You took to your new life as if you were made for it. You were taken to Constantinople and tought the ways of kindred. You travelled wherever needed providing the resources to support efforts of the clan. You influencedd history to make certain your child Peter ruled Russia as Peter III regaining for your line what was stolen. Your bloodline and ruthless efficiency awarded you elder status a century early. As the modern nights approached the thirst for acquisition and business accumen swelled. You made yourself even more rich from seeing weakness and capitalizing on it. You continue to provide finance and backing to the Ventrue being named Tribune for your efforts. At times you needed to be physically intimidating as well and learned some basic combat. You have been sent to add resources to further give support to the war effort and to regain honor for the Ventrue in Los Angeles"
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Helena the Armenian",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Ventrue - Feeding Preference"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1728,
+          "column_3": "Embrace Location:",
+          "column_4": "Stockholm, Sweden",
+          "column_6": "Generation",
+          "column_7": "Master Elder 7"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Alexander DeVeracruz",
+          "column_2": "cousin of the same brood"
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        },
+        {
+          "staff_generated_concept": "Antonius, Belisarius, Helena the Armenian"
+        },
+        {
+          "staff_generated_concept": "Basically the herd is people on her investment consulting business which she has done background checks on for birth circumstances"
+        }
+      ]
+    },
+    "Growth Plan": {
+      "rows": [
+        [],
+        [
+          "Monetary Czarina route"
+        ],
+        [
+          "1. Economics lvl 1",
+          "",
+          "",
+          "2xp",
+          "locked",
+          "1 free defend resource or finance influence action a month",
+          "",
+          "",
+          "",
+          "take at start to smooth out build per discussed point movement"
+        ],
+        [
+          "2. Finance lvl 1",
+          "",
+          "",
+          "2xp",
+          "locked",
+          "",
+          "",
+          "",
+          "",
+          "take at start to smooth out build per discussed point movement"
+        ],
+        [
+          "3. Academics lvl 1 and 2 (General and Finance)",
+          "",
+          "",
+          "6xp",
+          "locked"
+        ],
+        [
+          "4. Resources 6",
+          "",
+          "",
+          "12xp",
+          "locked",
+          "with paragon its 4 mil a month"
+        ],
+        [
+          "5. Mental 6 and 7",
+          "",
+          "",
+          "6xp",
+          "locked",
+          "money test pool"
+        ],
+        [
+          "6. Economics lvl 2",
+          "",
+          "",
+          "4xp",
+          "open",
+          "2nd free defend resource or finance influece action a month",
+          "",
+          "",
+          "",
+          "take at start to smooth out build per discussed point movement"
+        ],
+        [
+          "7. Influence Elite in Finance circles (2 levels)",
+          "",
+          "",
+          "6xp",
+          "open"
+        ],
+        [
+          "8. Mental lvl 8 and 9",
+          "",
+          "",
+          "6xp",
+          "open"
+        ],
+        [
+          "9. Social lvl 8 and 9",
+          "",
+          "",
+          "6xp",
+          "open"
+        ],
+        [
+          "10. Dominate lvl 2",
+          "",
+          "",
+          "6xp",
+          "open",
+          "rockin with aura of command"
+        ],
+        [
+          "11. Resources lvl 7",
+          "",
+          "",
+          "14xp",
+          "open",
+          "with paragon its 20 mil a month"
+        ],
+        [
+          "12, Dominate lvl 3",
+          "",
+          "",
+          "9xp",
+          "open",
+          "rockin with aura of command"
+        ]
+      ],
+      "records": [
+        {
+          "1_economics_lvl_1": "2. Finance lvl 1",
+          "2xp": "2xp",
+          "locked": "locked",
+          "take_at_start_to_smooth_out_build_per_discussed_point_movement": "take at start to smooth out build per discussed point movement"
+        },
+        {
+          "1_economics_lvl_1": "3. Academics lvl 1 and 2 (General and Finance)",
+          "2xp": "6xp",
+          "locked": "locked"
+        },
+        {
+          "1_economics_lvl_1": "4. Resources 6",
+          "2xp": "12xp",
+          "locked": "locked",
+          "1_free_defend_resource_or_finance_influence_action_a_month": "with paragon its 4 mil a month"
+        },
+        {
+          "1_economics_lvl_1": "5. Mental 6 and 7",
+          "2xp": "6xp",
+          "locked": "locked",
+          "1_free_defend_resource_or_finance_influence_action_a_month": "money test pool"
+        },
+        {
+          "1_economics_lvl_1": "6. Economics lvl 2",
+          "2xp": "4xp",
+          "locked": "open",
+          "1_free_defend_resource_or_finance_influence_action_a_month": "2nd free defend resource or finance influece action a month",
+          "take_at_start_to_smooth_out_build_per_discussed_point_movement": "take at start to smooth out build per discussed point movement"
+        },
+        {
+          "1_economics_lvl_1": "7. Influence Elite in Finance circles (2 levels)",
+          "2xp": "6xp",
+          "locked": "open"
+        },
+        {
+          "1_economics_lvl_1": "8. Mental lvl 8 and 9",
+          "2xp": "6xp",
+          "locked": "open"
+        },
+        {
+          "1_economics_lvl_1": "9. Social lvl 8 and 9",
+          "2xp": "6xp",
+          "locked": "open"
+        },
+        {
+          "1_economics_lvl_1": "10. Dominate lvl 2",
+          "2xp": "6xp",
+          "locked": "open",
+          "1_free_defend_resource_or_finance_influence_action_a_month": "rockin with aura of command"
+        },
+        {
+          "1_economics_lvl_1": "11. Resources lvl 7",
+          "2xp": "14xp",
+          "locked": "open",
+          "1_free_defend_resource_or_finance_influence_action_a_month": "with paragon its 20 mil a month"
+        },
+        {
+          "1_economics_lvl_1": "12, Dominate lvl 3",
+          "2xp": "9xp",
+          "locked": "open",
+          "1_free_defend_resource_or_finance_influence_action_a_month": "rockin with aura of command"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "7",
+          "Computer Downtimes",
+          "1",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ],
+        [
+          "2017/03/18 8:15:51 PM MDT",
+          "charlottesvolos@gmail.com",
+          "Anna Petrovna",
+          "Ventrue",
+          "Charlotte Svolos",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "",
+          "",
+          "Long Beach (Camarilla)",
+          "",
+          "",
+          "Finding a talented graphic artist and paying him or her handsomely to implicate Zimmer in unsavory situations and stay silent about their involvement, done anonymously by phone (100k)",
+          "2 economics to tie up Zimmer's funds as Finance influence",
+          "",
+          "",
+          "",
+          "Running basic virus/malware scan",
+          "",
+          "",
+          "",
+          "Panacea event",
+          "Yes",
+          "Paying 2 XP owed at creation",
+          "2.0"
+        ],
+        [
+          "2017/04/15 7:58:54 PM MDT",
+          "charlottesvolos@gmail.com",
+          "Anna Petrovna",
+          "Ventrue",
+          "Charlotte Svolos",
+          "Herd (of my own) (no downtimes)",
+          "Uncommon vitae preference",
+          "",
+          "",
+          "Long Beach (Camarilla)",
+          "Hiring security and doing a personal patrol (2 actions)",
+          "",
+          "Economics-1. investigation of Nathaniel Johnson's debts (expect an assist from Trip) paying minimums to buy us time of approximately $68k. 2. Setting up protected Swiss type account with $400k to set aside to fund domain defense.",
+          "",
+          "",
+          "",
+          "",
+          "Assisting Trip in doing computer action looking into same Johnson issues from this angle",
+          "",
+          "researching ways to contact the gentleman we met from the Pentex board-Michael (I am available all week)",
+          "Yes",
+          "Reserving a con action to assist with Fortier if that is planned even if that is hiring people/dominate help",
+          "Yes",
+          "Resources 6",
+          "12.0"
+        ],
+        [
+          "2017-05-06 23:39:06",
+          "0.0",
+          "Anna Petrovna",
+          "Ventrue",
+          "Charlotte Svolos",
+          "Herd (of my own) (no downtimes)",
+          "Uncommon vitae preference",
+          "Long Beach (Camarilla)",
+          "",
+          "Long Beach (Camarilla)",
+          "Defend Long Beach, patrol for defense strength",
+          "",
+          "Downtime securing the harbor master as underworld . 2 Economics 1 to defend and 1 to check current market conditions and optimize investments (check on resources 6 to see what will be available for Gio/London debt. Wire as necessary)",
+          "",
+          "",
+          "",
+          "Scanning own devices",
+          "",
+          "Yes",
+          "",
+          "Yes",
+          "Underworld 1(harbor master), Elite 1(investment firm), mental trait",
+          "2+2+3=7",
+          "",
+          "",
+          "",
+          "charlottesvolos@gmail.com"
+        ],
+        [
+          "2017-06-10 14:30:00",
+          "",
+          "Anna Petrovna",
+          "Ventrue",
+          "Charlotte Svolos",
+          "Herd (of my own) (no downtimes)",
+          "Uncommon Vitae preference",
+          "Long Beach (Camarilla)",
+          "",
+          "South Los Angeles (Sabbat)",
+          "Plot items via harbor-see underworld. Defense numbers via investment firm",
+          "",
+          "2 million to Gio fund, 2 to Eli business plan. See expenditures",
+          "harbor master monitoring shipments into Long Beach for suspicious activity from outside sources.",
+          "Paragon double",
+          "",
+          "Monitoring own computer for malware and adware",
+          "London/Berlin trip",
+          "No",
+          "Spending 2 regular actions on South LA via Dominate. Spending 3 con actions for same. (5 total defense actions)",
+          "Yes",
+          "Dominate 3, Mental +1, awareness 1",
+          "9xp, 3xp, 2xp",
+          "",
+          "Investment firm keeping an eye on Long Beach via chamber of commerce asking for business climate/ police reports",
+          "",
+          "charlottesvolos@gmail.com"
+        ],
+        [
+          "2017-09-20 09:23:08.119000",
+          "charlottesvolos@gmail.com",
+          "Charlotte Svolos",
+          "Anna Petrovna",
+          "Ventrue",
+          "Personal herd use (1 Herd)",
+          "I am spending a DT",
+          "Calling sire and those attached to Olson to determine state of Praxis",
+          "Background - I am using a background to start or modify an action.",
+          "Protect money and investments",
+          "I am spending a DT",
+          "Plot in LB. looking for problems on patrol",
+          "Background - I am using a background to start or modify an action.",
+          "Using influence to protect LB",
+          "I am spending a DT",
+          "Defense assess in LB",
+          "Done - I am not doing any more actions.",
+          "",
+          "2 mental, 2 social"
+        ],
+        [
+          "2017-10-16 06:47:18.656000",
+          "charlottesvolos@gmail.com",
+          "Charlotte",
+          "Anna Petrovna",
+          "Ventrue",
+          "Personal herd use (1 Herd)",
+          "I am spending a DT",
+          "Defense Long Beach",
+          "I am spending a DT",
+          "Strength of defense category Long Beach",
+          "I am spending a DT",
+          "Reaching out to Fortier",
+          "Background - I am using a background to start or modify an action.",
+          "Defending finances",
+          "Background - I am using a background to start or modify an action.",
+          "Harbor master-plot Long Beach",
+          "Background - I am using a background to start or modify an action.",
+          "Computer, check personal devices",
+          "Presence 2 and 3=15"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "1": "Hunting Actions",
+          "7": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        },
+        {
+          "1": "Herd (of my own) (no downtimes)",
+          "7": "Ventrue",
+          "genaral_towntimes": "2017/03/18 8:15:51 PM MDT",
+          "3_0": "charlottesvolos@gmail.com",
+          "influnce_downtimes": "Anna Petrovna",
+          "computer_downtimes": "Charlotte Svolos",
+          "column_10": "Long Beach (Camarilla)",
+          "column_13": "Finding a talented graphic artist and paying him or her handsomely to implicate Zimmer in unsavory situations and stay silent about their involvement, done anonymously by phone (100k)",
+          "column_14": "2 economics to tie up Zimmer's funds as Finance influence",
+          "column_18": "Running basic virus/malware scan",
+          "column_22": "Panacea event",
+          "column_23": "Yes",
+          "column_24": "Paying 2 XP owed at creation",
+          "column_25": 2
+        },
+        {
+          "1": "Herd (of my own) (no downtimes)",
+          "7": "Ventrue",
+          "genaral_towntimes": "2017/04/15 7:58:54 PM MDT",
+          "3_0": "charlottesvolos@gmail.com",
+          "influnce_downtimes": "Anna Petrovna",
+          "computer_downtimes": "Charlotte Svolos",
+          "science_downtimes": "Uncommon vitae preference",
+          "column_10": "Long Beach (Camarilla)",
+          "column_11": "Hiring security and doing a personal patrol (2 actions)",
+          "column_13": "Economics-1. investigation of Nathaniel Johnson's debts (expect an assist from Trip) paying minimums to buy us time of approximately $68k. 2. Setting up protected Swiss type account with $400k to set aside to fund domain defense.",
+          "column_18": "Assisting Trip in doing computer action looking into same Johnson issues from this angle",
+          "column_20": "researching ways to contact the gentleman we met from the Pentex board-Michael (I am available all week)",
+          "column_21": "Yes",
+          "column_22": "Reserving a con action to assist with Fortier if that is planned even if that is hiring people/dominate help",
+          "column_23": "Yes",
+          "column_24": "Resources 6",
+          "column_25": 12
+        },
+        {
+          "0": "Long Beach (Camarilla)",
+          "1": "Herd (of my own) (no downtimes)",
+          "7": "Ventrue",
+          "genaral_towntimes": "2017-05-06 23:39:06",
+          "3_0": 0,
+          "influnce_downtimes": "Anna Petrovna",
+          "computer_downtimes": "Charlotte Svolos",
+          "science_downtimes": "Uncommon vitae preference",
+          "column_10": "Long Beach (Camarilla)",
+          "column_11": "Defend Long Beach, patrol for defense strength",
+          "column_13": "Downtime securing the harbor master as underworld . 2 Economics 1 to defend and 1 to check current market conditions and optimize investments (check on resources 6 to see what will be available for Gio/London debt. Wire as necessary)",
+          "column_17": "Scanning own devices",
+          "column_19": "Yes",
+          "column_21": "Yes",
+          "column_22": "Underworld 1(harbor master), Elite 1(investment firm), mental trait",
+          "column_23": "2+2+3=7",
+          "column_27": "charlottesvolos@gmail.com"
+        },
+        {
+          "0": "Long Beach (Camarilla)",
+          "1": "Herd (of my own) (no downtimes)",
+          "7": "Ventrue",
+          "genaral_towntimes": "2017-06-10 14:30:00",
+          "influnce_downtimes": "Anna Petrovna",
+          "computer_downtimes": "Charlotte Svolos",
+          "science_downtimes": "Uncommon Vitae preference",
+          "column_10": "South Los Angeles (Sabbat)",
+          "column_11": "Plot items via harbor-see underworld. Defense numbers via investment firm",
+          "column_13": "2 million to Gio fund, 2 to Eli business plan. See expenditures",
+          "column_14": "harbor master monitoring shipments into Long Beach for suspicious activity from outside sources.",
+          "column_15": "Paragon double",
+          "column_17": "Monitoring own computer for malware and adware",
+          "column_18": "London/Berlin trip",
+          "column_19": "No",
+          "column_20": "Spending 2 regular actions on South LA via Dominate. Spending 3 con actions for same. (5 total defense actions)",
+          "column_21": "Yes",
+          "column_22": "Dominate 3, Mental +1, awareness 1",
+          "column_23": "9xp, 3xp, 2xp",
+          "column_25": "Investment firm keeping an eye on Long Beach via chamber of commerce asking for business climate/ police reports",
+          "column_27": "charlottesvolos@gmail.com"
+        },
+        {
+          "0": "Calling sire and those attached to Olson to determine state of Praxis",
+          "1": "Personal herd use (1 Herd)",
+          "7": "Anna Petrovna",
+          "genaral_towntimes": "2017-09-20 09:23:08.119000",
+          "3_0": "charlottesvolos@gmail.com",
+          "influnce_downtimes": "Charlotte Svolos",
+          "computer_downtimes": "Ventrue",
+          "science_downtimes": "I am spending a DT",
+          "column_9": "Background - I am using a background to start or modify an action.",
+          "column_10": "Protect money and investments",
+          "column_11": "I am spending a DT",
+          "column_12": "Plot in LB. looking for problems on patrol",
+          "column_13": "Background - I am using a background to start or modify an action.",
+          "column_14": "Using influence to protect LB",
+          "column_15": "I am spending a DT",
+          "column_16": "Defense assess in LB",
+          "column_17": "Done - I am not doing any more actions.",
+          "column_19": "2 mental, 2 social"
+        },
+        {
+          "0": "Defense Long Beach",
+          "1": "Personal herd use (1 Herd)",
+          "7": "Anna Petrovna",
+          "genaral_towntimes": "2017-10-16 06:47:18.656000",
+          "3_0": "charlottesvolos@gmail.com",
+          "influnce_downtimes": "Charlotte",
+          "computer_downtimes": "Ventrue",
+          "science_downtimes": "I am spending a DT",
+          "column_9": "I am spending a DT",
+          "column_10": "Strength of defense category Long Beach",
+          "column_11": "I am spending a DT",
+          "column_12": "Reaching out to Fortier",
+          "column_13": "Background - I am using a background to start or modify an action.",
+          "column_14": "Defending finances",
+          "column_15": "Background - I am using a background to start or modify an action.",
+          "column_16": "Harbor master-plot Long Beach",
+          "column_17": "Background - I am using a background to start or modify an action.",
+          "column_18": "Computer, check personal devices",
+          "column_19": "Presence 2 and 3=15"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [
+          "https://docs.google.com/document/d/1rIWX4dkOBsZ56j-Kcv6aD5FhWmBcsZM8KJnII8wHVJ8/edit?ts=5907d641"
+        ],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "https://docs.google.com/document/d/1rIWX4dkOBsZ56j-Kcv6aD5FhWmBcsZM8KJnII8wHVJ8/edit?ts=5907d641"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

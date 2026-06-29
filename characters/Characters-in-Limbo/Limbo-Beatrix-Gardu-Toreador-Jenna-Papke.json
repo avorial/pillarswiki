@@ -1,0 +1,942 @@
+{
+  "source": {
+    "title": "Limbo - Beatrix Gardu (Toreador) Jenna Papke",
+    "fileName": "Limbo - Beatrix Gardu (Toreador) Jenna Papke.xlsx",
+    "localPath": "source-sheets\\Characters in Limbo\\Limbo - Beatrix Gardu (Toreador) Jenna Papke.xlsx"
+  },
+  "folderPath": [
+    "Characters in Limbo"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER ~ PILLARS OF SALT",
+    "characterName": "Beretrude Gardu",
+    "playerName": "Jenna Papke",
+    "gmailAccount": "",
+    "clanCoordinator": "Camarilla ~ LA",
+    "archetype": "Cultured",
+    "title": "\"Toreador Whip of Paris\"",
+    "characterStartDate": "",
+    "generationLabel": "Master Elder 7",
+    "clan": "Toreador - Entranced by Art"
+  },
+  "attributes": {
+    "physcial": 3,
+    "social": 8,
+    "mental": 5,
+    "academics": 2,
+    "computer": 1,
+    "starting_xp": 0,
+    "spent_xp": 0
+  },
+  "backgrounds": {
+    "generation": 4,
+    "contacts": 1,
+    "herd": 1,
+    "resources": 2
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_blood_points_per_turn": "30*5",
+    "current_humanity": 5
+  },
+  "abilities": {
+    "academics": 2,
+    "empathy": 1,
+    "occult": 1,
+    "investigation": 3,
+    "stealth": 1,
+    "leadership": 4,
+    "computer": 1,
+    "linguistics": 2,
+    "lore": 3,
+    "performance": 2,
+    "starting_xp": 0,
+    "unspent_xp": 0,
+    "spent_xp": 0
+  },
+  "status": [],
+  "meritsAndFlaws": [
+    "Prestigious Sire -1",
+    "Reputation -2",
+    "Unbroken Lineage  (Major) 2"
+  ],
+  "disciplines": [
+    {
+      "name": "Presence",
+      "value": 3
+    },
+    {
+      "name": "Auspex",
+      "value": 1
+    },
+    {
+      "name": "Celerity",
+      "value": 1
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Languages: French, Spanish",
+    "Lore: Camarilla Law, Toreador Secrets",
+    "Famous Camarilla Members"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER ~ PILLARS OF SALT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Beretrude Gardu",
+        "",
+        "Jenna Papke",
+        "",
+        "Camarilla ~ LA",
+        "",
+        "",
+        "Generation",
+        "4.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn",
+        "30*5"
+      ],
+      [
+        "",
+        "Cultured",
+        "",
+        "\"Toreador Whip of Paris\"",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Politcal Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "1.0",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Master Elder 7",
+        "",
+        "Toreador - Entranced by Art",
+        "",
+        "",
+        "",
+        "",
+        "Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "CLAN STATUS",
+        "",
+        "",
+        "Herd",
+        "1.0"
+      ],
+      [
+        "",
+        "Physcial",
+        "3.0",
+        "Dexterity",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Social",
+        "8.0",
+        "Apperance",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Mental",
+        "5.0",
+        "Perception",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "Titles / Abiding / Innate Status",
+        "",
+        "Fleeting Status",
+        "",
+        "Negative Status",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Prestigious Sire -1",
+        "",
+        "",
+        "",
+        "Presence",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Reputation -2",
+        "",
+        "",
+        "",
+        "Auspex",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Unbroken Lineage  (Major) 2",
+        "",
+        "",
+        "",
+        "Celerity",
+        "1.0"
+      ],
+      [
+        "",
+        "ABILITES"
+      ],
+      [
+        "",
+        "Academics",
+        "2.0",
+        "Empathy",
+        "1.0",
+        "Occult",
+        "1.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Intimidation",
+        "",
+        "Security"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Investigation",
+        "3.0",
+        "Stealth",
+        "1.0",
+        "",
+        "Untrained Combatant +3"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Leadership",
+        "4.0",
+        "Streetwise",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Linguistics",
+        "2.0",
+        "Subterfuge",
+        "",
+        "",
+        "Languages: French, Spanish"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "3.0",
+        "Survival",
+        "",
+        "",
+        "Lore: Camarilla Law, Toreador Secrets"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Medicine",
+        "",
+        "Performance",
+        "2.0",
+        "",
+        "Famous Camarilla Members"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee"
+      ],
+      [],
+      [],
+      [],
+      [
+        "",
+        "EXPERIENCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "0",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent"
+      ],
+      [
+        "",
+        "2016-04-24 00:00:00",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.3"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Background: Generation 4",
+          "Pre Game",
+          "-8.0"
+        ],
+        [
+          "Merit: Prestigious Sire -1",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "Game XP Total"
+        ],
+        [
+          "Merit: Reputation -2",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Merit: Unbroken Lineage  (Major) 2",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Flaw: Untraied Combantat.",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Disipline: Presence 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Social 1",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Background : Contacts",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "Game Earned XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Background: Generation 4",
+          "date": "Pre Game",
+          "all_costs": -8
+        },
+        {
+          "what_was_bought": "Merit: Prestigious Sire -1",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "Game XP Total"
+        },
+        {
+          "what_was_bought": "Merit: Reputation -2",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Merit: Unbroken Lineage  (Major) 2",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Flaw: Untraied Combantat.",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Disipline: Presence 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Social 1",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Background : Contacts",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:"
+        ],
+        [],
+        [
+          "Sire:",
+          "",
+          "Embrace Date:",
+          "",
+          "Embrace Location:"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "Sire:",
+          "created_by": "Embrace Date:",
+          "column_5": "Embrace Location:"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

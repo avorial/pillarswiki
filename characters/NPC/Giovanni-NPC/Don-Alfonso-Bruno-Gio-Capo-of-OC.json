@@ -1,0 +1,1092 @@
+{
+  "source": {
+    "title": "Don-Alfonso-Bruno-Gio-Capo-of-OC",
+    "fileName": "Don-Alfonso-Bruno-Gio-Capo-of-OC.xlsx",
+    "localPath": "source-sheets\\NPC\\Giovanni NPC\\Don-Alfonso-Bruno-Gio-Capo-of-OC.xlsx"
+  },
+  "folderPath": [
+    "NPC",
+    "Giovanni NPC"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER ~ PILLARS OF SALT",
+    "characterName": "Don Alfonso Bruno",
+    "playerName": "NPC",
+    "gmailAccount": "",
+    "clanCoordinator": "",
+    "archetype": "Architect",
+    "title": "Capo of Orange County",
+    "characterStartDate": "",
+    "generationLabel": "Master Elder 7",
+    "clan": "Giovanni - Painful Feeding"
+  },
+  "attributes": {
+    "physcial": 7,
+    "social": 10,
+    "mental": 8,
+    "academics": 2,
+    "awareness": 1,
+    "brawl": 3,
+    "crafts": 1,
+    "starting_xp": -70,
+    "spent_xp": 0
+  },
+  "backgrounds": {
+    "generation": 4,
+    "haven": 2,
+    "resources": 1
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_blood_points_per_turn": "30*5",
+    "current_path": 5
+  },
+  "abilities": {
+    "academics": 2,
+    "occult": 4,
+    "intimidation": 2,
+    "awareness": 1,
+    "investigation": 1,
+    "brawl": 3,
+    "leadership": 1,
+    "linguistics": 2,
+    "crafts": 1,
+    "lore": 3,
+    "starting_xp": -70,
+    "unspent_xp": 0,
+    "spent_xp": 0
+  },
+  "status": [],
+  "meritsAndFlaws": [
+    "Innate Magical Ability -5",
+    "Path of Power & the Inner Voice -1"
+  ],
+  "disciplines": [
+    {
+      "name": "Necromancy: The Sepulchre Path",
+      "value": 5
+    },
+    {
+      "name": "Necromancy: The Ash Path",
+      "value": 3
+    },
+    {
+      "name": "Necromancy: The Bone Path",
+      "value": 3
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER ~ PILLARS OF SALT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Don Alfonso Bruno",
+        "",
+        "NPC",
+        "",
+        "",
+        "",
+        "",
+        "Generation",
+        "4.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn",
+        "30*5"
+      ],
+      [
+        "",
+        "Architect",
+        "",
+        "Capo of Orange County",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Path",
+        "5.0"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Politcal Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Master Elder 7",
+        "",
+        "Giovanni - Painful Feeding",
+        "",
+        "",
+        "",
+        "",
+        "Fame"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "2.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "CLAN STATUS",
+        "",
+        "",
+        "Herd"
+      ],
+      [
+        "",
+        "Physcial",
+        "7.0",
+        "Strength",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Social",
+        "10.0",
+        "Manipulation",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Mental",
+        "8.0",
+        "Intelligence",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "1.0"
+      ],
+      [
+        "",
+        "Titles / Abiding / Innate Status",
+        "",
+        "Fleeting Status",
+        "",
+        "Negative Status",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Innate Magical Ability -5",
+        "",
+        "",
+        "",
+        "Necromancy: The Sepulchre Path",
+        "5.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Path of Power & the Inner Voice -1",
+        "",
+        "",
+        "",
+        "Necromancy: The Ash Path",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Necromancy: The Bone Path",
+        "3.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Potence",
+        "6.0"
+      ],
+      [
+        "",
+        "Academics",
+        "2.0",
+        "Empathy",
+        "",
+        "Occult",
+        "4.0",
+        "",
+        "Conspicuous Consumption +3",
+        "",
+        "",
+        "",
+        "Dominate",
+        "5.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Firearms",
+        "",
+        "Science",
+        "",
+        "",
+        "*Has to fetish the soul before drinking"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Intimidation",
+        "2.0",
+        "Security",
+        "",
+        "",
+        "Vainglorius -3 (severe)"
+      ],
+      [
+        "",
+        "Awareness",
+        "1.0",
+        "Investigation",
+        "1.0",
+        "Stealth",
+        "",
+        "",
+        "Intolerance +1"
+      ],
+      [
+        "",
+        "Brawl",
+        "3.0",
+        "Leadership",
+        "1.0",
+        "Streetwise",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Linguistics",
+        "2.0",
+        "Subterfuge"
+      ],
+      [
+        "",
+        "Crafts",
+        "1.0",
+        "Lore",
+        "3.0",
+        "Survival"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Medicine",
+        "",
+        "Performance"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee"
+      ],
+      [],
+      [],
+      [],
+      [
+        "",
+        "EXPERIENCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "-70",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent"
+      ],
+      [
+        "",
+        "2016-04-24 00:00:00",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.3"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "-200"
+        ],
+        [
+          "Necromancy: The Sepulchre Path 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Necromancy: The Sepulchre Path 4",
+          "Pre Game",
+          "-12.0",
+          "",
+          "",
+          "Game XP Total"
+        ],
+        [
+          "Necromancy: The Sepulchre Path 5",
+          "Pre Game",
+          "-15.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Necromancy: The Ash Path 1",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Necromancy: The Ash Path 2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Necromancy: The Ash Path 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Necromancy: The Ash Path 4",
+          "Pre Game",
+          "-12.0"
+        ],
+        [
+          "Necromancy: The Ash Path 5",
+          "Pre Game",
+          "-15.0"
+        ],
+        [
+          "Necromancy: The Bone Path 1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Potence 2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Potence 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Potence 4",
+          "Pre Game",
+          "-12.0"
+        ],
+        [
+          "Potence 5",
+          "Pre Game",
+          "-15.0"
+        ],
+        [
+          "Dominate 2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Dominate 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Dominate 4",
+          "Pre Game",
+          "-12.0"
+        ],
+        [
+          "Dominate 5",
+          "Pre Game",
+          "-15.0"
+        ],
+        [
+          "Generation x 4",
+          "Pre Game",
+          "-8.0"
+        ],
+        [
+          "Merit: Innate Magical Ability",
+          "Pre Game",
+          "-5.0"
+        ],
+        [
+          "Conspicuous Consumption +3",
+          "Pre Game",
+          "3.0"
+        ],
+        [
+          "Vainglorius -3 (severe)",
+          "Pre Game",
+          "3.0"
+        ],
+        [
+          "Intolerance +1",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "Mental 4",
+          "",
+          "-12.0"
+        ],
+        [
+          "Physical 5",
+          "",
+          "-15.0"
+        ],
+        [
+          "Social x3",
+          "",
+          "-9.0"
+        ],
+        [
+          "Elder Potence -",
+          "",
+          "-18.0"
+        ],
+        [
+          "Path of Power",
+          "",
+          "-1.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": -200
+        },
+        {
+          "what_was_bought": "Necromancy: The Sepulchre Path 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Necromancy: The Sepulchre Path 4",
+          "date": "Pre Game",
+          "all_costs": -12,
+          "starting_total_xp_left": "Game XP Total"
+        },
+        {
+          "what_was_bought": "Necromancy: The Sepulchre Path 5",
+          "date": "Pre Game",
+          "all_costs": -15,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Necromancy: The Ash Path 1",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Necromancy: The Ash Path 2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Necromancy: The Ash Path 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Necromancy: The Ash Path 4",
+          "date": "Pre Game",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Necromancy: The Ash Path 5",
+          "date": "Pre Game",
+          "all_costs": -15
+        },
+        {
+          "what_was_bought": "Necromancy: The Bone Path 1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Potence 2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Potence 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Potence 4",
+          "date": "Pre Game",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Potence 5",
+          "date": "Pre Game",
+          "all_costs": -15
+        },
+        {
+          "what_was_bought": "Dominate 2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Dominate 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Dominate 4",
+          "date": "Pre Game",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Dominate 5",
+          "date": "Pre Game",
+          "all_costs": -15
+        },
+        {
+          "what_was_bought": "Generation x 4",
+          "date": "Pre Game",
+          "all_costs": -8
+        },
+        {
+          "what_was_bought": "Merit: Innate Magical Ability",
+          "date": "Pre Game",
+          "all_costs": -5
+        },
+        {
+          "what_was_bought": "Conspicuous Consumption +3",
+          "date": "Pre Game",
+          "all_costs": 3
+        },
+        {
+          "what_was_bought": "Vainglorius -3 (severe)",
+          "date": "Pre Game",
+          "all_costs": 3
+        },
+        {
+          "what_was_bought": "Intolerance +1",
+          "date": "Pre Game",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "Mental 4",
+          "all_costs": -12
+        },
+        {
+          "what_was_bought": "Physical 5",
+          "all_costs": -15
+        },
+        {
+          "what_was_bought": "Social x3",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Elder Potence -",
+          "all_costs": -18
+        },
+        {
+          "what_was_bought": "Path of Power",
+          "all_costs": -1
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:"
+        ],
+        [],
+        [
+          "Sire:",
+          "",
+          "Embrace Date:",
+          "",
+          "Embrace Location:"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "Sire:",
+          "created_by": "Embrace Date:",
+          "column_5": "Embrace Location:"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

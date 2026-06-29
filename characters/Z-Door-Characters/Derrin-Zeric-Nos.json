@@ -1,0 +1,1834 @@
+{
+  "source": {
+    "title": "Derrin-Zeric-Nos",
+    "fileName": "Derrin-Zeric-Nos.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Derrin-Zeric-Nos.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CHRONICLE",
+    "characterName": "Derrin Zeric",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "",
+    "archetype": "Bravo",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Pretender Elder 8",
+    "clan": "Nosferatu - Repulsive"
+  },
+  "attributes": {
+    "physical": 9,
+    "social": 5,
+    "mental": 3
+  },
+  "backgrounds": {
+    "generation": 3,
+    "resources": 2
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "streetwise": 1,
+    "investigation": 2,
+    "subterfuge": 1,
+    "athletics": 2,
+    "brawl": 4,
+    "lore": 2,
+    "dodge": 3,
+    "occult": 1,
+    "security": 1,
+    "stealth": 3
+  },
+  "status": [
+    "Confirmed (Abiding)"
+  ],
+  "meritsAndFlaws": [
+    "Pliable Blood -3"
+  ],
+  "disciplines": [
+    {
+      "name": "Animalism",
+      "value": 1
+    },
+    {
+      "name": "Obfuscate",
+      "value": 1
+    },
+    {
+      "name": "Potence",
+      "value": 2
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CHRONICLE",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "47"
+      ],
+      [
+        "",
+        "Derrin Zeric",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Generation",
+        "3.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Bravo",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 15*3"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts / Fame",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Pretender Elder 8",
+        "",
+        "Nosferatu - Repulsive",
+        "",
+        "",
+        "",
+        "",
+        "Mentor / Herd",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "Physical",
+        "9.0",
+        "Strength - (Disarm, Grapple, Knock Down, or Pierce the Heart)",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Charisma - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "Mental",
+        "3.0",
+        "Perception - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Ritae"
+      ],
+      [
+        "",
+        "Confirmed (Abiding)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pliable Blood -3",
+        "",
+        "",
+        "",
+        "Animalism",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Obfuscate",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Potence",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Celerity",
+        "1.0"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "",
+        "Streetwise",
+        "1.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "3.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "2.0",
+        "Subterfuge",
+        "1.0",
+        "",
+        "Obvious Predator +2"
+      ],
+      [
+        "",
+        "Athletics",
+        "2.0",
+        "Leadership",
+        "",
+        "Survival",
+        "",
+        "",
+        "Prey Exclusion +1"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "",
+        "Performance",
+        "",
+        "",
+        "Repelled by Religion +3"
+      ],
+      [
+        "",
+        "Brawl",
+        "4.0",
+        "Lore",
+        "2.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee"
+      ],
+      [
+        "",
+        "Dodge",
+        "3.0",
+        "Occult",
+        "1.0"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "1.0"
+      ],
+      [
+        "",
+        "Firearms",
+        "",
+        "Stealth",
+        "3.0"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    13",
+        "",
+        "Dodge    12",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    9",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (No Wits)   9",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.3"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Pliable Blood",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Fort Out of Clan 1, 2, 3",
+          "Pre Game",
+          "-24.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Obvious Preditor",
+          "Pre Game",
+          "2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Prey Exclusion",
+          "Pre Game",
+          "1.0"
+        ],
+        [
+          "Repelled by Religion",
+          "Pre Game",
+          "3.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Physical 1",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Physical 1",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Obsfuscate 1",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "",
+          "",
+          "3.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Pliable Blood",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Fort Out of Clan 1, 2, 3",
+          "date": "Pre Game",
+          "all_costs": -24,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Obvious Preditor",
+          "date": "Pre Game",
+          "all_costs": 2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Prey Exclusion",
+          "date": "Pre Game",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "Repelled by Religion",
+          "date": "Pre Game",
+          "all_costs": 3,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Physical 1",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Physical 1",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Obsfuscate 1",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "all_costs": 3
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "3",
+          "",
+          "3",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "0",
+          "1",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "0",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "0",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "2",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "0",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "5616 Spokane Street, Los Angeles",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "Occult",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "Security (Free)",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 3,
+          "column_5": 3,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 0,
+          "column_4": 1,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 0,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 2,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "column_3": "5616 Spokane Street, Los Angeles",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "column_3": "Occult",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "column_3": "Security (Free)",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "400, that's a big number.  More than a few fights, more than a few dead brothers in arms. It has been a long road, but everytime you try to take a break, you find unlife become intermidably dull. With all this hubbub in LA with the NPM and Sabbat, it sounds like this might be a place where you can find a little balance; a night to fight and a night to relax.  Worse case, you can help whip the Nos in the city into shape.  And if things are too calm, maybe I'll find a niktuku..."
+        ],
+        [
+          "Sire:",
+          "Frans Hilderstern",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Nosferatu - Repulsive"
+        ],
+        [
+          "Embrace Date:",
+          "1616.0",
+          "Embrace Location:",
+          "Norway",
+          "",
+          "Generation",
+          "Pretender Elder 8"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Archon Amelia Trask",
+          "Run into her on the field in a few fights.  Tough old bird."
+        ],
+        [
+          "Fernando Mosquesdo",
+          "Good guy to get info from, usually got his fingers on the pulse.  Good guy to learn who needs to be hit from."
+        ],
+        [
+          "Shannon O'Connell",
+          "Picked my pocket once... of course, I picked hers at the same time."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "400, that's a big number.  More than a few fights, more than a few dead brothers in arms. It has been a long road, but everytime you try to take a break, you find unlife become intermidably dull. With all this hubbub in LA with the NPM and Sabbat, it sounds like this might be a place where you can find a little balance; a night to fight and a night to relax.  Worse case, you can help whip the Nos in the city into shape.  And if things are too calm, maybe I'll find a niktuku..."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Frans Hilderstern",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Nosferatu - Repulsive"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1616,
+          "column_3": "Embrace Location:",
+          "column_4": "Norway",
+          "column_6": "Generation",
+          "column_7": "Pretender Elder 8"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Archon Amelia Trask",
+          "column_2": "Run into her on the field in a few fights.  Tough old bird."
+        },
+        {
+          "staff_generated_concept": "Fernando Mosquesdo",
+          "column_2": "Good guy to get info from, usually got his fingers on the pulse.  Good guy to learn who needs to be hit from."
+        },
+        {
+          "staff_generated_concept": "Shannon O'Connell",
+          "column_2": "Picked my pocket once... of course, I picked hers at the same time."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "2",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "2": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}
