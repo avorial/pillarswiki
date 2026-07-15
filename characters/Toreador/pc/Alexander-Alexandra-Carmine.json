@@ -1,0 +1,2194 @@
+{
+  "source": {
+    "title": "Alexander-Alexandra-Carmine",
+    "fileName": "Alexander-Alexandra-Carmine.xlsx",
+    "localPath": "source-sheets\\Toreador\\pc\\Alexander-Alexandra-Carmine.xlsx"
+  },
+  "folderPath": [
+    "Toreador",
+    "pc"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "WotB - CAMARILLA: LA",
+    "characterName": "Alexander/Alexandra Carmine",
+    "playerName": "",
+    "gmailAccount": "shadartolne@gmail.com",
+    "clanCoordinator": "",
+    "archetype": "Architect",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Neonate *12",
+    "clan": "Toreador"
+  },
+  "attributes": {
+    "physical": 3,
+    "social": 7,
+    "mental": 7
+  },
+  "backgrounds": {
+    "17": "CURRENT POOLS"
+  },
+  "currentPools": {},
+  "abilities": {
+    "academics": 1,
+    "1_0": "Subterfuge",
+    "awareness": 3,
+    "3_0": "Performance",
+    "computer": 2,
+    "crafts": 4,
+    "dodge": 2,
+    "drive": 1,
+    "firearms": 1
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [],
+  "disciplines": [],
+  "ritualsRitaeOther": [
+    "Level and Date"
+  ],
+  "abilitySpecializations": [],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "WotB - CAMARILLA: LA",
+        "",
+        "",
+        "",
+        "",
+        "shadartolne@gmail.com",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "10",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Alexander/Alexandra Carmine",
+        "",
+        "",
+        "",
+        "",
+        "Chris C/Geryk Tollana",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "John Long",
+        "",
+        "",
+        "",
+        "Generation",
+        "",
+        "1.0",
+        "",
+        "",
+        "Generation - Neonate"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "",
+        "",
+        "",
+        "Player Name",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "",
+        "Allies"
+      ],
+      [
+        "",
+        "Architect",
+        "",
+        "",
+        "",
+        "",
+        "Neonate",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2018-11-20 00:00:00",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "0.0",
+        "",
+        "",
+        "Contacts - People who you favours. Small list, but growing"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "",
+        "",
+        "",
+        "Title",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Start Date",
+        "",
+        "",
+        "",
+        "Contacts",
+        "",
+        "2.0"
+      ],
+      [
+        "",
+        "Neonate *12",
+        "",
+        "",
+        "",
+        "",
+        "Toreador - Entranced by Art",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "8",
+        "",
+        "",
+        "",
+        "Mentor",
+        "/ Fame",
+        "",
+        "",
+        "",
+        "Haven - Penthouse"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "",
+        "",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Total XP Unspent",
+        "",
+        "",
+        "",
+        "Herd",
+        "",
+        "0.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "INITIATIVE",
+        "7",
+        "17",
+        "CURRENT POOLS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "",
+        "2.0",
+        "",
+        "",
+        "Influence Elite"
+      ],
+      [
+        "",
+        "Physical",
+        "3.0",
+        "Dexterity - (Burst of Speed, Disarm, Fighting Blind, or Quick Draw)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Willpower",
+        "",
+        "",
+        "",
+        "",
+        "5.0",
+        "",
+        "Influence \"Elite\"",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "",
+        "",
+        "",
+        "",
+        "5.0",
+        "",
+        "Influence \"Underworld\"",
+        "",
+        "1.0"
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "Manipulation - +3 NonPower uses",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence Underworld"
+      ],
+      [
+        "",
+        "Mental",
+        "7.0",
+        "Intelligence - +3 NonPower uses",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Beast Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Resources",
+        "",
+        "3.0"
+      ],
+      [
+        "PILLARS OF SALT",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Current Derangement Traits",
+        "",
+        "",
+        "",
+        "",
+        "0.0",
+        "",
+        "Retainers",
+        "",
+        "",
+        "",
+        "",
+        "Resources"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 10*1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae",
+        "/ Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "STARTING CHARACTER CONCEPT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "",
+        "DISCIPLINES",
+        "",
+        "6"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Toreador whose art is making the best deal possible at all times.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Blasé -3",
+        "",
+        "",
+        "",
+        "",
+        "Auspex",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Calm Heart -1",
+        "",
+        "",
+        "",
+        "",
+        "Celerity",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Reputation -2",
+        "",
+        "",
+        "",
+        "",
+        "Presence",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1"
+      ],
+      [
+        "",
+        "You know the status of everyone in your sect. Leadership will tell you how they got one of them. Alternative Idenity can let you earn and fake status. Maxium 5 Fleeting w/o merits.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lesser Generation +1"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23",
+        "WHAT AM I GOOD AT?"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Intimidation",
+        "",
+        "",
+        "Streetwise",
+        "",
+        "",
+        "Making Deals, Dealing with the Law, Getting what you want, and maing people smile while you do it."
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "1.0",
+        "Subterfuge",
+        "4.0"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "",
+        "Survival"
+      ],
+      [
+        "",
+        "Awareness",
+        "3.0",
+        "Linguistics",
+        "",
+        "3.0",
+        "Performance",
+        "",
+        "",
+        "BOONS / BONDS / VINCULUM",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ABILITY SPECIALIZATIONS",
+        "",
+        "",
+        "",
+        "6",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "",
+        "1.0",
+        "",
+        "",
+        "",
+        "Name",
+        "",
+        "",
+        "Level and Date",
+        "",
+        "",
+        "",
+        "Academics - Law"
+      ],
+      [
+        "",
+        "Computer",
+        "2.0",
+        "Medicine",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Crafts - Contract"
+      ],
+      [
+        "",
+        "Crafts",
+        "4.0",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lore - Camarilla Law"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Linguistics - Latin, French, Spanish"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security"
+      ],
+      [
+        "",
+        "Firearms",
+        "1.0",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON TRAIT POOLS"
+      ],
+      [
+        "",
+        "Brawl   3",
+        "",
+        "Dodge(D/C) 7",
+        "",
+        "",
+        "Auspex    8"
+      ],
+      [
+        "",
+        "Melee    3",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "",
+        "Presence    7"
+      ],
+      [
+        "",
+        "Guns(-W)   4",
+        "",
+        "Disciplines Pull Down",
+        "",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5.0"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "Page 107 BNS\n\nAttribute 3xp Each\n\nIn-Clan Discipline New Level x3\n\nRegain lost Humanity 10xp Each\n\nMerit = to merit rating\n\nBackground New Level x1\n\nSkill New Level x1\n\nOutOfClanNew level x4\n\nTechnique 12xp each",
+          "",
+          "0"
+        ],
+        [
+          "Social 6",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Social 7",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Merits",
+          "Pre Game",
+          "-5.0",
+          "",
+          "",
+          "17"
+        ],
+        [
+          "Crafts 3",
+          "Pre Game",
+          "-3.0"
+        ],
+        [
+          "Crafts 4",
+          "Pre Game",
+          "-4.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Auspex 2",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "4"
+        ],
+        [
+          "Haven 1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Haven 2",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Influence: Underworld",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "0.6666666667"
+        ],
+        [
+          "Influence: Elite",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Intimidation",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "9"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "8"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Earned XP in Game",
+          "2018-11-20 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Earned XP Shout Out Game 2",
+          "2018-11-20 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Staff Shout out Game 2 Jen",
+          "2018-11-20 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2019-01-19 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Player Shout out",
+          "2019-01-22 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2019-02-23 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Game 5 Shout Out XP",
+          "2019-02-23 00:00:00",
+          "",
+          "1.0"
+        ],
+        [
+          "Auspex 3",
+          "2019-03-12 00:00:00",
+          "",
+          "",
+          "9.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2019-03-18 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Player Shout out",
+          "2019-03-20 00:00:00",
+          "",
+          "1.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "column_4": "Page 107 BNS\n\nAttribute 3xp Each\n\nIn-Clan Discipline New Level x3\n\nRegain lost Humanity 10xp Each\n\nMerit = to merit rating\n\nBackground New Level x1\n\nSkill New Level x1\n\nOutOfClanNew level x4\n\nTechnique 12xp each",
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Social 6",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Social 7",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Merits",
+          "date": "Pre Game",
+          "all_costs": -5,
+          "starting_total_xp_left": 17
+        },
+        {
+          "what_was_bought": "Crafts 3",
+          "date": "Pre Game",
+          "all_costs": -3
+        },
+        {
+          "what_was_bought": "Crafts 4",
+          "date": "Pre Game",
+          "all_costs": -4,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Auspex 2",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": 4
+        },
+        {
+          "what_was_bought": "Haven 1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Haven 2",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Influence: Underworld",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 0.6666666667
+        },
+        {
+          "what_was_bought": "Influence: Elite",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Intimidation",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 9
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 8
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2018-11-20 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Earned XP Shout Out Game 2",
+          "date": "2018-11-20 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Staff Shout out Game 2 Jen",
+          "date": "2018-11-20 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2019-01-19 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Player Shout out",
+          "date": "2019-01-22 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2019-02-23 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Game 5 Shout Out XP",
+          "date": "2019-02-23 00:00:00",
+          "column_4": 1
+        },
+        {
+          "what_was_bought": "Auspex 3",
+          "date": "2019-03-12 00:00:00",
+          "column_5": 9
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2019-03-18 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Player Shout out",
+          "date": "2019-03-20 00:00:00",
+          "column_4": 1
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Toreador whose art is making deals, whether Legal or otherwise.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Logan Boese"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "Alexander/Alexandra Carmine - Toreador refugee from Vegas. A former contracts Lawyer, he loves nothing so much as crafting a Deal, the more elaborate, (or better quality,) the Better. Often Opines that they “Should have been a Ventrue.” But they’re not business people, they’re craftsmen. They don’t care about the ends, or what comes after, only the means, and the deals themselves. It doesn’t matter to them if the deal in question is something like a contract dispute, a negotiation between two kindred about territories, whether something is worth a Minor or Major boon, or even just the price of something they’d found on Craigslist. ...Back when they were allowed to USE Craigslist. Since embrace, has often been used as a negotiator, and was one of the first to catch wind of what was happening in Vegas. Only escaped because they cashed in a Major Boon from a previous deal. Had some Mob contacts, but “They’re probably dead.” ALWAYS looking to Cut a deal, they Love it. Not obsessed or psychotic about it, but they’ll take the opportunity if it presents itself. It is, after all, their Art. Feels very naked here, with few, (If any,) previous contacts in LA, and wants to build up at least a small stockpile of at least minor boons. Doesn’t think there’s anything left in Vegas, so is perfectly willing to resettle here if they think they can get a “practice” thriving again, (Essentially, would like to build up their reputation as an expert negotiator). Has also begun to realize how hard it is to admire the small deals, and so has turned their eye to making longer-lasting, larger deals. They want to make one that “Lasts.” and “Matters.”"
+        ],
+        [
+          "Sire:",
+          "Bernie Conrad",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Toreador - Entranced by Art"
+        ],
+        [
+          "Embrace Date:",
+          "1983.0",
+          "Embrace Location:",
+          "Las Vegas",
+          "",
+          "Generation",
+          "Neonate *12"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Build up a list of favours, Boons, and people who owe you."
+        ],
+        [
+          "Craft a deal that leaves an impression. One that Matters. One that actually changes something and effects something."
+        ],
+        [
+          "Improve and solidify your reputation as an expert negotiator."
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Toreador whose art is making deals, whether Legal or otherwise.",
+          "created_by": "Logan Boese"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "Alexander/Alexandra Carmine - Toreador refugee from Vegas. A former contracts Lawyer, he loves nothing so much as crafting a Deal, the more elaborate, (or better quality,) the Better. Often Opines that they “Should have been a Ventrue.” But they’re not business people, they’re craftsmen. They don’t care about the ends, or what comes after, only the means, and the deals themselves. It doesn’t matter to them if the deal in question is something like a contract dispute, a negotiation between two kindred about territories, whether something is worth a Minor or Major boon, or even just the price of something they’d found on Craigslist. ...Back when they were allowed to USE Craigslist. Since embrace, has often been used as a negotiator, and was one of the first to catch wind of what was happening in Vegas. Only escaped because they cashed in a Major Boon from a previous deal. Had some Mob contacts, but “They’re probably dead.” ALWAYS looking to Cut a deal, they Love it. Not obsessed or psychotic about it, but they’ll take the opportunity if it presents itself. It is, after all, their Art. Feels very naked here, with few, (If any,) previous contacts in LA, and wants to build up at least a small stockpile of at least minor boons. Doesn’t think there’s anything left in Vegas, so is perfectly willing to resettle here if they think they can get a “practice” thriving again, (Essentially, would like to build up their reputation as an expert negotiator). Has also begun to realize how hard it is to admire the small deals, and so has turned their eye to making longer-lasting, larger deals. They want to make one that “Lasts.” and “Matters.”"
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Bernie Conrad",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Toreador - Entranced by Art"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1983,
+          "column_3": "Embrace Location:",
+          "column_4": "Las Vegas",
+          "column_6": "Generation",
+          "column_7": "Neonate *12"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Build up a list of favours, Boons, and people who owe you."
+        },
+        {
+          "staff_generated_concept": "Craft a deal that leaves an impression. One that Matters. One that actually changes something and effects something."
+        },
+        {
+          "staff_generated_concept": "Improve and solidify your reputation as an expert negotiator."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "1.0",
+          "",
+          "1",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC",
+          "Contacts"
+        ],
+        [
+          "",
+          "Allies",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC",
+          "Carl Lewis"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level",
+          "\"Legitimate\" arms dealer"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "2.0",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "2.0",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "1.0",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "1.0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "3.0",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC",
+          "Contacts"
+        ],
+        [
+          "",
+          "Ritae",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC",
+          "Raphael Douglas"
+        ],
+        [
+          "",
+          "Other",
+          "",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level",
+          "Financial Guru"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "Penthouse",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "Downtown",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "Luxury",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "Security",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 1,
+          "column_5": 1,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC",
+          "column_12": "Contacts"
+        },
+        {
+          "backgrounds": "Allies",
+          "background_npc_1": "Name of NPC",
+          "column_12": "Carl Lewis"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level",
+          "column_12": "\"Legitimate\" arms dealer"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 2,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 2,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 1,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 1,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 3,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC",
+          "column_12": "Contacts"
+        },
+        {
+          "backgrounds": "Ritae",
+          "background_npc_1": "Name of NPC",
+          "column_12": "Raphael Douglas"
+        },
+        {
+          "backgrounds": "Other",
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level",
+          "column_12": "Financial Guru"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "column_3": "Penthouse",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "column_3": "Downtown",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "column_3": "Luxury",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "column_3": "Security",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "2",
+          "Computer Downtimes",
+          "2",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Email Address",
+          "What is your name",
+          "What is your character's name",
+          "What is your character's type (clan)",
+          "Feeding",
+          "Action 1",
+          "Action 1  Description",
+          "Action 2",
+          "Action 2  Description",
+          "Action 3",
+          "Action 3  Description",
+          "Action 4",
+          "Action 4  Description",
+          "Action 5",
+          "Action 5  Description",
+          "Action 6",
+          "Action 6  Description",
+          "XP Spends",
+          "Other Description",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Action 1  Description",
+          "2": "Feeding",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Email Address",
+          "influnce_downtimes": "What is your name",
+          "computer_downtimes": "What is your character's type (clan)",
+          "science_downtimes": "Action 1",
+          "column_9": "Action 2",
+          "column_10": "Action 2  Description",
+          "column_11": "Action 3",
+          "column_12": "Action 3  Description",
+          "column_13": "Action 4",
+          "column_14": "Action 4  Description",
+          "column_15": "Action 5",
+          "column_16": "Action 5  Description",
+          "column_17": "Action 6",
+          "column_18": "Action 6  Description",
+          "column_19": "XP Spends",
+          "column_20": "Other Description",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1957 @@
+{
+  "source": {
+    "title": "Copy of Ruby Darling (NDC) Rachel Judd (V.3.5.4)",
+    "fileName": "Copy of Ruby Darling (NDC) Rachel Judd (V.3.5.4).xlsx",
+    "localPath": "source-sheets\\Drive V.3.5.4 Search\\Copy of Ruby Darling (NDC) Rachel Judd (V.3.5.4).xlsx"
+  },
+  "folderPath": [
+    "Drive V.3.5.4 Search"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "SABBAT: LA",
+    "characterName": "Ruby Darling",
+    "playerName": "Rachel Judd",
+    "gmailAccount": "",
+    "clanCoordinator": "Khaldoun Khelil",
+    "archetype": "Revolutionary",
+    "title": "",
+    "characterStartDate": "2017-03-18 00:00:00",
+    "generationLabel": "Pretender Elder 8",
+    "clan": "Caitiff - \"Pander\" - Weak Blood"
+  },
+  "attributes": {
+    "physical": 7,
+    "social": 7,
+    "mental": 3
+  },
+  "backgrounds": {
+    "generation": 3,
+    "mentor_herd": 2,
+    "haven": 1,
+    "resources": 2,
+    "ritae": 1
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "streetwise": 1,
+    "leadership": 2,
+    "linguistics": 2,
+    "lore": 2,
+    "computer": 1,
+    "melee": 4,
+    "dodge": 3,
+    "occult": 3,
+    "drive": 1,
+    "security": 1,
+    "firearms": 1
+  },
+  "status": [
+    "Initiated (Sabbat)"
+  ],
+  "meritsAndFlaws": [
+    "Vestiges of Greatness -3",
+    "Path of Caine -1"
+  ],
+  "disciplines": [
+    {
+      "name": "Kineticism",
+      "value": 3
+    },
+    {
+      "name": "Fortitude",
+      "value": 1
+    },
+    {
+      "name": "Presence",
+      "value": 2
+    }
+  ],
+  "ritualsRitaeOther": [
+    "Creation Rites",
+    "Vaulderie",
+    "Monomacy",
+    "Sermon of Caine"
+  ],
+  "abilitySpecializations": [
+    "Linguistics: Spanish, Latin",
+    "Lore: Sabbat, Gehenna"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "SABBAT: LA",
+        "",
+        "Players Gmail Account: lady.von.syrus@gmail.com",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "53"
+      ],
+      [
+        "",
+        "Ruby Darling",
+        "",
+        "Rachel Judd",
+        "",
+        "Khaldoun Khelil",
+        "",
+        "",
+        "Generation",
+        "3.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Revolutionary",
+        "",
+        "",
+        "",
+        "2017-03-18 00:00:00",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 15*3"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts / Fame",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Pretender Elder 8",
+        "",
+        "Caitiff - \"Pander\" - Weak Blood",
+        "",
+        "",
+        "",
+        "",
+        "Mentor / Herd",
+        "2.0"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "1.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "Physical",
+        "7.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "7.0",
+        "Manipulation - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "Mental",
+        "3.0",
+        "Perception - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Ritae",
+        "1.0"
+      ],
+      [
+        "",
+        "Initiated (Sabbat)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vestiges of Greatness -3",
+        "",
+        "",
+        "",
+        "Kineticism",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Path of Caine -1",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Presence",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Animalism",
+        "1.0"
+      ],
+      [
+        "",
+        "Academics",
+        "",
+        "Intimidation",
+        "",
+        "Streetwise",
+        "1.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "",
+        "Subterfuge"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "2.0",
+        "Survival"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "2.0",
+        "Performance",
+        "",
+        "",
+        "Soul Shard +3"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "2.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Medicine",
+        "",
+        "",
+        "",
+        "",
+        "Linguistics: Spanish, Latin",
+        "",
+        "",
+        "",
+        "Creation Rites"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "4.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vaulderie"
+      ],
+      [
+        "",
+        "Dodge",
+        "3.0",
+        "Occult",
+        "3.0",
+        "",
+        "",
+        "",
+        "Lore: Sabbat, Gehenna",
+        "",
+        "",
+        "",
+        "Monomacy"
+      ],
+      [
+        "",
+        "Drive",
+        "1.0",
+        "Science",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sermon of Caine"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "1.0"
+      ],
+      [
+        "",
+        "Firearms",
+        "1.0",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    7",
+        "",
+        "Dodge    10",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Melee    11",
+        "",
+        "Dominate    3",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (No Wits)   8",
+        "",
+        "Presence    9",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.3"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Melee 4, Occult 3, Dodge 3, Leadership 2, Linguistics 2, Lore 2",
+          "Pre Game",
+          "0.0"
+        ],
+        [
+          "Computer 1, Drive 1, Security 1, Streetwise 1",
+          "Pre Game",
+          "0.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Generation 3, Mentor 2, Haven 1",
+          "Pre Game",
+          "0.0",
+          "",
+          "",
+          "20"
+        ],
+        [
+          "Dominate 1, Fortitude 1, Presence 2",
+          "Pre Game",
+          "0.0"
+        ],
+        [
+          "Physical 7, Social 5, Mental 3",
+          "Pre Game",
+          "0.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Soul Shard",
+          "Pre Game",
+          "3.0",
+          "",
+          "",
+          "4"
+        ],
+        [
+          "Derangement - Ritual Freak",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Vestige of Greatness",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Path of Caine",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "0.6666666667"
+        ],
+        [
+          "Resources x2",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "Kineticism x2",
+          "Pre Game",
+          "-9.0",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "Social x2",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "13"
+        ],
+        [
+          "Ritae x1",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Presence lvl 2",
+          "Pre Game",
+          "-6.0",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "Firearms lvl 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "7"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-03-18 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Animalism 1",
+          "2017-04-19 00:00:00",
+          "",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-04-22 00:00:00",
+          "",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-05-20 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Kineticism lvl 3",
+          "2017-06-15 00:00:00",
+          "",
+          "",
+          "9.0"
+        ],
+        [
+          "Workshop - Sabbat Politics",
+          "2017-06-17 00:00:00",
+          "1.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-06-17 00:00:00",
+          "",
+          "5.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Melee 4, Occult 3, Dodge 3, Leadership 2, Linguistics 2, Lore 2",
+          "date": "Pre Game",
+          "all_costs": 0
+        },
+        {
+          "what_was_bought": "Computer 1, Drive 1, Security 1, Streetwise 1",
+          "date": "Pre Game",
+          "all_costs": 0,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Generation 3, Mentor 2, Haven 1",
+          "date": "Pre Game",
+          "all_costs": 0,
+          "starting_total_xp_left": 20
+        },
+        {
+          "what_was_bought": "Dominate 1, Fortitude 1, Presence 2",
+          "date": "Pre Game",
+          "all_costs": 0
+        },
+        {
+          "what_was_bought": "Physical 7, Social 5, Mental 3",
+          "date": "Pre Game",
+          "all_costs": 0,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Soul Shard",
+          "date": "Pre Game",
+          "all_costs": 3,
+          "starting_total_xp_left": 4
+        },
+        {
+          "what_was_bought": "Derangement - Ritual Freak",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Vestige of Greatness",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Path of Caine",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 0.6666666667
+        },
+        {
+          "what_was_bought": "Resources x2",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "what_was_bought": "Kineticism x2",
+          "date": "Pre Game",
+          "all_costs": -9,
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "what_was_bought": "Social x2",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": 13
+        },
+        {
+          "what_was_bought": "Ritae x1",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Presence lvl 2",
+          "date": "Pre Game",
+          "all_costs": -6,
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "what_was_bought": "Firearms lvl 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 7
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-03-18 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Animalism 1",
+          "date": "2017-04-19 00:00:00",
+          "column_5": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-04-22 00:00:00",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-05-20 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Kineticism lvl 3",
+          "date": "2017-06-15 00:00:00",
+          "column_5": 9
+        },
+        {
+          "what_was_bought": "Workshop - Sabbat Politics",
+          "date": "2017-06-17 00:00:00",
+          "all_costs": 1
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-06-17 00:00:00",
+          "column_4": 5
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "3",
+          "",
+          "3",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "2",
+          "0",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "1",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "0",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "2",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "0",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "Security",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "Library (Lore:Antideluvians)",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "Joseph Pander",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "Famous",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "Information Broker",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 3,
+          "column_5": 3,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 2,
+          "column_4": 0,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 0,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 2,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 1,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "column_3": "Security",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "column_3": "Library (Lore:Antideluvians)",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "column_3": "Joseph Pander",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "column_3": "Famous",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "column_3": "Information Broker",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "Pander Idealist",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Rachel"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "Ruby Darling, born Arbella Montgomery, grew up the daughter of privilege, the doted-upon, only daughter of Boston Brahmins - unbeknownst to her, the project of a Camarilla Ventrue to breed the perfect stock. With Ruby, her sire decided that at long last his project had come to an end, and Embraced her. Ruby struggled at first, as all neonates do, especially with her need to understand her condition. This led her down some quasi-heretical roads, as she ended up in conversations she shouldn't have been involved in, with others who whispered things to her about the Book of Nod and impending Gehenna. Her sire insisted it was all nonsense, and wasn't shy about using his blood, or his powers of the Blood, to back it up. Ruby obeyed, but couldn't quite rid herself of doubt. And then the Week of Nightmares happened, and Ruby could no longer deny the evidence of her own eyes. Reaching out to the Sabbat, they demanded she prove herself first before they would accept her. So, Ruby lured her sire and grandsire into a trap. She took her sire's heartsblood, and gave her Sabbat contacts her grandsire in exchange for admittance into the sect. However, conversion was not an easy process, and Ruby's heritage as a Ventrue made her suspect in the eyes of the other Cainites. She struggled to fit in, which meant she struggled to survive, and might have been a washout if not for a series of lucky events.  Ruby was used in a couple of strikes by Bishop Kuyper (Springfield, MA) against Camarilla targets in the New England area. She was sent with an escort team of three to Detroit, they were guarding a shipment of valuables sent to the Americas by the Lasombra of Spain.  During the travel the team was attacked outside of Akron, OH and only Ruby survived the assault, she managed to finish the mission and ensure delivery of the items to the Sabbat Stronghold.  She was then dispatched on several regular courier missions between Montreal, Santa Fe, Mexico City, New York, Detroit, and Tijuana.  During these travels she struck up friendship with several of the new Pander factions members and got brought to “meetings” over time. Getting adopted as “one of us” by the Panders was pretty fun, it was the first time Ruby really felt she belonged.  Her best friend, Kelly Anne, was a childe of Joseph Pander and when he was in town she was able to chat with him due to Kelly Anne .  Ruby doubled down on her association with the Panders with the appearance of the Red Star, she believed the Antediluvians were coming and that the Sabbat was guided and saved by Caine as represented by the Regent and the Ritae.  As the disastrous events of the Millennium swept the Sabbat and packs were targeted by Hunters and the like Ruby found herself more and more following Kelly Anne and her sire in their travels.  Learning from example of Joseph Pander was an eye opening experience for Ruby on a night to night experience. The fervor and determination mixed with the ruthless cunning required of the Sabbats youngest Luminary was tempered only by the faith in Caine’s example and the freedom the Ritae imparted to the Sabbat.  Ruby was gifted freedom from the Antediluvians meddling in her blood by Joseph Pander and a mysterious Ally of his, StoneMan, in 2010 in a Ritual of his devisement (One of My Tribe).  In this Ritual the mysterious StoneMan also challenged Ruby if she had the bravery to forge a new link past the slave chains of the Antediluvians.  In a show of Bravado she accepted the challenge with a smirk and was struck with a force that rent something from her and deposited a force within her.  She has not seen this “StoneMan” since the ritual but she has developed a power that is somehow tied to some of the few stories about him.  Ruby having been brought fully into the family by Pander himself found herself used as a willing evangelist for the Pander cause, the cause of the clanless, and offering conversion to those who would cast aside the scourge of the Clan Founders.  She still sends converts to the cause to Pander, though he has slowed down the conversions in the last few years as he has heard rumblings from the Clan Majors that his expansion of the Pander cause so rapidly and aggressively potentially provokes yet another Civil War."
+        ],
+        [
+          "Sire:",
+          "Castor Montgomery",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Caitiff - \"Pander\" - Weak Blood"
+        ],
+        [
+          "Embrace Date:",
+          "1972.0",
+          "Embrace Location:",
+          "Boston",
+          "",
+          "Generation",
+          "Pretender Elder 8"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Pander Idealist",
+          "created_by": "Rachel"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "Ruby Darling, born Arbella Montgomery, grew up the daughter of privilege, the doted-upon, only daughter of Boston Brahmins - unbeknownst to her, the project of a Camarilla Ventrue to breed the perfect stock. With Ruby, her sire decided that at long last his project had come to an end, and Embraced her. Ruby struggled at first, as all neonates do, especially with her need to understand her condition. This led her down some quasi-heretical roads, as she ended up in conversations she shouldn't have been involved in, with others who whispered things to her about the Book of Nod and impending Gehenna. Her sire insisted it was all nonsense, and wasn't shy about using his blood, or his powers of the Blood, to back it up. Ruby obeyed, but couldn't quite rid herself of doubt. And then the Week of Nightmares happened, and Ruby could no longer deny the evidence of her own eyes. Reaching out to the Sabbat, they demanded she prove herself first before they would accept her. So, Ruby lured her sire and grandsire into a trap. She took her sire's heartsblood, and gave her Sabbat contacts her grandsire in exchange for admittance into the sect. However, conversion was not an easy process, and Ruby's heritage as a Ventrue made her suspect in the eyes of the other Cainites. She struggled to fit in, which meant she struggled to survive, and might have been a washout if not for a series of lucky events.  Ruby was used in a couple of strikes by Bishop Kuyper (Springfield, MA) against Camarilla targets in the New England area. She was sent with an escort team of three to Detroit, they were guarding a shipment of valuables sent to the Americas by the Lasombra of Spain.  During the travel the team was attacked outside of Akron, OH and only Ruby survived the assault, she managed to finish the mission and ensure delivery of the items to the Sabbat Stronghold.  She was then dispatched on several regular courier missions between Montreal, Santa Fe, Mexico City, New York, Detroit, and Tijuana.  During these travels she struck up friendship with several of the new Pander factions members and got brought to “meetings” over time. Getting adopted as “one of us” by the Panders was pretty fun, it was the first time Ruby really felt she belonged.  Her best friend, Kelly Anne, was a childe of Joseph Pander and when he was in town she was able to chat with him due to Kelly Anne .  Ruby doubled down on her association with the Panders with the appearance of the Red Star, she believed the Antediluvians were coming and that the Sabbat was guided and saved by Caine as represented by the Regent and the Ritae.  As the disastrous events of the Millennium swept the Sabbat and packs were targeted by Hunters and the like Ruby found herself more and more following Kelly Anne and her sire in their travels.  Learning from example of Joseph Pander was an eye opening experience for Ruby on a night to night experience. The fervor and determination mixed with the ruthless cunning required of the Sabbats youngest Luminary was tempered only by the faith in Caine’s example and the freedom the Ritae imparted to the Sabbat.  Ruby was gifted freedom from the Antediluvians meddling in her blood by Joseph Pander and a mysterious Ally of his, StoneMan, in 2010 in a Ritual of his devisement (One of My Tribe).  In this Ritual the mysterious StoneMan also challenged Ruby if she had the bravery to forge a new link past the slave chains of the Antediluvians.  In a show of Bravado she accepted the challenge with a smirk and was struck with a force that rent something from her and deposited a force within her.  She has not seen this “StoneMan” since the ritual but she has developed a power that is somehow tied to some of the few stories about him.  Ruby having been brought fully into the family by Pander himself found herself used as a willing evangelist for the Pander cause, the cause of the clanless, and offering conversion to those who would cast aside the scourge of the Clan Founders.  She still sends converts to the cause to Pander, though he has slowed down the conversions in the last few years as he has heard rumblings from the Clan Majors that his expansion of the Pander cause so rapidly and aggressively potentially provokes yet another Civil War."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Castor Montgomery",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Caitiff - \"Pander\" - Weak Blood"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1972,
+          "column_3": "Embrace Location:",
+          "column_4": "Boston",
+          "column_6": "Generation",
+          "column_7": "Pretender Elder 8"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ],
+        [
+          "2017-04-06 00:00:00",
+          "Vaulderie with Pack",
+          "NDC",
+          "3V: Friends ~ 1 WP to harm [per scene not needed for ritae] (Must Vaulderie 10 times in the last year)"
+        ]
+      ],
+      "records": [
+        {
+          "date": "2017-04-06 00:00:00",
+          "name": "Vaulderie with Pack",
+          "pack_name": "NDC",
+          "current_level": "3V: Friends ~ 1 WP to harm [per scene not needed for ritae] (Must Vaulderie 10 times in the last year)"
+        }
+      ]
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "2",
+          "Computer Downtimes",
+          "1",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "1": "Hunting Actions",
+          "2": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

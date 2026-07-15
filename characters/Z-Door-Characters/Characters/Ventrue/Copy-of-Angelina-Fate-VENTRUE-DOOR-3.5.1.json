@@ -1,0 +1,1217 @@
+{
+  "source": {
+    "title": "Copy-of-Angelina-Fate-VENTRUE-DOOR-3.5.1",
+    "fileName": "Copy-of-Angelina-Fate-VENTRUE-DOOR-3.5.1.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Ventrue\\Copy-of-Angelina-Fate-VENTRUE-DOOR-3.5.1.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters",
+    "Characters",
+    "Ventrue"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "CAMARILLA: LA",
+    "characterName": "Angelina Fate",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Theo Strinz",
+    "archetype": "Trickster",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Neonate 11",
+    "clan": "Ventrue \"Crusader\" - Feeding Preference"
+  },
+  "attributes": {
+    "physical": 5,
+    "social": 3,
+    "mental": 8
+  },
+  "backgrounds": {
+    "generation": 1,
+    "haven": 5,
+    "resources": 5
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_humanity": 5
+  },
+  "abilities": {
+    "academics": 1,
+    "intimidation": 4,
+    "investigation": 3,
+    "subterfuge": 2,
+    "lore": 1,
+    "etiquette": 2,
+    "dodge": 2,
+    "occult": 1,
+    "security": 1,
+    "firearms": 3
+  },
+  "status": [
+    "Acknowledged (Cam)"
+  ],
+  "meritsAndFlaws": [
+    "Bloodline: Crusader -2",
+    "Machiavellian Prodigy -1",
+    "Paragon -3"
+  ],
+  "disciplines": [
+    {
+      "name": "Auspex",
+      "value": 1
+    },
+    {
+      "name": "Dominate",
+      "value": 1
+    },
+    {
+      "name": "Fortitude",
+      "value": 2
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Lore: Ventrue History",
+    "Academics: Finance"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "CAMARILLA: LA",
+        "",
+        "Players Gmail Account:",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "51"
+      ],
+      [
+        "",
+        "Angelina Fate",
+        "",
+        "",
+        "",
+        "Theo Strinz",
+        "",
+        "",
+        "Generation",
+        "1.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Trickster",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 10*1"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Neonate 11",
+        "",
+        "Ventrue \"Crusader\" - Feeding Preference",
+        "",
+        "",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "",
+        "Haven: Size, Location, Guards, Luury, Occult, Security*"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "5.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Herd",
+        "",
+        "",
+        "",
+        "Clan Weakness: Can only feed off of the Wealthy"
+      ],
+      [
+        "",
+        "Physical",
+        "5.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "Social",
+        "3.0",
+        "Appearance - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\"",
+        "",
+        "",
+        "",
+        "Paragon Retainer: Hugo Valois, Ventrue NPC 6"
+      ],
+      [
+        "",
+        "Mental",
+        "8.0",
+        "Wits - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "5.0"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "Acknowledged (Cam)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ritae / Other"
+      ],
+      [
+        "",
+        "Confirmed (Ancilla)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bloodline: Crusader -2",
+        "",
+        "",
+        "",
+        "Auspex",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Machiavellian Prodigy -1",
+        "",
+        "",
+        "",
+        "Dominate",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Paragon -3",
+        "",
+        "",
+        "",
+        "Fortitude",
+        "2.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Presence",
+        "1.0"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Intimidation",
+        "4.0",
+        "Streetwise"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "",
+        "Investigation",
+        "3.0",
+        "Subterfuge",
+        "2.0"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "Survival",
+        "",
+        "",
+        "Impatient +2"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Linguistics",
+        "",
+        "Performance",
+        "",
+        "",
+        "Obvious Predator +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "1.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "",
+        "Etiquette",
+        "2.0",
+        "",
+        "Lore: Ventrue History"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Academics: Finance"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "1.0"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "1.0"
+      ],
+      [
+        "",
+        "Firearms",
+        "3.0",
+        "Stealth"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    5",
+        "",
+        "Dodge    7",
+        "",
+        "Presence    3"
+      ],
+      [
+        "",
+        "Melee    5",
+        "",
+        "Auspex    11",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (Wits)   11",
+        "",
+        "Dominate    12",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.1"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Resources 4",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Resources 5",
+          "Pre Game",
+          "-5.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Haven 3",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Haven 4",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Haven 5",
+          "Pre Game",
+          "-5.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Crusader 2",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "machevallian prodgiy",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "paragon 3",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Mental 8",
+          "Pre Game",
+          "-3.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Presence 1",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "impatient",
+          "Pre Game",
+          "2.0",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Obvious predator 2",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Resources 4",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Resources 5",
+          "date": "Pre Game",
+          "all_costs": -5,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Haven 3",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Haven 4",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Haven 5",
+          "date": "Pre Game",
+          "all_costs": -5,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Crusader 2",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "machevallian prodgiy",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "paragon 3",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Mental 8",
+          "date": "Pre Game",
+          "all_costs": -3,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Presence 1",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 0
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "what_was_bought": "impatient",
+          "date": "Pre Game",
+          "all_costs": 2,
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Obvious predator 2",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "KK"
+        ],
+        [
+          "Staff Generated History"
+        ],
+        [
+          "In Miami you were into real estate.  People with too much money and nt enough time to manage it would come to you. Your family connections and personal allure were all you needed to run the largest ponzi scheme and real estate fraud in Florida. Luckily for you, before the federal govenement was abel to close in on your fraudulent investments a Ventrue Elder embraced you to run his own assets.  Incredibly enough the same tactics that allowed you to keep your fake money machine running in the mortal world have served you well in the Camarilla.  You're a rising star in the Ventrue Clan and have the support and money of several well connected Ancilla and Elders in Europe.  An eager Ventrue named Hugo Valois even agreed to be your blood bonded retainer in hopes of riding your coat tails up the Ventrue ladder.  You're not sure how long this ride is going to last, but you do know that you'll have to keep funneling more and more Clan resources into your fraudulent system to keep up the illusion of stability. This has led you to move every few years to a new city and entice a new circle of investors. So far the Clan Elders assume anyone suspicious of your success is just jealous."
+        ],
+        [
+          "Sire:",
+          "Johann Brugges",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Ventrue \"Crusader\" - Feeding Preference"
+        ],
+        [
+          "Embrace Date:",
+          "1978.0",
+          "Embrace Location:",
+          "Miami, Florida",
+          "",
+          "Generation",
+          "Neonate 11"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Alexander de Veracruz",
+          "The Ventrue Primogen is known for his old ways and political games"
+        ],
+        [
+          "Prince Pictor",
+          "The Tremere Prince is very concered with her war and may not see the power that wealth can offer"
+        ],
+        [
+          "April",
+          "The Harpy is a Ventrue with a deep understanding of Ventrue bloodlines"
+        ],
+        [
+          "Muriel Goldstein",
+          "The Chancellor is a Nosferatu and the Harpy's rival.  April may think better of anyone who helps her reduce her rival"
+        ],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "Ingratiate yourself with the Ventrue before seekng to acquire their invetment"
+        ],
+        [
+          "Make sure everyone knows how wealthy and well-connected you are.  Make them come to you... never offer to take anyone's money..."
+        ],
+        [
+          "Keep money flowing into your pyramid schemes or they'll collapse and bury you."
+        ],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "created_by": "KK"
+        },
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "In Miami you were into real estate.  People with too much money and nt enough time to manage it would come to you. Your family connections and personal allure were all you needed to run the largest ponzi scheme and real estate fraud in Florida. Luckily for you, before the federal govenement was abel to close in on your fraudulent investments a Ventrue Elder embraced you to run his own assets.  Incredibly enough the same tactics that allowed you to keep your fake money machine running in the mortal world have served you well in the Camarilla.  You're a rising star in the Ventrue Clan and have the support and money of several well connected Ancilla and Elders in Europe.  An eager Ventrue named Hugo Valois even agreed to be your blood bonded retainer in hopes of riding your coat tails up the Ventrue ladder.  You're not sure how long this ride is going to last, but you do know that you'll have to keep funneling more and more Clan resources into your fraudulent system to keep up the illusion of stability. This has led you to move every few years to a new city and entice a new circle of investors. So far the Clan Elders assume anyone suspicious of your success is just jealous."
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_2": "Johann Brugges",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Ventrue \"Crusader\" - Feeding Preference"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_2": 1978,
+          "column_3": "Embrace Location:",
+          "column_4": "Miami, Florida",
+          "column_6": "Generation",
+          "column_7": "Neonate 11"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Alexander de Veracruz",
+          "column_2": "The Ventrue Primogen is known for his old ways and political games"
+        },
+        {
+          "staff_generated_concept": "Prince Pictor",
+          "column_2": "The Tremere Prince is very concered with her war and may not see the power that wealth can offer"
+        },
+        {
+          "staff_generated_concept": "April",
+          "column_2": "The Harpy is a Ventrue with a deep understanding of Ventrue bloodlines"
+        },
+        {
+          "staff_generated_concept": "Muriel Goldstein",
+          "column_2": "The Chancellor is a Nosferatu and the Harpy's rival.  April may think better of anyone who helps her reduce her rival"
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Ingratiate yourself with the Ventrue before seekng to acquire their invetment"
+        },
+        {
+          "staff_generated_concept": "Make sure everyone knows how wealthy and well-connected you are.  Make them come to you... never offer to take anyone's money..."
+        },
+        {
+          "staff_generated_concept": "Keep money flowing into your pyramid schemes or they'll collapse and bury you."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ]
+      ],
+      "records": []
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "0",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "0"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Investigation / Patrol Actions",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

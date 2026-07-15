@@ -1,0 +1,2107 @@
+{
+  "source": {
+    "title": "Zdenko-Vanek-St-Boris-Bernard-Hansel-v-3-5-4",
+    "fileName": "Zdenko-Vanek-St-Boris-Bernard-Hansel-v-3-5-4.xlsx",
+    "localPath": "source-sheets\\Tzimisce\\Zdenko-Vanek-St-Boris-Bernard-Hansel-v-3-5-4.xlsx"
+  },
+  "folderPath": [
+    "Tzimisce"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "SABBAT: LA",
+    "characterName": "Zdenko Vanek",
+    "playerName": "Bernard Hansel",
+    "gmailAccount": "",
+    "clanCoordinator": "Khaldoun Khelil",
+    "archetype": "Judge",
+    "title": "Elder",
+    "characterStartDate": "2016-06-18 00:00:00",
+    "generationLabel": "Pretender Elder 8",
+    "clan": "Tzimisce \"Koldun\" - Bound to the Earth"
+  },
+  "attributes": {
+    "physical": 3,
+    "social": 5,
+    "mental": 7
+  },
+  "backgrounds": {
+    "generation": 3,
+    "haven": 1,
+    "resources": 2,
+    "retainers": 1
+  },
+  "currentPools": {
+    "current_willpower": 6,
+    "current_path": 5
+  },
+  "abilities": {
+    "academics": 1,
+    "intimidation": 1,
+    "animal_ken": 1,
+    "investigation": 1,
+    "awareness": 2,
+    "linguistics": 3,
+    "lore": 3,
+    "dodge": 2,
+    "occult": 4,
+    "science": 1,
+    "firearms": 2
+  },
+  "status": [
+    "Initiated (Sabbat)"
+  ],
+  "meritsAndFlaws": [
+    "Bloodline: Koldun -4",
+    "Loremaster -1",
+    "Natural Linguist -1"
+  ],
+  "disciplines": [
+    {
+      "name": "Animalism",
+      "value": 1
+    },
+    {
+      "name": "Auspex",
+      "value": 3
+    },
+    {
+      "name": "Thaumaturgy: Elemental Mastery (C)",
+      "value": 5
+    }
+  ],
+  "ritualsRitaeOther": [
+    "Ritual of Hospitality",
+    "Ritual of Enlightenment"
+  ],
+  "abilitySpecializations": [
+    "Academics: General",
+    "Lore: Blood Magic, Sabbat,",
+    "Spirit Realms, Tremere,",
+    "Demonology, Evil Cults",
+    "English, Magyar, Latin, Greek",
+    "Turkish, Arabic"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "SABBAT: LA",
+        "",
+        "Players Gmail Account: hobbitbert@gmail.com",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "",
+        "CURRENT POOLS",
+        "",
+        "53"
+      ],
+      [
+        "",
+        "Zdenko Vanek",
+        "",
+        "Bernard Hansel",
+        "",
+        "Khaldoun Khelil",
+        "",
+        "",
+        "Generation",
+        "3.0",
+        "",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Clan Coordinator",
+        "",
+        "",
+        "Allies",
+        "",
+        "",
+        "",
+        "Current Path",
+        "5.0"
+      ],
+      [
+        "",
+        "Judge",
+        "",
+        "Elder",
+        "",
+        "2016-06-18 00:00:00",
+        "",
+        "",
+        "Alternate Identity",
+        "",
+        "",
+        "",
+        "Current Blood Points * Per Turn ~ 15*3"
+      ],
+      [
+        "",
+        "Archetype",
+        "",
+        "Title / Political Faction",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts / Fame",
+        "",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Pretender Elder 8",
+        "",
+        "Tzimisce \"Koldun\" - Bound to the Earth",
+        "",
+        "",
+        "",
+        "",
+        "Mentor / Herd",
+        "",
+        "1.0",
+        "",
+        "Retainer 1 ="
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "",
+        "",
+        "",
+        "Haven",
+        "1.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Elite\""
+      ],
+      [
+        "",
+        "Physical",
+        "3.0",
+        "Stamina - No Wound Pen / Can't be Knocked out/down unless less Ptraits",
+        "",
+        "",
+        "",
+        "",
+        "Influence \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "5.0",
+        "Manipulation - +3 Social on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "Mental",
+        "7.0",
+        "Intelligence - +3 Mental on Non Power uses dealing with focus.",
+        "",
+        "",
+        "",
+        "",
+        "Retainers",
+        "1.0"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "AWARDED BY",
+        "",
+        "",
+        "Ritae"
+      ],
+      [
+        "",
+        "Initiated (Sabbat)",
+        "",
+        "Devout (Fleeting)",
+        "",
+        "Bishop Cicatrix",
+        "",
+        "",
+        "Other"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Battle-Scarred (Fleeting)",
+        "",
+        "Bishop Cicatrix",
+        "",
+        "",
+        "MERITS & FLAWS",
+        "",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Loyal (Fleeting)",
+        "",
+        "Archbishop Vincent",
+        "",
+        "",
+        "Bloodline: Koldun -4",
+        "",
+        "",
+        "",
+        "Animalism",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Loremaster -1",
+        "",
+        "",
+        "",
+        "Auspex",
+        "3.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Natural Linguist -1",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Elemental Mastery (C)",
+        "5.0"
+      ],
+      [
+        "",
+        "ABILITES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Path of Death & the Soul -1",
+        "",
+        "",
+        "",
+        "Thaumaturgy: Hands of Destruction (U)",
+        "2.0"
+      ],
+      [
+        "",
+        "Academics",
+        "1.0",
+        "Intimidation",
+        "1.0",
+        "Streetwise"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "1.0",
+        "Investigation",
+        "1.0",
+        "Subterfuge",
+        "",
+        "",
+        "Soul Shard +3"
+      ],
+      [
+        "",
+        "Athletics",
+        "",
+        "Leadership",
+        "",
+        "Survival",
+        "",
+        "",
+        "Archaic +2"
+      ],
+      [
+        "",
+        "Awareness",
+        "2.0",
+        "Linguistics",
+        "3.0",
+        "Performance",
+        "",
+        "",
+        "Ancestral Soil Dependence +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Lore",
+        "3.0",
+        "SECONDARY ABILITIES",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "",
+        "RITUALS, RITAE, & OTHER"
+      ],
+      [
+        "",
+        "Computer",
+        "",
+        "Medicine",
+        "",
+        "",
+        "",
+        "",
+        "Academics: General",
+        "",
+        "",
+        "",
+        "Ritual of Hospitality"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Melee",
+        "",
+        "",
+        "",
+        "",
+        "Lore: Blood Magic, Sabbat,",
+        "",
+        "",
+        "",
+        "Ritual of Enlightenment"
+      ],
+      [
+        "",
+        "Dodge",
+        "2.0",
+        "Occult",
+        "4.0",
+        "",
+        "",
+        "",
+        "Spirit Realms, Tremere,"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Science",
+        "1.0",
+        "",
+        "",
+        "",
+        "Demonology, Evil Cults"
+      ],
+      [
+        "",
+        "Empathy",
+        "",
+        "Security",
+        "",
+        "",
+        "",
+        "",
+        "English, Magyar, Latin, Greek"
+      ],
+      [
+        "",
+        "Firearms",
+        "2.0",
+        "Stealth",
+        "",
+        "",
+        "",
+        "",
+        "Turkish, Arabic"
+      ],
+      [
+        "",
+        "COMMON POOLS"
+      ],
+      [
+        "",
+        "Brawl    3",
+        "",
+        "Dodge    5",
+        "",
+        "Thaumaturgy -Tals   11",
+        "",
+        "",
+        "Science: Physics"
+      ],
+      [
+        "",
+        "Melee    3",
+        "",
+        "Auspex    8",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "",
+        "Guns (No Wits)   5",
+        "",
+        "Animalism    6",
+        "",
+        "Disciplines Pull Down"
+      ],
+      [
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "7/5/3 traits, 3/2/1 backgrounds, 2/1/1 disciplines, 4/3/3/2/2/2/1/1/1/1 abilities, 30pts freebie, 7pts merits max, 7pts flaws max - All Merit/Flaw/Freebies must be on XP Spends Sheet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.5.4"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs (+/-)",
+          "",
+          "",
+          "Starting Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "How much do things cost?",
+          "",
+          "0"
+        ],
+        [
+          "Bloodline: Koldun",
+          "Pre Game",
+          "-4.0"
+        ],
+        [
+          "Loremaster",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "Total XP Earned"
+        ],
+        [
+          "Natural Linguist",
+          "Pre Game",
+          "-1.0",
+          "",
+          "",
+          "56"
+        ],
+        [
+          "Path of Death and the Soul",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "Soul Shard",
+          "Pre Game",
+          "3.0",
+          "",
+          "",
+          "Total Games Played"
+        ],
+        [
+          "Ancestral Soil Dependence",
+          "Pre Game",
+          "2.0",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Archaic",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Herd 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "6 Game XP Earned"
+        ],
+        [
+          "Retainers 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "1.666666667"
+        ],
+        [
+          "Elemental Mastery 3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Hands of Destruction 1- 2",
+          "Pre Game",
+          "-9.0",
+          "",
+          "",
+          "Current XP Spent"
+        ],
+        [
+          "Streetwise 1",
+          "Pre Game",
+          "-2.0",
+          "",
+          "",
+          "46"
+        ],
+        [
+          "moved to bank at character start by theo",
+          "Pre Game",
+          "-6.0"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "Current XP"
+        ],
+        [
+          "",
+          "Pre Game",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        ],
+        [
+          "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "Date",
+          "Bonus Downtimes",
+          "Only Postive Numbers"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Earned",
+          "Spent"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-06-18 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-07-16 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Starting Game left over xp",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Ritual of Hospitality",
+          "2016-08-16 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-08-20 00:00:00",
+          "",
+          "3.0"
+        ],
+        [
+          "Ritual of Enlightenment",
+          "2016-09-15 00:00:00",
+          "",
+          "",
+          "2.0"
+        ],
+        [
+          "Elemental Master level 4",
+          "2016-09-15 00:00:00",
+          "",
+          "",
+          "12.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-10-29 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2016-12-10 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-01-21 00:00:00",
+          "",
+          "4.0"
+        ],
+        [
+          "Convention Game",
+          "2017-02-20 00:00:00",
+          "3.0",
+          "6.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-03-18 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "6 Game Bonus XP",
+          "",
+          "",
+          "6.0"
+        ],
+        [
+          "Elemental Mastery 5",
+          "2017-04-19 00:00:00",
+          "",
+          "",
+          "15.0"
+        ],
+        [
+          "Auspex 2 & 3",
+          "2017-04-19 00:00:00",
+          "",
+          "",
+          "15.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-04-22 00:00:00",
+          "",
+          "5.0"
+        ],
+        [
+          "Earned XP in Game",
+          "2017-05-20 00:00:00",
+          "",
+          "4.0"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "column_4": "How much do things cost?",
+          "starting_total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Bloodline: Koldun",
+          "date": "Pre Game",
+          "all_costs": -4
+        },
+        {
+          "what_was_bought": "Loremaster",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": "Total XP Earned"
+        },
+        {
+          "what_was_bought": "Natural Linguist",
+          "date": "Pre Game",
+          "all_costs": -1,
+          "starting_total_xp_left": 56
+        },
+        {
+          "what_was_bought": "Path of Death and the Soul",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "what_was_bought": "Soul Shard",
+          "date": "Pre Game",
+          "all_costs": 3,
+          "starting_total_xp_left": "Total Games Played"
+        },
+        {
+          "what_was_bought": "Ancestral Soil Dependence",
+          "date": "Pre Game",
+          "all_costs": 2,
+          "starting_total_xp_left": 10
+        },
+        {
+          "what_was_bought": "Archaic",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Herd 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": "6 Game XP Earned"
+        },
+        {
+          "what_was_bought": "Retainers 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 1.666666667
+        },
+        {
+          "what_was_bought": "Elemental Mastery 3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Hands of Destruction 1- 2",
+          "date": "Pre Game",
+          "all_costs": -9,
+          "starting_total_xp_left": "Current XP Spent"
+        },
+        {
+          "what_was_bought": "Streetwise 1",
+          "date": "Pre Game",
+          "all_costs": -2,
+          "starting_total_xp_left": 46
+        },
+        {
+          "what_was_bought": "moved to bank at character start by theo",
+          "date": "Pre Game",
+          "all_costs": -6
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": "Current XP"
+        },
+        {
+          "date": "Pre Game",
+          "starting_total_xp_left": 10
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "If you need to add more cells for character creation. Go to row 18 and add from there to make sure none of the forumulas break."
+        },
+        {
+          "what_was_bought": "* Earned XP in Game / Convention Game / 6 Game Bonus XP / What Was Bought *",
+          "date": "Date",
+          "all_costs": "Bonus Downtimes",
+          "column_4": "Only Postive Numbers"
+        },
+        {
+          "column_4": "Earned",
+          "column_5": "Spent"
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-06-18 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-07-16 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Starting Game left over xp",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Ritual of Hospitality",
+          "date": "2016-08-16 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-08-20 00:00:00",
+          "column_4": 3
+        },
+        {
+          "what_was_bought": "Ritual of Enlightenment",
+          "date": "2016-09-15 00:00:00",
+          "column_5": 2
+        },
+        {
+          "what_was_bought": "Elemental Master level 4",
+          "date": "2016-09-15 00:00:00",
+          "column_5": 12
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-10-29 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2016-12-10 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-01-21 00:00:00",
+          "column_4": 4
+        },
+        {
+          "what_was_bought": "Convention Game",
+          "date": "2017-02-20 00:00:00",
+          "all_costs": 3,
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-03-18 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "6 Game Bonus XP",
+          "column_4": 6
+        },
+        {
+          "what_was_bought": "Elemental Mastery 5",
+          "date": "2017-04-19 00:00:00",
+          "column_5": 15
+        },
+        {
+          "what_was_bought": "Auspex 2 & 3",
+          "date": "2017-04-19 00:00:00",
+          "column_5": 15
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-04-22 00:00:00",
+          "column_4": 5
+        },
+        {
+          "what_was_bought": "Earned XP in Game",
+          "date": "2017-05-20 00:00:00",
+          "column_4": 4
+        }
+      ]
+    },
+    "Expanded Backgrounds": {
+      "rows": [
+        [
+          "",
+          "BACKGROUNDS",
+          "",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 1"
+        ],
+        [
+          "",
+          "Generation",
+          "3",
+          "",
+          "3",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Allies",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Alternate Identity",
+          "0",
+          "",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Contacts / Fame",
+          "0",
+          "0",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Mentor / Herd",
+          "0",
+          "1",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Haven",
+          "1",
+          "0",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Influence \"Elite\"",
+          "0",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Influence \"Underworld\"",
+          "0",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Resources",
+          "2",
+          "",
+          "",
+          "BACKGROUND EXPANTIONS 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 2"
+        ],
+        [
+          "",
+          "Retainers",
+          "1",
+          "0",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Ritae",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "Other",
+          "0",
+          "0",
+          "",
+          "Specializations",
+          "",
+          "",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "HAVEN",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Location",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 1",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 3"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "MENTOR",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "Name:",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "Bonus 1",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "Bonus 2",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "Bonus 3",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "Bonus 4",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ],
+        [
+          "",
+          "Bonus 5",
+          "",
+          "",
+          "",
+          "GROUP BACKGROUND 2",
+          "",
+          "",
+          "",
+          "",
+          "BACKGROUND NPC 4"
+        ],
+        [
+          "",
+          "NOTES",
+          "",
+          "",
+          "",
+          "Type of Background",
+          "",
+          "",
+          "",
+          "",
+          "Type of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of NPC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name of People Involved",
+          "Level Bought",
+          "Benefit Given",
+          "",
+          "",
+          "NPC Level"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 2"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 4"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "5.0",
+          "",
+          "",
+          "",
+          "",
+          "Specializations 5"
+        ]
+      ],
+      "records": [
+        {
+          "backgrounds": "Generation",
+          "column_3": 3,
+          "column_5": 3,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Allies",
+          "column_3": 0,
+          "column_4": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Alternate Identity",
+          "column_3": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Contacts / Fame",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Mentor / Herd",
+          "column_3": 0,
+          "column_4": 1,
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Haven",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Influence \"Elite\"",
+          "column_3": 0,
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Influence \"Underworld\"",
+          "column_3": 0,
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Resources",
+          "column_3": 2,
+          "background_expantions_1": "BACKGROUND EXPANTIONS 2",
+          "background_npc_1": "BACKGROUND NPC 2"
+        },
+        {
+          "backgrounds": "Retainers",
+          "column_3": 1,
+          "column_4": 0,
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Ritae",
+          "column_3": 0,
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "Other",
+          "column_3": 0,
+          "column_4": 0,
+          "background_expantions_1": "Specializations",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "HAVEN",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Location",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": "GROUP BACKGROUND 1",
+          "background_npc_1": "BACKGROUND NPC 3"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "backgrounds": "MENTOR",
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "backgrounds": "Name:",
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "backgrounds": "Bonus 1",
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "backgrounds": "Bonus 2",
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "backgrounds": "Bonus 3",
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "backgrounds": "Bonus 4",
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        },
+        {
+          "backgrounds": "Bonus 5",
+          "background_expantions_1": "GROUP BACKGROUND 2",
+          "background_npc_1": "BACKGROUND NPC 4"
+        },
+        {
+          "backgrounds": "NOTES",
+          "background_expantions_1": "Type of Background",
+          "background_npc_1": "Type of NPC"
+        },
+        {
+          "background_npc_1": "Name of NPC"
+        },
+        {
+          "background_expantions_1": "Name of People Involved",
+          "column_7": "Level Bought",
+          "column_8": "Benefit Given",
+          "background_npc_1": "NPC Level"
+        },
+        {
+          "background_expantions_1": 1,
+          "background_npc_1": "Specializations 1"
+        },
+        {
+          "background_expantions_1": 2,
+          "background_npc_1": "Specializations 2"
+        },
+        {
+          "background_expantions_1": 3,
+          "background_npc_1": "Specializations 3"
+        },
+        {
+          "background_expantions_1": 4,
+          "background_npc_1": "Specializations 4"
+        },
+        {
+          "background_expantions_1": 5,
+          "background_npc_1": "Specializations 5"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated Concept",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Created By:"
+        ],
+        [],
+        [
+          "Staff Generated History"
+        ],
+        [],
+        [
+          "Sire:",
+          "",
+          "Reference: (If any)",
+          "",
+          "",
+          "Clan",
+          "Tzimisce \"Koldun\" - Bound to the Earth"
+        ],
+        [
+          "Embrace Date:",
+          "",
+          "Embrace Location:",
+          "",
+          "",
+          "Generation",
+          "Pretender Elder 8"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "Player Amended History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_concept": "Staff Generated History"
+        },
+        {
+          "staff_generated_concept": "Sire:",
+          "column_3": "Reference: (If any)",
+          "column_6": "Clan",
+          "column_7": "Tzimisce \"Koldun\" - Bound to the Earth"
+        },
+        {
+          "staff_generated_concept": "Embrace Date:",
+          "column_3": "Embrace Location:",
+          "column_6": "Generation",
+          "column_7": "Pretender Elder 8"
+        },
+        {
+          "staff_generated_concept": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_concept": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_concept": "Player Amended History",
+          "column_3": "Date Submited"
+        }
+      ]
+    },
+    "Blood Bonds  Valudrie": {
+      "rows": [
+        [
+          "Valudrie / Blood Bond"
+        ],
+        [
+          "Date:",
+          "Name",
+          "Pack Name",
+          "Current Level"
+        ],
+        [
+          "",
+          "Robert Graves",
+          "Spear of Enoch",
+          "2V: Allies ~ 1 WP to kill (Must Vaulderie once in the last year)"
+        ],
+        [
+          "",
+          "Laurent Casis",
+          "Packless",
+          "2V: Allies ~ 1 WP to kill (Must Vaulderie once in the last year)"
+        ],
+        [
+          "",
+          "",
+          "Spear of Enoch",
+          "1V: Sect Mate ~ You feel a kinship but have no limations (If you have ever done a Vaulderie with this person)"
+        ]
+      ],
+      "records": [
+        {
+          "name": "Robert Graves",
+          "pack_name": "Spear of Enoch",
+          "current_level": "2V: Allies ~ 1 WP to kill (Must Vaulderie once in the last year)"
+        },
+        {
+          "name": "Laurent Casis",
+          "pack_name": "Packless",
+          "current_level": "2V: Allies ~ 1 WP to kill (Must Vaulderie once in the last year)"
+        },
+        {
+          "pack_name": "Spear of Enoch",
+          "current_level": "1V: Sect Mate ~ You feel a kinship but have no limations (If you have ever done a Vaulderie with this person)"
+        }
+      ]
+    },
+    "Personal Plot  Objects": {
+      "rows": [
+        [
+          "Personal Plot / Objects",
+          "Date",
+          "ST For the Plot"
+        ],
+        [
+          "(( Information about casino ephemeral being to be given before game ))",
+          "1.19.17",
+          "KK/Theo"
+        ]
+      ],
+      "records": [
+        {
+          "personal_plot_objects": "(( Information about casino ephemeral being to be given before game ))",
+          "date": "1.19.17",
+          "st_for_the_plot": "KK/Theo"
+        }
+      ]
+    },
+    "Downtimes": {
+      "rows": [
+        [
+          "Genaral Towntimes",
+          "3.0",
+          "Influnce Downtimes",
+          "2",
+          "Computer Downtimes",
+          "0",
+          "Science Downtimes",
+          "1"
+        ],
+        [],
+        [
+          "Timestamp",
+          "Score",
+          "What is your Character's name?",
+          "What clan (or supernatural) does your character belong?",
+          "What is the player's name or your (facebook name if it is different)?",
+          "Hunting Actions",
+          "Hunting Modifications",
+          "Investigation / Patrol Actions",
+          "Purpose of Investigation / Patrol",
+          "Blood Magic Research",
+          "Elite Influnce Actions",
+          "Underworld Influence Actions",
+          "I have merits or flaws that affect my influences actions",
+          "Science Downtime Actions",
+          "Computer Downtimes Actions",
+          "Is there an NPC you wish to contact?",
+          "Do you still need to do this NPC interaction?",
+          "Staff Mandated Actions",
+          "Do you still need to do this Staff Mandated Action?",
+          "I would like to buy this with my Experience",
+          "How much xp am I spending?",
+          "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        ],
+        [
+          "2017-01-14 09:38:34.681000",
+          "",
+          "Zadanko  (packless)",
+          "Tzimisce \"Koldun\"",
+          "Bernard",
+          "Herd (of my own) (no downtimes)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Reserch Epemral being i saw at the casino Theo knows the one.  X3"
+        ]
+      ],
+      "records": [
+        {
+          "0": "Hunting Actions",
+          "1": "Investigation / Patrol Actions",
+          "2": "What clan (or supernatural) does your character belong?",
+          "genaral_towntimes": "Timestamp",
+          "3_0": "Score",
+          "influnce_downtimes": "What is your Character's name?",
+          "computer_downtimes": "What is the player's name or your (facebook name if it is different)?",
+          "science_downtimes": "Hunting Modifications",
+          "column_9": "Purpose of Investigation / Patrol",
+          "column_10": "Blood Magic Research",
+          "column_11": "Elite Influnce Actions",
+          "column_12": "Underworld Influence Actions",
+          "column_13": "I have merits or flaws that affect my influences actions",
+          "column_14": "Science Downtime Actions",
+          "column_15": "Computer Downtimes Actions",
+          "column_16": "Is there an NPC you wish to contact?",
+          "column_17": "Do you still need to do this NPC interaction?",
+          "column_18": "Staff Mandated Actions",
+          "column_19": "Do you still need to do this Staff Mandated Action?",
+          "column_20": "I would like to buy this with my Experience",
+          "column_21": "How much xp am I spending?",
+          "column_22": "If it is an out of clan discipline or a secondary skill who is the teacher?"
+        },
+        {
+          "0": "Herd (of my own) (no downtimes)",
+          "2": "Tzimisce \"Koldun\"",
+          "genaral_towntimes": "2017-01-14 09:38:34.681000",
+          "influnce_downtimes": "Zadanko  (packless)",
+          "computer_downtimes": "Bernard",
+          "column_12": "Reserch Epemral being i saw at the casino Theo knows the one.  X3"
+        }
+      ]
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}

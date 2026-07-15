@@ -1,0 +1,893 @@
+{
+  "source": {
+    "title": "Indigo-Malkavian-Reclaimed-Door",
+    "fileName": "Indigo-Malkavian-Reclaimed-Door.xlsx",
+    "localPath": "source-sheets\\Z-Door-Characters\\Characters\\Malkavian\\Indigo-Malkavian-Reclaimed-Door.xlsx"
+  },
+  "folderPath": [
+    "Z Door Characters",
+    "Characters",
+    "Malkavian"
+  ],
+  "coreSheet": "Print Sheet",
+  "character": {
+    "chronicle": "MINDS EYE THEATER ~ PILLARS OF SALT",
+    "characterName": "Indigo",
+    "playerName": "",
+    "gmailAccount": "",
+    "clanCoordinator": "Camarilla ~ SD",
+    "archetype": "Free Spirit",
+    "title": "",
+    "characterStartDate": "",
+    "generationLabel": "Neonate 11",
+    "clan": "Malkavians"
+  },
+  "attributes": {
+    "physcial": 5,
+    "social": 10,
+    "mental": 9
+  },
+  "backgrounds": {
+    "generation": 1,
+    "allies": 1,
+    "haven": 3,
+    "resources": 2
+  },
+  "currentPools": {},
+  "abilities": {
+    "academics": 3,
+    "empathy": 2,
+    "occult": 4,
+    "animal_ken": 2,
+    "security": 1,
+    "stealth": 3,
+    "leadership": 1,
+    "computer": 1,
+    "survival": 2,
+    "medicine": 1,
+    "starting_xp": 0,
+    "unspent_xp": 0,
+    "spent_xp": 0
+  },
+  "status": [
+    "Acknowlaged"
+  ],
+  "meritsAndFlaws": [],
+  "disciplines": [
+    {
+      "name": "2.0",
+      "value": null
+    },
+    {
+      "name": "1.0",
+      "value": null
+    },
+    {
+      "name": "1.0",
+      "value": null
+    }
+  ],
+  "ritualsRitaeOther": [],
+  "abilitySpecializations": [
+    "Academics: Farming",
+    "Animal Care, Astrology"
+  ],
+  "rawSheets": {
+    "Print Sheet": [
+      [
+        "",
+        "MINDS EYE THEATER ~ PILLARS OF SALT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BACKGROUNDS",
+        "",
+        "",
+        "CURRENT POOLS"
+      ],
+      [
+        "",
+        "Indigo",
+        "",
+        "",
+        "",
+        "Camarilla ~ SD",
+        "",
+        "",
+        "Generation",
+        "1.0",
+        "",
+        "Current Willpower",
+        "6.0"
+      ],
+      [
+        "",
+        "Character Name",
+        "",
+        "Player Name",
+        "",
+        "Chronicle",
+        "",
+        "",
+        "Allies",
+        "1.0",
+        "",
+        "Current Blood Points * Per Turn",
+        "10*1"
+      ],
+      [
+        "",
+        "Free Spirit",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alternitive Identity",
+        "",
+        "",
+        "Current Humanity",
+        "5.0"
+      ],
+      [
+        "",
+        "Archtype",
+        "",
+        "Title",
+        "",
+        "Character Start Date",
+        "",
+        "",
+        "Contacts",
+        "",
+        "",
+        "BACKGROUND NOTES"
+      ],
+      [
+        "",
+        "Neonate 11",
+        "",
+        "Malkavians",
+        "",
+        "Permanent Derangement",
+        "",
+        "",
+        "Fame",
+        "",
+        "",
+        "Derangement : \"Toxins\" the fear of imaginary impurities causing issues.  Allies, Farmhands, Haven Huge Farm, (Large, Secure, Guards)"
+      ],
+      [
+        "",
+        "Generation",
+        "",
+        "Clan",
+        "",
+        "Clan Flaw",
+        "",
+        "",
+        "Haven",
+        "3.0"
+      ],
+      [
+        "",
+        "ATTRIBUTES",
+        "",
+        "",
+        "",
+        "CLAN STATUS",
+        "",
+        "",
+        "Herd"
+      ],
+      [
+        "",
+        "",
+        "#",
+        "Focus",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Elite\""
+      ],
+      [
+        "",
+        "Physcial",
+        "5.0",
+        "Stamina",
+        "",
+        "",
+        "",
+        "",
+        "Influnce \"Underworld\""
+      ],
+      [
+        "",
+        "Social",
+        "10.0",
+        "Charisma",
+        "",
+        "",
+        "",
+        "",
+        "Resources",
+        "2.0"
+      ],
+      [
+        "",
+        "Mental",
+        "9.0",
+        "Perception",
+        "",
+        "",
+        "",
+        "",
+        "Retainers"
+      ],
+      [
+        "",
+        "STATUS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MERIT & FLAWS",
+        "",
+        "",
+        "DISCIPLINES"
+      ],
+      [
+        "",
+        "Acknowlaged",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sympathetic Bond -5",
+        "",
+        "",
+        "Auspex",
+        "2.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Oracular Ability -2",
+        "",
+        "",
+        "Obfuscate",
+        "1.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dementation",
+        "1.0"
+      ],
+      [
+        "",
+        "ABILITES"
+      ],
+      [
+        "",
+        "Academics",
+        "3.0",
+        "Empathy",
+        "2.0",
+        "Occult",
+        "4.0"
+      ],
+      [
+        "",
+        "Animal Ken",
+        "2.0",
+        "Firearms",
+        "",
+        "Science"
+      ],
+      [
+        "",
+        "Atheltics",
+        "",
+        "Intimidation",
+        "",
+        "Security",
+        "1.0"
+      ],
+      [
+        "",
+        "Awareness",
+        "",
+        "Investigation",
+        "",
+        "Stealth",
+        "3.0",
+        "",
+        "Curiousity +2"
+      ],
+      [
+        "",
+        "Brawl",
+        "",
+        "Leadership",
+        "1.0",
+        "Streetwise",
+        "",
+        "",
+        "Infectious +3"
+      ],
+      [
+        "",
+        "Computer",
+        "1.0",
+        "Linguistics",
+        "",
+        "Subterfuge",
+        "",
+        "",
+        "ABILITES FOCUS",
+        "",
+        "",
+        "RITUALS & OTHER POWERS"
+      ],
+      [
+        "",
+        "Crafts",
+        "",
+        "Lore",
+        "",
+        "Survival",
+        "2.0",
+        "",
+        "Academics: Farming"
+      ],
+      [
+        "",
+        "Dodge",
+        "",
+        "Medicine",
+        "1.0",
+        "Performance",
+        "",
+        "",
+        "Animal Care, Astrology"
+      ],
+      [
+        "",
+        "Drive",
+        "",
+        "Melee"
+      ],
+      [],
+      [],
+      [
+        "",
+        "EXPERIENCE"
+      ],
+      [
+        "",
+        "Starting XP",
+        "0",
+        "",
+        "",
+        "Unspent XP",
+        "0"
+      ],
+      [
+        "",
+        "Spent XP",
+        "0",
+        "",
+        "",
+        "Merit Points Spent"
+      ]
+    ],
+    "XP Spends": {
+      "rows": [
+        [
+          "What was bought?",
+          "Date",
+          "All Costs",
+          "Earned",
+          "Spent",
+          "Total XP Left"
+        ],
+        [
+          "Starting XP (30) Point Character",
+          "Pre Game",
+          "30",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Flaw: Infectious +3 (Any moral you feed from gets tep deg)",
+          "Pre Game",
+          "3.0"
+        ],
+        [
+          "Merit: Sympathetic Bond -5 (anyone who blood bonds you is bound)",
+          "Pre Game",
+          "-5.0"
+        ],
+        [
+          "Mental: x6",
+          "Pre Game",
+          "-18.0"
+        ],
+        [
+          "Social x3",
+          "Pre Game",
+          "-9.0"
+        ],
+        [
+          "Merit: Oracular Ability -2",
+          "Pre Game",
+          "-2.0"
+        ],
+        [
+          "Flaw: Curiousity +2",
+          "Pre Game",
+          "2.0"
+        ],
+        [
+          "Background Allies 1",
+          "Pre Game",
+          "-1.0"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [
+          "",
+          "Pre Game"
+        ],
+        [],
+        [],
+        [],
+        [
+          "Game Earned XP"
+        ]
+      ],
+      "records": [
+        {
+          "what_was_bought": "Starting XP (30) Point Character",
+          "date": "Pre Game",
+          "all_costs": 30,
+          "total_xp_left": 0
+        },
+        {
+          "what_was_bought": "Flaw: Infectious +3 (Any moral you feed from gets tep deg)",
+          "date": "Pre Game",
+          "all_costs": 3
+        },
+        {
+          "what_was_bought": "Merit: Sympathetic Bond -5 (anyone who blood bonds you is bound)",
+          "date": "Pre Game",
+          "all_costs": -5
+        },
+        {
+          "what_was_bought": "Mental: x6",
+          "date": "Pre Game",
+          "all_costs": -18
+        },
+        {
+          "what_was_bought": "Social x3",
+          "date": "Pre Game",
+          "all_costs": -9
+        },
+        {
+          "what_was_bought": "Merit: Oracular Ability -2",
+          "date": "Pre Game",
+          "all_costs": -2
+        },
+        {
+          "what_was_bought": "Flaw: Curiousity +2",
+          "date": "Pre Game",
+          "all_costs": 2
+        },
+        {
+          "what_was_bought": "Background Allies 1",
+          "date": "Pre Game",
+          "all_costs": -1
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "date": "Pre Game"
+        },
+        {
+          "what_was_bought": "Game Earned XP"
+        }
+      ]
+    },
+    "History": {
+      "rows": [
+        [
+          "Staff Generated History",
+          "",
+          "Created By:",
+          "Patric Thomas"
+        ],
+        [
+          "Your parents wanted you to go to Berkley to get a top-notch education, which you did. You wanted to go to Berkley to get out from under their thumb. The straight-laced home of your hopelessly square parents had nothing on the air and excitement at UC back in those days, and you took to spirit of rebellion with gusto. You enrolled in philosophy classes, read Nietzsch and Marx, and came out against the war in Vietnam. After a class decrying the ethics of government chemical usage and waste, you rejected eating anything commercially grown too, drawn instead to the organic, healthy movement that was soon becoming the craze of the time. Down with the tyranny of the man and his chemically altered food! You wanted to live a simple life, one that got back to nature and to the way that things used to be before capitalism ruined it all. Much to your parents' horror, you took up organic farming, quitting school to build up your own business just outside of town, supplementing it all with some astrology work on the side, just to make ends meet.. And, perhaps, in the spirit of things, you may have tried a few other things too, chemical things you didn't tell your parents about, but hey, it was all part of building up your community of other likeminded people into your project! Unfortunately, at one of these parties, you discovered one drug that you couldn't quite shake off...vampire blood. It belonged to a man who thought your idea had a lot of merit, and was interested in helping out if you were interested in aiding him. He'd supply you with more of his blood, as a favor of course. Considering how awesome it made you feel and what you could do with it, you agreed. For thirty years you remained ghouled to him, aiding him in whatever random, quirky things he had you do, while you built your organic farm into a small, marginally profitable business and continued to do your astrology. But the times came and went. Your hippy friends all grew older, while you didn't quite seem to get as old. The stars were telling you change was in the wind for all of you. One day, your vampire friend came to your farm, saying he had to hide out. He told you that the vampires he was associated with had fallen, these strange Asian ones had taken their place. He was hiding, for now, but they needed help. He Embraced you, sending your south to see who could send help to San Francisco with their Cathayan war. Unfortunately, most of the cities you found were already overrun, or were so caught up in their own politics, they just didnt care. But, Los Angeles has recently been claimed under Camarilla law. You don't know much on this Camarilla, but you know enough that you know it was where your sire once belonged. As much as you hate war, you know the stars aren't aligned with this one, not at all, and your hope is that maybe, just maybe, someone in the south can send help up north."
+        ],
+        [
+          "Sire:",
+          "Harry Meade",
+          "Embrace Date:",
+          "",
+          "Embrace Location:",
+          "Berkley, CA"
+        ],
+        [],
+        [
+          "Who You Know",
+          "Your relationship to these people is described. This may mean they do not know you."
+        ],
+        [
+          "Alice Basingtoke: You know of her. She's some clan elder who is the contact person others put you in touch with. Someone told you she speaks to dead people."
+        ],
+        [
+          "Wade \"Trip\" Carlson: You've heard his name bandied around. He's a guy you've heard of with animals, and to your surprise, he's a vampire too, a Gangrel."
+        ],
+        [
+          "Cody West: So, your sire knew this guy, who knew this guy, who knew of this Cody West. And he's said he's into peace and is cool and groovy. Which is odd, as he's an Assamite."
+        ],
+        [],
+        [
+          "Starting Goals",
+          "These are recomendations, not mandates."
+        ],
+        [
+          "You want to get people to help your sire and San Francisco out. Approach the court to make a plea for the city and to gain support amongst the primogen."
+        ],
+        [
+          "You don't know much about this Camarilla thing, only a little. Find someone who can teach you the culture (Lore: Camarilla or Camarilla Law)."
+        ],
+        [
+          "You have a degree in Philosophy. Start using it. Begin a coterie of vampires interested in these deep issue to discuss in Elysium or even to serve as a \"think tank\" on larger problems."
+        ],
+        [],
+        [
+          "Player Submited History",
+          "",
+          "Date Submited"
+        ]
+      ],
+      "records": [
+        {
+          "staff_generated_history": "Your parents wanted you to go to Berkley to get a top-notch education, which you did. You wanted to go to Berkley to get out from under their thumb. The straight-laced home of your hopelessly square parents had nothing on the air and excitement at UC back in those days, and you took to spirit of rebellion with gusto. You enrolled in philosophy classes, read Nietzsch and Marx, and came out against the war in Vietnam. After a class decrying the ethics of government chemical usage and waste, you rejected eating anything commercially grown too, drawn instead to the organic, healthy movement that was soon becoming the craze of the time. Down with the tyranny of the man and his chemically altered food! You wanted to live a simple life, one that got back to nature and to the way that things used to be before capitalism ruined it all. Much to your parents' horror, you took up organic farming, quitting school to build up your own business just outside of town, supplementing it all with some astrology work on the side, just to make ends meet.. And, perhaps, in the spirit of things, you may have tried a few other things too, chemical things you didn't tell your parents about, but hey, it was all part of building up your community of other likeminded people into your project! Unfortunately, at one of these parties, you discovered one drug that you couldn't quite shake off...vampire blood. It belonged to a man who thought your idea had a lot of merit, and was interested in helping out if you were interested in aiding him. He'd supply you with more of his blood, as a favor of course. Considering how awesome it made you feel and what you could do with it, you agreed. For thirty years you remained ghouled to him, aiding him in whatever random, quirky things he had you do, while you built your organic farm into a small, marginally profitable business and continued to do your astrology. But the times came and went. Your hippy friends all grew older, while you didn't quite seem to get as old. The stars were telling you change was in the wind for all of you. One day, your vampire friend came to your farm, saying he had to hide out. He told you that the vampires he was associated with had fallen, these strange Asian ones had taken their place. He was hiding, for now, but they needed help. He Embraced you, sending your south to see who could send help to San Francisco with their Cathayan war. Unfortunately, most of the cities you found were already overrun, or were so caught up in their own politics, they just didnt care. But, Los Angeles has recently been claimed under Camarilla law. You don't know much on this Camarilla, but you know enough that you know it was where your sire once belonged. As much as you hate war, you know the stars aren't aligned with this one, not at all, and your hope is that maybe, just maybe, someone in the south can send help up north."
+        },
+        {
+          "staff_generated_history": "Sire:",
+          "column_2": "Harry Meade",
+          "created_by": "Embrace Date:",
+          "column_5": "Embrace Location:",
+          "column_6": "Berkley, CA"
+        },
+        {
+          "staff_generated_history": "Who You Know",
+          "column_2": "Your relationship to these people is described. This may mean they do not know you."
+        },
+        {
+          "staff_generated_history": "Alice Basingtoke: You know of her. She's some clan elder who is the contact person others put you in touch with. Someone told you she speaks to dead people."
+        },
+        {
+          "staff_generated_history": "Wade \"Trip\" Carlson: You've heard his name bandied around. He's a guy you've heard of with animals, and to your surprise, he's a vampire too, a Gangrel."
+        },
+        {
+          "staff_generated_history": "Cody West: So, your sire knew this guy, who knew this guy, who knew of this Cody West. And he's said he's into peace and is cool and groovy. Which is odd, as he's an Assamite."
+        },
+        {
+          "staff_generated_history": "Starting Goals",
+          "column_2": "These are recomendations, not mandates."
+        },
+        {
+          "staff_generated_history": "You want to get people to help your sire and San Francisco out. Approach the court to make a plea for the city and to gain support amongst the primogen."
+        },
+        {
+          "staff_generated_history": "You don't know much about this Camarilla thing, only a little. Find someone who can teach you the culture (Lore: Camarilla or Camarilla Law)."
+        },
+        {
+          "staff_generated_history": "You have a degree in Philosophy. Start using it. Begin a coterie of vampires interested in these deep issue to discuss in Elysium or even to serve as a \"think tank\" on larger problems."
+        },
+        {
+          "staff_generated_history": "Player Submited History",
+          "created_by": "Date Submited"
+        }
+      ]
+    },
+    "Personal Plot  Notes": {
+      "rows": [
+        [
+          "Personal Plot",
+          "Date",
+          "ST For the Plot"
+        ]
+      ],
+      "records": []
+    },
+    "Submissions": {
+      "rows": [
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ],
+        [],
+        [
+          "Method:",
+          "",
+          "Date:"
+        ]
+      ],
+      "records": [
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        },
+        {
+          "method": "Method:",
+          "date": "Date:"
+        }
+      ]
+    }
+  }
+}
