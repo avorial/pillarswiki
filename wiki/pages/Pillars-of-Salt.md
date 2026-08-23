@@ -10,7 +10,10 @@ tags:
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - "[[Timeline]]"
+  - "[[Sources]]"
+  - "[[Durriken's Vision Paintings]]"
 aliases: []
 lastEditedBy: "Codex import from pillarswiki"
 ---
@@ -38,6 +41,7 @@ A pre-V5 citybook timeline and manuscript source.
 
 - [[Timeline]]
 - [[Sources]]
+- [[Durriken's Vision Paintings]] - gallery of Durriken's prophetic paintings
 
 ## Factions
 

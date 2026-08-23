@@ -9,7 +9,8 @@ tags:
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - "[[Durriken's Vision Paintings]]"
 aliases: []
 cover: "Durriken.png"
 parent: Malkavian
@@ -23,6 +24,7 @@ lastEditedBy: "Codex import from pillarswiki"
 
 Gehenna prophet, visionary painter, and Master Harpy of Los Angeles
 
+- Gallery: [[Durriken's Vision Paintings]]
 - Clan / sphere: Malkavian
 - Haven: Durriken maintains a haven suited to occult study, equipped with a library focused on demonology and Malkavian lore. It is also a studio, crowded with half-finished canvases, symbolic maps, automatic writings, and paintings that seem incoherent until later events make them impossible to forget.
 - Influence: Durriken's influence is chiefly social, prophetic, and interpretive rather than mortal. As Master Harpy, he shapes court reputation with unnerving precision. Through his paintings and carefully chosen remarks, he leads the court toward recognition of the hidden Jyhad beneath Los Angeles. Among Malkavians, his visions and growing connection to the Madness Network may carry increasing authority.

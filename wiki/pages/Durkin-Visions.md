@@ -1,8 +1,8 @@
 ---
 category: lore
 type: lore
-name: "Durkin Visions"
-summary: "A gallery of Durkin's apocalyptic symbolic paintings and vision images."
+name: "Durriken's Vision Paintings"
+summary: "A gallery of Durriken's apocalyptic symbolic paintings and vision images."
 tags:
   - "lore"
   - "visions"
@@ -10,17 +10,23 @@ tags:
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - "[[Durriken]]"
+  - "[[Pillars of Salt]]"
 aliases:
+  - "Durkin Visions"
   - "Durriken Visions"
+  - "Durakin's Vision Paintings"
+  - "Durakin's Vision Pantings"
+  - "Vision Paintings"
 parent: Durriken
 lastEditedBy: "Codex"
 ---
-# Durkin Visions
+# Durriken's Vision Paintings
 
 ## Overview
 
-These images are collected as Durkin's visionary artwork: symbolic, apocalyptic, and prophetic visual fragments tied to [[Durriken]] and the patterns he sees moving beneath Los Angeles.
+These images are collected as Durriken's visionary artwork: symbolic, apocalyptic, and prophetic visual fragments tied to [[Durriken]] and the patterns he sees moving beneath Los Angeles.
 
 ## Gallery
 
